@@ -4,7 +4,7 @@ Walking and cycling fitness routes around Forest Park, Portland, OR — for our 
 
 ## Overview
 
-Forest Park is one of the largest urban forests in the United States, offering over 80 miles of trails through 5,200 acres of old-growth forest. This repo documents our favorite walking and cycling routes through and around the park.
+Forest Park is one of the largest urban forests in the United States, offering over 80 miles of trails through 5,200 acres of old-growth forest. This repo documents our favorite walking and cycling routes through and around the park, with details for our running club training sessions.
 
 ## Route Difficulty Guide
 
@@ -47,6 +47,35 @@ Forest Park is one of the largest urban forests in the United States, offering o
 - **Key Points:** Burnside Stairs, Larch Mountain corridor
 - **Best For:** Hill repeat training, building leg strength
 
+### 4. Northwest Service Road Walk (Easy) 🟢
+
+- **Distance:** ~2 miles (from St. Johns Bridge NW Service Road to Faraday Rd)
+- **Elevation Gain:** Minimal
+- **Terrain:** Wide gravel/dirt path, shaded canopy
+- **Description:** A peaceful walk along the Northwest Service Road through the heart of Forest Park. Excellent for birdwatching — listen for owls and songbirds under the old-growth canopy.
+- **Start:** St. Johns Bridge NW Service Road parking area
+- **Best For:** Recovery walks, nature observation, family strolls
+
+### 5. Macleay Park to Forest Park Nature Center (Easy) 🟢
+
+- **Distance:** ~1.5 miles
+- **Elevation Gain:** ~100 ft
+- **Terrain:** Paved path and dirt trail
+- **Description:** A short, family-friendly walk from Macleay Park through the forest to the Forest Park Nature Center. Perfect for a quick stroll with kids or dogs. The Nature Center has exhibits about Forest Park's ecology.
+- **Start:** Macleay Park (NW 29th Ave & NW Upshur St)
+- **Key Points:** Macleay Park meadow, Forest Park Visitor Center, Nature Center exhibits
+- **Best For:** Families with children, dog walkers
+
+### 6. Wildwood Trail Hike (Moderate) 🟡
+
+- **Distance:** ~5.1 miles (loop via NW Skyline Blvd & Newberry Rd)
+- **Elevation Gain:** ~800 ft
+- **Terrain:** Dirt trail, some rocky sections, roots and mud possible
+- **Description:** The Wildwood Trail is Portland's premier trail walking route, winding through old-growth forest. This loop combines the Wildwood Trail with the Lower Macleay Trail for a scenic forest experience.
+- **Start:** Shadowfjord Trailhead (NW 30th Ave & Upshur St) or Lower Macleay Trailhead (NW 29th Ave & NW Upshur St)
+- **Best For:** Trail walking, nature immersion, rainy-day training (on proper footwear)
+- **Notes:** Can be muddy after rain. No water fountains on trail — bring your own.
+
 ---
 
 ## Cycling Routes
@@ -56,20 +85,22 @@ Forest Park is one of the largest urban forests in the United States, offering o
 - **Distance:** ~15 miles
 - **Elevation Gain:** ~800 ft
 - **Terrain:** Gravel fire roads, some single-track
-- **Description:** A circuit through the heart of Forest Park using the fire road network. Routes combine Leif Erikson Drive with fire roads like Newberry Road and Lower Macleay Road. Great for mountain bike training.
+- **Description:** A circuit through the heart of Forest Park using the fire road network. Routes combine Leif Erikson Drive with fire roads like Newberry Road and Lower Macleay Road. Great for mountain bike training and building endurance.
 - **Start:** Lower Macleay parking area
 - **Key Roads:** Leif Erikson Drive, Newberry Road, Lower Macleay Road
 - **Best For:** Mountain biking, gravel cycling, trail endurance
+- **Notes:** Fire roads can be rough — use a hybrid or mountain bike with wider tires
 
 ### 2. Leif Erikson Drive Full Length (Easy-Moderate) 🟢
 
 - **Distance:** ~11 miles (one way)
 - **Elevation Gain:** ~1,100 ft (northward)
 - **Terrain:** Paved, car-free
-- **Description:** The full length of Leif Erikson Drive from Burnside to the park's northern boundary near Gorum Ridge. The road is closed to cars on weekdays, making it ideal for cycling.
+- **Description:** The full length of Leif Erikson Drive from Burnside to the park's northern boundary near Gorum Ridge. The road is closed to cars on weekdays, making it ideal for cycling. On Sundays, the entire road is closed to motor vehicles all day.
 - **Start:** Burnside St / NW 26th Ave
 - **End:** Gorum Ridge area
 - **Best For:** Road cycling, long rides, family rides
+- **Notes:** Car-free Weekdays (dawn to ~10am) and all day Sundays. Popular with runners too — share the road!
 
 ### 3. Downtown-to-Forest Park Connector (Easy) 🟢
 
@@ -79,7 +110,56 @@ Forest Park is one of the largest urban forests in the United States, offering o
 - **Description:** Ride from downtown Portland via the Waterfront Loop and the Steel Bridge bike path, then connect to Forest Park through the Samuel Thomas Greenway. Perfect for combining city and nature riding.
 - **Start:** Tom McCall Waterfront Park, downtown Portland
 - **Route:** Waterfront Loop → Steel Bridge path → NW 26th Ave → Forest Park trail network
-- **Best For:** Commuting riders, mixed-terrain training
+- **Best For:** Commuting riders, mixed-terrain training, group rides starting in downtown
+
+### 4. St. Johns Bridge to Cathedral Park Loop (Easy) 🟢
+
+- **Distance:** ~3.5 miles
+- **Elevation Gain:** ~50 ft
+- **Terrain:** Paved roads with bike lanes
+- **Description:** A scenic ride over the historic St. Johns Bridge, through Cathedral Park, and back along the waterfront. Great views of the Willamette River and the Portland skyline. This is an excellent warm-up route before heading into Forest Park.
+- **Start:** St. Johns Bridge NW Service Road
+- **Best For:** Warm-up rides, scenic waterfront loops, club group rides
+- **Notes:** Use caution on the bridge — there is a narrow pedestrian/bike lane. Best in daylight for bridge views.
+
+### 5. NW Skyline Blvd Loop (Advanced) 🔴
+
+- **Distance:** ~8 miles
+- **Elevation Gain:** ~1,500 ft
+- **Terrain:** Paved road, some steep sections
+- **Description:** A challenging loop that climbs up NW Skyline Blvd from NW Germantown Road, loops through the forest, and returns via Newberry Road. Significant elevation gain — best for strong riders training for hilly events.
+- **Start:** NW Germantown Road & NW Skyline Blvd
+- **Key Roads:** NW Skyline Blvd, Newberry Road
+- **Best For:** Hill repeat training, building climbing strength, race prep
+- **Notes:** Steep climbs — bring water and watch for traffic on Skyline Blvd. Not recommended for beginners.
+
+---
+
+## Running Routes (Bonus)
+
+### 1. Forest Park – Wildwood Trail Run (Moderate) 🟡
+
+- **Distance:** ~5.1 miles (loop)
+- **Elevation Gain:** ~800 ft
+- **Terrain:** Dirt trail, rocky sections
+- **Start:** Lower Macleay Trailhead or Shadowfjord Trailhead
+- **Best For:** Trail running, cross-training, scenic long runs
+
+### 2. Forest Park – Lower Macleay to Pittock Out-and-Back (Easy-Moderate) 🟢
+
+- **Distance:** 3.2 miles out-and-back (6.4 miles total)
+- **Elevation Gain:** ~600 ft
+- **Terrain:** Paved path, gravel trail
+- **Start:** Lower Macleay Trailhead (NW 29th Ave & NW Upshur St)
+- **Best For:** Fast-paced training runs, hill repeats
+
+### 3. St. Johns Bridge Loop (Easy) 🟢
+
+- **Distance:** ~4 miles
+- **Type:** Running / Cycling
+- **Terrain:** Paved roads, bike lane
+- **Start:** St. Johns Bridge NW Service Road parking area
+- **Best For:** Recovery runs, warm-ups
 
 ---
 
@@ -102,6 +182,8 @@ Forest Park is one of the largest urban forests in the United States, offering o
 - **Leash dogs** or maintain voice control
 - **Pack out all trash**
 - **Stay on marked trails** — no cutting switchbacks
+- **Cyclists yield to walkers** on narrow paths
+- **Sunday mornings** (7am–12pm): Leif Erikson Drive is fully car-free — peak club ride time!
 
 ---
 
