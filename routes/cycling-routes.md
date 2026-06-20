@@ -1,122 +1,113 @@
-# 🚴 Cycling Routes — Forest Park, Portland
+# Cycling Routes — Forest Park
 
-Cycling routes around the Forest Park perimeter and surrounding Portland neighborhoods.
-
----
-
-## Route C1: Forest Park Perimeter — Lower Macleay → Saint Johns Bridge Loop
-
-**Difficulty**: 🟡 Moderate  
-**Total Loop Distance**: ~9.9 miles (15,931 m)  
-**Estimated Time**: ~20–25 min riding time (plan for 1.5–2 hrs with stops)  
-**Elevation Gain**: ~500 ft rolling terrain along St. Helens Road  
-**Surface**: Paved roads, bike-friendly shoulders on St. Helens Road
-
-### Overview
-This is the quintessential Forest Park perimeter ride. You'll follow the base of the park along NW St. Helens Road — one of Portland's most popular cycling corridors — north to the spectacular Saint Johns Bridge, then loop back via NW Bridge Avenue and the western side of the park. The route showcases the full length of Forest Park with views of the forested hills above and the Willamette River below.
-
-### Outbound: Lower Macleay → Saint Johns Bridge
-
-| Step | Street | Distance | Duration |
-|------|--------|----------|----------|
-| 1 | Trailhead access | 44 m | ~0.3 min |
-| 2 | NW Upshur Street | 108 m | ~0.7 min |
-| 3 | NW 29th Avenue | 158 m | ~1 min |
-| 4 | NW Wilson Street | 115 m | ~0.7 min |
-| 5 | NW 30th Avenue | 109 m | ~0.7 min |
-| 6 | NW Nicolai Street | 107 m | ~0.3 min |
-| 7 | NW Saint Helens Road (south section) | 2,446 m | ~5.8 min |
-| 8 | NW Saint Helens Road (north section) | 3,368 m | ~5.6 min |
-| 9 | NW Bridge Avenue | 854 m | ~2.4 min |
-| 10 | Saint Johns Bridge | 379 m | ~1 min |
-
-**Subtotal**: 7,686 m (~4.8 miles) / ~19 min
-
-### Return: Saint Johns Bridge → Lower Macleay
-
-| Step | Street | Distance | Duration |
-|------|--------|----------|----------|
-| 1 | Saint Johns Bridge | 379 m | ~1.2 min |
-| 2 | NW Bridge Avenue | 958 m | ~2.6 min |
-| 3 | NW Saint Helens Road (north section) | 3,263 m | ~5.5 min |
-| 4 | NW Saint Helens Road (south section) | 2,446 m | ~5.7 min |
-| 5 | NW Nicolai Street | 219 m | ~0.7 min |
-| 6 | NW Wardway Street | 447 m | ~1.5 min |
-| 7 | NW 27th Avenue | 79 m | ~0.4 min |
-| 8 | NW Upshur Street | 432 m | ~1.8 min |
-
-**Subtotal**: 8,245 m (~5.1 miles) / ~21 min
-
-**Start/End**: Lower Macleay Park Trailhead (45.5360° N, 122.7127° W)  
-**Midpoint**: Saint Johns Bridge (45.5852° N, 122.7646° W)
-
-### 💡 Tips
-- NW St. Helens Road is very popular with cyclists — expect to share the road
-- The Saint Johns Bridge has a dedicated bike/pedestrian lane
-- Cathedral Park at the north end is a great rest stop
-- Watch for industrial truck traffic on St. Helens Road
-- Best ridden on weekday mornings for less traffic
-- Carry lights if riding in the evening — some sections are poorly lit
+A curated collection of cycling routes through and around Forest Park, Portland, OR.
 
 ---
 
-## Route C2: Pittock Mansion Hill Climb
+## Route 1: Forest Park Fire Roads Circuit
 
-**Difficulty**: 🔴 Challenging  
-**Distance**: ~3.0 miles (4,826 m) one way  
-**Estimated Time**: ~15–25 min riding time (depending on fitness)  
-**Elevation Gain**: ~900 ft (steep climbing)  
-**Surface**: Paved roads
+| Detail | Info |
+|---|---|
+| **Distance** | ~15 miles |
+| **Elevation Gain** | ~800 ft |
+| **Difficulty** | Moderate 🟡 |
+| **Terrain** | Gravel fire roads, some single-track |
+| **Time** | 2–3 hours |
 
-### Overview
-A classic Portland hill climb that takes you from the Lower Macleay Trailhead area up to Pittock Mansion. This is a popular training route for cyclists looking to build climbing strength. The Burnside Road section is steep and sustained — a true test of fitness. The reward at the top is one of the best views in all of Portland.
+**Description:**
+Explore the heart of Forest Park on the fire road network. This circuit combines Leif Erikson Drive with forest fire roads like Newberry Road and Lower Macleay Road. The gravel surface provides excellent training for mountain bikes and gravel bikes.
 
-### Route Details
+**Directions:**
+1. Start at Lower Macleay parking area
+2. Take Leif Erikson Drive north ~3 miles
+3. Turn left onto Newberry Road (fire road)
+4. Follow Newberry Road ~2 miles, connecting to Lower Macleay Road
+5. Return south on Lower Macleay Road to the start
+6. Optional extension: Continue north to Gorum Ridge loop
 
-| Step | Street | Distance | Notes |
-|------|--------|----------|-------|
-| 1 | Trailhead access | 44 m | Brief connector |
-| 2 | NW Upshur Street | 278 m | Warm-up stretch |
-| 3 | NW 28th Avenue | 156 m | Rolling |
-| 4 | NW Savier Street | 466 m | Flat to gentle |
-| 5 | NW 25th Avenue | 708 m | Gradual climb begins |
-| 6 | NW Westover Road | 373 m | Steepening |
-| 7 | NW 24th Place | 176 m | Short steep pitch |
-| 8 | West Burnside Street | 483 m | Main climb begins |
-| 9 | West Burnside Road | 1,130 m | **Sustained steep climbing** 🔴 |
-| 10 | NW Barnes Road | 174 m | Relief section |
-| 11 | NW Pittock Avenue | 280 m | Final approach |
-| 12 | NW Pittock Drive | 544 m | Steep finish to mansion |
+**Highlights:**
+- Dense old-growth forest scenery
+- Multi-surface training (gravel, dirt, pavement)
+- Wildlife spotting: owls, deer, raccoons
 
-**Start**: Lower Macleay Park Trailhead (45.5360° N, 122.7127° W)  
-**End**: Pittock Mansion (45.5252° N, 122.7162° W)
-
-### 💡 Tips
-- Use your easiest gears on Burnside Road — the grade is relentless
-- The Pittock Mansion parking lot is a great place to recover and enjoy the view
-- Descend carefully — Burnside Road is steep and has tight turns
-- Best done early morning to avoid car traffic on Burnside
-- Consider doing 2–3 repeats for a serious training session
+**Bike Recommendation:** Mountain bike or gravel bike recommended
 
 ---
 
-## 📋 Quick Reference Summary
+## Route 2: Leif Erikson Drive Full Length
 
-| Route | Distance | Est. Riding Time | Difficulty |
-|-------|----------|-------------------|------------|
-| C1: Forest Park Perimeter Loop | 9.9 mi / 15.9 km | ~20–25 min | 🟡 Moderate |
-| C2: Pittock Hill Climb | 3.0 mi / 4.8 km (one way) | ~15–25 min | 🔴 Challenging |
+| Detail | Info |
+|---|---|
+| **Distance** | ~11 miles (one way) |
+| **Elevation Gain** | ~1,100 ft (northward) |
+| **Difficulty** | Easy–Moderate 🟢 |
+| **Terrain** | Paved, car-free |
+| **Time** | 2–3 hours (one way); 4–5 hours round trip |
+
+**Description:**
+The full north–south traverse of Leif Erikson Drive. The road is closed to motor vehicles on weekdays (except Tuesdays), making it the premier cycling corridor in Portland. The steady climb from the city side to the northern boundary is a fantastic endurance ride.
+
+**Directions:**
+1. Start at Burnside St / NW 26th Ave (park entrance)
+2. Follow Leif Erikson Drive north
+3. Pass through Wildwood Trail at ~3 miles
+4. Continue past Hoyt Arboretum
+5. End near Gorum Ridge at the park's northern boundary
+6. Return or arrange pickup
+
+**Highlights:**
+- Continuous forest canopy
+- No car traffic on weekdays
+- Mt. Hood views from upper sections
+
+**Bike Recommendation:** Road bike or touring bike
 
 ---
 
-## 🔧 Cycling Safety Notes
+## Route 3: Downtown–Forest Park Greenway
 
-- **Helmets are required** by Oregon law for riders under 16, and strongly recommended for all
-- NW St. Helens Road has bike-friendly shoulders but can be busy with industrial traffic
-- Use front and rear lights when riding in low-light conditions
-- Forest Park's internal trails are **closed to mountain biking** — stick to the perimeter roads
-- For mountain biking, check out nearby Powell Butte or Sandy Ridge trail systems
+| Detail | Info |
+|---|---|
+| **Distance** | ~6 miles round trip |
+| **Elevation Gain** | ~300 ft
+- **Difficulty** | Easy 🟢 |
+- **Terrain** | Bike lanes, paved paths |
+- **Time** | 1–1.5 hours |
+
+**Description:**
+A combo route that takes you from downtown Portland through the waterfront and into the Forest Park trail network. Perfect for riders who want to mix urban cycling with nature trails.
+
+**Directions:**
+1. Start at Tom McCall Waterfront Park
+2. Follow the Waterfront Loop west
+3. Cross via the Steel Bridge bike path
+4. Continue on NW Davis St to NW 26th Ave
+5. Turn north into Forest Park via Samuel Thomas Greenway
+6. Explore the lower trail network
+7. Return the same way or via NW Skyline Blvd
+
+**Highlights:**
+- Waterfront scenery
+- Steel Bridge crossing
+- Easy access to Forest Park trails
+
+**Bike Recommendation:** Hybrid or city bike
 
 ---
 
-*Route data sourced from OpenStreetMap. Distances and times are approximate. Road conditions and traffic patterns may vary. Always ride defensively and follow local traffic laws.*
+## Cycling Tips
+
+- **Weekday rides:** Leif Erikson Drive is car-free Mon, Wed, Thu, Fri, Sat, Sun
+- **Weekend note:** The road opens to cars on Sundays — expect more traffic
+- **Tire pressure:** Lower pressure (30–40 PSI) for fire road gravel
+- **Lights:** Front and rear lights required by Oregon law at night
+- **Water:** No potable water on park trails — carry your own
+
+---
+
+## Seasonal Notes for Cyclists
+
+- **Spring:** Check for trail washout on fire roads
+- **Summer:** Dry conditions, but south-facing slopes can be loose
+- **Fall:** Leaf cover on fire roads can be slippery
+- **Winter:** Studded tires recommended for icy sections above 500 ft elevation

@@ -1,52 +1,117 @@
-# 🏃‍♂️ Portland Fitness Routes
+# Portland Fitness Routes
 
-Community fitness routes guide for our running club — walking and cycling paths around **Forest Park** and the greater Portland, OR area.
+Walking and cycling fitness routes around Forest Park, Portland, OR — for our running club.
 
-## 📍 About Forest Park
+## Overview
 
-Forest Park is one of the largest urban forests in the United States, spanning over 5,200 acres in the hills west of downtown Portland. With over 70 miles of trails and fire lanes, it's a premier destination for walking, hiking, running, and cycling in the Pacific Northwest.
+Forest Park is one of the largest urban forests in the United States, offering over 80 miles of trails through 5,200 acres of old-growth forest. This repo documents our favorite walking and cycling routes through and around the park.
 
-- **Location**: Forest Park, Portland, Multnomah County, Oregon
-- **Center Coordinates**: 45.5709° N, 122.7716° W
-- **Elevation Range**: ~50 ft to 1,100+ ft
+## Route Difficulty Guide
 
-## 📂 Route Directory
+| Difficulty | Description |
+|---|---|
+| 🟢 Easy | Flat, well-maintained paths, suitable for all levels |
+| 🟡 Moderate | Some elevation gain, longer distances |
+| 🔴 Challenging | Steep grades, technical terrain, higher fitness required |
 
-| File | Type | Description |
-|------|------|-------------|
-| [`routes/walking-routes.md`](routes/walking-routes.md) | 🚶 Walking/Hiking | Walking routes around Forest Park |
-| [`routes/cycling-routes.md`](routes/cycling-routes.md) | 🚴 Cycling | Cycling routes around Forest Park |
+---
 
-## 🗺️ Key Landmarks Used in Routes
+## Walking Routes
 
-| Landmark | Latitude | Longitude | Notes |
-|----------|----------|-----------|-------|
-| Lower Macleay Trailhead | 45.5360 | -122.7127 | Popular entry point at NW Upshur St |
-| Pittock Mansion | 45.5252 | -122.7162 | Historic mansion with panoramic city views |
-| Saint Johns Bridge | 45.5852 | -122.7646 | Iconic Gothic bridge at the north end of the park |
-| Forest Park Center | 45.5709 | -122.7716 | Approximate center of the nature reserve |
+### 1. Leif Erikson Drive Out-and-Back (Easy) 🟢
 
-## 🏋️ Route Difficulty Ratings
+- **Distance:** ~5 miles (10 miles round trip)
+- **Elevation Gain:** ~400 ft
+- **Terrain:** Paved road, well-maintained
+- **Description:** Leif Erikson Drive is the main car-free road running through Forest Park. It's the most popular route for walkers and runners. This out-and-back covers the scenic lower section from Lower Macleay Park to the Hoyt Arboretum area.
+- **Start:** Lower Macleay Park entrance (NW Cornell Rd & NW 29th Ave)
+- **Key Points:** Wildwood Trail intersection, Hoyt Arboretum, Pittock Mansion view
+- **Best For:** Beginners, casual walkers, dog walkers
 
-- 🟢 **Easy** — Flat to gentle grades, paved or well-maintained surfaces
-- 🟡 **Moderate** — Some elevation gain, mixed surfaces
-- 🔴 **Challenging** — Significant elevation gain, steep or rough terrain
+### 2. Macleay to Redwood Trail Loop (Easy-Moderate) 🟡
 
-## 🤝 Contributing
+- **Distance:** ~3.5 miles
+- **Elevation Gain:** ~300 ft
+- **Terrain:** Mix of pavement and packed dirt trail
+- **Description:** Start at Macleay Park, connect to the Redwood Trail, and loop back through the lower forest. A great introductory loop that showcases old-growth trees.
+- **Start:** Macleay Park entrance
+- **Key Points:** Macleay Park meadow, Redwood Trail, Forest Park visitor center
 
-Have a favorite route? Add it to the repo!
-1. Fork this repository
-2. Add your route to the appropriate file (or create a new one)
-3. Submit a pull request
+### 3. Forest Park Staircase Workout (Moderate) 🟡
 
-## ⚠️ Safety Notes
+- **Distance:** ~4 miles
+- **Elevation Gain:** ~1,200 ft
+- **Terrain:** Stairs, paved roads, dirt trails
+- **Description:** A stair-focused workout starting from the city side, climbing up to Larch Mountain Road area. Reproducible stair sections make it ideal for interval training.
+- **Start:** NW 29th Ave & NW Burnside St
+- **Key Points:** Burnside Stairs, Larch Mountain corridor
+- **Best For:** Hill repeat training, building leg strength
 
-- Forest Park trails can be muddy and slippery, especially in winter — wear appropriate footwear
-- Cell service can be spotty on deeper trails
-- Carry water, especially on longer routes
-- Be aware of trail closures during storm season
-- Share your route plan with someone before heading out
+---
 
-## 📄 License
+## Cycling Routes
 
-This project is licensed under the MIT License. Route data sourced from OpenStreetMap contributors.
+### 1. Forest Park Fire Roads Circuit (Moderate) 🟡
+
+- **Distance:** ~15 miles
+- **Elevation Gain:** ~800 ft
+- **Terrain:** Gravel fire roads, some single-track
+- **Description:** A circuit through the heart of Forest Park using the fire road network. Routes combine Leif Erikson Drive with fire roads like Newberry Road and Lower Macleay Road. Great for mountain bike training.
+- **Start:** Lower Macleay parking area
+- **Key Roads:** Leif Erikson Drive, Newberry Road, Lower Macleay Road
+- **Best For:** Mountain biking, gravel cycling, trail endurance
+
+### 2. Leif Erikson Drive Full Length (Easy-Moderate) 🟢
+
+- **Distance:** ~11 miles (one way)
+- **Elevation Gain:** ~1,100 ft (northward)
+- **Terrain:** Paved, car-free
+- **Description:** The full length of Leif Erikson Drive from Burnside to the park's northern boundary near Gorum Ridge. The road is closed to cars on weekdays, making it ideal for cycling.
+- **Start:** Burnside St / NW 26th Ave
+- **End:** Gorum Ridge area
+- **Best For:** Road cycling, long rides, family rides
+
+### 3. Downtown-to-Forest Park Connector (Easy) 🟢
+
+- **Distance:** ~6 miles round trip
+- **Elevation Gain:** ~300 ft
+- **Terrain:** Bike lanes, paved paths
+- **Description:** Ride from downtown Portland via the Waterfront Loop and the Steel Bridge bike path, then connect to Forest Park through the Samuel Thomas Greenway. Perfect for combining city and nature riding.
+- **Start:** Tom McCall Waterfront Park, downtown Portland
+- **Route:** Waterfront Loop → Steel Bridge path → NW 26th Ave → Forest Park trail network
+- **Best For:** Commuting riders, mixed-terrain training
+
+---
+
+## Seasonal Tips
+
+| Season | Conditions | Recommendations |
+|---|---|---|
+| **Spring (Mar–May)** | Wet trails, wildflowers | Waterproof shoes, bring layers |
+| **Summer (Jun–Aug)** | Dry, muddy south-facing slopes | Early morning rides, hydrating stations |
+| **Fall (Sep–Nov)** | Cool temps, beautiful foliage | Best season for long rides, rain gear handy |
+| **Winter (Dec–Feb)** | Rain, ice on elevated sections | Studded tires, reflective gear, check trail conditions |
+
+---
+
+## Trail Etiquette
+
+- **Yield to pedestrians** on shared trails
+- **Keep right**, pass on the left
+- **Ring a bell or call out** when passing: "On your left!"
+- **Leash dogs** or maintain voice control
+- **Pack out all trash**
+- **Stay on marked trails** — no cutting switchbacks
+
+---
+
+## Useful Resources
+
+- [Forest Park Official Website](https://www.forestpark.com/)
+- [Portland Parks & Recreation – Forest Park](https://www.portland.gov/parks/forest-park)
+- [AllTrails – Forest Park Routes](https://www.alltrails.com/parks/oregon/portland/forest-park)
+- [Portland Bike Map](https://www.portland.gov/transportation/bicycle/maps)
+
+---
+
+*Maintained by the Portland Running Club. Happy training!*
