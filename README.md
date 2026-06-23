@@ -69,6 +69,24 @@ Forest Park is one of the largest urban forests in the United States, offering o
 - **Best For:** Trail walking, nature immersion
 - **Notes:** Can be muddy after rain. No water fountains on trail — bring your own.
 
+### 7. Saint Helens Road & Yeon Avenue Walk (Easy-Moderate) 🟢 🆕
+- **Distance:** ~2.1 miles (3,419 m)
+- **Elevation Gain:** ~250 ft (est.)
+- **Terrain:** Paved road (NW Saint Helens Road, NW Yeon Avenue)
+- **Time:** ~42 minutes at normal walking pace
+- **Description:** A scenic walking route through the core of Forest Park following Northwest Saint Helens Road and Northwest Yeon Avenue. The route is shaded by old-growth forest canopy and offers a peaceful walk away from city traffic.
+- **Start:** Forest Park upper entrance near NW Saint Helens Road
+- **Key Points:** Dense forest canopy, Forest Park main entrance, quiet residential connector on Yeon Avenue
+
+### 8. Thurman to Sever Extended Walk (Moderate) 🟡 🆕
+- **Distance:** ~4.8 miles (est.)
+- **Elevation Gain:** ~500 ft (est.)
+- **Terrain:** Mixed road, trail, and gravel paths
+- **Time:** ~1.5–2 hours
+- **Description:** A longer walking route traversing from the southwest edge of the Forest Park area near NW Thurman Street through the park's interior to the northern boundary at Sever Road. Covers diverse terrain from urban edges to deep forest.
+- **Start:** NW Thurman Street area
+- **Best For:** Long walking sessions, mindful nature walks
+
 ---
 
 ## Cycling Routes
@@ -120,6 +138,34 @@ Forest Park is one of the largest urban forests in the United States, offering o
 - **Best For:** Hill repeat training, building climbing strength, race prep
 - **Notes:** Steep climbs — bring water and watch for traffic on Skyline Blvd. Not recommended for beginners.
 
+### 6. Saint Helens Road & Yeon Avenue Cycle Route (Easy-Moderate) 🟢 🆕
+- **Distance:** ~2.1 miles (3,419 m)
+- **Elevation Gain:** ~250 ft (est.)
+- **Terrain:** Paved road (NW Saint Helens Road, NW Yeon Avenue)
+- **Time:** ~8–10 minutes at moderate pace
+- **Description:** A short but scenic cycling route through the core of Forest Park, ideal for warm-ups, cool-downs, or as a connector in a longer ride. Mostly shaded by old-growth canopy with minimal car traffic on the residential segment.
+- **Start:** Forest Park upper entrance near NW Saint Helens Road
+- **Key Points:** Dense forest shade, quiet residential connector, easy access from Lower Macleay parking
+
+### 7. Extended Thurman to Sever Cycle Route (Moderate) 🟡 🆕
+- **Distance:** ~4.8 miles (est.)
+- **Elevation Gain:** ~500 ft (est.)
+- **Terrain:** Mixed road, trail, and gravel paths
+- **Time:** ~15–20 minutes at moderate pace
+- **Description:** A longer cycling route through the Forest Park area from the southwest edge near NW Thurman Street through the park's interior to the northern boundary at Sever Road. Connects to the broader Portland bike network at both ends.
+- **Start:** NW Thurman Street area
+- **Best For:** Mixed-surface training, park exploration
+
+### 8. Leif Erikson & Newberry Extended Loop (Moderate) 🟡 🆕
+- **Distance:** ~12 miles (loop estimate)
+- **Elevation Gain:** ~800 ft (est.)
+- **Terrain:** Paved road + gravel fire roads
+- **Time:** 2.5–3.5 hours
+- **Description:** An extended loop combining Leif Erikson Drive with the Newberry Road fire road for a full Forest Park experience without backtracking.
+- **Start:** Lower Macleay parking area
+- **Key Roads:** Leif Erikson Drive, Newberry Road
+- **Best For:** Gravel bike training, full park immersion
+
 ---
 
 ## Running Routes (Bonus)
@@ -144,6 +190,30 @@ Forest Park is one of the largest urban forests in the United States, offering o
 - **Terrain:** Paved roads, bike lane
 - **Start:** St. Johns Bridge NW Service Road parking area
 - **Best For:** Recovery runs, warm-ups
+
+---
+
+## Forest Park Area – Amenities & Transit 🆕
+
+### Transit Access
+| Option | Location | Details |
+|---|---|---|
+| Washington Park MAX Station | 45.511°N, 122.717°W | Light rail (Red/Blue Lines) — bikes allowed on MAX |
+| Free Shuttle – Lewis & Clark Entrance | NW Skyline Blvd | Seasonal park shuttle with bike rack |
+| Free Shuttle – Forest Heights | NW 29th Ave area | Local shuttle service |
+
+### Fitness & Recreation Nearby
+| Amenity | Location | Details |
+|---|---|---|
+| Pacific NW Pilates | 5201 SW Westgate Dr #114 | Pilates studio (503-292-4409) |
+| Industrial Strength Gym | NW 29th Ave area | Weightlifting, kickboxing, jiu-jitsu |
+| Forest Park Visitor Center | NW 29th Ave & NW Upshur St | Maps, info, restrooms |
+| Hoyt Arboretum | NW 29th Ave | 2,000+ tree species, free admission |
+| Winter Garden | 45.517°N, 122.714°W | Arboretum garden near park entrance |
+
+### Dining & Hydration
+- **Bring your own water** — no potable water fountains on park trails
+- Nearby cafes and shops available along NW 23rd Ave (NW 21st Ave "The Ave") before/after rides
 
 ---
 
