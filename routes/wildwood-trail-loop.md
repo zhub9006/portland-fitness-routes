@@ -16,7 +16,7 @@ The Wildwood Trail is Portland's premier trail walking route, winding through ol
 2. Take the Lower Macleay Trail north into the forest
 3. Connect to the Wildwood Trail at the junction (~0.5 mi)
 4. Follow the Wildwood Trail northwest through old-growth forest
-5. Continue on Wildwood Trail for ~2.5 miles
+5. Continue on the Wildwood Trail for ~2.5 miles
 6. Exit onto NW Skyline Blvd and turn right (south)
 7. Follow Skyline Blvd for ~0.5 miles
 8. Turn left onto Newberry Road
