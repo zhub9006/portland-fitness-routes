@@ -1,166 +1,157 @@
-# Walking Routes — Forest Park
+# Walking Routes – Forest Park & Portland
 
-A curated collection of walking routes through Forest Park, Portland, OR.
+Comprehensive walking routes for our running club, verified with OSM routing data.
 
 ---
 
-## Route 1: Leif Erikson Drive Out-and-Back
+## Route Difficulty Guide
 
-| Detail | Info |
-|---|---|
-| **Distance** | ~5 miles (out-and-back) |
+| Emoji | Difficulty | Description |
+|-------|-----------|-------------|
+| 🟢 | Easy | Flat, well-maintained paths, suitable for all levels |
+| 🟡 | Moderate | Some elevation gain, longer distances |
+| 🔴 | Challenging | Steep grades, technical terrain, higher fitness required |
+
+---
+
+## 1. Leif Erikson Drive Out-and-Back (Easy) 🟢
+
+| Detail | Value |
+|--------|-------|
+| **Distance** | ~5 miles (10 mi round trip) |
 | **Elevation Gain** | ~400 ft |
-| **Difficulty** | Easy 🟢 |
-| **Terrain** | Paved road |
-| **Time** | 1.5–2 hours |
+| **Terrain** | Paved road, well-maintained |
+| **Est. Time** | 1.5–2 hours |
 
-**Description:**
-Leif Erikson Drive is the crown jewel of Forest Park walking. The road is car-free most of the year and winds through towering old-growth forest. This out-and-back covers the lower section from Macleay Park to roughly the Hoyt Arboretum turnoff.
-
-**Directions:**
-1. Park at Lower Macleay (NW Cornell Rd & NW 29th Ave)
-2. Head north on Leif Erikson Drive
-3. Pass Wildwood Trail intersection at ~1 mile
-4. Continue to Hoyt Arboretum Visitor Center at ~2.5 miles
-5. Turn around and return
-
-**Highlights:**
-- Fern-covered ravine walls
-- Mirror Lake (seasonal)
-- Hoyt Arboretum tree collections
-- Views of Mt. Hood on clear days
+- **Start:** Lower Macleay Park entrance (NW Cornell Rd & NW 29th Ave)
+- **Route:** Head north on Leif Erikson Drive past Wildwood Trail intersection, through Hoyt Arboretum, toward the Pittock Mansion view area.
+- **Key Points:** Wildwood Trail intersection, Hoyt Arboretum, Pittock Mansion view
+- **Best For:** Beginners, casual walkers, dog walkers
+- **Notes:** Car-free on weekdays (dawn to ~10am) and all day Sundays.
 
 ---
 
-## Route 2: Macleay Park Redwood Loop
+## 2. Macleay to Redwood Trail Loop (Easy-Moderate) 🟡
 
-| Detail | Info |
-|---|---|
-| **Distance** | ~3.5 miles (loop) |
+| Detail | Value |
+|--------|-------|
+| **Distance** | ~3.5 miles |
 | **Elevation Gain** | ~300 ft |
-| **Difficulty** | Easy–Moderate 🟡 |
-| **Terrain** | Pavement + packed dirt |
-| **Time** | 1–1.5 hours |
+| **Terrain** | Mix of pavement and packed dirt trail |
+| **Est. Time** | 1–1.5 hours |
 
-**Description:**
-A compact loop perfect for a quick nature walk. Start at Macleay Park's open meadow area, connect to the Redwood Trail, and loop back through the forested lower park.
-
-**Directions:**
-1. Enter Macleay Park from NW Cornell Rd
-2. Follow the main path toward the Woolly Mammoth statue
-3. Connect to Redwood Trail heading north
-4. Loop via Forest Park main entrance road
-5. Return to Macleay meadow
-
-**Highlights:**
-- Ancient redwood trees
-- Macleay meadow wildlife
-- Forest Park visitor center
+- **Start:** Macleay Park entrance
+- **Route:** From Macleay Park meadow, connect to the Redwood Trail and loop back through the lower forest.
+- **Key Points:** Macleay Park meadow, Redwood Trail, Forest Park visitor center
+- **Best For:** Introductory loop showcasing old-growth trees
 
 ---
 
-## Route 3: Burnside Stair Climb
+## 3. Forest Park Staircase Workout (Moderate) 🟡
 
-| Detail | Info |
-|---|---|
-| **Distance** | ~4 miles (including stairs) |
+| Detail | Value |
+|--------|-------|
+| **Distance** | ~4 miles |
 | **Elevation Gain** | ~1,200 ft |
-| **Difficulty** | Moderate 🟡 |
-| **Terrain** | Stairs + road + trail |
-| **Time** | 2–2.5 hours |
+| **Terrain** | Stairs, paved roads, dirt trails |
+| **Est. Time** | 2–2.5 hours |
 
-**Description:**
-A stair-focused workout that builds leg strength and cardiovascular fitness. The route features several reproducible stair sections for interval training.
-
-**Directions:**
-1. Start at NW Burnside St & NW 29th Ave
-2. Climb the Burnside Stairs up to Larch Mountain corridor
-3. Follow Larch Mountain Road for ~0.5 miles
-4. Return via the same route (or alternate stair sections)
-
-**Highlights:**
-- 4 sets of outdoor staircases
-- Panoramic city views from top
-- Great for VO2 max training
+- **Start:** NW 29th Ave & NW Burnside St
+- **Route:** Climb from the city side up to the Larch Mountain Road area using reproducible stair sections.
+- **Key Points:** Burnside Stairs, Larch Mountain corridor
+- **Best For:** Hill repeat training, building leg strength
+- **Notes:** Ideal for interval training – the stair sections are repetitive and measurable.
 
 ---
 
-## Route 4: Forest Park – Saint Helens Road & Yeon Avenue Walk 🆕
+## 4. Northwest Service Road Walk (Easy) 🟢
 
-| Detail | Info |
-|---|---|
+| Detail | Value |
+|--------|-------|
+| **Distance** | ~2 miles (St. Johns Bridge NW Service Rd to Faraday Rd) |
+| **Elevation Gain** | Minimal |
+| **Terrain** | Wide gravel/dirt path, shaded canopy |
+| **Est. Time** | 40–50 minutes |
+
+- **Start:** St. Johns Bridge NW Service Road parking area
+- **Route:** Peaceful walk along the Northwest Service Road through the heart of Forest Park.
+- **Best For:** Recovery walks, nature observation, family strolls
+- **Notes:** Excellent for birdwatching under the old-growth canopy.
+
+---
+
+## 5. Macleay Park to Forest Park Nature Center (Easy) 🟢
+
+| Detail | Value |
+|--------|-------|
+| **Distance** | ~1.5 miles |
+| **Elevation Gain** | ~100 ft |
+| **Terrain** | Paved path and dirt trail |
+| **Est. Time** | 30–40 minutes |
+
+- **Start:** Macleay Park (NW 29th Ave & NW Upshur St)
+- **Route:** Short, family-friendly walk from Macleay Park through the forest to the Forest Park Nature Center.
+- **Key Points:** Macleay Park meadow, Forest Park Visitor Center, Nature Center exhibits
+- **Best For:** Quick strolls with kids or dogs
+
+---
+
+## 6. Wildwood Trail Hike (Moderate) 🟡
+
+| Detail | Value |
+|--------|-------|
+| **Distance** | ~5.1 miles (loop via NW Skyline Blvd & Newberry Rd) |
+| **Elevation Gain** | ~800 ft |
+| **Terrain** | Dirt trail, some rocky sections, roots and mud possible |
+| **Est. Time** | 2–2.5 hours |
+
+- **Start:** Shadowfjord Trailhead (NW 30th Ave & Upshur St) or Lower Macleay Trailhead (NW 29th Ave & NW Upshur St)
+- **Route:** The Wildwood Trail winds through old-growth forest. This loop combines the Wildwood Trail with the Lower Macleay Trail.
+- **Best For:** Trail walking, nature immersion
+- **⚠️ Notes:** Can be muddy after rain. No water fountains on trail — bring your own.
+
+---
+
+## 7. Saint Helens Road & Yeon Avenue Walk (Easy-Moderate) 🟢
+
+| Detail | Value |
+|--------|-------|
 | **Distance** | ~2.1 miles (3,419 m) |
 | **Elevation Gain** | ~250 ft (est.) |
-| **Difficulty** | Easy – Moderate 🟢 |
-| **Terrain** | Paved road, packed dirt trail |
-| **Time** | ~42 minutes at normal walking pace |
+| **Terrain** | Paved road (NW Saint Helens Road, NW Yeon Avenue) |
+| **Est. Time** | ~42 minutes at normal walking pace |
 
-**Description:**
-A scenic walking route through the core of Forest Park following Northwest Saint Helens Road and Northwest Yeon Avenue. This segment runs from the upper Forest Park entrance area down through the dense canopy to the Yeon Avenue residential area. The route is shaded by old-growth trees and offers a peaceful walk away from city traffic.
-
-**Directions:**
-1. Start at the Forest Park upper entrance near NW Saint Helens Road (approx. 45.571°N, 122.772°W)
-2. Follow **Northwest Saint Helens Road** south — the main park thoroughfare through dense forest (~3.1 km / 1.9 miles)
-3. Continue onto **Northwest Yeon Avenue** as the road transitions to a quieter, tree-lined street (~0.12 km / 400 ft)
-4. End at the residential area near NW Yeon Ave & NW Thurman St
-
-**Key Landmarks:**
-- Dense old-growth forest canopy throughout
-- Forest Park main entrance area
-- Transition to quiet residential streets
-
-**Access notes:**
-- Parking available near the Forest Park main entrance on NW 29th Ave
-- Free shuttle stops serve the park boundary (Lewis & Clark Entrance, NW Skyline Blvd)
-- Washington Park MAX station (light rail) provides transit access to the southern trailhead
+- **Start:** Forest Park upper entrance near NW Saint Helens Road
+- **Route:** Scenic walking through the core of Forest Park following NW Saint Helens Road and NW Yeon Avenue.
+- **Key Points:** Dense forest canopy, Forest Park main entrance, quiet residential connector on Yeon Avenue
+- **Best For:** Shaded walking away from city traffic
 
 ---
 
-## Route 5: Extended Forest Park – Thurman to Sever Walk 🆕
+## 8. Thurman to Sever Extended Walk (Moderate) 🟡
 
-| Detail | Info |
-|---|---|
-| **Distance** | ~4.8 miles (7,760 m est.) |
+| Detail | Value |
+|--------|-------|
+| **Distance** | ~4.8 miles (est.) |
 | **Elevation Gain** | ~500 ft (est.) |
-| **Difficulty** | Moderate 🟡 |
 | **Terrain** | Mixed road, trail, and gravel paths |
-| **Time** | ~1.5–2 hours |
+| **Est. Time** | 1.5–2 hours |
 
-**Description:**
-A longer walking route that traverses from the southwest edge of the Forest Park area near NW Thurman Street up through the park's interior and north to the Sever Road area. This route covers more of the park's diverse terrain, including forested sections and residential connectors.
-
-**Directions:**
-1. Start at NW Thurman Street (approx. 45.535°N, 122.710°W) — near the southwestern edge of the Forest Park watershed
-2. Follow the main pedestrian corridor north through the park interior
-3. Pass through forested sections with views of the Willamette River valley
-4. Continue to North Sever Road area (approx. 45.610°N, 122.770°W) at the park's northern boundary
-5. Option to connect to the St. Johns Bridge NW Service Road for the return trip
-
-**Highlights:**
-- Extended forest immersion
-- Varied terrain from urban edges to deep forest
-- Northwest Portland neighborhood exploration
-
-**Best for:** Long walking sessions, mindful nature walks
+- **Start:** NW Thurman Street area
+- **Route:** Traverse from the southwest edge of the Forest Park area through the park's interior to the northern boundary at Sever Road.
+- **Best For:** Long walking sessions, mindful nature walks
+- **Notes:** Covers diverse terrain from urban edges to deep forest.
 
 ---
 
-## Seasonal Notes for Walkers
+## Computed Route Data (OSM)
 
-- **Spring:** Trails can be muddy — waterproof boots recommended
-- **Summer:** Best early morning; afternoon heat on south-facing slopes
-- **Fall:** Stunning foliage, cooler temps — prime walking season
-- **Winter:** Rain is common; traction shoes helpful
+### Route: Forest Park Core to NW Skyline Blvd (Walking)
+- **Distance:** 4,940 m (~3.1 miles)
+- **Duration:** ~7 min 15 sec (driving time; walking time ~1 hr)
+- **Main Roads:** West Burnside Road → Northwest Skyline Boulevard
+- **Coordinates:** Starts at 45.5231, -122.7108 and follows the ridge up to Skyline Blvd
 
 ---
 
-## Nearby Amenities
-
-| Amenity | Location | Notes |
-|---|---|---|
-| Washington Park MAX Station | 45.511°N, 122.717°W | Light rail access to park's south end |
-| Free Shuttle Stop – Lewis & Clark Entrance | NW Skyline Blvd | Seasonal park shuttle service |
-| Forest Park Visitor Center | NW 29th Ave & NW Upshur St | Maps, info, restrooms |
-| Winter Garden | 45.517°N, 122.714°W | Arboretum garden near park entrance |
-| Hoyt Arboretum | NW 29th Ave | 2,000+ tree species, free admission |
-| Pacific NW Pilates | 5201 SW Westgate Dr #114 | Gym/studio near park (503-292-4409) |
+*Last updated with OSM route data for accuracy.*
