@@ -83,7 +83,7 @@ Forest Park is one of the largest urban forests in the United States, offering o
 - **Description:** A scenic walking route through the core of Forest Park following Northwest Saint Helens Road and Northwest Yeon Avenue. The route is shaded by old-growth forest canopy and offers a peaceful walk away from city traffic.
 - **Start:** Forest Park upper entrance near NW Saint Helens Road — [45.5317, -122.7154](https://www.openstreetmap.org/?mlat=45.5317&mlon=-122.7154)
 - **Key Points:** Dense forest canopy, Forest Park main entrance, quiet residential connector on Yeon Avenue
-- **🚫 This route shares a section with motor vehicle traffic — use caution at intersections.**
+- 🚫 This route shares a section with motor vehicle traffic — use caution at intersections.
 
 ### 8. Thurman to Sever Extended Walk (Moderate) 🟡
 - **Distance:** ~4.8 miles (est.)
@@ -162,142 +162,27 @@ Forest Park is one of the largest urban forests in the United States, offering o
 - **Elevation Gain:** ~250 ft (est.)
 - **Terrain:** Paved road (NW Saint Helens Road, NW Yeon Avenue)
 - **Time:** ~8–10 minutes at moderate pace
-- **Description:** A short but scenic cycling route through the core of Forest Park, ideal for warm-ups, cool-downs, or as a connector in a longer ride. Mostly shaded by old-growth canopy with minimal car traffic on the residential segment.
-- **Start:** Forest Park upper entrance near NW Saint Helens Road — [45.5317, -122.7154](https://www.openstreetmap.org/?mlat=45.5317&mlon=-122.7154)
-- **Key Points:** Dense forest shade, quiet residential connector, easy access from Lower Macleay parking
-- **🚫 This route shares a section with motor vehicle traffic — use caution.**
+- **Description:** A short but scenic cycling route through the core of Forest Park, ideal for warming up or cooling down after a longer ride. Follows the same corridor as the walking route #7.
+- **Start:** Forest Park upper entrance — [45.5317, -122.7154](https://www.openstreetmap.org/?mlat=45.5317&mlon=-122.7154)
+- **Key Points:** Forest canopy shading, gentle climb through park interior
+- **🚫 This route shares sections with motor vehicle traffic — use caution.**
 
-### 7. Extended Thurman to Sever Cycle Route (Moderate) 🟡
-- **Distance:** ~4.8 miles (est.)
-- **Elevation Gain:** ~500 ft (est.)
-- **Terrain:** Mixed road, trail, and gravel paths
-- **Time:** ~15–20 minutes at moderate pace
-- **Description:** A longer cycling route through the Forest Park area from the southwest edge near NW Thurman Street through the park's interior to the northern boundary at Sever Road. Connects to the broader Portland bike network at both ends.
-- **Start:** NW Thurman Street area — [45.5354, -122.7006](https://www.openstreetmap.org/?mlat=45.5354&mlon=-122.7006)
-- **Best For:** Mixed-surface training, park exploration
-
-### 8. Leif Erikson & Newberry Extended Loop (Moderate) 🟡
-- **Distance:** ~12 miles (loop estimate)
-- **Elevation Gain:** ~800 ft (est.)
-- **Terrain:** Paved road + gravel fire roads
-- **Time:** 2.5–3.5 hours
-- **Description:** An extended loop combining Leif Erikson Drive with the Newberry Road fire road for a full Forest Park experience without backtracking.
-- **Start:** Lower Macleay parking area — [45.5275, -122.7330](https://www.openstreetmap.org/?mlat=45.5275&mlon=-122.7330)
-- **Key Roads:** Leif Erikson Drive, Newberry Road
-- **Best For:** Gravel bike training, full park immersion
-
-### 9. Waterfront Forest Park Connector Ride (Easy) 🟢
-- **Distance:** ~8 miles round trip (Portland Waterfront → Forest Park → return)
-- **Elevation Gain:** ~400 ft
-- **Terrain:** Bike lanes, paved paths, fire roads
-- **Description:** A longer combining ride from downtown Portland through the Waterfront Loop, across the Steel Bridge, up NW 26th Ave, and deep into the Forest Park fire road network. Great full-day training ride.
-- **Start:** Tom McCall Waterfront Park — [45.5150, -122.6820](https://www.openstreetmap.org/?mlat=45.5150&mlon=-122.6820)
-- **Route:** Waterfront Loop → Steel Bridge path → NW 26th Ave → NW Westover Road → Leif Erikson Drive → Newberry Road loop → return
-- **Best For:** Endurance training, full-day rides, group training rides
-- **OSM Route Notes:** The full route from Waterfront to Forest Park interior is approximately 4,198 m one way (~25 minutes cycling), with the park interior adding 8+ miles of fire road cycling.
+### 7. Canyon Road Loop (Advanced) 🔴
+- **Distance:** ~10.2 miles (round trip)
+- **Elevation Gain:** ~1,000 ft
+- **Terrain:** Paved road, some steep grades
+- **Description:** A challenging route from NW Willalatin Road through Germantown Road, up NW Saint Helens Road and across the Forest Park ridge via NW Skyline Boulevard, returning via Newberry Road. Combines the strenuous Germantown climb with the scenic Skyline Blvd ridge ride. Perfect for training for hilly centuries or climbing events.
+- **Start:** NW Willalatin Road area — [45.5808, -122.7924]
+- **Key Roads:** NW Willalatin Road → NW Germantown Road → NW Saint Helens Road → NW Yeon Avenue → NW Skyline Blvd → Newberry Road
+- **Best For:** Hill repeat training, climbing strength, endurance building
+- **OSM Route Data:** Follows the routing path: NW Willalatin Road (117 m) → NW Skyline Blvd (436.6 m) → NW Germantown Road (3,356.3 m) → NW Bridge Avenue (432.9 m) → NW Bridge Avenue continuation (990.4 m) → NW Saint Helens Road (3,263.4 m) → NW Yeon Avenue (1,351.5 m) → NW Yeon Avenue Frontage Road (276.5 m)
 
 ---
 
-## Running Routes (Bonus)
+## Additional Route Data
 
-### 1. Forest Park – Wildwood Trail Run (Moderate) 🟡
-- **Distance:** ~5.1 miles (loop)
-- **Elevation Gain:** ~800 ft
-- **Terrain:** Dirt trail, rocky sections
-- **Start:** Lower Macleay Trailhead or Shadowfjord Trailhead — [45.5277, -122.7320](https://www.openstreetmap.org/?mlat=45.5277&mlon=-122.7320)
-- **Best For:** Trail running, cross-training, scenic long runs
-
-### 2. Forest Park – Lower Macleay to Pittock Out-and-Back (Easy-Moderate) 🟢
-- **Distance:** 3.2 miles out-and-back (6.4 miles total)
-- **Elevation Gain:** ~600 ft
-- **Terrain:** Paved path, gravel trail
-- **Start:** Lower Macleay Trailhead (NW 29th Ave & NW Upshur St) — [45.5276, -122.7328](https://www.openstreetmap.org/?mlat=45.5276&mlon=-122.7328)
-- **Best For:** Fast-paced training runs, hill repeats
-
-### 3. St. Johns Bridge Loop (Easy) 🟢
-- **Distance:** ~4 miles
-- **Type:** Running / Cycling
-- **Terrain:** Paved roads, bike lane
-- **Start:** St. Johns Bridge NW Service Road parking area — [45.5317, -122.7154](https://www.openstreetmap.org/?mlat=45.5317&mlon=-122.7154)
-- **Best For:** Recovery runs, warm-ups
-
----
-
-## Forest Park Area – Amenities & Transit
-
-### Transit Access
-| Option | Location | Details |
-|---|---|---|
-| Washington Park MAX Station | [45.511°N, 122.717°W](https://www.openstreetmap.org/?mlat=45.511&mlon=-122.717) | Light rail (Red/Blue Lines) — bikes allowed on MAX |
-| Free Shuttle – Lewis & Clark Entrance | NW Skyline Blvd | Seasonal park shuttle with bike rack |
-| Free Shuttle – Forest Heights | NW 29th Ave area | Local shuttle service |
-
-### Bike Shops Nearby
-| Shop | Address | Phone | Hours |
-|---|---|---|---|
-| **Cyclepath West** | 2714 NW Thurman St, Portland, OR 97210 | +1 503 222 3276 | We-Fr 9am-6pm, Sa 9am-5pm, Su 9:30am-4:30pm |
-
-### Nearby Facilities
-| Facility | Type | Location |
-|---|---|---|
-| Pacific NW Pilates | Sports Centre | 5201 SW Westgate Dr, Portland, OR 97221 |
-| Industrial Strength Gym | Fitness Centre | Near NW 26th Ave, Portland |
-| Plaid Pantry | Convenience Store | 4325 NW Yeon Ave, Portland, OR 97210 |
-| Portland Japanese Garden Gift Shop | Gift Shop | Near NW Skyline Blvd, Portland |
-| Nature Store | Retail | Near Forest Park Visitor Center |
-
-### Parks & Recreation Nearby
-| Place | Type | Location |
-|---|---|---|
-| Forest Park | Nature Reserve | [45.536°N, 122.739°W](https://www.openstreetmap.org/?mlat=45.536&mlon=-122.739) |
-| Washington Park | Park | Adjacent to Forest Park |
-| Cathedral Park | Park | Under St. Johns Bridge |
-| Tom McCall Waterfront Park | Park | Downtown Portland |
-
----
-
-## Seasonal Notes
-
-- **Spring (March–May):** Trails can be muddy. Bring waterproof shoes. Wildflowers are blooming!
-- **Summer (June–August):** Best season for cycling. Trails are drier but can be dusty. Bring plenty of water.
-- **Fall (September–November):** Cooler temperatures make for great running weather. Leaves create scenic views but can make trails slippery.
-- **Winter (December–February):** Some trails may be icy or snow-covered. Check conditions before heading out. The lower trails are more likely to be clear.
-
----
-
-## Safety Tips
-
-1. **Carry water** — There are no water fountains on most Forest Park trails.
-2. **Tell someone your route** — Cell service is unreliable in deep forest areas.
-3. **Watch for wildlife** — Deer, raccoons, and occasionally coyotes are present.
-4. **Be visible** — The park is dark even during daytime under the canopy. Use lights at dawn/dusk.
-5. **Share the road** — ON NW Saint Helens Road and Yeon Avenue, share space with vehicles. Use lights and wear bright clothing.
-6. **Check bike traffic** — Leif Erikson Drive is popular with runners and cyclists. Ride defensively.
-
----
-
-## Trailhead Coordinate Quick Reference
-
-| Trailhead | Coordinates |
-|---|---|
-| Lower Macleay Trailhead | [45.5276, -122.7328](https://www.openstreetmap.org/?mlat=45.5276&mlon=-122.7328) |
-| Upper Macleay Trailhead | [45.5275, -122.7330](https://www.openstreetmap.org/?mlat=45.5275&mlon=-122.7330) |
-| Shadowfjord Trailhead | [45.5277, -122.7320](https://www.openstreetmap.org/?mlat=45.5277&mlon=-122.7320) |
-| St. Johns Bridge NW Service Road | [45.5317, -122.7154](https://www.openstreetmap.org/?mlat=45.5317&mlon=-122.7154) |
-| Forest Park Upper Entrance | [45.5317, -122.7154](https://www.openstreetmap.org/?mlat=45.5317&mlon=-122.7154) |
-| NW Thurman Street Area | [45.5354, -122.7006](https://www.openstreetmap.org/?mlat=45.5354&mlon=-122.7006) |
-| NW Skyline Blvd & NW Germantown Rd | [45.5709, -122.7716](https://www.openstreetmap.org/?mlat=45.5709&mlon=-122.7716) |
-| Tom McCall Waterfront Park | [45.5150, -122.6820](https://www.openstreetmap.org/?mlat=45.5150&mlon=-122.6820) |
-
----
-
-## Data Sources
-
-- Route data from OpenStreetMap (OSM) routing engine
-- Trail information from Forest Park Conservancy and City of Portland Parks & Recreation
-- All coordinates verified against OSM geographical data
-- Route distances computed via OSM shortest-path algorithms
-
----
-
-*Last updated: 2025-07-11 — Enhanced with OSM route coordinates, precise directions, and nearby amenities data.*
+For detailed OSM turn-by-turn routing data along these paths, see [ROUTES.md](ROUTES.md), which includes:
+- Structured route coordinates and distances
+- OSM-derived turn-by-turn directions
+- Trail network bounding boxes and access points
+- Coordinates for all major trailheads
