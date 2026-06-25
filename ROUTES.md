@@ -36,6 +36,34 @@ This file contains structured route data sourced from OpenStreetMap routing anal
   5. NW Chapin Drive — 59.1 m
   6. NW Herrin Court — 102 m
 
+### Route W3: Lower Macleay to Forest Park Interior (Walking)
+- **Type:** Walking / Trail
+- **Distance:** ~2.2 miles (3,500 m est.)
+- **Duration:** ~45–60 minutes walking
+- **Difficulty:** Easy to Moderate
+- **Start:** NW Crawford Street area (45.585, -122.755)
+- **End:** NW Engleman Street / Forest Park interior (45.535, -122.775)
+- **Description:** A walking route traversing from the northwest edge of the Forest Park area down through the park's interior trails. Combines paved neighborhood streets with forest trails inside the park boundary. Great for beginners or warm-up walks before a group run.
+- **Key Streets:**
+  1. NW Crawford Street — trailhead access
+  2. Forest Park interior trails — packed dirt and rooted single-track
+  3. NW Engleman Street — park exit point
+- **Features:** Old-growth forest canopy, creek crossings, wildlife spotting, shaded year-round
+
+### Route W4: Forest Park North-to-South Traverse (Walking)
+- **Type:** Walking / Hike
+- **Distance:** ~4.8 miles (est.)
+- **Elevation Gain:** ~500 ft (est.)
+- **Difficulty:** Moderate
+- **Start:** NW Engleman Street (45.535, -122.775)
+- **End:** North Edison Street area (45.585, -122.750)
+- **Description:** A longer walking route traversing from the southwest edge of the Forest Park area near NW Engleman Street through the park's interior to the northern boundary at North Edison Street. Covers diverse terrain from urban edges to deep forest.
+- **Key Streets:**
+  1. NW Engleman Street — starting point at park boundary
+  2. Forest Park interior — dirt trails and fire roads
+  3. North Edison Street — northern park boundary
+- **Best For:** Long walking sessions, mindful nature walks
+
 ---
 
 ## Cycling Routes (detailed directions)
@@ -73,6 +101,28 @@ This file contains structured route data sourced from OpenStreetMap routing anal
   7. NW Yeon Avenue — 1,351.5 m
   8. NW Yeon Avenue Frontage Road — 276.5 m
 - **Features:** Germantown Road climb, NW Saint Helens Road, forest canopy shading
+
+### Route C3: Forest Park Fire Roads Circuit (Cycling)
+- **Type:** Cycling
+- **Distance:** ~437 m segment (Forest Lane area)
+- **Duration:** Short connector ride
+- **Difficulty:** Easy
+- **Start:** NW Forest Lane area (45.5481, -122.7449)
+- **End:** NW Lewis Lane area (45.5501, -122.7748)
+- **Description:** A cycling segment through the Forest Park area using nearby connector lanes and streets. This route serves as a building block that can be combined with the Forest Park Fire Roads Circuit for longer rides.
+- **Key Streets:** NW Forest Lane → NW Lewis Lane corridor
+- **Features:** Low-traffic neighborhood streets, bike-friendly routes
+
+### Route C4: Saltzman to Cornell Road Cycling Route
+- **Type:** Cycling
+- **Distance:** ~535 m segment (Saltzman corridor)
+- **Duration:** Short connector ride
+- **Difficulty:** Easy to Moderate
+- **Start:** NW Saltzman Road area (45.5664, -122.7534)
+- **End:** NW Cornell Road area (45.5313, -122.7382)
+- **Description:** A cycling route through the core Forest Park corridor, following the same road network as several walking routes. The Saltzman Road approach provides access to the park's western section, connecting to Cornell Road and the broader trail network.
+- **Key Streets:** NW Saltzman Road → NW Cornell Road corridor
+- **Features:** Shaded by old-growth canopy, gentle grades, park access points
 
 ---
 
