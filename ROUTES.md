@@ -64,6 +64,36 @@ This file contains structured route data sourced from OpenStreetMap routing anal
   3. North Edison Street — northern park boundary
 - **Best For:** Long walking sessions, mindful nature walks
 
+### Route W5: Upper Macleay to Wildwood Trail Walk
+- **Type:** Walking
+- **Distance:** ~3.2 km (2.0 mi)
+- **Duration:** ~45–50 min
+- **Difficulty:** Easy to Moderate
+- **Start:** Upper Macleay Park Trailhead (45.5270, -122.7275)
+- **End:** Witch's Castle / Wildwood Trail (45.5283, -122.7251)
+- **Description:** A peaceful walk from the Upper Macleay Trailhead through Forest Park's old-growth forest along the Wildwood Trail to the historic Witch's Castle stone structure. The route transitions from pavement to packed dirt trail, climbing gently through towering Douglas firs with creek crossings along the way.
+- **Key Streets:**
+  1. NW 29th Ave & Skyline Blvd (trailhead)
+  2. Lower Macleay Trail — paved, well-maintained
+  3. Wildwood Trail — single-track through old-growth forest
+  4. Witch's Castle — rest stop and photo point
+- **Features:** Old-growth canopy, creek crossings, Stone House (Witch's Castle), daylighted streams
+
+### Route W6: Forest Park to Hoyt Arboretum Walk
+- **Type:** Walking
+- **Distance:** ~2.8 km (1.7 mi)
+- **Duration:** ~35–40 min
+- **Difficulty:** Easy
+- **Start:** Hoyt Arboretum Visitor Center (45.5158, -122.7165)
+- **End:** Forest Park interior trail network (45.5358, -122.7386)
+- **Description:** A pleasant walk connecting Hoyt Arboretum to Forest Park via quiet neighborhood streets and the Sigman Creek Trail. The route starts in a flat, paved arboretum setting and transitions into the Forest Park trail network through a short road walk.
+- **Key Streets:**
+  1. Arboretum Drive (through Hoyt Arboretum grounds)
+  2. SW Berrywood Dr / SW Fairview Blvd (neighborhood streets)
+  3. NW Savier St / NW 25th Ave (quiet residential)
+  4. NW Cornell Road entry into Forest Park (packed trail surface)
+- **Features:** 2,000+ arboretum tree species, old-growth forest edge, accessible terrain
+
 ---
 
 ## Cycling Routes (detailed directions)
@@ -124,6 +154,23 @@ This file contains structured route data sourced from OpenStreetMap routing anal
 - **Key Streets:** NW Saltzman Road → NW Cornell Road corridor
 - **Features:** Shaded by old-growth canopy, gentle grades, park access points
 
+### Route C5: Macleay to Forest Park Bike Connector
+- **Type:** Cycling
+- **Distance:** ~3.0 km (1.9 mi)
+- **Duration:** ~8–10 min
+- **Difficulty:** Easy
+- **Start:** Lower Macleay Park Trailhead (45.5360, -122.7127)
+- **End:** Forest Park interior trail network (45.5270, -122.7275)
+- **Description:** A short scenic cycling route from Lower Macleay Park into the Forest Park interior via quiet neighborhood streets and the NW 25th Ave bike lane. The route ends at the packed trail surface of the park, serving as a gateway to Forest Park's trail network for cyclists.
+- **Key Streets:**
+  1. NW Upshur Street — 150 m
+  2. NW 28th Avenue — 150 m
+  3. NW Savier Street — 470 m
+  4. NW 25th Avenue (bike lane) — 310 m
+  5. NW Lovejoy Street — 140 m
+  6. NW Cornell Road (park entry) — 600 m
+- **Features:** Residential bike lanes, easy grades, seamless transition from road to trail
+
 ---
 
 ## Trail Information
@@ -153,3 +200,9 @@ This file contains structured route data sourced from OpenStreetMap routing anal
 - **Type:** Paved road with some traffic
 - **Location:** NW Saint Helens Road through Forest Park
 - **Notes:** Shaded by old-growth canopy; use caution at intersections with motor vehicle traffic
+
+### Hoyt Arboretum
+- **Length:** N/A (arboretum loop paths)
+- **Location:** SW Berrywood Dr, Portland, OR (adjacent to Forest Park)
+- **Features:** 2,000+ plant species from around the world, paved paths, visitor center
+- **Best For:** Easy walking, nature education, pre-ride warm-up
