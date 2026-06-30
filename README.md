@@ -7,6 +7,7 @@ A collection of walking, running, and cycling routes around Portland, Oregon —
 - **Forest Park** — One of the largest urban forests in the US, with over 80 miles of trails
 - **Cathedral Park** — Scenic park under the Saint Johns Bridge
 - **Northwest Portland** — A challenging climb from the waterfront up through residential streets
+- **Hoyt Arboretum** — A global arboretum with 2,000+ plant species adjacent to Forest Park
 
 ## Routes
 
@@ -17,6 +18,9 @@ A collection of walking, running, and cycling routes around Portland, Oregon —
 | 3 | [Lower Portland to Forest Park](lower-portland-to-forest-park.md) | Cycling / Running | ~7.5 km (4.7 mi) | Moderate |
 | 4 | [Waterfront to Forest Park](waterfront-to-forest-park.md) | Cycling / Challenge | ~10.5 km (6.5 mi) | Hard |
 | 5 | [Forest Park Nature Trail](forest-park-nature-trail.md) | Walking | ~1.5 km (0.9 mi) | Easy |
+| 6 | [Upper Macleay to Wildwood Trail](upper-macleay-to-wildwood.md) | Walking | ~3.2 km (2.0 mi) | Easy-Moderate |
+| 7 | [Forest Park to Hoyt Arboretum](forest-park-to-hoyt-arboretum.md) | Walking | ~2.8 km (1.7 mi) | Easy |
+| 8 | [Macleay to Forest Park Bike Connector](macleay-to-forest-park-bike.md) | Cycling | ~3.0 km (1.9 mi) | Easy |
 
 ## Getting Started
 
