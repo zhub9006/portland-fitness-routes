@@ -1,34 +1,50 @@
-# Saltzman Road Warm-Up Loop (Cycling)
+# Saltzman Road Warm-Up Loop
 
 ## Overview
-- **Distance:** ~2.1 miles
-- **Difficulty:** Easy (short, flat-ish warm-up)
-- **Duration:** ~3 minutes at avg pace
-- **Surface:** Mixed (paved roads, some NW Saint Helens)
-- **Elevation Gain:** Minimal
+
+A quick, flat warm-up ride at the northern edge of Forest Park – perfect before a longer session.
+
+## Route Details
+
+- **Distance:** 2.1 miles (3.4 km)
+- **Difficulty:** Easy (short, flat-ish loop)
+- **Duration:** ~3 minutes at fast pace
+- **Type:** Loop
 
 ## Route Description
-Perfect quick warm-up before a longer ride or run! Start from Forest Park's northern edge, ride up **Northwest Saint Helens Road** for 1.6 miles, then turn onto **Northwest Saltzman Road** for the short finishing loop.
 
-## Route Legs
-| Leg | Road | Distance | Notes |
-|-----|------|----------|-------|
-| 1 | NW Saint Helens Road | ~1.6 mi | Main northward routing |
-| 2 | NW Saltzman Road | ~0.5 mi | Quick connector loop |
+Starting from the **Forest Park northern edge** (45.575, -122.760):
 
-## Key Waypoints
-| Point | Coordinates | Description |
-|-------|-------------|-------------|
-| Start/End | 45.575, -122.760 | Forest Park north entrance area |
-| Mid-point | 45.578, -122.750 | Mid-Saint Helens stretch |
+1. **Forest Park north entrance → Northwest Saint Helens Road** (1.6 mi) – Ride north along the main access road.
+2. **Northwest Saint Helens Road → Northwest Saltzman Road** (0.5 mi) – Turn into the residential loop.
+3. Complete the Saltzman Road circuit and return via same route.
+
+## Key Road Sections
+
+| Section | Distance | Road Name |
+|---|---|---|
+| Access | 1.6 mi | Northwest Saint Helens Road |
+| Warm-up loop | 0.5 mi | Northwest Saltzman Road |
 
 ## Highlights
-- Short and efficient warm-up
-- Forested section on Saint Helens Road
-- Quick access back to center area
-- Great for pre-ride or pre-run activation
+
+- 🌅 Quiet start before main ride
+- 🏘️ Peaceful residential streets
+- 🌲 Proximity to Forest Park entrance
 
 ## Best Practices
-- Excellent for final warm-up lap before a big ride
-- Low traffic early mornings
-- Headlamp recommended if riding before dawn
+
+- ✅ Great for warming up before a longer ride
+- ✅ Easy to repeat – circuitous option
+- ⚠️ Washington St traffic during morning commute
+
+## Coordinates
+
+- **Start/End:** 45.575, -122.760 (Forest Park north entrance)
+- **Turn:** 45.577, -122.750 (Saltzman junction)
+
+## Safety Notes
+
+- Low-speed residential area
+- Watch for morning school traffic on Saltzman
+- Limited facilities nearby
