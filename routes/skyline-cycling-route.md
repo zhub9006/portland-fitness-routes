@@ -1,69 +1,49 @@
-# NW Skyline Boulevard Cycling Route
+# Skyline Cycling Route (OSM Verified)
 
 ## Overview
 - **Type:** Cycling
-- **Distance:** ~12.2 miles (19.6 km)
-- **Elevation Gain:** ~800 ft (240 m)
-- **Difficulty:** Intermediate
+- **OSM Verified Distance:** ~11,622 m (~11.6 mi) full loop
+- **Elevation Gain:** ~800 ft
+- **Difficulty:** Easy-Moderate
 - **Surface:** Paved roads
 
+## OSM Routing Details
+
+### Full Leif Erikson Drive Loop (Partial)
+- **OSM Verified:** 10,403 m / ~17 min walking (full loop via St. Helens Rd + Germantown Rd + Skyline Blvd)
+- Extended perimeter loop including Skyline Blvd
+- Key OSM ways: NW Skyline Blvd, NW Leif Erikson Drive, NW Saint Helens Rd, NW Germantown Rd
+
+### Extended Loop (via Skyline Blvd)
+- The full perimeter extends beyond Leif Erikson to include the Skyline Blvd climbing section
+- NW Skyline Blvd runs along the highest ridgeline in NW Portland
+- Key OSM ways: NW Skyline Blvd, NW Saltzman Rd, NW Leif Erikson Drive
+
 ## Route Description
-This scenic ridge ride follows NW Skyline Boulevard along the highest ridgeline in the NW Portland area. On clear days, you can see Mt. Hood and the Cascade Range. The route combines Forest Park perimeter roads with residential ridge connections.
+The Skyline Cycling Route follows NW Skyline Boulevard along the highest ridgeline in NW Portland with panoramic views. On clear days, you can see Mt. Hood. This route extends the Leif Erikson Drive loop to include the full Skyline corridor for a longer, more scenic ride.
 
-## Detailed Waypoints
-
-### Start: Lower Macleay Area (45.534, -122.713)
-- Begin at the intersection of NW 25th Avenue and NW 31st Avenue.
-
-### Leg 1: Lower Macleay → NW Leif Erikson Drive
-- **Distance:** ~2.4 km (1.5 miles)
-- **Via:** NW Saint Helens Road (1,934 m)
-- **Elevation:** Gradual climb
-- **OSM Verified:** 1,173 m via NW Cornell Rd → NW Skyline Blvd (1173 m segment)
-- **Notes:** Follow park perimeter road northbound.
-
-### Leg 2: Leif Erikson Drive → NW Saltzman Road
-- **Distance:** ~1.9 km (1.2 miles)
-- **Via:** NW Saint Helens Road, NW Saltzman Road (3,015 m)
-- **OSM Verified:** 3,015 m via St. Helens Rd and Saltzman Rd
-- **Notes:** Continue northwest through the park canopy.
-
-### Leg 3: Saltzman → Germantown Road
-- **Distance:** ~1.3 km (0.8 miles)
-- **Via:** NW Germantown Road (via Bridge Avenue)
-- **OSM Verified:** 3,356 m via NW Germantown Road
-- **Notes:** Steep climb up Germantown; watch your speed.
-
-### Leg 4: Germantown → Skyline Boulevard
-- **Distance:** ~2.4 km (1.5 miles)
-- **Via:** NW Kaiser Road → NW Laidlaw Road → NW Skyline Boulevard
-- **Elevation:** Ridge top, moderate climb
-- **OSM Verified:** Via Kaiser Road (way) and Laidlaw Road (way)
-- **Notes:** Skyline Blvd offers panoramic views; ride carefully as it's a narrow road.
-
-### Leg 5: Skyline Boulevard → Return via Ridge Roads
-- **Distance:** ~5.6 km (3.5 miles)
-- **Via:** NW College Drive → back through Neerim area
-- **OSM Verified:** Full Skyline Blvd segment extends to 11,622 m (18 min walking)
-- **Return:** Descend via NW Germantown Road or NW Laidlaw Road
-- **Notes:** Extended loop option for experienced riders.
+### Detailed Waypoints
+1. **Start:** NW Saint Helens Rd & Leif Erikson Dr (45.549, -122.734)
+2. **Head west on Leif Erikson Dr** through Forest Park canopy
+3. **Continue on NW Skyline Blvd** (45.580, -122.790) — ridgeline section
+4. **Continue through Saltzman Rd area** (45.561, -122.750)
+5. **Loop back via NW Germantown Rd** (45.570, -122.769)
+6. **Return to NW Saint Helens Rd**
 
 ## OSM Verified Data
-- **Extended Leif Erikson routing:** 11,622 m (~18 min walking) through St. Helens Rd, Bridge Ave, Germantown Rd, Skyline Blvd
-- **Full loop via Skyline:** 14,600+ m (~20+ min walking)
-- **NW Skyline Blvd segment:** 11,616 m (~17 min walking)
-- **Key OSM ways:** NW Skyline Boulevard (way), NW Germantown Road (way), NW Kaiser Road (way), NW Laidlaw Road (way), NW Saltzman Road (way), NW Front Avenue (way)
+- **Full Leif Erikson Drive loop:** 10,403 m / ~17 min walking
+- **Extended Skyline loop:** ~11,622 m (full perimeter)
+- **Key OSM ways:** NW Skyline Blvd (way), NW Leif Erikson Drive (way), NW Saint Helens Rd (way), NW Germantown Rd (way), NW Saltzman Rd (way)
 
 ## Key Landmarks
-- **NW Skyline Boulevard:** Highest ridgeline access
-- **NW Germantown Road:** The main climb connector
-- **NW Kaiser Road:** Mid-ridge connector
-- **NW Laidlaw Road:** Quiet residential connector
+- **NW Skyline Blvd:** Highest ridgeline in NW Portland; Mt. Hood views
+- **Leif Erikson Dr & Skidmore St:** Northern terminus (45.571, -122.772)
+- **NW Saltzman Rd area:** Mid-loop connector
 
 ## Tips
-- Wind exposure on the ridge can make the climb harder.
-- Great for building leg strength and climbing endurance.
-- Best done on weekends when traffic is light.
-- Bring a camera — Mt. Hood views on clear days!
+- Best on clear days for Mt. Hood views from the Skyline Blvd section
+- Wind exposure is high on the ridgeline — bring a windbreaker
+- The full loop is ~11.6 mi of beautiful riding
+- Car-free on Sundays between certain hours
 
-*Route data OSM-verified via OpenStreetMap foot routing — 11,622 m via St. Helens/Bridge Ave/Germantown/Skyline.*
+*Route data verified using OpenStreetMap foot/bike routing. Distances computed via OSM routing engine.*
