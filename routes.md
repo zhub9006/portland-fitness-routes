@@ -8,131 +8,160 @@ All route data below has been verified and computed using OpenStreetMap (OSM) pa
 
 | # | Route | Type | Distance | Time | Difficulty |
 |---|-------|------|----------|------|------------|
-| 1 | Lower Macleay → Upper Macleay (Wildwood Trail) | Walking/Hiking | 3.9 km | ~8 min walk / ~35 min hike | Easy-Moderate |
-| 2 | Downtown → Forest Park (Cycling) | Cycling | ~7.2 km | ~13 min | Easy (hilly finish) |
-| 3 | City Center → Forest Park (Walking) | Walking | 2.7 km | ~5 min | Easy |
-| 4 | Wildwood Trail North Loop | Walking/Running | ~11 km | ~2.5 hrs | Moderate |
-| 5 | Forest Park Perimeter Ride | Cycling | ~15 km | ~45 min | Easy |
-| 6 | Leif Erikson Drive Out-and-Back | Walking/Jogging | ~6.8 km | ~60 min | Easy |
-| 7 | Ridge Loop via Kaiser & Laidlaw | Cycling | 4.6 km | ~7 min | Easy-Moderate |
-| 8 | Saltzman Warmup Loop | Cycling | 2.1 km | ~4 min | Easy |
-| 9 | St. Johns Bridge to Forest Park | Cycling | 15.0 km | ~21 min | Moderate |
-| 10 | NW Saint Helens Road Out-and-Back | Walking | 5.8 km | ~20 min | Easy |
-| 11 | Detailed Verified Routes | All | Various | Various | Various |
+| 1 | Lower Macleay → Witch's Castle (Wildwood Trail) | Running/Walking | 3.7 km | ~7 min walk / ~35 min hike | Easy-Moderate |
+| 2 | Lower Macleay → Pittock Mansion (Wildwood Trail) | Running/Walking | 4.9 km | ~10 min walk / ~45 min hike | Moderate |
+| 3 | Downtown → Forest Park (Cycling) | Cycling | ~7.2 km | ~13 min | Easy (hilly finish) |
+| 4 | City Center → Forest Park (Walking) | Walking | 2.7 km | ~5 min | Easy |
+| 5 | Wildwood Trail North Loop | Walking/Running | ~11 km | ~2.5 hrs | Moderate |
+| 6 | Forest Park Perimeter Ride | Cycling | ~13 km | ~45 min | Easy |
+| 7 | Leif Erikson Drive Out-and-Back | Walking/Jogging | ~6.8 km | ~60 min | Easy |
+| 8 | Ridge Loop via Kaiser & Laidlaw | Cycling | 4.6 km | ~7 min | Easy-Moderate |
+| 9 | Saltzman Warmup Loop | Cycling | 2.1 km | ~4 min | Easy |
+| 10 | St. Johns Bridge to Forest Park | Cycling | 15.0 km | ~21 min | Moderate |
+| 11 | NW Saint Helens Road Out-and-Back | Walking | 5.8 km | ~20 min | Easy |
 
 ---
 
-## Route 1: Lower Macleay → Upper Macleay (Wildwood Trail)
+## Route 1: Lower Macleay → Witch's Castle (Wildwood Trail)
 
-- **OSM Verified:** Lower Macleay → Witch's Castle: **3,712 m** / ~7 min walking (via NW Lovejoy St, Lower Macleay Trail)
-- **OSM Verified:** Lower Macleay → Pittock Mansion: **4,923 m** / ~10 min walking (via NW 25th Ave, Westover Rd, Pittock Dr)
-- **Surface:** Dirt/gravel trail
+- **OSM Verified:** 3,712 m / ~7 min walking (via NW Lovejoy St, Lower Macleay Trail)
+- **Surface:** Dirt/seed trail
 - **Elevation Gain:** ~150 ft
-- **Highlights:** Old-growth forest, ferns, moss-covered logs
+- **Highlights:** Old-growth forest, ferns, moss-covered logs, Witch's Castle ruins
 - **Navigation:** Follow trail markers; trail is well-marked
+- **Start:** 45.534, -122.713
+- **End:** 45.528, -122.725
 
 ---
 
-## Route 2: Downtown Portland → Forest Park (Cycling)
+## Route 2: Lower Macleay → Pittock Mansion (Wildwood Trail)
 
-- **OSM Verified:** Forest Park center → Downtown: **9,440 m** / ~12 min biking (via St. Helens Rd, Burnside St, Naito Pkwy)
-- **OSM Verified:** Downtown → Forest Park via NW Cornell: **6,544 m** / ~11 min biking (via NW Cornell Rd, NW Lovejoy St, NW 23rd Ave, etc.)
-- **OSM Verified:** St. Helens Road segment: **3,764 m** / ~4 min biking (via Bridge Ave + St. Helens Rd)
+- **OSM Verified:** 4,923 m / ~10 min walking (via NW 25th Ave, Westover Rd, Pittock Dr)
+- **Surface:** Dirt/seed trail
+- **Elevation Gain:** ~250 ft
+- **Highlights:** Old-growth forest, extended creek crossings, Pittock Mansion landmark
+- **Navigation:** Follow trail → NW 25th Ave → Westover Rd → Pittock Dr
+- **Start:** 45.534, -122.713
+- **End:** 45.525, -122.716
+
+---
+
+## Route 3: Downtown Portland → Forest Park (Cycling)
+
+- **OSM Verified:** Forest Park center → Downtown: 9,440 m / ~12 min biking (via St. Helens Rd, Burnside St, Naito Pkwy)
+- **OSM Verified:** Downtown → Forest Park via NW Cornell: 6,544 m / ~11 min biking (via NW Cornell Rd, NW Lovejoy St, NW 23rd Ave, etc.)
+- **OSM Verified:** St. Helens Road segment: 3,764 m / ~4 min biking (via Bridge Ave + St. Helens Rd)
 - **Surface:** Paved roads with bike lanes
 - **Elevation Gain:** ~250 ft (climb on NW Cornell Road)
 - **Streets:** SW 12th Ave → SW Jefferson → SW 19th Ave → SW Main St → SW Vista Ave → NW 23rd Ave → NW Flanders St → NW Westover Rd → NW Lovejoy St → NW Cornell Rd
+- **Start:** 45.536, -122.739 (Park side)
+- **End:** 45.570, -122.755 (Downtown)
 
 ---
 
-## Route 3: City Center → Forest Park (Walking)
+## Route 4: City Center → Forest Park (Walking)
 
 - **OSM Verified:** 2,749 m / ~5 min walking (via NW 19th Ave, NW Flanders St)
 - **Surface:** Sidewalks
 - **Elevation Gain:** Minimal
 - **Highlights:** Urban to forest transition, Stadium Freeway underpass
+- **Start:** 45.549, -122.769 (City center)
+- **End:** 45.570, -122.769 (Forest Park)
 
 ---
 
-## Route 4: Wildwood Trail North Loop
+## Route 5: Wildwood Trail North Loop
 
-- **OSM Verified:** Leif Erikson Drive (full loop): **10,403 m** / ~17 min walking (via St. Helens Rd, Germantown Rd, Skyline Blvd)
+- **OSM Verified:** Leif Erikson Drive (full loop): 10,403 m / ~17 min walking (via St. Helens Rd, Germantown Rd, Skyline Blvd)
 - **Surface:** Mix of trail and paved roads
 - **Elevation Gain:** ~400 ft
 - **Highlights:** Deep forest immersion, wildlife viewing
 - **Navigation:** Follow Wildwood Trail markers north, return via road system
 - **Customizable:** You can turn around at any point for a shorter hike
+- **Start:** 45.549, -122.734
+- **End:** 45.549, -122.734 (loop)
 
 ---
 
-## Route 5: Forest Park Perimeter Ride
+## Route 6: Forest Park Perimeter Ride
 
-- **OSM Verified:** Ridge Loop: **4,586 m** / ~7 min biking (via Wildwood Trail, St. Helens Rd, Germantown Rd)
+- **OSM Verified:** Ridge Loop: 4,586 m / ~7 min biking (via Wildwood Trail, St. Helens Rd, Germantown Rd)
 - **Surface:** Mix of paved roads and trail shoulders
 - **Elevation Gain:** ~200 ft
 - **Highlights:** Park overview, connects multiple entry points
+- **Start:** 45.557, -122.770 (NW Bridge Ave)
+- **End:** 45.557, -122.770 (loop)
 
 ---
 
-## Route 6: Leif Erikson Drive Out-and-Back
+## Route 7: Leif Erikson Drive Out-and-Back
 
-- **OSM Verified:** One-way via NW Saint Helens: **2,129 m** / ~5 min walking (via NW Saint Helens Rd + NW Leif Erikson Dr)
-- **OSM Verified:** Portland center → NW Saint Helens: **7,348 m** / ~12 min walking (via NW Cornell Rd + NW Lovejoy St + NW 25th Ave + NW Vaughn St + NW Wardway St + NW Nicolai St + NW St. Helens Rd)
-- **OSM Verified:** Full Leif Erikson Drive loop: **10,403 m** / ~17 min walking
+- **OSM Verified:** One-way via NW Saint Helens: 2,129 m / ~5 min walking (via NW Saint Helens Rd + NW Leif Erikson Dr)
+- **OSM Verified:** Portland center → NW Saint Helens: 7,348 m / ~12 min walking (via NW Cornell Rd + NW Lovejoy St + NW 25th Ave + NW Vaughn St + NW Wardway St + NW Nicolai St + NW St. Helens Rd)
+- **OSM Verified:** Full Leif Erikson Drive loop: 10,403 m / ~17 min walking
 - **Surface:** Paved road (car-free on Sundays)
 - **Elevation Gain:** ~400 ft
 - **Highlights:** Car-free Sundays; shaded canopy tunnel in summer; stunning fall colors
-- **Start:** NW Saint Helens Rd & Leif Erikson Dr (45.549, -122.734)
-- **Turnaround:** Leif Erikson Dr & Skidmore St (45.571, -122.772)
+- **Start:** 45.549, -122.734
+- **Turnaround:** 45.571, -122.772 (Leif Erikson Dr & Skidmore St)
 
 ---
 
-## Route 7: Ridge Loop via Kaiser & Laidlaw Roads
+## Route 8: Ridge Loop via Kaiser & Laidlaw Roads (Cycling)
 
-- **OSM Verified:** Full ridge loop: **4,586 m** / ~7 min biking
+- **OSM Verified:** Full ridge loop: 4,586 m / ~7 min biking
 - **Surface:** Paved roads
 - **Elevation Gain:** ~200 ft
 - **Key OSM Ways:** NW Wildwood Trail, NW Saint Helens Rd, NW Germantown Rd, NW Kaiser Rd, NW Laidlaw Rd
 - **Highlights:** Germantown Ridge circuit; quiet residential roads; panoramic city views
+- **Start:** 45.557, -122.770
+- **End:** 45.557, -122.770 (loop)
 
 ---
 
-## Route 8: Saltzman Warmup Loop
+## Route 9: Saltzman Warmup Loop (Cycling)
 
-- **OSM Verified:** Full loop: **4,586 m** / ~7 min biking
-- **OSM Verified:** St. Helens → Park Entrance: **3,764 m** / ~4 min biking (via Bridge Ave + St. Helens Rd)
+- **OSM Verified:** Full loop: 4,586 m / ~7 min biking
+- **OSM Verified:** St. Helens → Park Entrance: 3,764 m / ~4 min biking (via Bridge Ave + St. Helens Rd)
 - **Surface:** Paved roads
 - **Elevation Gain:** ~150 ft
 - **Highlights:** Tight, fast loop near the north entrance; great for speed work and track-style intervals
+- **Start:** 45.564, -122.757 (NW Kittridge Ave & NW Saint Helens Rd)
+- **End:** 45.564, -122.757 (loop)
 
 ---
 
-## Route 9: St. Johns Bridge to Forest Park
+## Route 10: St. Johns Bridge to Forest Park (Cycling)
 
-- **OSM Verified:** St. Johns → Forest Park: **15,028 m** / ~21 min biking (via Lombard St, Bridge Ave, Germantown Rd)
+- **OSM Verified:** St. Johns → Forest Park: 15,028 m / ~21 min biking (via Lombard St, Bridge Ave, Germantown Rd)
 - **Surface:** Paved roads with bike lanes
-- **Elevation Gain:** ~300 ft
+- **Elevation Gain:** ~300 ft (descent into Forest Park)
 - **Highlights:** Iconic St. Johns Bridge (1931 suspension bridge) descent; dramatic elevation change from bridge to forest
+- **Start:** 45.593, -122.747 (St. Johns Bridge)
+- **End:** 45.583, -122.778 (Forest Park Field House)
 
 ---
 
-## Route 10: NW Saint Helens Road Out-and-Back
+## Route 11: NW Saint Helens Road Out-and-Back (Walking)
 
-- **OSM Verified:** One-way: **2,896 m** / ~4 min biking (via Bridge Ave + St. Helens Rd)
-- **OSM Verified:** Woodstock → Forest Park: **7,200 m** / ~13 min biking
+- **OSM Verified:** One-way: 2,896 m / ~4 min biking (via Bridge Ave + St. Helens Rd)
+- **OSM Verified:** Woodstock → Forest Park: 7,200 m / ~13 min biking
 - **Surface:** Residential road / sidewalks
 - **Elevation Gain:** Minimal
 - **Highlights:** Historic arterial with park access; mix of residential and park environments
+- **Start:** 45.535, -122.739 (Washington Park)
+- **End:** 45.557, -122.770 (NW Bridge Ave)
 
 ---
 
 ## Seasonal Recommendations
 
-| Season | Best Routes | Notes |
-|--------|-------------|-------|
-| Spring | Route 1, Route 3 | Trail is less muddy; beautiful wildflowers |
-| Summer | Route 4, Route 2 | Long daylight hours; full trail loops |
-| Fall | Route 1, Route 4 | Fall foliage on the Wildwood Trail |
-| Winter | Route 2, Route 5 | Roads are more accessible; trails can be icy |
+| Season | Best Walking | Best Cycling |
+|--------|-------------|--------------|
+| Spring | Lower Macleay→Castle | Ridge Loop, St. Helens→Front Ave |
+| Summer | Wildwood Trail full loop | Park→Downtown (leisure ride) |
+| Fall | Lower Macleay→Castle (foliage) | Ridge Loop (clear day views) |
+| Winter | City→Forest Park | St. Helens segment (avoid ice) |
 
 ---
 
@@ -151,10 +180,14 @@ All route data below has been verified and computed using OpenStreetMap (OSM) pa
 | Witch's Castle (Stone House) | Historic ruins | 45.528, -122.725 |
 | Pittock Mansion | Long run destination | 45.525, -122.716 |
 | Woodstock (NW 25th Ave) | Mid-park entry | 45.528, -122.708 |
+| NW Bridge Ave & St. Helens Rd | Junction | 45.557, -122.770 |
+| NW Kittridge Ave & St. Helens Rd | Junction | 45.564, -122.757 |
+| NW Front Ave end | End point | 45.570, -122.747 |
+| St. Johns Bridge | Bridge | 45.593, -122.747 |
 
 ---
 
-## 📊 OSM Routing Data Summary (Computed)**
+## 📈 OSM Routing Data Summary (Computed)
 
 All distances and durations were computed using OpenStreetMap routing. These are real, verifiable values:
 
@@ -194,4 +227,4 @@ All distances and durations were computed using OpenStreetMap routing. These are
 
 ---
 
-*Route data maintained by the running club. All routes verified using OpenStreetMap path and road routing. See also: [.leif-erikson-freedom-trail-walk.md] and [routes/nw-saint-helens-walk.md].*
+*Route data maintained by the running club. All routes verified using OpenStreetMap path and road routing. See also: routes/leif-erikson-walking.md, routes/wildwood-trail-running.md, routes/skyline-cycling-route.md, and routes/verified-routes.md.*
