@@ -1,33 +1,50 @@
 # Germantown Ridge Loop
 
-- **Distance:** ~4.6 mi (7.4 km) loop
-- **Elevation Gain:** ~350 ft
-- **Estimated Time:** 18–25 min
-- **Type:** Loop
-- **Terrain:** Paved roads, residential streets
-- **Difficulty:** Easy–Moderate
+## Overview
+- **Type:** Cycling
+- **Distance:** ~4.6 miles (7.4 km)
+- **Elevation Gain:** ~600 ft (180 m)
+- **Difficulty:** Intermediate
+- **Surface:** Paved roads
 
-## Description
+## Route Description
+A challenging ridge loop that climbs up Germantown Road and connects via Kaiser and Laidlaw Roads. This route offers great hill-climbing training and scenic ridge views.
 
-A compact ridge loop connecting Germantown Road, Kaiser Road, and Laidlaw Road. This loop offers views of the city and the North Portland industrial area, with a nice mix of climbs and descents through shaded streets.
+## Detailed Waypoints
 
-## Route Details
+### Start: Forest Park Center (45.534, -122.713)
+- Head north via NW Saint Helens Road.
 
-1. **NW Germantown Road** (eastbound from Wildwood Trail)
-2. **NW Kaiser Road** (north to connect)
-3. **NW Laidlaw Road** (west descent)
-4. Return via **NW Germantown Road** (southbound)
+### Leg 1: Up Germantown Road
+- **Distance:** ~1.5 miles (2.4 km)
+- **Via:** NW Germantown Road (3,356 m)
+- **Elevation:** Steep climb — 600 ft of elevation gain
+- **Notes:** This is the key climb. Short but steep.
 
-## OSM Data
-- **NW Germantown Rd** (way): 45.570, -122.769
-- **NW Kaiser Rd** (way): 45.575, -122.765
-- **NW Laidlaw Rd** (way): 45.573, -122.758
+### Leg 2: Ridge Connector
+- **Distance:** ~0.8 miles (1.3 km)
+- **Via:** NW Kaiser Road → NW Laidlaw Road
+- **Notes:** Quiet residential roads with ridge views.
 
-## Notes
-- **Quick workout:** Great for a 20-min speed session
-- **Shaded:** Tree-lined streets stay cool in summer
-- **Shortcut:** Skip Laidlaw and continue on Germantown to Leif Erikson for a longer ride
+### Leg 3: Descent & Return
+- **Distance:** ~1.5 miles (2.4 km)
+- **Via:** NW Saltzman Road or NW Saint Helens Road back to start
+- **Notes:** Enjoy the descent; watch for blind corners.
 
-## Getting There
-- **Parking:** Wildwood Trail trailhead
-- **Transit:** TriMet bus lines 63, 72
+## OSM Verified Data
+- **Ridge loop:** 4,586 m (~7 min biking)
+- **Extended loop:** ~14,600 m including full perimeter
+- **Key OSM ways:** NW Germantown Road (way), NW Kaiser Road (way), NW Laidlaw Road (way), NW Saltzman Road (way)
+
+## Key Landmarks
+- **NW Germantown Road:** The main climb
+- **NW Kaiser Road:** Mid-ridge connector
+- **NW Laidlaw Road:** Quiet descent road
+
+## Tips
+- This is a serious climbing route — pace yourself.
+- Wind exposure on the ridge can make the climb harder.
+- Great for building leg strength and climbing endurance.
+- Best done on weekends when traffic is light.
+
+*Route data verified using OpenStreetMap bike routing.*

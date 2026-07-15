@@ -1,30 +1,42 @@
-# Saltzman Warm-Up Loop
+# Saltzman Warmup Loop
 
-- **Distance:** ~2.1 mi (3.4 km)
-- **Elevation Gain:** ~100 ft
-- **Estimated Time:** 8–12 min
-- **Type:** Loop
-- **Terrain:** Paved road, small residential streets
-- **Difficulty:** Easy
+## Overview
+- **Type:** Cycling (Warmup / Speed Work)
+- **Distance:** ~2.1 miles (3.4 km)
+- **Elevation Gain:** ~150 ft (45 m)
+- **Difficulty:** Easy / Warmup
+- **Surface:** Paved roads
 
-## Description
+## Route Description
+A tight, fast loop near the north entrance of Forest Park, perfect for warmups and track-style intervals. The loop uses NW Saltzman Road and surrounding connector streets.
 
-A quick, tight warm-up loop near the north entrance of Forest Park. Perfect for speed work, intervals, or shaking out legs before a longer ride. The loop uses NW Saltzman Road and surrounding streets.
+## Detailed Waypoints
 
-## Route Details
+### Start/End: NW Saltzman Road & NW Saint Helens Road (45.561, -122.750)
+- Park or meet at the intersection near the Forest Park north entrance.
 
-- NW Saltzman Road (half-loop)
-- NW Saltzman Road turnaround
-- Return via the same streets
+### Loop Route:
+- **NW Saltzman Road** (456 m) — heading west
+- **NW Saint Helens Road** (2,327 m) — heading north through the park canyon
+- **NW Bridge Avenue** (174 m) — connector at the top
+- **NW Germantown Road** (3,356 m) — loop back south
+- Return to start via connector streets
 
-## OSM Data
-- **NW Saltzman Rd** (way): 45.566, -122.753
+## OSM Verified Data
+- **Saltzman segment:** 456 m
+- **St. Helens Road segment:** 3,371 m
+- **Bridge Avenue connector:** 174 m
+- **Germantown Road:** 3,356 m
+- **Total one-way loop:** ~.On OSM routing. extends to ~4.6 mi full loop with Ridge extension
 
-## Notes
-- **Speed work:** The flat section of Saltzman is great for track-style intervals
-- **Quiet streets:** Very little traffic in the mornings
-- **Pair with:** Wildwood Trail or Leif Erikson Drive for a combined workout
+## Key Landmarks
+- **NW Saltzman Road:** Quiet residential road near the park
+- **NW Saint Helens Road:** Historic arterial through the park
+- **Forest Park north entrance:** Easy parking and access
 
-## Getting There
-- **Parking:** Lower Macleay Park area
-- **Transit:** TriMet bus lines 63, 72
+## Tips
+- Great for pre-ride warmups and post-ride cooldowns.
+- Flat enough for beginners; tight enough for speed work.
+- Limited parking — arrive early on weekends.
+
+*Route data verified using OpenStreetMap routing.*

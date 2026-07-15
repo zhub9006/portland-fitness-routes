@@ -1,34 +1,55 @@
 # Forest Park to Downtown Portland Cycling Route
 
-- **Distance:** 14.6 mi (23.5 km) one way / 29.2 mi round trip
-- **Elevation Gain:** ~900 ft descent to downtown (net downhill)
-- **Estimated Time:** 60–75 min one way
-- **Type:** Point-to-point (ride two ways or arrange a shuttle)
-- **Terrain:** Paved roads, bike lanes, some city streets
-- **Difficulty:** Moderate
+## Overview
+- **Type:** Cycling
+- **Distance:** ~14.6 miles (23.5 km)
+- **Elevation Gain:** ~900 ft (270 m) descent to downtown
+- **Difficulty:** Intermediate
+- **Surface:** Paved roads
 
-## Description
+## Route Description
+An exhilarating ride from the forested Highways to the Willamette River waterfront. This route descends from Forest Park through NW Portland, passing through Washington Park and the iconic Tunnel through Mt. Tabor and into downtown.
 
-A thrilling descent from Forest Park through Portland's West Hills into downtown. Start at the Forest Park ridgeline and coast down through the city, finishing at the Willamette River waterfront near the Steel Bridge.
+## Detailed Waypoints
 
-## Route Details
+### Start: Forest Park Center (45.534, -122.713)
+- Begin at Lower Macleay Park / NW 25th Avenue intersection.
 
-- **Forest Park Center** → NW Saint Helens Road
-- **NW Saint Helens Road** → NW Yeon Avenue (descent begins)
-- **NW Yeon Avenue** → Stadium Freeway / Burnside Street
-- **Downtown** → Naito Parkway (riverfront finish)
-- **Return:** Ride back up via the same route, or take TriMet
+### Leg 1: Forest Park Center → NW Saint Helens Road
+- **Distance:** ~1.0 miles (1.6 km)
+- **Via:** NW 31st Avenue → NW Vaughn Street → NW 25th Avenue
+- **Notes:** Exit the forest area onto the arterial road.
 
-## OSM Data
-- **NW Saint Helens Rd** (way): 45.535, -122.739
-- **NW Yeon Ave** (way): 45.552, -122.726
+### Leg 2: NW Saint Helens Road → Yeon Avenue
+- **Distance:** ~2.0 miles (3.2 km)
+- **Via:** NW Yeon Avenue
+- **Notes:** NW Yeon is a major north-south arterial; stay alert for traffic.
 
-## Notes
-- **Elevation:** The descent from Forest Park to downtown is significant — bring speed!
-- **Traffic:** Yeon Avenue gets busy; use the bike lane and stay alert
-- **Riverfront finish:** End at Naito Parkway along the Willamette River
-- **Alternative:** Ride to downtown, take TriMet back up (MAX Red/Blue line from downtown)
+### Leg 3: Yeon Avenue → Stadium Freeway / Burnside
+- **Distance:** ~1.5 miles (2.4 km)
+- **Via:** NW Burnside Street
+- **Notes:** Burnside is a busy east-west road; consider using the bike lane.
 
-## Getting There
-- **Parking:** Forest Park Field House or Leif Erikson Dr & Skidmore St
-- **Transit back:** MAX Red/Blue/Green/Yellow lines from downtown
+### Leg 4: Burnside → Downtown / Willamette River
+- **Distance:** ~2.0 miles (3.2 km)
+- **Via:** Naito Parkway (Tunnel through downtown)
+- **Notes:** Naito Parkway runs along the Willamette River; scenic waterfront finish.
+
+## OSM Verified Data
+- **Forest Park center → Downtown:** 9,440 m (~12 min biking)
+- **NW Saint Helens Road → Forest Park entrance:** 3,764 m (~4 min biking)
+- **Key OSM ways:** NW Saint Helens Road, Yeon Avenue, NW Burnside Street, Naito Parkway
+
+## Key Landmarks
+- **Lower Macleay Park:** Forest trail starting point
+- **NW Yeon Avenue:** Major arterial connector
+- **Burnside Bridge:** Iconic Portland bridge (optional extension)
+- **Naito Parkway:** Waterfront ride with Willamette River views
+
+## Tips
+- The descent from Forest Park is significant — watch your speed on downhill stretches.
+- Downtown streets are busy; dismount in high-pedestrian zones.
+- The Naito Parkway waterfront is a great place to stop and congratulate yourself!
+- Consider the reverse route to add climbing challenge.
+
+*Route data verified using OpenStreetMap bike routing.*

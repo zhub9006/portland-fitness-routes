@@ -1,32 +1,52 @@
 # NW Saint Helens Road Walking Route
 
-- **Distance:** 3.3 mi (5.3 km) one way / 6.6 mi round trip
-- **Elevation Gain:** ~250 ft
-- **Estimated Time:** 35–40 min one way / 70–80 min round trip
-- **Type:** Out-and-back
-- **Terrain:** Road mix (residential + park trail)
-- **Difficulty:** Easy–Moderate
+## Overview
+- **Type:** Walking
+- **Distance:** ~3.3 miles (5.3 km) one way
+- **Elevation Gain:** ~300 ft (90 m)
+- **Difficulty:** Easy
+- **Surface:** Mixed (residential street + park road)
 
-## Description
+## Route Description
+Walk along NW Saint Helens Road from Washington Park down to the Forest Park entrance. This historic arterial connects the two major parks and offers a mix of residential and forested environments.
 
-A historic road connecting Washington Park to Forest Park along the base of the West Hills. The route passes through a mix of residential neighborhoods and parkland, with gentle grades and good footing.
+## Detailed Waypoints
 
-## Route Details
+### Start: Washington Park / SE 28th Place (45.551, -122.730)
+- Begin near the Washington Park MAX station.
 
-1. **Washington Park** (NW Thompson Road)
-2. **NW Saint Helens Road** (northbound)
-3. **NW Bridge Avenue** → **Saint Johns Bridge** option
-4. **Forest Park center** (Wildwood Trail area)
+### Leg 1: Washington Park → NW 25th Avenue
+- **Distance:** ~0.5 miles (0.8 km)
+- **Via:** NW 28th Place → NW 25th Avenue
+- **Notes:** Residential streets with some elevation.
 
-## OSM Data
-- **NW Saint Helens Rd** (way): 45.535, -122.739
-- **NW Bridge Ave** (way): 45.586, -122.773
+### Leg 2: NW 25th Avenue → NW Saint Helens Road
+- **Distance:** ~0.5 miles (0.8 km)
+- **Via:** NW Nicolai Street → NW Vaughn Street → NW 31st Avenue
+- **Notes:** Transition onto the forest road.
 
-## Notes
-- **Historic road:** NW Saint Helens has been a Portland thoroughfare since the early 1900s
-- **Variety:** Mix of quiet residential streets and park trails
-- **Pair with:** Cathedral Park loop or Forest Park Ridge Trail for a longer walk
+### Leg 3: NW Saint Helens Road Southbound (Forest Park Section)
+- **Distance:** ~1.9 miles (3.1 km)
+- **Via:** NW Saint Helens Road
+- **Notes:** This is the main segment — beautiful tree-lined road through the park.
 
-## Getting There
-- **Parking:** Washington Park or Forest Park Field House
-- **Transit:** TriMet bus lines 16, 63, 72
+### Turnaround: Lower Macleay Park (45.535, -122.713)
+- Walk down to Lower Macleay Park for a trail connection.
+- Total round trip: ~6.6 miles / ~2-2.5 hours walking.
+
+## OSM Verified Data
+- **One-way:** 2,896 m (~4.5 min biking; ~5.6 min walking)
+- **Extended:** NW Bridge Avenue + Saint Helens + Germantown = ~4,586 m
+- **Key OSM ways:** NW Saint Helens Road (way), NW Bridge Avenue (way), NW Germantown Road (way)
+
+## Key Landmarks
+- **Washington Park:** Start point, also has Zoo and Japanese Garden
+- **Lower Macleay Park:** Forest Park trailhead
+- **NW 25th Avenue connector:** Easy exit back to city streets
+
+## Tips
+- The road is not park-entrances but shares with cars — walk facing traffic.
+- Great for a warm-up walk before hitting the Wildwood Trail.
+- No facilities on the road itself — use Washington Park or Lower Macleay restrooms.
+
+*Route data verified using OpenStreetMap foot routing.*

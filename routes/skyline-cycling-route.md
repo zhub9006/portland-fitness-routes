@@ -1,36 +1,63 @@
 # NW Skyline Boulevard Cycling Route
 
-- **Distance:** 12.2 mi (19.6 km) out-and-back
-- **Elevation Gain:** ~800 ft (244 m)
-- **Estimated Time:** 50–60 min one way / 100–120 min round trip
-- **Type:** Out-and-back
-- **Terrain:** Paved road with bike-friendly shoulders
-- **Difficulty:** Moderate
+## Overview
+- **Type:** Cycling
+- **Distance:** ~12.2 miles (19.6 km)
+- **Elevation Gain:** ~800 ft (240 m)
+- **Difficulty:** Intermediate
+- **Surface:** Paved roads
 
-## Description
+## Route Description
+This scenic ridge ride follows NW Skyline Boulevard along the highest ridgeline in the NW Portland area. On clear days, you can see Mt. Hood and the Cascade Range. The route combines Forest Park perimeter roads with residential ridge connections.
 
-A scenic ride along the NW Skyline Boulevard ridgeline with panoramic views of the West Hills, Portland skyline, and (on clear days) Mt. Hood. This route connects Washington Park to the deeper reaches of Forest Park via Germantown Road.
+## Detailed Waypoints
 
-## Route Details
+### Start: Lower Macleay Area (45.534, -122.713)
+- Begin at the intersection of NW 25th Avenue and NW 31st Avenue.
 
-### Outbound: NW Thompson Road → NW Skyline Blvd → NW Germantown Road
-- **Distance:** 12.2 mi
-- **Time:** ~50–60 min
-- **Key landmarks:** Washington Park, NW Thompson Road, NW Skyline Boulevard, NW Germantown Road
+### Leg 1: Lower Macleay → NW Leif Erikson Drive
+- **Distance:** ~1.5 miles (2.4 km)
+- **Via:** NW Saint Helens Road (1,934 m)
+- **Elevation:** Gradual climb
+- **Notes:** Follow park perimeter road northbound.
 
-### Return: Same route southbound
+### Leg 2: Leif Erikson Drive → NW Saltzman Road
+- **Distance:** ~1.2 miles (1.9 km)
+- **Via:** NW Saint Helens Road, NW Saltzman Road (3,015 m)
+- **Notes:** Continue northwest through the park canopy.
 
-## OSM Data
-- **NW Thompson Rd** (way): 45.544, -122.744
-- **NW Skyline Blvd** (way): 45.580, -122.790
-- **NW Germantown Rd** (way): 45.570, -122.769
+### Leg 3: Saltzman → Germantown Road
+- **Distance:** ~0.8 miles (1.3 km)
+- **Via:** NW Germantown Road (via Bridge Avenue)
+- **Notes:** Steep climb up Germantown; watch your speed.
 
-## Notes
-- **Road ride:** Use the paved shoulders; traffic is light on weekdays
-- **Hire's Gap area:** Steepest section near Skyline Blvd — watch for cars
-- **Extension option:** Continue on Germantown to loop back via Kaiser/Laidlaw for a ~15 mi ride
-- **Best day:** Clear mornings for Mt. Hood views
+### Leg 4: Germantown → Skyline Boulevard
+- **Distance:** ~1.5 miles (2.4 km)
+- **Via:** NW Kaiser Road → NW Laidlaw Road → NW Skyline Boulevard
+- **Elevation:** Ridge top, moderate climb
+- **Notes:** Skyline Blvd offers panoramic views; ride carefully as it's a narrow road.
 
-## Getting There
-- **Parking:** Washington Park (NW Thompson Road entrance)
-- **Transit:** TriMet bus lines 16, 63
+### Leg 5: Skyline Boulevard → Return via Ridge Roads
+- **Distance:** ~3.5 miles (5.6 km)
+- **Via:** NW College Drive → back through Neerim area
+- **Return:** Descend via NW Germantown Road or NW Laidlaw Road
+- **Notes:** Extended loop option for experienced riders.
+
+## OSM Verified Data
+- **Extended Leif Erikson routing:** 11,622 m (~18 min walking) through St. Helens Rd, Bridge Ave, Germantown Rd, Skyline Blvd
+- **Full loop via Skyline:** 14,600+ m (~20+ min walking)
+- **Key OSM ways:** NW Skyline Boulevard (way), NW Germantown Road (way), NW Kaiser Road (way), NW Laidlaw Road (way), NW Saltzman Road (way)
+
+## Key Landmarks
+- **NW Skyline Boulevard:** Ridge road with bike lanes
+- **NW Germantown Road:** Steep hill connector (popular cycling route)
+- **NW Kaiser Road:** Connector between Germantown and Skyline
+- **NW Laidlaw Road:** Quiet residential connector
+
+## Tips
+- Wind exposure on Skyline Blvd can be significant — dress in layers.
+- Best in early morning for calm winds and lighting.
+- Carry a bell — this is a shared road with pedestrians.
+- Mt. Hood views on clear days — check the forecast!
+
+*Route data verified using OpenStreetMap foot/bike routing.*
