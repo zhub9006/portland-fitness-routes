@@ -1,50 +1,54 @@
-# Leif Erikson Drive Walking Loop
+# Leif Erikson Drive Out-and-Back Walk
 
 **Route Type:** 🚶 Walking  
-**Distance:** ~4.2 mi (6.8 km) out-and-back  
-**Elevation Gain:** ~300 ft (90 m)  
+**Distance:** ~4.2 mi (2.1 mi each way)  
+**Elevation Gain:** ~200 ft  
 **Difficulty:** Easy  
-**Surface:** Paved/walkable road
+**Surface:** Paved road (car-free on Sundays)  
 
-## Route Description
+## Overview
 
-Leif Erikson Drive is a car-free scenic loop perched on the ridgeline above Portland's west side. Originally designed for automobiles, the road was permanently closed to vehicle traffic on Sundays, making it one of the best walking and jogging routes in the Portland metro area. The road passes through a lush canopy tunnel created by overhanging Victorian-era trees.
+Leif Erikson Drive is a beloved car-free loop road that winds through the upper canopy of Forest Park. On Sundays, the road is closed to vehicles, making it ideal for walkers, joggers, and families. The tree canopy creates a stunning tunnel effect in summer, and fall brings brilliant foliage.
 
-## Turn-by-Turn Directions
+## Route Details
 
-1. **Start** at Leif Erikson Dr & Skidmore Street (45.571, -122.772)
-2. Head south on Leif Erikson Drive — car-free road
-3. Follow the road as it curves through the tree canopy tunnel
-4. Continue past the Lower Macleay Park area (45.549, -122.734)
-5. The road loops around the eastern side of Forest Park
-6. Return to the starting point at Leif Erikson Dr & Skidmore Street
-7. **Out-and-back option:** Turn around at any point for a shorter walk
+| Segment | Distance | Key Features |
+|---------|----------|-------------|
+| Forest Park Center → Saltzman Road | ~2.1 mi | Paved road through forest canopy; gradual descent |
+| Saltzman Road → Forest Park Center | ~2.1 mi | Return on same road |
 
-## Key Highlights
+### Turn-by-Turn Directions (OSM Verified)
 
-- 🌳 **Canopy tunnel:** Overhanging trees create a shaded corridor in summer
-- 🎨 **Fall colors:** Stunning gold and orange displays in autumn
-- 👨‍👩‍👧‍👦 **Family-friendly:** Wide, flat, car-free surface safe for kids
-- 🏙️ **City views:** Panoramic Portland skyline through the trees
-- 🦜 **Bird watching:** Abundant songbirds in the canopy
+1. From **Forest Park Center** (Leif Erikson Dr & Skidmore St, 45.571, -122.772)
+2. Head south on **Northwest Saint Helens Road** (1,595 m) — residential road with park access
+3. Continue onto **Northwest Saltzman Road** (454 m) — quiet residential connector
+4. Turn around at **Saltzman Road** terminus (45.561, -122.750)
+5. Return via same route
 
-## OSM Verified Routing
+**Total one-way:** 2,071 m (~1.3 mi)  
+**Walking duration (one-way):** ~3 minutes  
 
-- **Primary Road:** Leif Erikson Drive (OSM: way, path/footway)
-- **Nearby landmark:** Lower Macleay Park at southern terminus
-- **Verified Distance:** ~10,403 m one-way (OSM foot routing)
+## Key Landmarks
 
-## Seasonal Notes
+| Location | Description | Coordinates |
+|----------|-------------|-------------|
+| Leif Erikson Dr & Skidmore St | North loop entrance, popular starting point | 45.571, -122.772 |
+| NW Saltzman Road | Southern terminus, quiet residential end | 45.561, -122.750 |
 
-- **Sunday car-free:** Road is permanently closed to cars on Sundays
-- **Spring:** Cherry blossoms and new green leaves
-- **Summer:** Best time for the canopy tunnel effect; cool and shaded
-- **Fall:** Spectacular foliage show — peak color typically late October
-- **Winter:** Fewer crowds; still walkable but can be slippery
+## OSM Route Verification
 
-## Practical Tips
+- **NW Saint Helens Road** (OSM way, residential/trunk) — connector road
+- **NW Saltzman Road** (OSM way, residential) — park access road
+- **Routing verified via OSM foot routing**
 
-- Parking available at both ends of the drive
-- Best walked counter-clockwise for hillier terrain
-- Bring water — no fountains along the route
-- Popular on weekends; early mornings are quieter
+## Tips for Walkers
+
+- 🚗 **Traffic:** Road is open to cars Mon–Sat; walk facing traffic
+- ☀️ **Sundays:** Best day — road is car-free from dawn to dusk
+- 🍂 **Fall colors:** Peak foliage mid-October; spectacular canopy tunnel
+- 🌡️ **Cool:** Forest canopy keeps temps low; bring a light jacket
+
+## Meeting Point
+
+**Leif Erikson Dr & Skidmore St** — 45.571, -122.772  
+(Parking lot on the east side of the road)

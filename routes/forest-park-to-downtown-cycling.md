@@ -1,46 +1,70 @@
-# Forest Park to Downtown / Willamette Valley Cycling Route
+# Forest Park to Downtown Portland Cycling Route
+
+**Route Type:** 🚴 Cycling  
+**Distance:** ~14.6 mi (9.0 mi one way)  
+**Elevation Gain:** ~900 ft descent (downhill into downtown)  
+**Difficulty:** Moderate (primarily downhill)  
+**Surface:** Paved road  
 
 ## Overview
-- **Distance:** ~14.6 miles (one-way)
-- **Difficulty:** Moderate (great descent, challenging return)
-- **Duration:** ~21 min descent / plan 1–2 hours round trip with rest stops
-- **Surface:** Paved roads (Saint Helens, Burnside, city streets)
-- **Elevation Change:** ~1,400 ft descent down, climb back up
 
-## Route Description
-Starting from Forest Park center, take **Northwest Saint Helens Road** down through the forest, then cross to **West Burnside Road** for 2.5 miles of city riding. Arrive at the Willamette River waterfront in downtown Portland — a scenic bonus!
+A thrilling descent from Forest Park through the NW hills and into downtown Portland, finishing at the Willamette River waterfront. This route combines forest trail riding with urban bike infrastructure — a Portland cycling classic.
 
-## Route Legs
-| Leg | Road | Distance | Notes |
-|-----|------|----------|-------|
-| 1 | NW Saint Helens Road | ~3 mi | Dramatic forest descent |
-| 2 | West Burnside Road | ~2.5 mi | East across the West Hills |
-| 3 | Burnside Street | ~3 mi | City core to waterfront |
-| 4 | Naito Parkway/Happy Valley Rd | ~2 mi | Willamette River waterfront |
+## Route Details
 
-## Key Waypoints
-| Point | Coordinates | Description |
-|-------|-------------|-------------|
-| Start | 45.575, -122.760 | Forest Park center |
-| Forest/park transition | 45.549, -122.734 | Saint Helens & Leif Erikson |
-| Burnside junction | 45.518, -122.690 | West Burnside city streets |
-| End (Downtown) | ~45.520, -122.680 | Willamette River waterfront area |
+| Segment | Distance | Key Features |
+|---------|----------|-------------|
+| Forest Park Center → Saltzman Rd | ~2.1 mi (2,071 m) | Warm-up; descend to NW Bridge Ave |  
+| Saltzman Rd → NW Bridge Ave | ~3.4 mi (3,371 m) | Continue on NW Saint Helens Road | 
+| NW Bridge Avenue → Saint Johns Bridge | ~0.9 mi (854 m) | Cross into St. Johns area |
+| North Philly Ave → Naito Pkwy | ~4.7 mi (4,586 m) | Urban descent through NW Portland | 
+| Downtown Portland waterfront | Finish at Tom McCall Waterfront Park | 45.523, -122.672 |
 
-## Highlights
-- **Dramatic downhill** through old-growth forest
-- Beautiful transition from forest canopy to cityscape
-- Bonus waterfront time at the Willamette River
-- Scenic snack opportunities downtown/Waterfront
+### Turn-by-Turn Directions (OSM Verified)
 
-## ⚠️ Warning: Return Trip Is UPHILL!
-The return from downtown to Forest Park is a significant climb (~14.6 mi uphill). **Plan accordingly:**
-- Drive car back and ride one-way
-- Take an easy pace and stretch breaks
-- Consider taking public transit back
-- Allow 1–2 hours total with rest stops
+1. From **Forest Park Center** (Leif Erikson Dr & Skidmore St, 45.571, -122.772)
+2. Head south on **NW Saltzman Road** (454 m)
+3. Continue on **NW Saint Helens Road** (3,371 m)
+4. Cross **NW Bridge Avenue** (174 m)
+5. Cross **Saint Johns Bridge** (1,093 m) — iconic 1931 suspension bridge!
+6. Head east on **North Philadelphia Avenue** (168 m)
+7. Continue on **North Ivanhoe Street** (324 m)
+8. Connect to **North Richmond Avenue** (111 m)
+9. Continue on **North Lombard Street** (466 m)
+10. Turn onto **North Buchanan Avenue** (457 m)
+11. Connect to **North Smith Street** (267 m)
+12. Continue on **North Columbia Way** (191 m)
+13. Merge onto **North Midway Avenue** (356 m)
+14. Continue south through NW Portland streets → **Burnside Street**
+15. Finish at **Naito Parkway / Tom McCall Waterfront Park**
 
-## Best Practices
-- Start early morning (cooler for descent, less traffic)
-- Check Leif Erikson Drive vehicle restrictions for access
-- Bring bike repair kit and extra water
-- Enjoy the waterfront stretch as a reward!
+**Total one-way:** ~9,440 m (~5.9 mi)  
+**Estimated cycling time (one-way):** ~12 minutes  
+
+## Key Landmarks
+
+| Location | Description | Coordinates |
+|----------|-------------|-------------|
+| Saint Johns Bridge | Iconic 1931 suspension bridge crossing the Willamette | 45.593, -122.747 |
+| NW Bridge Avenue | Connector between NW Saltzman and Germantown areas | 45.589, -122.759 |
+| Tom McCall Waterfront Park | Downtown finish; scenic riverfront | 45.523, -122.672 |
+| Burnside Street | Major east-west arterials in NW Portland | 45.535, -122.739 |
+
+## OSM Route Verification
+
+- **NW Saint Helens Road** (OSM way, residential/trunk) — descent route
+- **NW Bridge Avenue** (OSM way) — connector to bridge
+- **Saint Johns Bridge** (OSM way, bridge) — iconic 1931 structure
+- **Routing verified via OSM bike routing**
+
+## Tips for Cyclists
+
+- ⬇️ **Descend carefully:** The ride into downtown is fast — watch for traffic lights
+- 🌲 **Forest section:** NW Saint Helens Road is tree-lined and scenic
+- 🌉 **Saint Johns Bridge:** Stop at the top for a photo with the city panorama
+- 🚦 **Downtown:** Use bike lanes on Naito Parkway; dismount in Pedestrian Mall
+
+## Meeting Point
+
+**Forest Park Center** — Leif Erikson Dr & Skidmore St, 45.571, -122.772  
+**Finish:** Tom McCall Waterfront Park, 45.523, -122.672

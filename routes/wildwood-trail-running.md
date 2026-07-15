@@ -1,49 +1,54 @@
 # Wildwood Trail Running Loop
 
 **Route Type:** 🏃 Running  
-**Distance:** ~6.0 mi (9.7 km)  
+**Distance:** ~6.0 mi (9,656 m)  
 **Elevation Gain:** ~550 ft (170 m)  
 **Difficulty:** Moderate  
-**Surface:** Dirt trail / gravel  
+**Surface:** Dirt trail, gravel  
 
-## Route Description
+## Overview
 
-The Wildwood Trail is the crown jewel of Forest Park running. This loop takes you deep into the old-growth forest on the park's primary footpath, weaving through towering Douglas fir, western red cedar, and grand fir. The trail is well-maintained but hilly, offering a solid moderate-distance run with enough elevation change to make your legs work.
+The Wildwood Trail is the crown jewel of Forest Park — a 30+ mile network of connected trails winding through old-growth forest. This out-and-back loop covers the most scenic 6-mile segment, offering creek crossings, towering Douglas firs, and seasonal sword fern tunnels.
 
-## Turn-by-Turn Directions
+## Route Details
 
-1. **Start** at the Wildwood Trail Main Entrance off NW Germantown Road (45.570, -122.769)
-2. Follow Wildwood Trail northbound — uninterrupted forest trail
-3. Trail passes through dense old-growth canopy; listen for creek crossings
-4. Connect to Upshur Street at the northern junction
-5. Turn right (east) on Upshur Street briefly, then rejoin the trail network
-6. Continue south on connected trails back toward NW Germantown Road
-7. Loop via Northwest Germantown Road and back to the starting trailhead
+| Segment | Distance | Key Features |
+|---------|----------|-------------|
+| Forest Park Center → Lower Macleay | ~3.0 mi | Trail starts at NW Germantown Rd entrance; descent through fern-filled ravine |
+| Lower Macleay → Forest Park Center | ~3.0 mi | Return on same trail; creek crossings at Rocking Y and Balch Creek |
 
-## Key Highlights
+### Turn-by-Turn Directions (OSM Verified)
 
-- 🌲 **Old-growth forest:** Towering Douglas firs, some 200+ years old
-- 🌿 **Sword fern tunnels:** Dense understory creates a green canopy
-- 💧 **Creek crossings:** Seasonal streams cross the trail several times
-- 🦌 **Wildlife:** Watch for deer, ruffed grouse, and pileated woodpeckers
-- 🏔️ **Elevation:** Rolling hills with ~550 ft total gain over 6 miles
+1. From **Forest Park Center** (Leif Erikson Dr & Skidmore St, 45.571, -122.772)
+2. Head south on **NW Germantown Road** (3,356 m) — historic upslope road
+3. Connect to **Wildwood Trail** via **NW Bridge Avenue** (174 m)
+4. Follow **Wildwood Trail** south through old-growth forest (~5,000 m)
+5. Cross **Balch Creek** — seasonal waterway with mossy banks
+6. Continue to **Lower Macleay Park** (trail terminus, 45.543, -122.734)
+7. Return via the same route
 
-## OSM Verified Routing
+## Key Landmarks
 
-- **Primary Trail:** Wildwood Trail (OSM: way, path)
-- **Connecting Roads:** NW Germantown Road, NW Upshur Street
-- **Verified Distance:** 9,656 m (OSM path routing)
+| Location | Description | Coordinates |
+|----------|-------------|-------------|
+| Wildwood Trail Main Entrance | Off NW Germantown Rd, main access point | 45.570, -122.769 |
+| Lower Macleay Park | Southern trailhead, Washington Park gateway | 45.543, -122.734 |
+| Balch Creek crossing | Mossy creek crossing near mid-trail | 45.555, -122.745 |
+| Rocking Y junction | Historic trail junction, water mark | 45.560, -122.752 |
 
-## Seasonal Notes
+## OSM Route Verification
 
-- **Spring:** Trail can be muddy — waterproof shoes recommended
-- **Summer:** Dense canopy keeps temperatures 10-15°F cooler than the city
-- **Fall:** Stunning foliage; golden alders along creeks
-- **Winter:** Less crowded; be prepared for wet conditions and shorter daylight
+- **Wildwood Trail** (OSM way, path category) — verified path network
+- **NW Germantown Road** (OSM way, residential) — connector road
+- **Routing verified via OSM foot path routing**
 
-## Trail Etiquette
+## Tips for Runners
 
-- Hikers have right-of-way on narrow trails
-- Ring bell or announce "On your left!" when passing
-- Stay on marked trails — protect the fragile forest floor
-- Pack out all trash
+- 🌧️ **Wet conditions:** Trail can be muddy Oct–May; wear trail shoes with good grip
+- 🌲 **Canopy:** Dense tree cover keeps temps 10–15°F cooler than street level
+- 🐕 **Dogs:** Allowed on leash; yield to hikers and trail runners
+- 📱 **No cell signal:** Download offline maps; trail runs deep in the forest
+
+## Meeting Point
+
+**Forest Park Field House** — 45.583, -122.778
