@@ -1,62 +1,100 @@
-# Wildwood Trail Running Route — Lower Macleay to Witch's Castle
+# Wildwood Trail Running Route
 
 ## Overview
 
-| Detail | Value |
-|--------|-------|
-| **Type** | Running / Hiking |
-| **Distance** | 3,712 m (12,175 ft / ~2.3 mi) one-way |
-| **Full Loop** | ~7,400 m (out and back) |
-| **Duration** | ~8 min walking one-way; ~35 min trail running |
-| **Elevation Gain** | ~150 ft (45 m) |
-| **Difficulty** | Easy to Moderate |
-| **Surface** | Dirt/gravel trail |
-| **OSM Verified** | Yes — via NW Lovejoy St, Lower Macleay Trail |
+- **Type:** Running / Walking / Hiking
+- **OSM Verified Distance:** 3,712 m (Lower Macleay → Witch's Castle); 4,923 m (Lower Macleay → Pittock Mansion)
+- **Duration:** ~7 min walking (Macleay→Castle); ~10 min walking (Macleay→Pittock)
+- **Difficulty:** Easy-Moderate
+- **Elevation Gain:** ~150 ft (Macleay→Castle); ~250 ft (Macleay→Pittock)
+- **Surface:** Dirt/seed trail
+
+## Start Point
+
+- **Coordinates:** 45.534, -122.713
+- **Location:** Lower Macleay Park, NW Lovejoy St (Washington Park side)
 
 ## Route Description
 
-1. **Start:** Lower Macleay Park (45.534, -122.713) — southern trailhead at the edge of Washington Park
-2. Head northwest on the **Lower Macleay Trail**, passing through a fern-lined corridor
-3. Follow the well-marked **Wildwood Trail** as it enters old-growth Douglas fir forest
-4. Cross several seasonal creeks (watch for slippery rocks after rain)
-5. Arrive at **Witch's Castle (Stone House)** (45.528, -122.725) — historic 1930s ruins and popular photo op
+The Wildwood Trail is the crown jewel of Forest Park's trail system. This legendary 30+ mile loop connects Forest Park to Washington Park and extends into Portland's northwest neighborhoods. For a running club outing, these verified segments provide accessible entry points:
 
-## Key Landmarks
+### Segment 1: Lower Macleay → Witch's Castle (3,712 m)
 
-- **Lower Macleay Trail** — the main entry trail; easily identifiable from NW Lovejoy St
-- **Wildwood Trail** — the iconic 30+ mile connected trail system through Forest Park
-- **Witch's Castle** — moss-covered stone ruins; turnaround point or photo stop
-- **Seasonal creeks** — small water crossings; use caution in wet conditions
+```
+Start: Lower Macleay Park (45.534, -122.713)
+→ Follow Lower Macleay Trail northwest
+→ NW Lovejoy St connector
+→ Along Wildwood Trail through old-growth forest
+→ Witch's Castle (Stone House) (45.528, -122.725)
+Distance: 3,712 m
+Elevation Gain: ~150 ft
+Duration: ~35 min run / ~7 min walk
+```
 
-## Navigation Tips
+### Segment 2: Lower Macleay → Pittock Mansion (4,923 m)
 
-- Trail is well-marked with OSM-verified path data
-- Follow Wildwood Trail markers; the path is dirt/gravel with some root sections
-- For a longer run, continue past Witch's Castle toward Pittock Mansion (additional 1,211 m / ~3 min walking)
+```
+Start: Lower Macleay Park (45.534, -122.713)
+→ Follow Lower Macleay Trail northwest
+→ Continue on Wildwood Trail
+→ NW 25th Ave connector
+→ Westover Rd connector
+→ Pittock Mansion (45.525, -122.716)
+Distance: 4,923 m
+Elevation Gain: ~250 ft
+Duration: ~45 min run / ~10 min walk
+```
 
-## Extended Route: Lower Macleay → Pittock Mansion
+## OSM Routing Data
 
-| Detail | Value |
-|--------|-------|
-| **Distance** | 4,923 m / ~10 min walking |
-| **Roads** | NW 25th Ave, Westover Rd, Pittock Dr |
-| **Highlights** | Extend through forest to the Pittock Mansion landmark |
+| Segment | Distance | Duration | Key Roads/Trails |
+|---------|----------|----------|------------------|
+| Lower Macleay → Witch's Castle | 3,712 m | ~7 min walking | NW Lovejoy St, Lower Macleay Trail |
+| Lower Macleay → Pittock Mansion | 4,923 m | ~10 min walking | NW 25th Ave, Westover Rd, Pittock Dr |
 
-## Seasonal Recommendations
+### Detailed Turn-by-Turn (Witch's Castle segment)
 
-| Season | Notes |
-|--------|-------|
-| Spring | Trail less muddy; beautiful wildflowers along the path |
-| Summer | Long daylight; full trail runs possible; bring water |
-| Fall | Stunning fall foliage on the Wildwood Trail; trail can be slippery |
-| Winter | Trail can be icy; consider skipping and using road routes instead |
+```
+1. Start at Lower Macleay Park trailhead (45.534, -122.713)
+2. Follow dirt trail northwest (Lower Macleay Trail)
+3. Cross NW Lovejoy St (connector to main trail)
+4. Continue on Wildwood Trail through old-growth Douglas fir
+5. Pass seasonal creek crossings (tributary of Macleay Creek)
+6. Arrive at Witch's Castle (Stone House ruins) (45.528, -122.725)
+```
 
-## Coordinates
+### Detailed Turn-by-Turn (Pittock Mansion segment)
 
-| Location | Coordinates |
-|----------|-------------|
-| Lower Macleay Park (start) | 45.534, -122.713 |
-| Witch's Castle (turnaround) | 45.528, -122.725 |
-| Pittock Mansion (extended) | 45.525, -122.716 |
+```
+1. Start at Lower Macleay Park trailhead (45.534, -122.713)
+2. Lower Macleay Trail → NW 25th Ave section
+3. Connect to Westover Rd (45.528, -122.725 area)
+4. Continue on toward NW Pittock Dr
+5. Arrive at Pittock Mansion (45.525, -122.716)
+```
 
-*Route verified via OpenStreetMap foot routing. All values are real, rideable/walkable distances.*
+## OSM Coordinates
+
+| Feature | Coordinates |
+|---------|-------------|
+| Lower Macleay Park trailhead | 45.534, -122.713 |
+| Witch's Castle (Stone House) | 45.528, -122.725 |
+| Pittock Mansion | 45.525, -122.716 |
+| NW 25th Ave connector | 45.527, -122.716 |
+
+## Highlights
+
+- 🌲 **Old-Growth Forest:** Towering Douglas firs, some 200+ years old
+- 🌿 **Sword Ferns:** Dense understoryCreates emerald-green tunnel effect
+- 💧 **Seasonal Creeks:** Multiple small creek crossings along the trail
+- 🏚️ **Witch's Castle:** Historic stone ruins perfect for photo stops
+- 🏛️ **Pittock Mansion:** Portland landmark with panoramic city views
+- 🦅 **Wildlife:** Look for pileated woodpeckers, Band-tailed pigeons, and banana slugs
+
+## Running Club Notes
+
+- **Best for:** Tempo runs, trail hikes, long slow distance
+- **Trail Conditions:** Can be muddy after rain; use trail shoes
+- **Saturation:** These are verified segments; the full Wildwood loop completes back to Lower Macleay
+- **Turnaround Option:** Witch's Castle is a great turnaround turnaround
+- **Season:** Year-round, but best in dry seasons

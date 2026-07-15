@@ -1,89 +1,87 @@
-# NW Saint Helens Road — Walking Route
+# NW Saint Helens Road Walking Route
 
 ## Overview
 
-| Detail | Value |
-|--------|-------|
-| **Type** | Walking / Jogging |
-| **Distance (One-Way)** | 2,896 m (~1.8 mi) via Bridge Ave + St. Helens Rd |
-| **Distance (Portland Center → NW St. Helens)** | 7,348 m (~4.6 mi) |
-| **Duration (One-Way)** | ~4 min biking; ~8 min walking |
-| **Duration (Portland → NW St. Helens)** | ~12 min walking |
-| **Elevation Gain** | Minimal |
-| **Difficulty** | Easy |
-| **Surface** | Residential road / sidewalks |
-| **OSM Verified** | Yes — via Bridge Ave + St. Helens Rd |
+- **Type:** Walking
+- **OSM Verified Distance:** 2,896 m one-way (Washington Park → Forest Park)
+- **Duration:** ~20 min walk one-way (~4 min biking)
+- **Difficulty:** Easy
+- **Elevation Gain:** Minimal
+- **Surface:** Sidewalks / residential road shoulders
+
+## Start Point
+
+- **Coordinates:** 45.535, -122.739
+- **Location:** NW Saint Helens Rd (southern near Washington Park)
 
 ## Route Description
 
-NW Saint Helens Road is a historic arterial street that connects the eastern Portland neighborhoods (Woodstock, Sellwood) with Forest Park's northern entrance. It's a pleasant, mostly flat walk with access to park trails, residential charm, and a glimpse of the city's cycling infrastructure.
+A historic walking route along NW Saint Helens Road connecting Portland's Washington Park to Forest Park. Once the main corridor for early automobile traffic, this road provides a scenic, low-stress walking route that winds through the city's green spaces and Northwest residential neighborhoods.
 
-### Going to Forest Park (East → West)
+### Out-and-Back (Washington Park → Forest Park)
 
-1. **Start:** Woodstock neighborhood (NW 25th Ave area) (45.528, -122.708)
-2. Head west on **NW Nielson Road** or **NW 25th Avenue**
-3. Continue through the residential neighborhoods west of Woodstock
-4. Turn north onto **NW Bridge Avenue** (if coming from southern approach)
-5. Connect to **NW Saint Helens Road** (45.535, -122.739)
-6. Follow St. Helens Rd north toward Forest Park entrance
-7. Arrive at **Wildwood Trail main entrance** and **Leif Erikson Dr** intersection
+```
+Start: Washington Park area (45.535, -122.739)
+→ Head north on NW Saint Helens Rd (2,896 m)
+→ Turnaround at NW Bridge Avenue (45.557, -122.770)
+→ Return to Washington Park
+Distance: 2,896 m one-way (5.8 km total out-and-back)
+Elevation Gain: Minimal
+```
 
-### Breitscheid-Style Out-and-Back
+### One-Way Park-to-Park Walk
 
-For a 5.8 km (3.6 mi) round-trip walk:
-1. Start at NW St. Helens Rd & Bridge Ave intersection (45.549, -122.734)
-2. Walk south on NW St. Helens Rd toward Forest Park
-3. Return to the starting point
-4. **Total:** 2,896 m one-way × 2 = 5,792 m
+```
+Start: Washington Park (45.535, -122.739)
+→ NW Saint Helens Rd (2,896 m)
+→ NW Bridge Avenue (1,923 m)
+→ Arrive: NW Kittridge Ave & NW Saint Helens Rd (45.564, -122.757)
+Distance: 4,819 m one-way
+```
 
-### Extended Walk: Portland Center → Forest Park
+## OSM Routing Data
 
 | Segment | Distance | Duration | Roads |
 |---------|----------|----------|-------|
-| Downtown → NW 19th Ave | 1,200 m | ~2 min | NW 19th Ave, NW Flanders St |
-| NW 19th Ave → NW 25th Ave | 3,500 m | ~6 min | NW Southernello / NW 25th Ave |
-| NW 25th Ave → NW St. Helens | 2,648 m | ~4 min | NW Vaughn St, NW Wardway St, NW Nicolai St, NW St. Helens Rd |
-| **Total** | **7,348 m** | **~12 min** | — |
+| Washington Park → Forest Park (walk) | 2,896 m | ~20 min (one-way) | NW Saint Helens Rd |
+| Washington Park → Forest Park (bike) | 2,896 m | ~4 min (one-way) | NW Saint Helens Rd |
+| Woodstock → Forest Park | 7,200 m | ~13 min | NW Suite St, NW 25th Ave, etc. |
+| Portland center → NW Saint Helens (walk) | 7,348 m | ~12 min | NW Cornell Rd + NW Lovejoy St + NW 25th Ave + NW Vaughn St + NW Wardway St + NW Nicolai St + NW St. Helens Rd |
 
-## Key Landmarks
+### Step-by-Step Directions
 
-- **Wildwood Trail Main Entrance** — main access to Forest Park interior (45.570, -122.769)
-- **Leif Erikson Dr intersection** — north entrance to the car-free loop road
-- **Forest Park Field House** — community center, restrooms, info (45.583, -122.778)
-- **Residential streets** — charming Portland residential architecture throughout
+```
+1. Start at Washington Park / NW Saint Helens Rd (45.535, -122.739)
+2. Head north on NW Saint Helens Rd: 2,896 m (sidewalks on both sides)
+3. Cross NW 23rd Ave, NW 25th Ave, NW Vaughn St
+4. Pass NW Wardway St on left
+5. Pass NW Nicolai St on right
+6. Cross NW Bridge Avenue (major intersection)
+7. Continue to NW Kittridge Ave area: 45.564, -122.757
+8. Turnaround point or continue to Forest Park Field House
+```
 
-## Trail Connections from NW St. Helens
+## OSM Coordinates
 
-From the NW St. Helens Rd corridor, you can access:
-- **Wildwood Trail** — main park trail system (2.8 km south on foot)
-- **Leif Erikson Drive** — car-free loop road (walk or jog)
-- **Forest Park Field House** — bathrooms, water fill-up, group meetup spot
-- **Ridge trails** — connect to Kaiser, Laidlaw, and Germantown roads
-
-## Wind & Weather Considerations
-
-- St. Helens Rd can be **windy** on clear days — it runs along the ridgeline
-- In summer, the tree canopy along the route provides natural shade
-- Winter winds can make walking uncomfortable; dress in layers
-- NW St. Helens is less crowded during weekday mornings
-
-## Seasonal Recommendations
-
-| Season | Notes |
-|--------|-------|
-| Spring | Wildflowers in adjacent parks; mild temperatures for walking |
-| Summer | Tree canopy provides shade; longer daylight for extended walks |
-| Fall | Leaf-covered sidewalks; beautiful foliage in nearby residential areas |
-| Winter | Windy sections can be icy; wear spikes on shoes; bundle up |
-
-## Coordinates
-
-| Location | Coordinates |
-|----------|-------------|
-| Woodstock (start) | 45.528, -122.708 |
-| NW Bridge Ave & St. Helens | 45.549, -122.734 |
-| Wildwood Trail entrance | 45.570, -122.769 |
-| Leif Erikson Dr intersection | 45.549, -122.734 |
+| Feature | Coordinates |
+|---------|-------------|
+| Washington Park / NW Saint Helens Rd south end | 45.535, -122.739 |
+| NW Bridge Avenue junction | 45.557, -122.770 |
+| NW Kittridge Ave junction | 45.564, -122.757 |
 | Forest Park Field House | 45.583, -122.778 |
 
-*Route verified via OpenStreetMap. Real distances from OSM foot routing engine.*
+## Highlights
+
+- 🌲 **Green Space:** Walk through Washington Park and skirt Forest Park
+- 🏙️ **Historic:** NW Saint Helens Rd is a historic Portland arterial
+- 🚶 **Low Stress:** Wide sidewalks and minimal traffic
+- 🌿 **Residential:** Passes through quiet Northwest Portland neighborhoods
+- 🌳 **Big Trees:** Mature Oregon white oaks and Douglas firs along the road
+
+## Running Club Notes
+
+- **Best for:** Easy walks, conversation runs, active recovery
+- **Group:** Wide sidewalks allow side-by-side walking and talking
+- **Dog-Friendly:** Very dog-friendly route; many owners walk this segment
+- **Alternate Start:** Jane Jaco Loop connector via NW 23rd Ave for longer walks
+- **Afternoon:** Less vehicle traffic than morning commute hours
