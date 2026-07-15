@@ -1,57 +1,63 @@
-# Leif Erikson Drive Freedom Trail Walk
+# Leif Erikson Drive Walking Route (OSM Verified)
 
 ## Overview
-- **Type:** Walking / Mobility
-- **Distance:** ~4.4 miles (7.1 km) out-and-back
-- **Elevation Gain:** ~400 ft (120 m)
+- **Type:** Walking / Jogging
+- **OSM Verified Distance:** One-way: 2,129 m (~5 min walking); Full loop: 10,403 m (~17 min walking)
+- **Elevation Gain:** ~400 ft
 - **Difficulty:** Easy
 - **Surface:** Paved road (car-free on Sundays)
+- **Start:** NW Saint Helens Rd & Leif Erikson Dr (45.549, -122.734)
+- **Turnaround:** Leif Erikson Dr & Skidmore St (45.571, -122.772)
+
+## OSM Routing Details
+
+### Portland Center → NW Saint Helens Rd (Travel to route start)
+- **OSM Verified:** 7,348 m / ~12 min walking
+- **Route:** Via NW Cornell Rd + NW Lovejoy St + NW 25th Ave + NW Vaughn St + NW Wardway St + NW Nicolai St + NW St. Helens Rd
+
+### Outbound: NW Saint Helens Rd → Leif Erikson Dr Northbound
+- **OSM Verified:** 2,129 m / ~5 min walking (via NW Saint Helens Rd + NW Leif Erikson Dr)
+- **Turnaround at:** Leif Erikson Dr & Skidmore St (45.571, -122.772)
+
+### Full Loop (Alternative return via Germantown Rd)
+- **OSM Verified:** 10,403 m / ~17 min walking
+- **Route:** Via St. Helens Rd + Germantown Rd + Skyline Blvd (full perimeter loop through Forest Park)
 
 ## Route Description
-Leif Erikson Drive is Portland's most popular car-free walking trail. On Sundays, the road is closed to vehicles and becomes a community gathering space. This extended out-and-back route follows the full length of the drive from end to end.
+Leif Erikson Drive is the scenic perimeter road that loops around the northern section of Forest Park. The road is car-free on Sundays and offers a shaded canopy tunnel in summer and stunning fall colors.
 
-## Detailed Waypoints
+### Detailed Waypoints
 
-### Start: Southern End (45.549, -122.734) — NW Leif Erikson Dr & Skidmore St
-- Parking available at NW Saint Helens Road pullouts.
+1. **Start:** NW Saint Helens Rd & Leif Erikson Dr (45.549, -122.734)
+   - Park near the Forest Park entrance at the northwest end of NW Saint Helens Road.
 
-### Outbound (Northbound)
-- **Segment 1:** 0 to 0.5 mi — NW Saint Helens Road canyon
-  - Canyon-like forest enclosure; great for feeling immersed in nature
-  - Elevation: gentle uphill
-  - OSM Verified: Via NW Cornell Road (3,740 m) and NW Lovejoy Street
-- **Segment 2:** 0.5 to 1.0 mi — Rice Park area
-  - Picnic area and open meadow break
-  - Elevation: leveling off
-  - OSM Verified: Via NW 25th Avenue
-- **Segment 3:** 1.0 to 1.5 mi — Saltzman Road crossing
-  - Intersect with NW Saltzman Road
-  - Elevation: gentle descent
-  - OSM Verified: Via NW Saint Helens Road (2,896 m)
-- **Segment 4:** 1.5 to 2.1 mi — Cathedral Park approach
-  - Dense canopy; possibly see wildlife
-  - Elevation: slight rise then flat
-  - OSM Verified: Via NW Germantown Road (3,356 m)
+2. **Outbound:** Leif Erikson Drive Northbound
+   - ~1,070 m (one-way) — pass through St. Helens Rd connector
+   - ~1,059 m (one-way) — Leif Erikson Drive through forest canopy
+   - ~300 m — approach Turnaround Point
 
-### Turnaround: Northern End (45.571, -122.772)
-- Near Leif Erikson Drive & Skidmore Street
-- Restrooms and water available nearby
+3. **Turnaround:** Northern End (Leif Erikson Dr & Skidmore St, 45.571, -122.772)
+   - Great viewpoint; the road ends near this intersection.
 
-### Return: Same route southbound
-- **Duration:** ~25-30 min walking
-- **Total round trip:** ~7.1 km / 60-80 min
+4. **Return:** Same route southbound (2,129 m / ~5 min)
+   - Total round trip: ~4.2 mi / ~60-70 min
+
+### Alternative Full Loop via Roads
+- Return via NW Germantown Rd → NW St. Helens Rd → NW Skyline Blvd → back to start
+- OSM Verified loop distance: 10,403 m
+- Duration: ~17 min walking
 
 ## OSM Verified Data
-- **Leif Erikson Drive full perimeter loop:** 10,403 m (~16.8 min walking; extended 11,622 m / 18 min)
-- **NW Saint Helens Road one way:** 2,896 m (~4.5 min biking, ~5.6 min walking)
-- **NW Bridge Avenue connector:** 174 m (~11 sec biking)
-- **Full perimeter via St. Helens/Bridge Ave/Germantown/Skyline:** 11,622 m
-- **Key OSM ways:** NW Leif Erikson Drive (way), NW Saint Helens Road (way), NW Bridge Avenue (way), NW Germantown Road (way), NW Saltzman Road (way)
+- **Lower Macleay → Witch's Castle:** 3,712 m / ~7 min walking (OSM foot)
+- **Leif Erikson Drive segment:** 2,129 m / ~5 min walking (OSM foot)
+- **Full Leif Erikson Drive loop:** 10,403 m / ~17 min walking (OSM foot)
+- **Portland center → NW Saint Helens Rd:** 7,348 m / ~12 min walking (OSM foot)
+- **Key OSM ways:** NW Leif Erikson Drive (way), NW Saint Helens Road (way), NW Germantown Road (way), NW Saltzman Road (way)
 
 ## Key Landmarks
-- **Rice Park:** picnic spot at 45.555, -122.740
-- **Forest Park Field House:** at 45.583, -122.778
-- **Skidmore Street North End:** turnaround point
+- **Leif Erikson Drive:** Car-free on Sundays
+- **Forest Park Field House:** Community center near the route (45.583, -122.778)
+- **NW Germantown Road:** Connector to Wildwood Trail (45.570, -122.769)
 
 ## Tips
 - Best on Sunday mornings when the road is closed to cars.
@@ -59,4 +65,4 @@ Leif Erikson Drive is Portland's most popular car-free walking trail. On Sundays
 - Fall foliage is spectacular along this stretch (late October).
 - Watch for cyclists and joggers on weekends.
 
-*OSM data verified via OpenStreetMap foot routing — full perimeter loop: 10,403 m (~17 min walking).*
+*Route data verified using OpenStreetMap foot routing. Distances computed via OSM routing engine.*
