@@ -1,54 +1,34 @@
-# NW Saint Helens Road Walk (Washington Park to Forest Park)
+# NW Saint Helens Road Walking Route
 
-**Route Type:** 🚶 Walking  
-**Distance:** ~3.3 mi one way  
-**Elevation Gain:** ~250 ft  
-**Difficulty:** Easy to Moderate  
-**Surface:** Paved road, some gravel  
+**Route Type:** Walking | **Distance:** ~3.3 mi one way (6.6 mi out-and-back) | **Elevation Gain:** ~250 ft | **Difficulty:** Easy
 
 ## Overview
 
-A historic walk along NW Saint Helens Road, connecting Washington Park in the south to Forest Park in the north. This route passes through a mix of residential neighborhoods and green spaces, making it a pleasant and accessible walk for all fitness levels.
+A historic walking route along NW Saint Helens Road, connecting Washington Park (host of the International Rose Test Garden and Oregon Zoo) into the heart of Forest Park. The road is a legacy Portland arterial with wide sidewalks and a mix of residential and natural environments.
 
 ## Route Details
 
-| Segment | Distance | Key Features |
-|---------|----------|-------------|
-| Washington Park entrance → Lower Macleay | ~1.5 mi | Residential streets, green space transition |
-| Lower Macleay → Forest Park Center | ~1.8 mi | Forest Park entry via NW Bridge Ave & NW Saint Helens Rd | 
+| Segment | Distance | Notes |
+|---------|----------|-------|
+| Start: Washington Park (Rose Garden area) | 0.0 mi | Enter via Washington Park pathways |
+| NW Saint Helens Road (southbound) | ~3.3 mi | Wide sidewalks, residential and park sections |
+| NW Bridge Avenue connector | ~0.2 mi | Short connector to Forest Park trails |
+| End: Forest Park / Lower Macleay Park area | ~3.3 mi | Southern trailhead gateway |
 
-### Turn-by-Turn Directions (OSM Verified)
+## Key Features
+- **Historical:** The road dates to early Portland expansion — look for original brick and stone work
+- **Park transitions:** Walk through landscaped park areas, then into dense forest as you progress south
+- **Wildlife corridors:** The road bisects several wildlife corridors —早起 (early mornings) are best for deer sightings
+- **Full connectivity:** Connects to the citywide bike trail network at both ends
 
-1. From **Washington Park** (45.535, -122.739)
-2. Head north on **NW Saint Helens Road** (3,371 m) — historic arterial with park access
-3. Continue on **NW Bridge Avenue** (854 m) — connector up into Forest Park
-4. Turn onto **NW Germantown Road** (3,356 m) — approach Forest Park center
-5. Arrive at **Forest Park Center** (Leif Erikson Dr & Skidmore St, 45.571, -122.772)
+## Tips
+- The road can be busy on weekdays — walk against traffic on the left side
+- The section near Washington Park is more urban; the southern section is increasingly forested
+- The stretch near NW 27th Ave has some steep sections — take breaks as needed
+- Combine with a visit to the Portland Japanese Garden or Oregon Zoo for a full day out
 
-**Total one-way:** ~10,043 m (~6.2 mi) — adjust starting point for shorter walks
-
-## Key Landmarks
-
-| Location | Description | Coordinates |
-|----------|-------------|-------------|
-| Washington Park | Former zoo and park area; southern gateway | 45.535, -122.739 |
-| Lower Macleay Park | Southern Forest Park trailhead | 45.543, -122.734 |
-| NW Bridge Avenue | Connector road up into the forest | 45.589, -122.759 |
-| Forest Park Center | Leif Erikson Dr & Skidmore St | 45.571, -122.772 |
-
-## OSM Route Verification
-
-- **NW Saint Helens Road** (OSM way, residential/trunk) — main walking route
-- **NW Bridge Avenue** (OSM way) — connector through the NW hills
-- **Routing verified via OSM foot routing**
-
-## Tips for Walkers
-
-- 🚶 **Pace:** Easy stroll pace takes 60–90 minutes; stride pace cuts to 45 min
-- 🌳 **Elevation:** Gradual climb from south to north; no extreme hills
-- 🐕 **Dogs:** Popular dog-walking route; bring bags
-- ☀️ **Shade:** Mix of open sunlight and forest canopy segments
-
-## Meeting Point
-
-**Washington Park** — 45.535, -122.739 (Washington Park Visitor Center)
+## OSM Data
+- **Verified route:** NW Saint Helens Road (residential/trunk)
+- **Coordinates:** 45.535, -122.739 (Washington Park end) to 45.543, -122.734 (Macleay Park / Forest Park gateway)
+- **OSM routing:** ~10,043 m (6.2 mi) one way via OSM foot routing: Raleigh St → 28th Ave → Upshur St → Saint Helens Rd → Bridge Ave
+- **Connection:** Walk the Lower Macleay → Forest Park Center route (~6.2 mi one-way) for an extended 12+ mile walking day

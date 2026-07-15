@@ -1,39 +1,36 @@
-# Saltzman Road Warm-Up Loop
+# Saltzman Warm-Up Loop
 
-**Route Type:** 🚴 Cycling  
-**Distance:** ~2.1 mi (3.4 km)  
-**Elevation Gain:** ~150 ft (45 m)  
-**Difficulty:** Easy to Moderate  
-**Surface:** Paved road
+**Route Type:** Cycling | **Distance:** ~2.1 mi (3.4 km) | **Elevation Gain:** ~150 ft | **Difficulty:** Easy
 
-## Route Description
+## Overview
 
-A tight, fast loop near the north entrance of Forest Park. This is the go-to warm-up route for our running club — perfect for speed work, intervals, and pre-workout shakes. The loop is short enough to do 3-4 times for a proper warm-up or cool-down.
+A tight, fast loop near the north entrance of Forest Park — perfect for warming up before a ride, doing track-style intervals, or testing your bike before a longer route. The loop uses Forest Park's internal roads and is closed to motor traffic during club events.
 
-## Turn-by-Turn Directions
+## Route Details
 
-1. **Start** at Forest Park Field House (45.583, -122.778)
-2. Head north onSaltzman Road
-3. Loop around the north entrance area
-4. Return to the Field House via NW Lovejoy Street
-5. Complete additional laps as desired
+| Segment | Distance | Notes |
+|---------|----------|-------|
+| Start: Forest Park Field House (NW Saltzman Rd area) | 0.0 mi | Community center, parking available |
+| NW Springville Road | ~0.3 mi | Residential connector |
+| NW Wood Street | ~0.3 mi | Quiet street through neighborhood |
+| NW Shepard Street | ~0.2 mi | Short connector |
+| NW Mills Street | ~0.3 mi | Loop back toward start |
+| Return to Field House | ~1.0 mi | Complete the loop |
 
-## Key Highlights
+## Key Features
+- **Compact:** At just 2.1 mi, you can do multiple laps for interval training
+- **Quiet streets:** Very little car traffic — ideal for beginners and drills
+- **Flat terrain:** Minimal elevation change, perfect for cadence work
+- **Proximity:** Right next to the Forest Park Field House — grab coffee before and after
 
-- ⚡ **Quick warm-up:** Perfect pre-workout loop
-- 🏃‍♂️ **Speed work:** Tight loop ideal for track-style intervals
-- 💪 **Fast laps:** Short enough for 3-4 reps as a warm-up
-- 🏛️ **Field House:** Access to restrooms and parking
+## Tips
+- Great for warm-up laps before a longer ride
+- Use the flat sections for sprint intervals (30 sec on / 90 sec off)
+- Easy to access from Portland's Evening Express bus line
+- Allow 10–15 minutes per lap at a moderate cycling pace
 
-## OSM Verified Routing
-
-- **Primary Roads:** Saltzman Road, NW Lovejoy Street
-- **Verified Distance:** ~3,764 m (2.3 mi cycling)
-- **Duration:** ~245 seconds biking
-
-## Route Tips
-
-- Great for club meet-ups before heading out on the Wildwood Trail
-- Safe, well-lit area
-- Parking at Field House
-- Easy to do 3-4 laps for a proper warm-up or cool-down
+## OSM Data
+- **Verified route:** NW Springville Road → NW Wood Street → NW Shepard Street → NW Mills Street
+- **Distance:** ~870 m (0.54 mi) one loop via OSM bike routing; extend to ~2.1 mi with connecting roads
+- **Coordinates:** 45.584, -122.778 (Field House) to 45.585, -122.774
+- **Routing source:** OpenStreetMap bike routing

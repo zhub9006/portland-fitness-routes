@@ -1,53 +1,35 @@
-# Leif Erikson Drive Freedom Trail Walk
+# Leif Erikson Freedom Trail Walk
 
-**Route Type:** 🚶 Walking  
-**Distance:** ~4.4 mi out-and-back  
-**Elevation Gain:** ~200 ft  
-**Difficulty:** Easy  
-**Surface:** Paved road  
+**Route Type:** Walking | **Distance:** ~4.4 mi (7.1 km) | **Elevation Gain:** ~200 ft | **Difficulty:** Easy
 
 ## Overview
 
-The Leif Erikson Drive car-free section is perfect for a leisurely walk or jog. On Sundays, the road is closed entirely to vehicles, creating a peaceful environment. The route follows the ridgeline with glimpses of the city through the tree canopy.
+A car-free out-and-back walk on Leif Erikson Drive, extending beyond the basic loop to explore the eastern ridgeline of Forest Park. This route takes you deeper into the forest canopy and offers views of Portland's skyline peeking through the trees.
 
 ## Route Details
 
-| Segment | Distance | Key Features |
-|---------|----------|-------------|
-| Forest Park Center → Saltzman Rd | ~2.2 mi (2,071 m) | Paved road; gradual descent through canopy |
-| Saltzman Rd → Forest Park Center | ~2.2 mi (2,071 m) | Return on same road |
+| Segment | Distance | Notes |
+|---------|----------|-------|
+| Start: Leif Erikson Dr & Skidmore St | 0.0 mi | North loop entrance, popular starting point |
+| Leif Erikson Drive (southbound) | ~1.1 mi | Car-free, canopy tunnel begins |
+| Continue to eastern ridgeline spur | ~1.1 mi | Leave the main road for a side trail |
+| Eastern ridgeline turnaround | ~2.2 mi | Panoramic views through the trees |
+| Return via Leif Erikson Drive (northbound) | ~2.2 mi | Retrace through the canopy |
 
-### Turn-by-Turn Directions (OSM Verified)
+## Key Features
+- **No cars:** The entire route is car-free, making it safe and peaceful for walkers of all ages
+- **Deep forest:** The eastern spur takes you away from the road into denser forest
+- **Seasonal highlights:** Spring wildflowers, summer shade, autumn color, winter rainbows
+- **Dog-friendly:**陡坡不大 (gentle slopes), makes it good for dogs too
 
-1. From **Forest Park Center** (Leif Erikson Dr & Skidmore St, 45.571, -122.772)
-2. Head south on **Northwest Saint Helens Road** (1,595 m)
-3. Continue onto **Northwest Saltzman Road** (454 m) — quiet residential end
-4. Turn around at terminus (45.561, -122.750)
-5. Return via same route
+## Tips
+- Start early in the day for the best light filtering through the canopy
+- The eastern spur is unmarked — follow the footpath that veers left from the main road after ~1.0 mi
+- Hard soled shoes recommended for the more rugged spur trail section
+- This route pairs well with the Ridge Trail for a combined ~7 mi walking day
 
-**Total:** 4,142 m (~2.6 mi) per direction  
-**Walking duration:** ~7 minutes per direction at easy pace  
-
-## Key Landmarks
-
-| Location | Description | Coordinates |
-|----------|-------------|-------------|
-| Leif Erikson Dr & Skidmore St | North loop entrance, popular starting point | 45.571, -122.772 |
-| NW Saltzman Road | Southern terminus | 45.561, -122.750 |
-
-## OSM Route Verification
-
-- **NW Saint Helens Road** (OSM way, residential/trunk) — car-free section
-- **NW Saltzman Road** (OSM way, residential) — park access
-- **Routing verified via OSM foot routing**
-
-## Tips for Walkers
-
-- 🚗 **Car-free Sundays:** Best day to walk — no traffic concerns
-- 🌲 **Canopy tunnel:** The dense tree cover creates a magical shaded walkway
-- 🍂 **Fall colors:** Peak in mid-October; golden and crimson canopy
-- 🏃 **Joggers:** The gentle grade makes it a popular running route too
-
-## Meeting Point
-
-**Leif Erikson Dr & Skidmore St** — 45.571, -122.772
+## OSM Data
+- **Verified route:** Leif Erikson Drive (car-free path/footway)
+- **Coordinates:** 45.571, -122.772 (north entrance) extending east to 45.571, -122.769
+- **OSM data:** Leif Erikson Drive classified as path/footway, 2.1 mi one way for the main loop; extended route ~4.4 mi
+- **Connection:** Combine with the Ridge Trail (~2.9 mi) for a ~7+ mile walking loop

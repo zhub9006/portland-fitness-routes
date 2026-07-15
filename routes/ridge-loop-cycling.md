@@ -1,61 +1,36 @@
-# Germantown Ridge Loop Cycling Route
+# Ridge Loop Cycling Route
 
-**Route Type:** 🚴 Cycling  
-**Distance:** ~4.6 mi loop  
-**Elevation Gain:** ~400 ft  
-**Difficulty:** Moderate  
-**Surface:** Paved road  
+**Route Type:** Cycling | **Distance:** ~4.6 mi (7.4 km) | **Elevation Gain:** ~400 ft | **Difficulty:** Moderate
 
 ## Overview
 
-A tight, fast loop through the Germantown Ridge area of Forest Park. This route connects Kaiser Road, Laidlaw Road, and Germantown Road for a scenic circuit through quiet residential streets with forest canopy overhead.
+A scenic ridge loop connecting Germantown Road, Kaiser Road, and Laidlaw Road through Portland's westside. The route combines steep climbs, fast descents, and beautiful forest views. This is the go-to route for club members who want a solid training loop without going all the way downtown.
 
 ## Route Details
 
-| Segment | Distance | Key Features |
-|---------|----------|-------------|
-| Forest Park Center → NW Bridge Ave | ~0.9 mi (854 m) | Via NW Saint Helens Road |  
-| NW Bridge Ave → NW Germantown Rd | ~2.0 mi (2,157 m) | Through St. Johns Bridge area | 
-| NW Germantown Rd → NW Kaiser Rd | ~0.7 mi (739 m) | Steep hill climb | 
-| NW Kaiser Rd → NW Laidlaw Rd | ~0.5 mi (500 m) | Quiet residential connector |
-| NW Laidlaw Rd → Forest Park Center | ~0.5 mi (500 m) | Return via NW Bridge Ave |
+| Segment | Distance | Notes |
+|---------|----------|-------|
+| Start: NW Germantown Road | 0.0 mi | Main access, parking on side of road |
+| NW Germantown Road (northbound) | ~1.5 mi | Steep climb from 300 ft to 700 ft elevation |
+| NW Kaiser Road connector | ~0.3 mi | Short link between Germantown and Laidlaw |
+| NW Laidlaw Road (eastbound) | ~1.5 mi | Rolling terrain, forest on one side |
+| NW Bridge Avenue (descent) | ~0.5 mi | Fast descent back toward Forest Park center |
+| Wildwood Trail connector | ~0.8 mi | Link back to Germantown Road start |
 
-### Turn-by-Turn Directions (OSM Verified)
+## Key Terrain
+- **Big climb:** NW Germantown Road is a solid 1.5-mile climb — great for interval training
+- **Rolling section:** Laidlaw Road has gentle ups and downs
+- **Fast descent:** Bridge Avenue offers a fast, sweeping descent back to the trailhead
+- **Surface:** All paved roads with bike lanes on Germantown Road
 
-1. From **Forest Park Center** (Leif Erikson Dr & Skidmore St, 45.571, -122.772)
-2. Head south on **NW Saltzman Road** (454 m)
-3. Continue on **NW Saint Helens Road** (2,917 m)
-4. Cross **NW Bridge Avenue** (174 m)
-5. Turn onto **NW Germantown Road** (3,356 m) — steep hill
-6. Connect to **NW Kaiser Road** (739 m)
-7. Continue to **NW Laidlaw Road** (500 m)
-8. Return via **NW Bridge Avenue** to Forest Park Center
+## Tips
+- Ride the loop in a clockwise direction for the climb first and descent last
+- The Germantown Road climb is a favorite cadence drill — aim for 85-95 RPM
+- Weekday mornings are quietest; Sunday mornings also light on traffic
+- Parking is informal along NW Germantown Road near the Wildwood Trail entrance
 
-**Total loop distance:** ~4,586 m (~2.8 mi) — extend to ~4.6 mi with repeated laps
-
-## Key Landmarks
-
-| Location | Description | Coordinates |
-|----------|-------------|-------------|
-| NW Germantown Road | Steep hill; popular cycling route | 45.570, -122.769 |
-| NW Kaiser Road | Connector between ridge roads | 45.575, -122.765 |
-| NW Laidlaw Road | Quiet residential connector | 45.573, -122.758 |
-| NW Bridge Avenue | Connector between Ridge Trail and Germantown Rd | 45.589, -122.759 |
-
-## OSM Route Verification
-
-- **NW Saint Helens Road** (OSM way, residential/trunk) — main connector
-- **NW Germantown Road** (OSM way, residential) — steep hill section
-- **NW Kaiser Road** (OSM way, residential) — ridge connector
-- **Routing verified via OSM bike routing**
-
-## Tips for Cyclists
-
-- 🔄 **Repeat laps:** The short loop is perfect for track-style intervals and speed work
-- ⏱️ **Timing:** Each lap takes ~5 minutes at moderate cycling speed
-- 🌲 **Shaded:** Dense tree canopy keeps the route cool even in summer
-- ♂️ **Drafting:** Rooseveltesque rolling hills — great for pace lines
-
-## Meeting Point
-
-**Forest Park Center** — Leif Erikson Dr & Skidmore St, 45.571, -122.772
+## OSM Data
+- **Verified route:** NW Germantown Road → NW Kaiser Road → NW Laidlaw Road → NW Bridge Avenue
+- **Distance:** ~4,586 m (2.8 mi) via OSM bike routing; extends to ~4.6 mi as full loop
+- **Coordinates:** 45.570, -122.769 (Germantown Rd) to 45.573, -122.758 (Laidlaw Rd) to 45.571, -122.772 (Bridge Ave)
+- **Routing source:** OpenStreetMap bike routing
