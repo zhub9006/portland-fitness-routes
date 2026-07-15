@@ -15,6 +15,7 @@ A collection of walking, cycling, and running routes around Forest Park in Portl
 | [routes/st-johns-connector-cycling.md](routes/st-johns-connector-cycling.md) | 🚴 Cycling | ~15.0 mi | St. Johns Bridge descent into Forest Park |
 | [routes/nw-saint-helens-walk.md](routes/nw-saint-helens-walk.md) | 🚶 Walking | ~3.3 mi | Washington Park to Forest Park via NW Saint Helens Rd |
 | [routes/leif-erikson-freedom-trail-walk.md](routes/leif-erikson-freedom-trail-walk.md) | 🚶 Walking | ~4.4 mi | Leif Erikson Drive car-free out-and-back |
+| [routes/forest-park-key-locations.md](routes/forest-park-key-locations.md) | 📍 Reference | — | Key locations, trailheads, and OSM features |
 
 ## 📊 Route Summary by Type
 
@@ -119,6 +120,8 @@ A collection of walking, cycling, and running routes around Forest Park in Portl
 | Wildwood Trail Main Entrance | Off NW Germantown Rd, main access point | 45.570, -122.769 |
 | Ridge Trail Parking Lot | Northwest Forest Park, ridgeline access | 45.588, -122.794 |
 | Forest Park Field House | Community center, Warm-up loop area | 45.583, -122.778 |
+
+---
 
 ## 🤝 Running Club Info
 
