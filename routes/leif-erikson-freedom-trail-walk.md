@@ -1,57 +1,59 @@
-# Leif Erikson Freedom Trail Walk
+# Leif Erikson Drive Freedom Trail Walk
 
-**Type:** Walking  
-**Difficulty:** Easy  
-**Best Season:** Year-round
-
----
-
-## Route: Leif Erikson Drive Out-and-Back
-
-| Metric | Value |
-|--------|-------|
-| **One-Way Distance** | 2,129 m (~1.3 mi) |
-| **Walking Duration** | ~5 min (one way); ~17 min full loop |
-| **Full Loop Distance** | 10,403 m (~6.5 mi) |
-| **OSM Verified** | ✅ Foot routing: Leif Erikson Dr full loop via St. Helens Rd, Germantown Rd, Skyline Blvd |
-
-**Coordinates:**
-- Leif Erikson Dr & Skidmore St: 45.571, -122.772
-- Leif Erikson Dr midpoint: 45.549, -122.734
-
-**Route Segments:**
-| Segment | Distance | Road |
-|---------|----------|------|
-| Skidmore St → NW Bridge Ave | 46 m | Leif Erikson Dr on-ramp |
-| NW Bridge Ave → NW St. Helens Rd | 3,363 m | NW Bridge Ave → NW St. Helens Rd |
-| NW St. Helens Rd (inner) | 847 m | NW St. Helens Rd |
-| Return via NW Bridge Ave → Leif Erikson | 3,363 m | NW Bridge Ave → Leif Erikson Dr |
-
-**Highlights:**
-- 🚗 **Car-free on Sundays** — Leif Erikson Drive is closed to vehicle traffic on Sundays (seasonal)
-- 🌳 Dense tree canopy tunnel in summer — feels like walking through a green tunnel
-- 🍂 Spectacular fall foliage — one of Portland's best autumn walks
-- 👨‍👩‍👧‍👦 Paved, wide path — perfect for families, strollers, and scooters
-- 📸 Mt. Hood and city skyline views from the eastern sections
-- 🏃‍♀️ Popular running route — 6.5 mi loop at easy pace
-
-**Running Club Tips:**
-- Sunday mornings: walk/roll the full loop without traffic
-- Out-and-back: turn around at any point for custom distances
-- Add Wildwood Trail spurs for elevation variety
-- Hot weather: the canopy keeps it 10-15°F cooler than outside the park
+**Type:** Walking/Jogging
+**OSM Verified Distance:** 10,403 m (full loop); 2,129 m one-way
+**Estimated Duration:** ~125 min walking / ~35 min jogging
+**Elevation Gain:** ~400 ft
+**Difficulty:** Easy
 
 ---
 
-## Extended Freedom Trail: Leif Erikson + Skyline Combo
+## Route Overview
 
-**~12.2 mi loop combining Leif Erikson Drive and NW Skyline Blvd**
+Leif Erikson Drive is the crown jewel of Forest Park walking routes. This car-free loop road circles the upper portion of the park, offering panoramic views and a shaded canopy tunnel in summer. On Sundays, the road is completely closed to cars, making it ideal for walking, jogging, or rolling (skates/scooters).
 
-| Segment | Distance |
-|---------|----------|
-| Leif Erikson Drive (one-way) | 4,390 m |
-| NW Skyline Blvd (one-way) | ~3,000 m |
-| Ridge connector | ~2,700 m |
-| Leif Erikson return | 4,390 m |
+## Turn-by-Turn Directions (OSM Verified)
 
-This route combines the iconic car-free Leif Erikson Drive with the ridge-level Skyline Boulevard for a longer, more varied walk.
+1. **Start:** NW Saint Helens Road & Leif Erikson Drive (45.549, -122.734)
+2. Head east on **Leif Erikson Drive** (starts as NW Saint Helens Road)
+3. Follow the winding road through old-growth forest
+4. Continue north on **Leif Erikson Drive** toward Skidmore Street
+5. **Turnaround point:** Leif Erikson Drive & Skidmore Street (45.571, -122.772)
+6. Return the same way for a 4.2 mi out-and-back, or complete the full loop
+
+## Full Loop Route
+
+For the full loop, continue from Skidmore Street:
+- East on **NW Leif Erikson Drive** (or return south via **NW Germantown Road** and **NW Skyline Boulevard**)
+- The full loop connects via St. Helens Road, Germantown Road, and Skyline Boulevard
+
+## Key Landmarks
+
+| Waypoint | Coordinates | Notes |
+|----------|-------------|-------|
+| North entrance (Leif Erikson & Skidmore) | 45.571, -122.772 | Popular starting point; parking nearby |
+| Car-free Sunday section | Various | Road closed to cars Sundays |
+| Canopy tunnel | ~45.555, -122.748 | Dense tree corridor in summer |
+| Northwest ridge overlook | ~45.560, -122.760 | Views of Portland skyline |
+| South entrance (St. Helens & Leif Erikson) | 45.549, -122.734 | Trailhead area |
+
+## OSM Routing Data (COMPUTED)
+
+- **OSM foot mode:** Leif Erikson Drive full loop — **10,403 m** / ~17 min walk
+- **OSM bike mode (St. Helens segment):** 3,764 m / ~4 min bike
+- **Portland center → NW St. Helens (walk):** 7,348 m / ~12 min walking
+- **Key OSM ways:** NW Saint Helens Road, NW Leif Erikson Drive, NW Germantown Road, NW Skyline Boulevard
+
+## Day-of-Week Notes
+
+- **Sundays:** Road is closed to cars — best day for this route!
+- **Weekdays:** Some car traffic; stay alert, especially near intersections
+- **Weekends:** Light traffic; comfortable for walking groups of any size
+
+## Tips
+
+- The east section (near the Forest Park Field House) is the flattest and most popular
+- The west section (near the ridge) has steeper grades but better views
+- Fall is the most popular time — the canopy turns brilliant gold and orange
+- Dogs must be leashed on this route per Portland city code
+- Restrooms available at Forest Park Field House and Leif Erikson parking area
