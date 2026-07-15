@@ -1,8 +1,15 @@
-# Portland Fitness Routes 🏃‍♂️🚶‍♀️🚶
+# Portland Fitness Routes 🏃‍♂️🚶‍♀️🚴
 
 A collection of walking, cycling, and running routes around **Forest Park** in Portland for our running club. All routes are verified using OpenStreetMap (OSM) path and road routing data. Distances and durations have been computed via the OSM routing engine.
 
 ---
+
+## Quick Start
+
+```bash
+git clone https://github.com/zhub9006/portland-fitness-routes.git
+cd portland-fitness-routes
+```
 
 ## Route Files Index
 
@@ -127,4 +134,49 @@ All distances and durations below were computed using OpenStreetMap routing (foo
 
 ---
 
+## Seasonal Recommendations
+
+| Season | Best Routes | Notes |
+|--------|-------------|-------|
+| Spring | Wildwood Trail, City Center → Park | Trail is less muddy; beautiful wildflowers |
+| Summer | Leif Erikson, Forest Park to Downtown | Long daylight hours; full trail loops |
+| Fall | Wildwood Trail, Leif Erikson | Stunning fall foliage; peak colors mid-October |
+| Winter | Downtown → Park, Ridge Loop | Roads more accessible; trails can be icy |
+
+---
+
+## Contributing
+
+To add a new route:
+1. Run the route using OSM routing (OsmAnd, GraphHopper, or OSRM)
+2. Record distance, duration, and elevation data
+3. Create a new file in `routes/` with the naming convention `[route-name].md`
+4. Include: Overview table, description, key landmarks, coordinates, and seasonal notes
+5. Open a Pull Request
+
+---
+
+## Repository Structure
+
+```
+portland-fitness-routes/
+├── README.md                    ← You are here
+├── routes.md                    ← Legacy detailed route summaries
+└── routes/
+    ├── wildwood-trail-running.md         ← Lower Macleay → Witch's Castle
+    ├── leif-erikson-walking.md           ← Car-free loop out-and-back
+    ├── skyline-cycling-route.md          ← Ridge loop with views
+    ├── forest-park-to-downtown-cycling.md ← Park-to-downtown commute
+    ├── saltzman-warmup-loop.md           ← Quick interval warmup
+    ├── ridge-loop-cycling.md             ← Germantown/Kaiser/Laidlaw
+    ├── st-johns-connector-cycling.md      ← St. Johns Bridge descent
+    ├── nw-saint-helens-walk.md            ← Historic arterial walk
+    └── verified-routes.md                ← Complete OSM data reference
+```
+
+---
+
 *Route data maintained by the running club. All routes verified using OpenStreetMap path and road data.*
+
+**GitHub:** https://github.com/zhub9006/portland-fitness-routes
+**Clone:** `git clone https://github.com/zhub9006/portland-fitness-routes.git`
