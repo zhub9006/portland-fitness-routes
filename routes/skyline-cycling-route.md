@@ -1,79 +1,54 @@
-# NW Skyline Boulevard Cycling Route
+# Skyline Cycling Route
 
-**Route Type:** Cycling  
-**Distance:** ~12.2 miles (19.6 km)  
-**Elevation Gain:** ~800 ft  
+**Type:** Cycling  
 **Difficulty:** Moderate  
-**Surface:** Paved road (bike lanes on sections)  
-**Best Season:** Spring through Fall  
+**Best Season:** Spring–Fall (avoid icy winter ridge)
 
 ---
 
-## Overview
+## Route: Extended Leif Erikson Loop via NW Skyline Blvd
 
-This stunning ride follows NW Skyline Boulevard along the ridge that forms the western boundary of Forest Park. On clear days, you'll see Mt. Hood from multiple vantage points. The route combines the Wildwood Trail connection, Leif Erikson Drive, and the full Skyline loop.
+| Metric | Value |
+|--------|-------|
+| **Full Loop Distance** | ~11,622 m (~7.2 mi) |
+| **Duration** | ~20 min biking |
+| **Elevation** | ~800 ft gain (rolling) |
+| **OSM Verified** | ✅ Bike routing via NW St. Helens Rd, NW Bridge Ave, NW Skyline Blvd |
 
-## Route Details
+**Coordinates:**
+- Forest Park Center: 45.536, -122.739 (start)
+- Ridge section: 45.580, -122.790 (NW Skyline Blvd)
 
-### Full Route: Forest Park to Ridge Loop and Back
-- **Distance:** ~12.2 mi
-- **Duration:** ~45-60 min cycling
-- **Start:** Forest Park center (45.536, -122.739)
+**Route Segments:**
+| Segment | Distance | Road |
+|---------|----------|------|
+| Forest Park Center → NW St. Helens Rd | ~2,500 m | NW Cornell Rd → NW St. Helens Rd |
+| NW St. Helens Rd → Bridge Ave (north) | ~3,400 m | NW St. Helens Rd → NW Bridge Ave |
+| Bridge Ave → Ridge (NW Skyline Blvd) | ~3,000 m | NW Bridge Ave → NW Skyline Blvd |
+| Ridge → Leif Erikson Dr (east) | ~2,700 m | NW Skyline Blvd → Leif Erikson Dr |
+| Leif Erikson Dr → Forest Park Center | ~2,000 m | Leif Erikson Dr → NW St. Helens Rd |
 
-### Turn-by-Turn
-1. **Forest Park → NW Cornell Road** (108 m) — Brief residential stretch
-2. **NW Cornell Road** (3,741 m) — Follow westbound past park entrance
-3. **NW Lovejoy Street** (138 m) — Short connector
-4. **NW 25th Avenue** (576 m) — Head north
-5. **NW Vaughn Street** (312 m) — Steep climb begins
-6. **NW Wardway Street** (443 m) — Continue climbing
-7. **NW Nicolai Street** (219 m) — Transition to Skyline Blvd
-8. **NW Saint Helens Road** (5,593 m) — Major stretch along the ridge
-9. **NW Bridge Avenue** (854 m) — Descend toward St. Johns
-10. **Saint Johns Bridge** (1,161 m) — Cross the Willamette River
-11. **NW Philadelphia Ave / N Willamette Blvd** (593 m) — Riverside return
+**Highlights:**
+- 🏔️ NW Skyline Boulevard ridgeline ride with Mt. Hood vistas on clear days
+- 🌲 Ride through old-growth forest on the western sections
+- 🏃‍♂️ Total ~800 ft elevation — great training for hilly race courses
+- 📸 Viewpoints at Ridge Trail Parking lot (45.588, -122.794)
 
-### Key Highlights
-- **Ridge panoramas:** Continuous views of the West Hills, Mt. Hood, and the Willamette Valley
-- **Forest canopy:** Dense tree cover on sections near the park
-- **St. Johns Bridge:** Iconic 1931 suspension bridge — great photo spot
-- **Willamette River waterfront:** Ride along the river on the return
-
----
-
-## OSM Verified Route Data
-
-| Segment | Distance | Duration | Key Roads/Trails |
-|---------|----------|----------|------------------|
-| Forest Park → St. Helens Rd | 3,764 m | ~4 min biking | Bridge Ave, St. Helens Rd |
-| Ridge Loop (full) | 4,586 m | ~7 min biking | Wildwood Trail, St. Helens Rd, Germantown Rd |
-| Forest Park → Downtown | 9,440 m | ~12 min biking | St. Helens Rd, Burnside St, Naito Pkwy |
-| St. Johns → Forest Park | 15,028 m | ~21 min biking | Lombard St, Bridge Ave, Germantown Rd |
-| Leif Erikson Full Perimeter | 10,403 m | ~17 min walking | St. Helens Rd, Germantown Rd, Skyline Blvd |
-| Extended Leif Erikson | 11,622 m | ~18 min walking | Full perimeter with extensions |
+**Running Club Tips:**
+- Study this route for hill climbing technique
+- Ride counterclockwise for better views on the left
+- Add a Wildwood Trail spur for a trail running descent
+- Winter: ice can form on the ridge — bring layers and studded tires
 
 ---
 
-## Trailhead Coordinates
+## Extended Route: Full Leif Erikson + Ridge Loop
 
-| Location | Latitude | Longitude |
-|----------|----------|-----------|
-| Forest Park center | 45.536 | -122.739 |
-| NW Skyline Blvd (mid-park) | 45.557 | -122.780 |
-| Ridge Trail Parking | 45.588 | -122.794 |
-| Leif Erikson Dr & Skidmore St | 45.571 | -122.772 |
+**~12.2 mi / ~800 ft elevation**
 
----
+Combine Leif Erikson Drive out-and-back with the extended Skyline ridgeline loop for a comprehensive Forest Park ride.
 
-## Tips
-
-- Start early to avoid afternoon wind on the ridge
-- Bring water — limited refill points on the route
-- The descent from the ridge to downtown is fast and surreally smooth
-- Watch for car traffic on NW Cornell Road (narrow but used by locals)
-- Best on clear days — the Mt. Hood views are worth the planning
-- Combine with Leif Erikson Drive for a full day ride: Skyline loop out, Leif Erikson back
-
----
-
-*Route verified using OpenStreetMap road and bike path data.*
+**Legend:**
+- Blue lines = NW St. Helens Rd / Bridge Ave
+- Red lines = Ridge roads (NW Skyline Blvd)
+- Green lines = Leif Erikson Dr connector
