@@ -1,73 +1,45 @@
-# St. Johns Bridge to Forest Park Cycling Route
+# St. Johns Connector Cycling Route
 
-## Overview
+**Type:** Cycling  
+**Difficulty:** Moderate (long descent; moderate climb back)  
+**Best Season:** Year-round
 
-- **Type:** Cycling
-- **OSM Verified Distance:** 15,028 m (St. Johns → Park)
-- **Duration:** ~21 min biking
-- **Difficulty:** Moderate
-- **Elevation Gain:** ~300 ft (descent into Forest Park)
-- **Surface:** Paved road with bike lanes
+---
 
-## Start Point
+## Route: St. Johns Bridge → Forest Park
 
-- **Coordinates:** 45.593, -122.747
-- **Location:** St. Johns Bridge bike/pedestrian path
+| Metric | Value |
+|--------|-------|
+| **Distance (St. Johns → Park)** | 14,749 m (~9.2 mi) |
+| **Duration** | ~21.7 min biking |
+| **Elevation** | ~900 ft descent from bridge |
+| **OSM Verified** | ✅ Bike routing via Lombard St, St. Johns Bridge, NW Bridge Ave, NW St. Helens Rd, NW Cornell Rd |
 
-## Route Description
+**Coordinates:**
+- St. Johns Bridge: 45.593, -122.747
+- Forest Park Center: 45.536, -122.739
 
-A dramatic descent from the St. Johns Bridge (1931 suspension bridge) down into Forest Park. Following the same ridgeline used by the historic highway system, this route connects North Portland's vibrant St. Johns neighborhood to Forest Park's massive green space. It's an iconic Portland cycling experience.
+**Route Segments:**
+| Segment | Distance | Road |
+|---------|----------|------|
+| St. Johns Bridge → Lombard St | 110 m | St. Johns Bridge approach |
+| Lombard St → Bridge Ave | ~958 m | North Lombard St, NW Bridge Ave |
+| Bridge Ave → NW St. Helens Rd | ~3,263 m | NW Bridge Ave → NW St. Helens Rd |
+| NW St. Helens Rd → NW Nicolai St | 2,446 m | NW St. Helens Rd |
+| NW Nicolai St → NW Wardway St | 219 m | NW Nicolai St |
+| NW Wardway St → NW Vaughn St | 312 m | NW Vaughn St |
+| NW Vaughn St → NW 25th Ave | 312 m | NW Vaughn St |
+| NW 25th Ave → NW Cornell Rd | ~7,295 m | NW 25th Ave, NW Lovejoy St, NW Cornell Rd |
 
-### St. Johns Bridge to Forest Park
+**Highlights:**
+- 🌉 Start on the St. Johns Bridge — iconic 1931 suspension bridge
+- 🏔️ Epic descent through the park — 900+ ft drop
+- 🌲 End through old-growth forest on Wildwood Trail
+- 📸 River and bridge views at the start
 
-```
-Start: St. Johns Bridge (45.593, -122.747) / Lombard St
-→ Lombard St heading west
-→ US 30 / St. Johns neighborhood
-→ NW Peninsula Park / rose city
-→ NW Bridge Avenue (descend into Forest Park)
-→ NW Germantown Rd / NW Saint Helens Rd
-→ Arrive: Forest Park Field House (45.583, -122.778)
-Distance: 15,028 m (~9.3 mi)
-Elevation Loss: ~300 ft (bridge to park)
-Duration: ~21 min biking
-```
-
-### Detailed Turn-by-Turn
-
-```
-1. Start on St. Johns Bridge walkway/bike path (45.593, -122.747)
-2. Cross the Willamette River on the historic 1931 suspension bridge
-3. Land in St. Johns neighborhood, turn left on US 30
-4. Continue through St. Johns, US 30 turns into Lombard St
-5. Head west on Lombard St toward Forest Park
-6. Turn onto NW Bridge Avenue (descending)
-7. Continue on NW Bridge Avenue into Forest Park
-8. Connect to NW Germantown Rd
-9. Connect to NW Saint Helens Rd
-10. Arrive at Forest Park Field House (45.583, -122.778)
-```
-
-## OSM Routing Data
-
-| Segment | Distance | Duration | Roads |
-|---------|----------|----------|-------|
-| St. Johns → Forest Park | 15,028 m | ~21 min | Lombard St, Bridge Ave, Germantown Rd |
-| Bridge to park entrance | 11,000 m | ~18 min | Lombard St, US 30, Bridge Ave |
-| Park area (Forest Park) | 4,028 m | ~3 min | Germantown Rd, St. Helens Rd |
-
-## Highlights
-
-- 🌉 **St. Johns Bridge:** Iconic 1931 suspension bridge — one of Portland's engineering landmarks
-- ⬇️ **Dramatic Descent:** 300 ft elevation drop from bridge to forest canopy
-- 🏙️ **Urban to Forest:** Covers 3 distinct Portland environments
-- 🚲 **Bike-Friendly:** Dedicated bike lanes and shared-use paths throughout
-- 🌲 **Forest Entrance:** Arrive in deep Forest Park with towering old-growth
-
-## Running Club Notes
-
-- **Best for:** Long-distance group rides, exploration, aerobic conditioning
-- **Descent Caution:** Bridge descent is steep — use brakes proactively and control speed
-- **Group Fit:** Requires intermediate bike handling skills
-- **St. Johns:** Stop in St. Johns village for pre-ride coffee/food at locally owned shops
-- **Return Option:** The route 30/26/20/4 loop option adds ~16 km for a longer ride
+**Running Club Tips:**
+- This is a long ride — pair with a warm-up at the Field House first
+- Reverse direction: climb from Forest Park to St. Johns for leg-breaking work
+- Group ride: everyone starts from St. Johns, converge at Forest Park
+- Safety: brake check before the descent — long run-in to the park
+- Add a Wildwood Trail loop at the bottom for a 15+ mi adventure

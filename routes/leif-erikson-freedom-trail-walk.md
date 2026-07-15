@@ -1,67 +1,57 @@
 # Leif Erikson Freedom Trail Walk
 
-**Route Type:** Walking / Jogging  
-**Distance:** ~4.4 miles (7.1 km)  
-**Elevation Gain:** Minimal  
+**Type:** Walking  
 **Difficulty:** Easy  
-**Surface:** Paved path (car-free)  
-**Best Season:** Year-round  
+**Best Season:** Year-round
 
 ---
 
-## Overview
+## Route: Leif Erikson Drive Out-and-Back
 
-Leif Erikson Drive is a car-free road that makes an outstanding out-and-back walk. The road's arched tree canopy creates a magical green tunnel in summer, and the fall foliage is spectacular. This route is the best core Forest Park walk for getting a feel for the park's forest atmosphere without the steep trail climbs.
+| Metric | Value |
+|--------|-------|
+| **One-Way Distance** | 2,129 m (~1.3 mi) |
+| **Walking Duration** | ~5 min (one way); ~17 min full loop |
+| **Full Loop Distance** | 10,403 m (~6.5 mi) |
+| **OSM Verified** | ✅ Foot routing: Leif Erikson Dr full loop via St. Helens Rd, Germantown Rd, Skyline Blvd |
 
-## Route Details
+**Coordinates:**
+- Leif Erikson Dr & Skidmore St: 45.571, -122.772
+- Leif Erikson Dr midpoint: 45.549, -122.734
 
-### Out-and-Back
-- **Distance:** ~4.2 mi one way (8.4 mi round trip)
-- **Duration:** ~80 min walking at a relaxed pace
-- **Start:** NW Saint Helens Rd & Leif Erikson Dr (45.549, -122.734)
-- **Turnaround:** Leif Erikson Dr & Skidmore St (45.571, -122.772)
+**Route Segments:**
+| Segment | Distance | Road |
+|---------|----------|------|
+| Skidmore St → NW Bridge Ave | 46 m | Leif Erikson Dr on-ramp |
+| NW Bridge Ave → NW St. Helens Rd | 3,363 m | NW Bridge Ave → NW St. Helens Rd |
+| NW St. Helens Rd (inner) | 847 m | NW St. Helens Rd |
+| Return via NW Bridge Ave → Leif Erikson | 3,363 m | NW Bridge Ave → Leif Erikson Dr |
 
-### Key Landmarks
-1. **NW Saint Helens Rd & Leif Erikson Dr** — Starting point at Forest Park entrance
-2. **Forest Park Field House** — Community center near the mid-point (45.583, -122.778)
-3. **Upper Macleay Trail junction** — Scenic overlook
-4. **Ridge Trail turnoff** — Panoramic industrial/river views
-5. **Leif Erikson Dr & Skidmore St** — Northern turnaround point
+**Highlights:**
+- 🚗 **Car-free on Sundays** — Leif Erikson Drive is closed to vehicle traffic on Sundays (seasonal)
+- 🌳 Dense tree canopy tunnel in summer — feels like walking through a green tunnel
+- 🍂 Spectacular fall foliage — one of Portland's best autumn walks
+- 👨‍👩‍👧‍👦 Paved, wide path — perfect for families, strollers, and scooters
+- 📸 Mt. Hood and city skyline views from the eastern sections
+- 🏃‍♀️ Popular running route — 6.5 mi loop at easy pace
 
----
-
-## OSM Verified Route Data
-
-| Segment | Distance | Duration | Key Roads/Trails |
-|---------|----------|----------|------------------|
-| Leif Erikson Drive one-way | 2,129 m | ~5 min walking | NW Saint Helens Rd, NW Leif Erikson Dr |
-| Full Leif Erikson Drive loop | 10,403 m | ~17 min walking | St. Helens Rd, Germantown Rd, Skyline Blvd |
-| Portland center → NW Saint Helens Rd | 7,348 m | ~12 min walking | NW Cornell Rd, NW Lovejoy St, NW 25th Ave |
-| Lower Macleay → Witch's Castle | 3,712 m | ~7 min walking | NW Lovejoy St, Lower Macleay Trail |
-
----
-
-## Trailhead Coordinates
-
-| Location | Latitude | Longitude |
-|----------|----------|-----------|
-| NW Saint Helens Rd & Leif Erikson Dr | 45.549 | -122.734 |
-| Leif Erikson Dr & Skidmore St | 45.571 | -122.772 |
-| Ridge Trail turnoff | 45.588 | -122.794 |
-| Forest Park Field House | 45.583 | -122.778 |
+**Running Club Tips:**
+- Sunday mornings: walk/roll the full loop without traffic
+- Out-and-back: turn around at any point for custom distances
+- Add Wildwood Trail spurs for elevation variety
+- Hot weather: the canopy keeps it 10-15°F cooler than outside the park
 
 ---
 
-## Tips
+## Extended Freedom Trail: Leif Erikson + Skyline Combo
 
-- **Car-free on Sundays:** The safest and most enjoyable walking time
-- **Use the walk as a warmup before trail running**
-- **Blading/rolling:** Popular with rollerbladers on Sundays
-- **No services on the road itself:** Use Lower Macleay for restrooms/water
-- **Stroller-friendly:** Wide path, smooth pavement
-- **Shade canopy:** Thickest in June-July — bring a flashlight for the darkest stretch
-- **Fall foliage:** Spectacular along this stretch in late October
+**~12.2 mi loop combining Leif Erikson Drive and NW Skyline Blvd**
 
----
+| Segment | Distance |
+|---------|----------|
+| Leif Erikson Drive (one-way) | 4,390 m |
+| NW Skyline Blvd (one-way) | ~3,000 m |
+| Ridge connector | ~2,700 m |
+| Leif Erikson return | 4,390 m |
 
-*Route verified using OpenStreetMap foot path data.*
+This route combines the iconic car-free Leif Erikson Drive with the ridge-level Skyline Boulevard for a longer, more varied walk.

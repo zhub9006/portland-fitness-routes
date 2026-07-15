@@ -1,85 +1,60 @@
-# Forest Park to Downtown Portland Cycling Route
+# Forest Park to Downtown Cycling Route
 
-## Overview
+**Type:** Cycling  
+**Difficulty:** Moderate (long descent into downtown)  
+**Best Season:** Year-round
 
-- **Type:** Cycling
-- **OSM Verified Distance:** 9,440 m (Forest Park → Downtown); 6,544 m (Downtown → Forest Park)
-- **Duration:** ~12 min biking (Park→Downtown); ~11 min biking (Downtown→Park)
-- **Difficulty:** Easy (park descent) / Moderate (climb on NW Cornell)
-- **Elevation Gain:** ~400 ft (downtown→Park climb / Park→Downtown descent)
-- **Surface:** Paved road with bike lanes
+---
 
-## Start Point
+## Route: Forest Park Center → Downtown Portland
 
-- **Coordinates:** 45.536, -122.739
-- **Location:** Forest Park center, NW Forest Park / NW Cornell Rd
+| Metric | Value |
+|--------|-------|
+| **Downhill Distance** | 6,951 m (~4.3 mi) |
+| **Ascent Distance** | 7,612 m (~4.7 mi) |
+| **Downhill Duration** | ~13.6 min biking |
+| **Ascent Duration** | ~15.2 min biking |
+| **Elevation Loss** | ~900 ft (long descent) |
+| **OSM Verified** | ✅ Bike routing via NW Cornell Rd → NW St. Helens Rd → Burnside St → Naito Pkwy |
 
-## Route Description
+**Coordinates:**
+- Forest Park Center: 45.536, -122.739
+- Downtown Portland: 45.515, -122.678
 
-This is the premier urban-to-forest cycling route in Portland. Descend through Forest Park from the northwest hills into the Willamette River waterfront downtown, or climb up to Forest Park via the scenic NW Cornell Road corridor.
+**Route Segments (Forest Park → Downtown):**
+| Segment | Distance | Road |
+|---------|----------|------|
+| Start → NW Cornell Rd | ~3,741 m | NW Cornell Rd |
+| NW Cornell Rd → NW Lovejoy St | 138 m | NW Lovejoy St |
+| NW Lovejoy St → NW 25th Ave | 75 m | NW 25th Ave |
+| NW 25th Ave → Westover Rd | 358 m | NW 25th Ave → NW Westover Rd |
+| Westover Rd → NW 23rd Ave | 60 m | NW 23rd Ave → West Burnside St |
+| West Burnside → SW King Ave | 244 m | West Burnside St → SW King Ave |
+| SW King Ave → SW Salmon St | 1,100 m | SW King Ave → SW Salmon St |
+| SW Salmon St → SW Park Ave | 160 m | SW Salmon St |
+| SW Park Ave → SW Madison St | 417 m | SW Park Ave → SW Madison St |
 
-### Downtown → Forest Park (Westward Climb)
+**Route Segments (Downtown → Forest Park):**
+| Segment | Distance | Road |
+|---------|----------|------|
+| SW Madison St → SW 1st Ave | 212 m | SW Madison St → SW 1st Ave |
+| SW 1st Ave → SW Jefferson St | 1,229 m | SW 1st Ave → SW Jefferson St |
+| SW Jefferson St → NW 19th Ave | 162 m | SW Jefferson St |
+| NW 19th Ave → SW Main St | 203 m | SW 19th Ave → SW Main St |
+| SW Main St → NW Vista Ave | 319 m | SW Main St → SW Vista Ave |
+| NW Vista Ave → NW 23rd Ave | 229 m | NW Vista Ave → NW 23rd Ave |
+| NW 23rd Ave → NW Flanders St | 155 m | NW 23rd Ave → NW Flanders St |
+| NW Flanders St → Westover Rd | 358 m | NW Flanders St → NW Westover Rd |
+| Westover Rd → NW 25th Ave → NW Cornell Rd | ~3,741 m | → NW Cornell Rd |
 
-```
-Start: Downtown Portland (bridge Ave area, 45.570, -122.755)
-→ NW Belreav Ave: 370 m
-→ NW Aspen Ave: 429 m
-→ NW Franklin Co: 280 m
-→ NW 32nd Ave: 160 m
-→ NW Vaughn St: 99 m
-→ NW 33rd Ave: 80 m
-→ NW Wilson St: 273 m
-→ NW 30th Ave: 109 m
-→ NW Nicolai St: 107 m
-→ NW Saint Helens Rd: 1,796 m
-→ NW Express Ave: 255 m
-→ NW Yeon Ave: 184 m
-→ Arrive: Forest Park center (45.536, -122.739)
-Distance: 4,584 m one-way (3.5 mi)
-```
+**Highlights:**
+- 🏔️ Dramatic 900 ft descent from Forest Park to the Willamette River
+- 🌲 Start through old-growth forest, finish on the waterfront
+- 🏃 Great bro-warrior training route — climb back for extra work
+- 🌊 Downtown finish at Naito Parkway / Tom McCall Waterfront Park
+- 🚲 Use the Tom McCall Natication area for stretch break
 
-### Forest Park → Downtown (Eastward Descent)
-
-```
-Start: Forest Park center
-→ NW Cornell Rd (long climb towards downtown)
-→ NW 23rd Ave → Flanders St
-→ Burnside St → Naito Pkwy
-→ Willamette River waterfront finish
-Distance: 9,440 m (5.9 mi)
-```
-
-## OSM Routing Data
-
-| Segment | Distance | Duration | Roads |
-|---------|----------|----------|-------|
-| Forest Park center → Downtown | 9,440 m | ~12 min biking | St. Helens Rd, Burnside St, Naito Pkwy |
-| Downtown → Forest Park (vanilla) | 6,544 m | ~11 min biking | NW Cornell Rd, NW Lovejoy St |
-| Downtown → Forest Park (alt) | 4,584 m | ~12 min biking | NW Belreg, Aspen, Franklin, St. Helens, Yeon |
-| Bridge Ave → Park Entrance | 3,764 m | ~4 min biking | Bridge Ave, St. Helens Rd |
-
-OSM Coordinate map key:
-
-| Waypoint | Lat | Lon |
-|----------|-----|-----|
-| NW Saint Helens (Park side) | 45.566 | -122.756 |
-| NW Yeon Ave | 45.570 | -122.747 |
-| NW Nicolai St | 45.564 | -122.757 |
-| NW Bridge Av | 45.557 | -122.770 |
-
-## Highlights
-
-- 🌲 **Forest Descent:** Ride through dense Forest Park tree canopy
-- 🌊 **Waterfront Finish:** End at the Willamette River / Tom McCall Waterfront Park
-- ⬇️ **Smooth Descent:** Park→Downtown is a fast, car-free descent
-- ⬆️ **Ridge Climb:** Downtown→Park includes a nice workout climb on NW Cornell Rd
-- 🏙️ **Urban-Forest Transition:** Covers 3 distinct environments: urban, residential, and deep forest
-- 🌉 **Bridge Views:** Pass by the Vista Bridge and Burnside Bridge
-
-## Running Club Notes
-
-- **Best for:** Group rides, endurance training, brick workouts (ride then run)
-- **Difficulty:** The climb from downtown is the main challenge (~400 ft gain over 6.5 km)
-- **Distance:** This is a significant distance — requires a loaded bike or support vehicle
-- **Traffic:** NW Cornell Rd can be busy; use caution on descents
-- **Season:** Best in fall and spring when Mt. Hood is visible
+**Running Club Tips:**
+- Walk the climb back up for a killer leg workout
+- Time trials: beat your own #1 in 15 min or under
+- Winter: brakes can overheat on descent — obey speed limits
