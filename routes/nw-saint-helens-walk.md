@@ -1,34 +1,32 @@
 # NW Saint Helens Road Walking Route
 
-**Route Type:** Walking | **Distance:** ~3.3 mi one way (6.6 mi out-and-back) | **Elevation Gain:** ~250 ft | **Difficulty:** Easy
+- **Distance:** 3.3 mi (5.3 km) one way / 6.6 mi round trip
+- **Elevation Gain:** ~250 ft
+- **Estimated Time:** 35–40 min one way / 70–80 min round trip
+- **Type:** Out-and-back
+- **Terrain:** Road mix (residential + park trail)
+- **Difficulty:** Easy–Moderate
 
-## Overview
+## Description
 
-A historic walking route along NW Saint Helens Road, connecting Washington Park (host of the International Rose Test Garden and Oregon Zoo) into the heart of Forest Park. The road is a legacy Portland arterial with wide sidewalks and a mix of residential and natural environments.
+A historic road connecting Washington Park to Forest Park along the base of the West Hills. The route passes through a mix of residential neighborhoods and parkland, with gentle grades and good footing.
 
 ## Route Details
 
-| Segment | Distance | Notes |
-|---------|----------|-------|
-| Start: Washington Park (Rose Garden area) | 0.0 mi | Enter via Washington Park pathways |
-| NW Saint Helens Road (southbound) | ~3.3 mi | Wide sidewalks, residential and park sections |
-| NW Bridge Avenue connector | ~0.2 mi | Short connector to Forest Park trails |
-| End: Forest Park / Lower Macleay Park area | ~3.3 mi | Southern trailhead gateway |
-
-## Key Features
-- **Historical:** The road dates to early Portland expansion — look for original brick and stone work
-- **Park transitions:** Walk through landscaped park areas, then into dense forest as you progress south
-- **Wildlife corridors:** The road bisects several wildlife corridors —早起 (early mornings) are best for deer sightings
-- **Full connectivity:** Connects to the citywide bike trail network at both ends
-
-## Tips
-- The road can be busy on weekdays — walk against traffic on the left side
-- The section near Washington Park is more urban; the southern section is increasingly forested
-- The stretch near NW 27th Ave has some steep sections — take breaks as needed
-- Combine with a visit to the Portland Japanese Garden or Oregon Zoo for a full day out
+1. **Washington Park** (NW Thompson Road)
+2. **NW Saint Helens Road** (northbound)
+3. **NW Bridge Avenue** → **Saint Johns Bridge** option
+4. **Forest Park center** (Wildwood Trail area)
 
 ## OSM Data
-- **Verified route:** NW Saint Helens Road (residential/trunk)
-- **Coordinates:** 45.535, -122.739 (Washington Park end) to 45.543, -122.734 (Macleay Park / Forest Park gateway)
-- **OSM routing:** ~10,043 m (6.2 mi) one way via OSM foot routing: Raleigh St → 28th Ave → Upshur St → Saint Helens Rd → Bridge Ave
-- **Connection:** Walk the Lower Macleay → Forest Park Center route (~6.2 mi one-way) for an extended 12+ mile walking day
+- **NW Saint Helens Rd** (way): 45.535, -122.739
+- **NW Bridge Ave** (way): 45.586, -122.773
+
+## Notes
+- **Historic road:** NW Saint Helens has been a Portland thoroughfare since the early 1900s
+- **Variety:** Mix of quiet residential streets and park trails
+- **Pair with:** Cathedral Park loop or Forest Park Ridge Trail for a longer walk
+
+## Getting There
+- **Parking:** Washington Park or Forest Park Field House
+- **Transit:** TriMet bus lines 16, 63, 72

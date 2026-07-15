@@ -1,32 +1,37 @@
-# Leif Erikson Drive Walking Route
+# Leif Erikson Drive Walking Loop
 
-**Route Type:** Walking | **Distance:** 2.1 mi one way (4.2 mi out-and-back) | **Elevation Gain:** ~200 ft | **Difficulty:** Easy
+- **Distance:** 2.1 mi one way / 4.2 mi (6.8 km) out-and-back
+- **Elevation Gain:** Minimal (~100 ft total)
+- **Estimated Time:** 30–45 min out-and-back
+- **Type:** Out-and-back
+- **Terrain:** Paved road, car-free when vehicles are prohibited
+- **Difficulty:** Easy
 
-## Overview
+## Description
 
-Leif Erikson Drive is the crown jewel for walkers in Forest Park. This car-free, 2.1-mile one-way road winds through a lush canopy tunnel of Douglas fir and western red cedar. The road is closed to motor vehicles on Sundays, making it ideal for a peaceful family-friendly walk or jog.
+Leif Erikson Drive is a scenic, car-free road that winds along the ridgeline through Forest Park. The road is closed to vehicles on non-Thursday days, making it perfect for walking, jogging, or rolling. The canopy of Douglas fir and western red cedar forms a beautiful tunnel overhead in summer, and fall colors are spectacular.
 
 ## Route Details
 
-| Segment | Distance | Notes |
-|---------|----------|-------|
-| Start: Leif Erikson Dr & Skidmore St (north entrance) | 0.0 mi | North loop entrance |n| Leif Erikson Drive (southbound) | 2.1 mi | Car-free, shaded canopy tunnel |
-| Turnaround at southern end | — | Scenic overlook area |
-| Leif Erikson Drive (northbound return) | 2.1 mi | Return via same road |
+### Outbound: Leif Erikson Drive Northbound
+- **Distance:** 2.1 mi
+- **Time:** ~15 min
+- **Key landmarks:** Forest Park Field House, Lower Macleay Park entrance, Hoyt Arboretum junction
 
-## Key Features
-- **Canopy tunnel:** In summer, the road is shaded by a dense tree canopy overhead — it feels like walking through a green tunnel
-- **Fall colors:** Autumn brings spectacular golden and red foliage along the entire road
-- **Wildlife:** Be on the lookout for deer, particularly in the early morning
-- **Weekend closure:** Car-free on Sundays; limited access on other days (check for maintenance closures)
-
-## Tips
-- The road is flat with gentle rolling hills — perfect for easy walking or brisk hiking
-- Allow 1.5–2 hours for the full out-and-back at a leisurely pace
-- Bring layers — it can be 10–15°F cooler inside the canopy than on open roads
-- Dogs are allowed on leash; pack waste bags
+### Return: Leif Erikson Drive Southbound
+- **Distance:** 2.1 mi
+- **Time:** ~15 min
 
 ## OSM Data
-- **Verified route:** Leif Erikson Drive (footpath/footway)
-- **Coordinates:** 45.571, -122.772 (north entrance) to 45.549, -122.734 (south end) — via OSM foot routing ~10,403 m one way
-- **Routing source:** OpenStreetMap foot routing
+- **Leif Erikson Drive** (way): 45.549, -122.734
+- **Forest Park Field House** (node): 45.583, -122.778
+
+## Notes
+- **Car-free:** Closed to vehicles all day except Thursdays
+- **Family-friendly:** Wide, smooth surface — great for strollers and bikes too
+- **Best in fall:** Peak foliage in late October
+- **Start easy:** Flat start, slight elevation gain toward the south end
+
+## Getting There
+- **Parking:** Leif Erikson Dr & Skidmore St (north loop entrance)
+- **Transit:** TriMet bus lines 16, 63, 72
