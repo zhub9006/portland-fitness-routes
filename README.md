@@ -1,135 +1,158 @@
-# Portland Fitness Routes 🏃‍♂️🚴‍♀️🚶
+# Portland Fitness Routes 🏃‍♂️🚴
 
-A collection of walking, cycling, and running routes around Forest Park in Portland for our running club.
+Walking and cycling exercise routes around **Forest Park**, Portland, Oregon — for the Portland Running Club.
 
-## 📋 Route Files Index
+## About Forest Park
 
-| File | Route Type | Distance | Highlights |
-|------|-----------|----------|------------|
-| [routes/wildwood-trail-running.md](routes/wildwood-trail-running.md) | 🏃 Running | ~6.0 mi | Old-growth forest, creek crossings, moderate elevation gain |
-| [routes/leif-erikson-walking.md](routes/leif-erikson-walking.md) | 🚶 Walking | ~4.2 mi | Car-free path, tree canopy tunnel, family-friendly |
-| [routes/skyline-cycling-route.md](routes/skyline-cycling-route.md) | 🚴 Cycling | ~12.2 mi | Ridge panoramas, Mt. Hood views on clear days |
-| [routes/forest-park-to-downtown-cycling.md](routes/forest-park-to-downtown-cycling.md) | 🚴 Cycling | ~14.6 mi | Forest descent to Willamette River waterfront |
-| [routes/saltzman-warmup-loop.md](routes/saltzman-warmup-loop.md) | 🚴 Cycling | ~2.1 mi | Quick warm-up loop near Forest Park north entrance |
-| [routes/ridge-loop-cycling.md](routes/ridge-loop-cycling.md) | 🚴 Cycling | ~4.6 mi | Germantown Ridge loop via Kaiser & Laidlaw Roads |
-| [routes/st-johns-connector-cycling.md](routes/st-johns-connector-cycling.md) | 🚴 Cycling | ~15.0 mi | St. Johns Bridge descent into Forest Park |
-| [routes/nw-saint-helens-walk.md](routes/nw-saint-helens-walk.md) | 🚶 Walking | ~3.3 mi | Washington Park to Forest Park via NW Saint Helens Rd |
-| [routes/leif-erikson-freedom-trail-walk.md](routes/leif-erikson-freedom-trail-walk.md) | 🚶 Walking | ~4.4 mi | Leif Erikson Drive car-free out-and-back |
-| [routes/forest-park-key-locations.md](routes/forest-park-key-locations.md) | 📍 Reference | — | Key locations, trailheads, and OSM features |
-
-## 📊 Route Summary by Type
-
-### Running 🏃
-- **Wildwood Trail Loop** — 6.0 mi / ~550 ft elevation gain
-  - Full loop through the heart of Forest Park via the iconic Wildwood Trail
-  - Old-growth Douglas fir, sword ferns, seasonal creek crossings
-  - Moderate difficulty; suitable for intermediate runners
-
-### Walking 🚶
-- **Leif Erikson Drive** — 2.1 mi one way (4.2 mi out-and-back)
-  - Car-free loop road perfect for walking, jogging, or rolling
-  - Shaded canopy tunnel in summer; stunning fall colors
-- **NW Saint Helens Road** — 3.3 mi one way
-  - Historic road connecting Washington Park to Forest Park
-  - Mix of residential and park trail environments
-- **Forest Park Ridge Trail** — 2.9 mi
-  - Elevated ridgeline walking with panoramic city views
-
-### Cycling 🚴
-- **Skyline Cycling Route** — 12.2 mi / ~800 ft elevation
-  - NW Skyline Boulevard ridgeline ride with Mt. Hood vistas
-- **Forest Park to Downtown** — 14.6 mi / ~900 ft descent
-  - Descend through Forest Park into downtown Portland
-  - Includes Willamette River waterfront finish
-- **Saltzman Warmup Loop** — 2.1 mi
-  - Tight, fast loop near the north entrance
-  - Great for speed work and track-style intervals
-- **Ridge Loop** — 4.6 mi
-  - Germantown Road → Kaiser Road → Laidlaw Road circuit
+Forest Park is one of the largest urban forests in the United States (over 5,200 acres). The park is centered at roughly **45.536° N, -122.739° W** and offers an extensive trail network perfect for running, hiking, and cycling.
 
 ---
 
-## 🗺️ OSM Verified Trail & Road Data
+## Route 1: Lower Macleay → Upper Macleay (Wildwood Trail) 🥾
 
-### Key Forest Park OSM Features
-| Feature | OSM Type | Category | Coordinates | Notes |
-|---------|----------|----------|-------------|-------|
-| Wildwood Trail | way | path | 45.571, -122.772 | Main park trail; 30+ mi of connected paths |
-| Leif Erikson Drive | way | path/footway | 45.549, -122.734 | Car-free Sundays; 2.1 mi loop |
-| Wildwood Trail (nature reserve) | way | nature_reserve | 45.571, -122.772 | Protected old-growth forest area |
-| NW Saint Helens Road | way | residential/trunk | 45.535, -122.739 | Historic arterial with park access |
-| NW Skyline Blvd | way | residential | 45.580, -122.790 | Ridge road with bike lanes |
-| NW Germantown Road | way | residential | 45.570, -122.769 | Steep hill; popular cycling route |
-| Ridge Trail Parking | way | parking | 45.588, -122.794 | Trailhead for ridgeline routes |
-| Saint Johns Bridge | way | bridge | 45.593, -122.747 | Iconic 1931 suspension bridge |
-| NW Kaiser Road | way | residential | 45.575, -122.765 | Connector between ridge roads |
-| NW Laidlaw Road | way | residential | 45.573, -122.758 | Quiet residential connector |
+**Type:** Walking / Hiking  
+**Distance:** ~3.9 km (2.4 mi)  
+**Estimated Time:** ~8 min (walking) / ~35 min (hiking the trail)
 
-### Route Networks Verified via OSM Routing
+### Description
+This route follows the famous **Wildwood Trail** from the Lower Macleay Park Trailhead to the Upper Macleay Park Trailhead. It's a beloved segment that takes you deep into the forest canopy. The trail is dirt/gravel and moderately hilly — perfect for a trail run or brisk hike.
 
-#### Running: Wildwood Trail Loop
-- **Distance:** ~9,656 m (6.0 mi)
-- **Elevation gain:** ~170 m (550 ft)
-- **Key Roads/Trails:** Wildwood Trail → Upshur St → Northwest Germantown Rd
-- **Verified via OSM path routing**
+### Directions
+1. Start at **Lower Macleay Park Trailhead** (NW Upshur St / NW 25th Ave)
+2. Follow **NW Upshur Street** east (277 m)
+3. Turn onto **NW 28th Avenue** north (156 m)
+4. Continue onto **NW Savier Street** (466 m)
+5. Turn onto **NW 25th Avenue** (313 m)
+6. Pick up the **Wildwood Trail** entrance near NW Lovejoy Street
+7. Follow the **Wildwood Trail** north (2.2 km) — enjoy the old-growth forest
+8. Arrive at **Upper Macleay Park Trailhead** on NW Cornell Road
 
-#### Walking: Lower Macleay → Forest Park Center
-- **Distance:** ~10,043 m (6.2 mi) one way
-- **Duration:** ~796 seconds walking
-- **Key Roads:** Raleigh St → 28th Ave → Upshur St → Saint Helens Rd → Bridge Ave
-- **Verified via OSM foot routing**
-
-#### Walking: Leif Erikson Rd Ridgeline
-- **Distance:** ~10,403 m (6.5 mi) one way
-- **Duration:** ~917 seconds walking
-- **Key Roads:** Saint Helens Rd → Bridge Ave → Germantown Rd → Skyline Blvd → College Dr
-- **Verified via OSM foot routing**
-
-#### Cycling: Forest Park Center → Downtown Portland
-- **Distance:** ~9,440 m (5.9 mi)
-- **Duration:** ~717 seconds biking
-- **Key Roads:** Saint Helens Rd → Yeon Ave → Stadium Freeway → Burnside St → Naito Pkwy
-- **Verified via OSM bike routing**
-
-#### Cycling: NW Saint Helens to Forest Park Entrance
-- **Distance:** ~3,764 m (2.3 mi)
-- **Duration:** ~245 seconds biking
-- **Key Roads:** Northwest Bridge Avenue → Northwest Saint Helens Road
-- **Verified via OSM bike routing**
-
-#### Cycling: Ridge Loop (Forest Park Center)
-- **Distance:** ~4,586 m (2.8 mi) — extends to ~4.6 mi full loop
-- **Duration:** ~445 seconds biking
-- **Key Roads:** Wildwood Trail → Saint Helens Rd → Bridge Ave → Germantown Rd
-- **Verified via OSM bike routing**
-
-#### Cycling: Saint Johns Bridge to Forest Park
-- **Distance:** ~15,028 m (9.3 mi) one way
-- **Duration:** ~1,272 seconds biking
-- **Key Roads:** North Oswego Ave → North Lombard St → North Richmond Ave → North Ivanhoe St → North Philadelphia Ave → Saint Johns Bridge → NW Bridge Ave → NW Germantown Rd → NW Kaiser Rd → NW Laidlaw Rd
-- **Verified via OSM bike routing**
+### Trail Notes
+- Trail surface: dirt, gravel, roots
+- Elevation gain: ~150 ft
+- Dog-friendly (on leash)
+- Best in dry conditions — can be muddy in winter
 
 ---
 
-## 📍 Forest Park Key Locations
+## Route 2: Downtown Portland → Forest Park (Cycling) 🚴
 
-| Location | Description | Coordinates |
-|----------|-------------|-------------|
-| Leif Erikson Dr & Skidmore St | North loop entrance, popular starting point | 45.571, -122.772 |
-| Lower Macleay Park | Southern trailhead, Washington Park gateway | 45.543, -122.734 |
-| Wildwood Trail Main Entrance | Off NW Germantown Rd, main access point | 45.570, -122.769 |
-| Ridge Trail Parking Lot | Northwest Forest Park, ridgeline access | 45.588, -122.794 |
-| Forest Park Field House | Community center, Warm-up loop area | 45.583, -122.778 |
+**Type:** Cycling  
+**Distance:** ~7.2 km (4.5 mi)  
+**Estimated Time:** ~13 min
+
+### Description
+A great ride from downtown Portland up into Forest Park via NW Cornell Road. This route takes you from the city streets through residential neighborhoods and into the lush forest canopy.
+
+### Directions
+1. Start at **Downtown Portland** (SW 12th Ave area)
+2. Head west on **SW 12th Avenue** (395 m)
+3. Turn south onto **SW Jefferson Street** (614 m)
+4. Turn west onto **SW 19th Avenue** (162 m)
+5. Turn south onto **SW Main Street** (214 m)
+6. Turn west onto **SW Vista Avenue** (319 m)
+7. Turn north onto **NW 23rd Avenue** (229 m)
+8. Turn west onto **NW Flanders Street** (155 m)
+9. Continue onto **NW Westover Road** (358 m)
+10. Continue onto **NW 25th Avenue** (159 m)
+11. Turn west onto **NW Lovejoy Street** (138 m)
+12. Turn north onto **NW Cornell Road** – the big climb begins! (3.8 km)
+13. Continue onto **NW Thompson Road** into the forest (216 m)
+14. Arrive at **Forest Park**
+
+### Route Notes
+- NW Cornell Road has a dedicated bike lane for the uphill stretch
+- The climb from downtown to the park is ~250 ft elevation gain
+- Enjoy the beautiful views at the top!
 
 ---
 
-## 🤝 Running Club Info
+## Route 3: City Center → Forest Park (Walking) 🚶
 
-- **Meetup Location:** Forest Park Field House, Portland OR 97203
-- **Typical Schedule:** Saturday mornings, 8:00 AM
-- **Trail Etiquette:** Hikers have right-of-way on narrow paths; ring bell or announce when passing
-- **Season:** Year-round (bring layers — it can be 10-15°F cooler in the forest canopy)
+**Type:** Walking  
+**Distance:** ~2.7 km (1.7 mi)  
+**Estimated Time:** ~5 min
+
+### Description
+A quick walk from Portland City Center to the edge of Forest Park via SW streets. This is a great warm-up route or a way to connect urban running with trail running.
+
+### Directions
+1. Start at **Portland City Center** (SW Main St area)
+2. Head west on **SW Main Street** (126 m)
+3. Turn north onto **SW 20th Avenue** (166 m)
+4. Turn west onto **SW Jefferson Street** (153 m)
+5. Turn west onto **SW Columbia Street** (482 m)
+6. Turn south onto **SW 13th Avenue** (215 m)
+7. Turn west onto **SW Mill Street** (126 m)
+8. Continue through residential streets (316 m)
+9. Use **Stadium Freeway** underpass (164 m) and **SW 6th Avenue** (44 m)
+10. Continue north through the park area (227 m)
+11. Use **Stadium Freeway** to reach the park interior (188 m)
+12. Arrive at **Forest Park**
 
 ---
 
-*Route data maintained by the running club. All routes verified using OpenStreetMap path and road data.*
+## Route 4: Wildwood Trail North Loop 🌲
+
+**Type:** Walking / Running  
+**Distance:** ~11 km (6.8 mi) loop  
+**Estimated Time:** ~2.5 hours (hike/run)
+
+### Description
+A longer loop that follows the Wildwood Trail north along the ridge, then loops back via the park's road network. This route gives you a full immersion in the old-growth forest.
+
+### Route Outline
+1. Start at **Lower Macleay Park Trailhead**
+2. Follow **Wildwood Trail** north through the forest canopy (~6 km)
+3. At the junction with NW Upshur Road, turn east and follow the road system
+4. Loop back via **NW Cornell Road** and **NW Thompson Road**
+5. Return to Lower Macleay Park Trailhead
+
+### Trail Notes
+- Wildwood Trail is ~30 miles total within the park — you can customize your distance
+- Markers are posted at intersections for navigation
+- Wildlife spotting: great blue herons, owls, deer
+
+---
+
+## Route 5: Forest Park Perimeter Ride (Cycling) 🚴
+
+**Type:** Cycling  
+**Distance:** ~15 km (9.3 mi)  
+**Estimated Time:** ~45 min
+
+### Description
+A perimeter loop ride around the edges of Forest Park using the park's road network and surrounding streets. Great for warming up or cooling down after a trail run.
+
+### Route Outline
+1. Start at **Forest Park** (NW Cornell Road)
+2. Follow **NW Cornell Road** south to NW Thompson Road
+3. Turn east on **NW Thompson Road** to NW 25th Avenue
+4. Head south on **NW 25th Avenue** to NW Lovejoy Street
+5. Head east on **NW Lovejoy Street** to the park edge
+6. Continue south through residential streets to downtown
+7. Loop back north via the cycling route (Route 2)
+
+---
+
+## General Tips
+
+- 🌦️ **Weather:** Portland can be rainy — bring layers and a light rain jacket
+- 💧 **Water:** Bring your own; there are no water fountains on the trails
+- 🐕 **Dogs:** Leash required in the park
+- 🌿 **Leave No Trace:** Pack out all trash
+- ⏰ **Best times:** Early morning (before 8am) for less traffic and cooler temps
+- 🗺️ **Maps:** Trail maps available at the Lower Macleay Park Trailhead
+
+---
+
+## Trailheads
+
+| Name | Address | Coordinates |
+|------|---------|-------------|
+| Lower Macleay Park Trailhead | NW Upshur St, Portland, OR 97210 | 45.536, -122.713 |
+| Upper Macleay Park Trailhead | Wildwood Trail, Portland, OR 97210 | 45.527, -122.728 |
+
+---
+
+*Routes designed for the Portland Running Club. Happy trails! 🌲🏃‍♂️*
