@@ -1,60 +1,54 @@
-# Forest Park to Downtown Cycling Route
+# Forest Park to Downtown Portland Cycling Route
 
-**Type:** Cycling  
-**Difficulty:** Moderate (long descent into downtown)  
-**Best Season:** Year-round
+**Type:** Cycling
+**OSM Verified Distance:** 9,440 m
+**Estimated Duration:** ~28 min cycling (18 km/h)
+**Elevation Gain:** ~500 ft descent
+**Difficulty:** Easy (mostly downhill)
 
 ---
 
-## Route: Forest Park Center → Downtown Portland
+## Route Overview
 
-| Metric | Value |
-|--------|-------|
-| **Downhill Distance** | 6,951 m (~4.3 mi) |
-| **Ascent Distance** | 7,612 m (~4.7 mi) |
-| **Downhill Duration** | ~13.6 min biking |
-| **Ascent Duration** | ~15.2 min biking |
-| **Elevation Loss** | ~900 ft (long descent) |
-| **OSM Verified** | ✅ Bike routing via NW Cornell Rd → NW St. Helens Rd → Burnside St → Naito Pkwy |
+A scenic descent from Forest Park into downtown Portland and ending at the Willamette River waterfront. This route drops significantly in elevation, making it a satisfying ride with city-scape views emerging as you descend.
 
-**Coordinates:**
-- Forest Park Center: 45.536, -122.739
-- Downtown Portland: 45.515, -122.678
+## Turn-by-Turn Directions (OSM Verified)
 
-**Route Segments (Forest Park → Downtown):**
-| Segment | Distance | Road |
-|---------|----------|------|
-| Start → NW Cornell Rd | ~3,741 m | NW Cornell Rd |
-| NW Cornell Rd → NW Lovejoy St | 138 m | NW Lovejoy St |
-| NW Lovejoy St → NW 25th Ave | 75 m | NW 25th Ave |
-| NW 25th Ave → Westover Rd | 358 m | NW 25th Ave → NW Westover Rd |
-| Westover Rd → NW 23rd Ave | 60 m | NW 23rd Ave → West Burnside St |
-| West Burnside → SW King Ave | 244 m | West Burnside St → SW King Ave |
-| SW King Ave → SW Salmon St | 1,100 m | SW King Ave → SW Salmon St |
-| SW Salmon St → SW Park Ave | 160 m | SW Salmon St |
-| SW Park Ave → SW Madison St | 417 m | SW Park Ave → SW Madison St |
+1. **Start:** Forest Park center (45.536, -122.739)
+2. South on **NW Saint Helens Road** (~2,446 m)
+3. Continue on **NW Wardway Street** (~443 m)
+4. Right onto **NW Nicolai Street** (~219 m)
+5. Continue south on **NW Nicolai Street** into downtown
+6. Right onto **West Burnside Street** (~483 m)
+7. Left onto **NW Barnes Road** (~174 m)
+8. Continue onto **NW Pittock Avenue** (~280 m)
+9. Right onto **NW Pittock Drive** (~455 m)
+10. Left onto **West Burnside Road** (~1,130 m)
+11. Continue via **Burnside Street** into downtown
+12. Take **Naito Parkway** toward the river
+13. **Arrive:** Willamette River waterfront (downtown Portland)
 
-**Route Segments (Downtown → Forest Park):**
-| Segment | Distance | Road |
-|---------|----------|------|
-| SW Madison St → SW 1st Ave | 212 m | SW Madison St → SW 1st Ave |
-| SW 1st Ave → SW Jefferson St | 1,229 m | SW 1st Ave → SW Jefferson St |
-| SW Jefferson St → NW 19th Ave | 162 m | SW Jefferson St |
-| NW 19th Ave → SW Main St | 203 m | SW 19th Ave → SW Main St |
-| SW Main St → NW Vista Ave | 319 m | SW Main St → SW Vista Ave |
-| NW Vista Ave → NW 23rd Ave | 229 m | NW Vista Ave → NW 23rd Ave |
-| NW 23rd Ave → NW Flanders St | 155 m | NW 23rd Ave → NW Flanders St |
-| NW Flanders St → Westover Rd | 358 m | NW Flanders St → NW Westover Rd |
-| Westover Rd → NW 25th Ave → NW Cornell Rd | ~3,741 m | → NW Cornell Rd |
+## Key Landmarks
 
-**Highlights:**
-- 🏔️ Dramatic 900 ft descent from Forest Park to the Willamette River
-- 🌲 Start through old-growth forest, finish on the waterfront
-- 🏃 Great bro-warrior training route — climb back for extra work
-- 🌊 Downtown finish at Naito Parkway / Tom McCall Waterfront Park
-- 🚲 Use the Tom McCall Natication area for stretch break
+| Waypoint | Coordinates | Notes |
+|----------|-------------|-------|
+| Forest Park center | 45.536, -122.739 | Starting point |
+| NW Wardway & NW Nicolai | 45.529, -122.742 | Transition points |
+| West Burnside Road | 45.528, -122.708 | First major downhill stretch |
+| Burnside Street downtown | 45.523, -122.686 | City streets |
+| Willamette River waterfront | 45.522, -122.672 | End point; Tom McCall Waterfront Park |
 
-**Running Club Tips:**
-- Walk the climb back up for a killer leg workout
-- Time trials: beat your own #1 in 15 min or under
-- Winter: brakes can overheat on descent — obey speed limits
+## OSM Routing Data (COMPUTED)
+
+- **OSM bike mode:** 9,440 m from Forest Park center → Downtown
+- **Downtown → Forest Park (reverse):** 6,544 m via NW Cornell Rd, NW Lovejoy St
+- **St. Helens → Park Entrance:** 3,764 m / ~4 min bike (Bridge Ave + St. Helens Rd)
+- **Key OSM ways:** NW Saint Helens Road, NW Wardway Street, NW Nicolai Street, West Burnside Road, Burnside Street, Naito Parkway
+
+## Tips
+
+- This route is downhill the whole way — bring brakes!
+- The Burnside Road/West Burnside Road stretch has moderate traffic; stay alert
+- Ends at the waterfront — reward yourself with a coffee at one of the Waterfront Park cafes
+- The reverse ride (downtown up to Forest Park) is the big climb (~6,544 m)
+- Evening rides are especially nice as the city lights come on during the descent
