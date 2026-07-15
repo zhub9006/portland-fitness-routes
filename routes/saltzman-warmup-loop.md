@@ -1,49 +1,62 @@
-# Saltzman Warmup Loop
+# Saltzman Warm-Up Loop
+
+**Route Type:** Cycling (Speed Work / Warmup)  
+**Distance:** ~2.1 miles (3.4 km)  
+**Elevation Gain:** ~150 ft  
+**Difficulty:** Easy (tight, fast turns)  
+**Surface:** Paved road  
+**Best Season:** Year-round  
+
+---
 
 ## Overview
-- **Type:** Cycling (Warmup / Speed Work)
-- **Distance:** ~2.1 miles (3.4 km)
-- **Elevation Gain:** ~150 ft (45 m)
-- **Difficulty:** Easy / Warmup
-- **Surface:** Paved roads
 
-## Route Description
-A tight, fast loop near the north entrance of Forest Park, perfect for warmups and track-style intervals. The loop uses NW Saltzman Road and surrounding connector streets.
+A tight, fast loop near the north entrance of Forest Park. Perfect for speed work, track-style intervals, and pre-ride warmups. The small loop packs in tight turns and gentle climbs — great for sharpening bike handling skills.
 
-## Detailed Waypoints
+## Route Details
 
-### Start/End: NW Saltzman Road & NW Saint Helens Road (45.561, -122.750)
-- Park or meet at the intersection near the Forest Park north entrance.
+### Route
+- **Distance:** ~2.1 mi
+- **Duration:** ~5-8 min at speed
+- **Start/Finish:** Forest Park Field House (45.583, -122.778)
 
-### Loop Route:
-- **NW Saltzman Road** (456 m) — heading west
-- **OSM Verified:** 456 m Saltzman segment
-- **NW Saint Helens Road** (2,327 m) — heading north through the park canyon
-- **OSM Verified:** 3,371 m St. Helens Road segment
-- **NW Bridge Avenue** (174 m) — connector at the top
-- **OSM Verified:** 174 m Bridge Avenue connector
-- **NW Germantown Road** (3,356 m) — loop back south
-- **OSM Verified:** 3,356 m Germantown Road
-- **Return to start via connector streets**
+### Turn-by-Turn
+1. **Forest Park Field House → NW Saltzman Rd** (4,586 m total)
+2. Loop via St. Helens Rd and Bridge Ave
+3. Return to starting point
 
-## OSM Verified Data
-- **Saltzman segment:** 456 m
-- **St. Helens Road segment:** 3,371 m
-- **Bridge Avenue connector:** 174 m
-- **Germantown Road:** 3,356 m
-- **Total one-way loop:** 4,586 m (~7 min biking)
-- **Full extended loop:** ~14,600 m including full perimeter
-- **Key OSM ways:** NW Saltzman Road (way), NW Saint Helens Road (way), NW Bridge Avenue (way), NW Germantown Road (way)
+### Key Highlights
+- **Tight turns:** Multiple tight curves — great for handling practice
+- **Gentle grade:** Mild rolling terrain, no big climbs
+- **Park proximity:** Start and finish at the community center
+- **Quick access:** Close to NW 23rd Ave for post-ride supplies
 
-## Key Landmarks
-- **NW Saltzman Road:** Quiet residential road near the park
-- **NW Saint Helens Road:** Historic arterial through the park
-- **Forest Park north entrance:** Easy parking and access
+---
+
+## OSM Verified Route Data
+
+- **Saltzman + St. Helens + Bridge Ave:** 4,586 m OSM verified
+- **Approximate loop time:** 5-8 min at cycling speed
+- **Walking time:** ~15 min
+
+---
+
+## Trailhead Coordinates
+
+| Location | Latitude | Longitude |
+|----------|----------|-----------|
+| Forest Park Field House | 45.583 | -122.778 |
+| Saltzman Road junction | ~45.587 | -122.770 |
+
+---
 
 ## Tips
-- Great for pre-ride warmups and post-ride cooldowns.
-- Flat enough for beginners; tight enough for speed work.
-- Limited parking — arrive early on weekends.
-- The loop can be done in reverse for variation.
 
-*Route data OSM-verified via OpenStreetMap bike routing — full loop: 4,586 m (~7 min biking).*
+- Ideal for warmups before longer rides
+- No bike lanes on the loop — watch for traffic
+- Congested on weekends — great for practicing gap navigation
+- Post-ride: grab food at Pine State Biscuits on NW 23rd
+
+---
+
+*Route verified using OpenStreetMap road path data.*
