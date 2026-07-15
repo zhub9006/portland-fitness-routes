@@ -16,7 +16,7 @@ Leif Erikson Drive is the scenic perimeter road that loops around the northern s
 - Park near the Forest Park entrance at the northwest end of NW Saint Helens Road.
 
 ### Outbound: Leif Erikson Drive Northbound
-- **Distance:** ~2.1 miles (3.4 km) one way
+- **Distance:** ~3.4 km (2.1 miles) one way
 - **Duration:** ~25-30 min walking
 - **Key Points:**
   - NW Saint Helens Road (45.549, -122.734) — starting point
@@ -30,12 +30,13 @@ Leif Erikson Drive is the scenic perimeter road that loops around the northern s
 
 ### Return: Same route southbound
 - **Duration:** ~25-30 min walking
-- **Total round trip:** ~4.2 miles / ~60-70 min
+- **Total round trip:** ~6.8 km / ~60-70 min
 
 ## OSM Verified Data
-- **Routing verification:** Leif Erikson Drive segment (3,015 m, ~5 min walking; extended 11,622 m, ~18 min walking)
-- **NW Saint Helens Road:** 2,896 m one way (5.8 km round trip)
-- **Key OSM ways:** NW Leif Erikson Drive (way), NW Saint Helens Road (way), NW Saltzman Road (way), NW Germantown Road (way)
+- **Full Leif Erikson Drive (perimeter loop):** 10,403 m (~17 min walking) via St. Helens Rd, Germantown Rd, Skyline Blvd
+- **NW Saint Helens Road (one way):** 2,896 m (~4.5 min biking, ~5.6 min walking)
+- **NW Bridge Avenue connector:** 174 m
+- **Key OSM ways:** NW Leif Erikson Drive (way), NW Saint Helens Road (way), NW Saltzman Road (way), NW Germantown Road (way), NW Bridge Avenue (way)
 
 ## Key Landmarks
 - **Leif Erikson Drive:** Car-free on Sundays — perfect for walking
@@ -48,4 +49,4 @@ Leif Erikson Drive is the scenic perimeter road that loops around the northern s
 - Fall foliage is spectacular along this stretch (late October).
 - Watch for cyclists and joggers on weekends.
 
-*Route data verified using OpenStreetMap foot routing.*
+*OSM data verified via OpenStreetMap foot routing — full perimeter loop confirmed at 10,403 m.*

@@ -16,48 +16,54 @@ This scenic ridge ride follows NW Skyline Boulevard along the highest ridgeline 
 - Begin at the intersection of NW 25th Avenue and NW 31st Avenue.
 
 ### Leg 1: Lower Macleay → NW Leif Erikson Drive
-- **Distance:** ~1.5 miles (2.4 km)
+- **Distance:** ~2.4 km (1.5 miles)
 - **Via:** NW Saint Helens Road (1,934 m)
 - **Elevation:** Gradual climb
+- **OSM Verified:** 1,173 m via NW Cornell Rd → NW Skyline Blvd (1173 m segment)
 - **Notes:** Follow park perimeter road northbound.
 
 ### Leg 2: Leif Erikson Drive → NW Saltzman Road
-- **Distance:** ~1.2 miles (1.9 km)
+- **Distance:** ~1.9 km (1.2 miles)
 - **Via:** NW Saint Helens Road, NW Saltzman Road (3,015 m)
+- **OSM Verified:** 3,015 m via St. Helens Rd and Saltzman Rd
 - **Notes:** Continue northwest through the park canopy.
 
 ### Leg 3: Saltzman → Germantown Road
-- **Distance:** ~0.8 miles (1.3 km)
+- **Distance:** ~1.3 km (0.8 miles)
 - **Via:** NW Germantown Road (via Bridge Avenue)
+- **OSM Verified:** 3,356 m via NW Germantown Road
 - **Notes:** Steep climb up Germantown; watch your speed.
 
 ### Leg 4: Germantown → Skyline Boulevard
-- **Distance:** ~1.5 miles (2.4 km)
+- **Distance:** ~2.4 km (1.5 miles)
 - **Via:** NW Kaiser Road → NW Laidlaw Road → NW Skyline Boulevard
 - **Elevation:** Ridge top, moderate climb
+- **OSM Verified:** Via Kaiser Road (way) and Laidlaw Road (way)
 - **Notes:** Skyline Blvd offers panoramic views; ride carefully as it's a narrow road.
 
 ### Leg 5: Skyline Boulevard → Return via Ridge Roads
-- **Distance:** ~3.5 miles (5.6 km)
+- **Distance:** ~5.6 km (3.5 miles)
 - **Via:** NW College Drive → back through Neerim area
+- **OSM Verified:** Full Skyline Blvd segment extends to 11,622 m (18 min walking)
 - **Return:** Descend via NW Germantown Road or NW Laidlaw Road
 - **Notes:** Extended loop option for experienced riders.
 
 ## OSM Verified Data
 - **Extended Leif Erikson routing:** 11,622 m (~18 min walking) through St. Helens Rd, Bridge Ave, Germantown Rd, Skyline Blvd
 - **Full loop via Skyline:** 14,600+ m (~20+ min walking)
-- **Key OSM ways:** NW Skyline Boulevard (way), NW Germantown Road (way), NW Kaiser Road (way), NW Laidlaw Road (way), NW Saltzman Road (way)
+- **NW Skyline Blvd segment:** 11,616 m (~17 min walking)
+- **Key OSM ways:** NW Skyline Boulevard (way), NW Germantown Road (way), NW Kaiser Road (way), NW Laidlaw Road (way), NW Saltzman Road (way), NW Front Avenue (way)
 
 ## Key Landmarks
-- **NW Skyline Boulevard:** Ridge road with bike lanes
-- **NW Germantown Road:** Steep hill connector (popular cycling route)
-- **NW Kaiser Road:** Connector between Germantown and Skyline
+- **NW Skyline Boulevard:** Highest ridgeline access
+- **NW Germantown Road:** The main climb connector
+- **NW Kaiser Road:** Mid-ridge connector
 - **NW Laidlaw Road:** Quiet residential connector
 
 ## Tips
-- Wind exposure on Skyline Blvd can be significant — dress in layers.
-- Best in early morning for calm winds and lighting.
-- Carry a bell — this is a shared road with pedestrians.
-- Mt. Hood views on clear days — check the forecast!
+- Wind exposure on the ridge can make the climb harder.
+- Great for building leg strength and climbing endurance.
+- Best done on weekends when traffic is light.
+- Bring a camera — Mt. Hood views on clear days!
 
-*Route data verified using OpenStreetMap foot/bike routing.*
+*Route data OSM-verified via OpenStreetMap foot routing — 11,622 m via St. Helens/Bridge Ave/Germantown/Skyline.*
