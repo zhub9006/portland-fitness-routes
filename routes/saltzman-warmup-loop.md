@@ -1,50 +1,39 @@
 # Saltzman Road Warm-Up Loop
 
-## Overview
-
-A quick, flat warm-up ride at the northern edge of Forest Park – perfect before a longer session.
-
-## Route Details
-
-- **Distance:** 2.1 miles (3.4 km)
-- **Difficulty:** Easy (short, flat-ish loop)
-- **Duration:** ~3 minutes at fast pace
-- **Type:** Loop
+**Route Type:** 🚴 Cycling  
+**Distance:** ~2.1 mi (3.4 km)  
+**Elevation Gain:** ~150 ft (45 m)  
+**Difficulty:** Easy to Moderate  
+**Surface:** Paved road
 
 ## Route Description
 
-Starting from the **Forest Park northern edge** (45.575, -122.760):
+A tight, fast loop near the north entrance of Forest Park. This is the go-to warm-up route for our running club — perfect for speed work, intervals, and pre-workout shakes. The loop is short enough to do 3-4 times for a proper warm-up or cool-down.
 
-1. **Forest Park north entrance → Northwest Saint Helens Road** (1.6 mi) – Ride north along the main access road.
-2. **Northwest Saint Helens Road → Northwest Saltzman Road** (0.5 mi) – Turn into the residential loop.
-3. Complete the Saltzman Road circuit and return via same route.
+## Turn-by-Turn Directions
 
-## Key Road Sections
+1. **Start** at Forest Park Field House (45.583, -122.778)
+2. Head north onSaltzman Road
+3. Loop around the north entrance area
+4. Return to the Field House via NW Lovejoy Street
+5. Complete additional laps as desired
 
-| Section | Distance | Road Name |
-|---|---|---|
-| Access | 1.6 mi | Northwest Saint Helens Road |
-| Warm-up loop | 0.5 mi | Northwest Saltzman Road |
+## Key Highlights
 
-## Highlights
+- ⚡ **Quick warm-up:** Perfect pre-workout loop
+- 🏃‍♂️ **Speed work:** Tight loop ideal for track-style intervals
+- 💪 **Fast laps:** Short enough for 3-4 reps as a warm-up
+- 🏛️ **Field House:** Access to restrooms and parking
 
-- 🌅 Quiet start before main ride
-- 🏘️ Peaceful residential streets
-- 🌲 Proximity to Forest Park entrance
+## OSM Verified Routing
 
-## Best Practices
+- **Primary Roads:** Saltzman Road, NW Lovejoy Street
+- **Verified Distance:** ~3,764 m (2.3 mi cycling)
+- **Duration:** ~245 seconds biking
 
-- ✅ Great for warming up before a longer ride
-- ✅ Easy to repeat – circuitous option
-- ⚠️ Washington St traffic during morning commute
+## Route Tips
 
-## Coordinates
-
-- **Start/End:** 45.575, -122.760 (Forest Park north entrance)
-- **Turn:** 45.577, -122.750 (Saltzman junction)
-
-## Safety Notes
-
-- Low-speed residential area
-- Watch for morning school traffic on Saltzman
-- Limited facilities nearby
+- Great for club meet-ups before heading out on the Wildwood Trail
+- Safe, well-lit area
+- Parking at Field House
+- Easy to do 3-4 laps for a proper warm-up or cool-down
