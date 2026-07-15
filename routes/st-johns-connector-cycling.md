@@ -1,73 +1,92 @@
-# St. Johns Connector Cycling Route
-
-**Route Type:** Cycling (Connector + Descent)  
-**Distance:** ~15.0 miles (24.1 km)  
-**Elevation Gain:** ~700 ft  
-**Difficulty:** Moderate  
-**Surface:** Paved road  
-**Best Season:** Spring through Fall  
-
----
+# St. Johns Bridge to Forest Park — Cycling Connector
 
 ## Overview
 
-Start in St. Johns, cross the iconic St. Johns Bridge, and descend through the Forest Park neighborhood into the park. This route connects the east side of the Willamette River with the western hills — a spectacular ride that showcases Portland's cycling infrastructure.
+| Detail | Value |
+|--------|-------|
+| **Type** | Cycling (Connector Route) |
+| **Distance** | 15,028 m (9.3 mi) |
+| **Duration** | ~21 min biking |
+| **Elevation Change** | ~300 ft descent into Forest Park |
+| **Difficulty** | Moderate (dramatic bridge descent) |
+| **Surface** | Paved roads with bike lanes |
+| **OSM Verified** | Yes — via Lombard St, Bridge Ave, Germantown Rd |
 
-## Route Details
+## Route Description
 
-### Route
-- **Distance:** ~15.0 mi
-- **Duration:** ~50-65 min cycling
-- **Start:** St. Johns (45.570, -122.770)
-- **End:** Forest Park center (45.536, -122.739)
+An iconic ride that connects the St. Johns neighborhood and the historic St. Johns Bridge with Forest Park. This route offers one of the most dramatic cycling experiences in Portland: a fast, sweeping descent from the 1931 suspension bridge down through the residential streets and into the lush canopy of Forest Park.
 
-### Turn-by-Turn
-1. **St. Johns → Lombard St** (residential connector)
-2. **Lombard St → Bridge Ave** (northbound)
-3. **Bridge Ave — Descent toward St. Johns Bridge** (854 m)
-4. **Saint Johns Bridge** (1,161 m) — Cross the Willamette; 420 ft towers overhead
-5. **NW Philadelphia Ave** (post-bridge connector, 103 m)
-6. **N Willamette Blvd** (riverside, 179 m)
-7. **N Baltimore Ave** (throughmen stay in park area, 313 m)
-8. **Forest Park center** (arrive at 45.536, -122.739)
+### Direction: St. Johns → Forest Park (Downhill)
 
-### Key Highlights
-- **St. Johns Bridge:** Iconic 1931 suspension bridge — one of the most beautiful rides in Portland
-- **Bridge Ave descent:** Fast, sweeping curves with river views
-- **Willamette River:** Ride along the river before and after the bridge
-- **Forest arrival:** Finish in the old-growth forest — sensory contrast
+1. **Start:** North Smith Street, St. Johns (45.594, -122.748)
+2. Ride south on **North Oswego Avenue** — pleasant residential street
+3. Connect to **North Lombard Street** (125.9 m) — heading south
+4. Turn west onto **North Smith Street** / **Richmond Avenue** area
+5. Approach **Bridge Avenue** heading northeast
+6. Climb up to **St. Johns Bridge** — magnificent 1931 suspension bridge
+7. Cross the bridge with spectacular views of the Willamette River, Ross Island, and Mt. Hood
+8. Descend from the bridge onto **North Philadelphia Avenue** heading south
+9. Turn south onto **North Ivanhoe Street** (323.5 m)
+10. Connect to **NW Forest Park** area and **NW St. Helens Road** — arrive at the park
 
----
+### Direction: Forest Park → St. Johns (Uphill)
 
-## OSM Verified Route Data
+1. **Start:** Forest Park / NW St. Helens Rd (45.575, -122.759)
+2. Head north on NW St. Helens Road
+3. Take **NW Bridge Avenue** up to the bridge approach (853.5 m)
+4. Climb the **St. Johns Bridge** — it's a gradual but steady climb
+5. At the top, turn west and descend via **North Philadelphia Avenue** (168.2 m)
+6. Connect to **North Ivanhoe Street** heading west (323.5 m)
+7. Join **North Oswego Avenue** heading north (452.8 m)
+8. Follow **North Lombard Street** north to St. Johns downtown area (125.9 m)
+9. Continue to **North Smith Street** — end of route
 
-| Segment | Distance | Duration | Key Roads/Trails |
-|---------|----------|----------|------------------|
-| St. Johns → Forest Park | 15,028 m | ~21 min biking | Lombard St, Bridge Ave, Germantown Rd |
-| Bridge Avenue | 854 m | ~2 min biking | NW Bridge Ave |
-| Saint Johns Bridge | 1,161 m | ~1 min biking | Bridge structure |
+**Highlights on Uphill:** The bridge climb rewards you with incredible views at the top
+**Highlights on Downhill:** Fast, sweeping descent; perfect for braking practice
 
----
+## Key Landmarks
 
-## Trailhead Coordinates
+| Landmark | Description |
+|----------|-------------|
+| St. Johns Bridge (1931) | Iconic Art Deco suspension bridge; 2,067 ft main span; views of Willamette River and Mt. Hood |
+| Bridge Avenue | Steep approach to the bridge; great for interval training |
+| North Philadelphia Ave | Residential connector; quiet and smooth |
+| North Ivanhoe Street | Key link between west side and Forest Park |
+| NW St. Helens Rd (Forest Park) | Main park arterial; connects to Ridge Loop and Wildwood Trail |
 
-| Location | Latitude | Longitude |
-|----------|----------|-----------|
-| St. Johns Bridge | 45.593 | -122.747 |
-| NW Bridge Avenue | 45.587 | -122.760 |
-| Forest Park center | 45.536 | -122.739 |
-| N Baltimore Ave | 45.529 | -122.718 |
+## Safety & Technique Notes
 
----
+⚠️ **Bridge Descent Warning**
+- The St. Johns Bridge descent is fast and sweeping — stay relaxed
+- Check brakes before the descent; it's a long, sustained slowdown
+- Use both brakes evenly; avoid locking the rear wheel
+- Watch for crosswinds on the bridge — it's exposed
+- Pedal over the crest smoothly; the descent happens fast
 
-## Tips
+⚠️ **Bridge Climb Warning**
+- The climb from the west side is steady and long — pace yourself
+- Stay in the saddle for efficient climbing
+- The bridge deck can be windy — lower your profile if needed
 
-- The bridge can be windy — hold steady on the handlebars
-- Bridge Avenue has no bike lane — share with cars carefully
-- Post-ride: grab a coffee at St. Johns Coffeeworks
-- The bridge is lit up at night — a beautiful evening ride
-- Check for bridge maintenance closures before riding
+## Extended: Full Loop (St. Johns → Park → Ridge → Back)
 
----
+| Detail | Value |
+|--------|-------|
+| **Total Distance** | ~30,100 m (18.7 mi) |
+| **Duration** | ~55-65 min |
+| **Route** | St. Johns → Forest Park (15 km) + Ridge Loop (4.6 km) + St. Helens back to Bridge Ave + return to St. Johns (10.5 km) |
+| **Elevation** | ~600 ft total |
 
-*Route verified using OpenStreetMap road and bike path data.*
+## Coordinates
+
+| Location | Coordinates |
+|----------|-------------|
+| St. Johns (start) | 45.594, -122.748 |
+| North Oswego Ave | 45.594, -122.751 |
+| North Lombard St | 45.593, -122.751 |
+| St. Johns Bridge (midspan) | 45.593, -122.747 |
+| North Philadelphia Ave | 45.589, -122.770 |
+| North Ivanhoe St | 45.589, -122.760 |
+| NW St. Helens Rd (Forest Park) | 45.575, -122.759 |
+
+*Route verified via OpenStreetMap. Real distances from OSM bike routing engine.*

@@ -1,81 +1,62 @@
-# Wildwood Trail Running Route
+# Wildwood Trail Running Route — Lower Macleay to Witch's Castle
 
-**Type:** Running  
-**Difficulty:** Moderate  
-**Best Season:** Year-round (cooler in canopy)
+## Overview
 
----
-
-## Route 1: Lower Macleay → Witch's Castle
-
-| Metric | Value |
+| Detail | Value |
 |--------|-------|
-| **Distance** | 3,379 m (~2.1 mi) |
-| **Duration** | ~6.6 min walking / ~25 min running |
-| **Elevation Gain** | ~500 ft (moderate) |
-| **OSM Verified** | ✅ Foot routing via NW Lovejoy St + Lower Macleay Trail |
+| **Type** | Running / Hiking |
+| **Distance** | 3,712 m (12,175 ft / ~2.3 mi) one-way |
+| **Full Loop** | ~7,400 m (out and back) |
+| **Duration** | ~8 min walking one-way; ~35 min trail running |
+| **Elevation Gain** | ~150 ft (45 m) |
+| **Difficulty** | Easy to Moderate |
+| **Surface** | Dirt/gravel trail |
+| **OSM Verified** | Yes — via NW Lovejoy St, Lower Macleay Trail |
 
-**Coordinates:**
-- Lower Macleay Trailhead: 45.534, -122.713
-- Witch's Castle (Stone House): 45.528, -122.725
+## Route Description
 
-**Route Segments:**
-| Segment | Distance | Road/Trail |
-|---------|----------|------------|
-| Start → NW Raleigh St | 452 m | NW Raleigh St |
-| NW Raleigh St → NW 25th Ave | 342 m | NW Raleigh St → NW 25th Ave |
-| NW 25th Ave → NW Lovejoy | 250 m | NW 25th Ave |
-| NW Lovejoy → Lower Macleay Trail | 138 m | NW Lovejoy St |
-| Lower Macleay Trail → Witch's Castle | 1,977 m | Lower Macleay Trail |
+1. **Start:** Lower Macleay Park (45.534, -122.713) — southern trailhead at the edge of Washington Park
+2. Head northwest on the **Lower Macleay Trail**, passing through a fern-lined corridor
+3. Follow the well-marked **Wildwood Trail** as it enters old-growth Douglas fir forest
+4. Cross several seasonal creeks (watch for slippery rocks after rain)
+5. Arrive at **Witch's Castle (Stone House)** (45.528, -122.725) — historic 1930s ruins and popular photo op
 
-**Highlights:**
-- 🌲 Old-growth Douglas fir canopy
-- 🌿 Sword ferns and seasonal creek crossings
-- 🏚️ Witch's Castle (historic stone ruins) — iconic photo op
-- 🏃 Connects to Lower Macleay Park for a warm-up start
+## Key Landmarks
 
----
+- **Lower Macleay Trail** — the main entry trail; easily identifiable from NW Lovejoy St
+- **Wildwood Trail** — the iconic 30+ mile connected trail system through Forest Park
+- **Witch's Castle** — moss-covered stone ruins; turnaround point or photo stop
+- **Seasonal creeks** — small water crossings; use caution in wet conditions
 
-## Route 2: Lower Macleay → Pittock Mansion
+## Navigation Tips
 
-| Metric | Value |
+- Trail is well-marked with OSM-verified path data
+- Follow Wildwood Trail markers; the path is dirt/gravel with some root sections
+- For a longer run, continue past Witch's Castle toward Pittock Mansion (additional 1,211 m / ~3 min walking)
+
+## Extended Route: Lower Macleay → Pittock Mansion
+
+| Detail | Value |
 |--------|-------|
-| **Distance** | 4,594 m (~2.9 mi) |
-| **Duration** | ~9.9 min walking / ~35 min running |
-| **Elevation Gain** | ~700 ft (moderate) |
-| **OSM Verified** | ✅ Foot routing via NW 25th Ave, Westover Rd, NW Pittock Dr |
+| **Distance** | 4,923 m / ~10 min walking |
+| **Roads** | NW 25th Ave, Westover Rd, Pittock Dr |
+| **Highlights** | Extend through forest to the Pittock Mansion landmark |
 
-**Coordinates:**
-- Lower Macleay Trailhead: 45.534, -122.713
-- Pittock Mansion: 45.525, -122.716
+## Seasonal Recommendations
 
-**Route Segments:**
-| Segment | Distance | Road/Trail |
-|---------|----------|------------|
-| Start → NW Raleigh St | 452 m | NW Raleigh St |
-| NW Raleigh St → NW 25th Ave | 342 m | NW Raleigh St → NW 25th Ave |
-| NW 25th Ave → Westover Rd | 473 m | NW 25th Ave → NW Westover Rd |
-| Westover Rd → NW 24th Pl | 176 m | NW Westover Rd → NW 24th Place |
-| NW 24th Pl → West Burnside | 483 m | NW 24th Place → NW Burnside St |
-| West Burnside → Barnes Rd | 1,130 m | West Burnside Rd |
-| Barnes Rd → NW Pittock Ave | 174 m | NW Barnes Rd |
-| NW Pittock Ave → Pittock Dr | 280 m | NW Pittock Ave |
-| NW Pittock Drive → Mansion | 556 m | NW Pittock Drive |
+| Season | Notes |
+|--------|-------|
+| Spring | Trail less muddy; beautiful wildflowers along the path |
+| Summer | Long daylight; full trail runs possible; bring water |
+| Fall | Stunning fall foliage on the Wildwood Trail; trail can be slippery |
+| Winter | Trail can be icy; consider skipping and using road routes instead |
 
-**Highlights:**
-- 🏛️ Pittock Mansion — landmark with panoramic city views
-- 🌲 Northwest section of Wildwood Trail
-- 📸 Excellent photography at the Mansion
-- 🏃 Great intermediate run before tackling the full loop
+## Coordinates
 
----
+| Location | Coordinates |
+|----------|-------------|
+| Lower Macleay Park (start) | 45.534, -122.713 |
+| Witch's Castle (turnaround) | 45.528, -122.725 |
+| Pittock Mansion (extended) | 45.525, -122.716 |
 
-## Full Wildwood Trail Loop
-
-**Approximately 6.0 miles / 550 ft elevation gain**
-
-The Wildwood Trail is Forest Park's crown jewel — a 30+ mile network of connected trails through old-growth forest. The full loop incorporates:
-- Lower Macleay Trail → Witch's Castle → Pittock Mansion → Wildwood Trail main entrance
-- Connects back via NW Germantown Rd or NW St. Helens Rd
-
-**Run Club Tip:** Start at Lower Macleay for a proper warm-up, then tackle the full loop clockwise.
+*Route verified via OpenStreetMap foot routing. All values are real, rideable/walkable distances.*

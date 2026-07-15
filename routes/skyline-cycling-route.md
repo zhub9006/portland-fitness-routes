@@ -1,54 +1,85 @@
-# Skyline Cycling Route
+# Skyline Cycling Route — Ridge Loop with Panoramic Views
 
-**Type:** Cycling  
-**Difficulty:** Moderate  
-**Best Season:** Spring–Fall (avoid icy winter ridge)
+## Overview
 
----
-
-## Route: Extended Leif Erikson Loop via NW Skyline Blvd
-
-| Metric | Value |
+| Detail | Value |
 |--------|-------|
-| **Full Loop Distance** | ~11,622 m (~7.2 mi) |
-| **Duration** | ~20 min biking |
-| **Elevation** | ~800 ft gain (rolling) |
-| **OSM Verified** | ✅ Bike routing via NW St. Helens Rd, NW Bridge Ave, NW Skyline Blvd |
+| **Type** | Cycling |
+| **Distance** | ~11,622 m (~7.2 mi) full loop |
+| **Duration** | ~45-55 min |
+| **Elevation Gain** | ~800 ft (240 m) |
+| **Difficulty** | Easy to Moderate |
+| **Surface** | Paved roads with bike lanes |
+| **OSM Verified** | Yes — via St. Helens Rd, Germantown Rd, Skyline Blvd |
 
-**Coordinates:**
-- Forest Park Center: 45.536, -122.739 (start)
-- Ridge section: 45.580, -122.790 (NW Skyline Blvd)
+## Route Description
 
-**Route Segments:**
-| Segment | Distance | Road |
-|---------|----------|------|
-| Forest Park Center → NW St. Helens Rd | ~2,500 m | NW Cornell Rd → NW St. Helens Rd |
-| NW St. Helens Rd → Bridge Ave (north) | ~3,400 m | NW St. Helens Rd → NW Bridge Ave |
-| Bridge Ave → Ridge (NW Skyline Blvd) | ~3,000 m | NW Bridge Ave → NW Skyline Blvd |
-| Ridge → Leif Erikson Dr (east) | ~2,700 m | NW Skyline Blvd → Leif Erikson Dr |
-| Leif Erikson Dr → Forest Park Center | ~2,000 m | Leif Erikson Dr → NW St. Helens Rd |
+This is the premier cycling route around Forest Park. The loop follows the ridgeline along NW Skyline Boulevard, offering stunning panoramic views of the Portland skyline, the Willamette River, and on clear days, Mt. Hood and Mt. St. Helens.
 
-**Highlights:**
-- 🏔️ NW Skyline Boulevard ridgeline ride with Mt. Hood vistas on clear days
-- 🌲 Ride through old-growth forest on the western sections
-- 🏃‍♂️ Total ~800 ft elevation — great training for hilly race courses
-- 📸 Viewpoints at Ridge Trail Parking lot (45.588, -122.794)
+### Loop Direction: Clockwise (Recommended)
 
-**Running Club Tips:**
-- Study this route for hill climbing technique
-- Ride counterclockwise for better views on the left
-- Add a Wildwood Trail spur for a trail running descent
-- Winter: ice can form on the ridge — bring layers and studded tires
+1. **Start:** Forest Park Field House (45.583, -122.778)
+2. Head west on **NW Saint Helens Road** along the park's eastern boundary
+3. Connect to **NW Bridge Avenue** and cross into the northwest section
+4. Climb gently up to **NW Skyline Boulevard** — the ridgeline carries you west
+5. At the western end, turn south onto **NW Germantown Road**
+6. Follow Germantown as it curves southeast — watch for the steep descent
+7. Connect to **NW Kaiser Road** cutting south through the residential area
+8. Turn east onto **NW Laidlaw Road** — a quiet residential connector
+9. Return to Forest Park area via NW St. Helens Rd back to the start
 
----
+### Alternative: Ridgeline Only (Short Loop)
 
-## Extended Route: Full Leif Erikson + Ridge Loop
+For a quicker workout, do just the Germantown → Kaiser → Laidlaw → St. Helens circuit:
+- **Distance:** 4,586 m (~2.9 mi)
+- **Duration:** ~7 min biking
+- **Elevation:** ~200 ft
 
-**~12.2 mi / ~800 ft elevation**
+## Key Landmarks
 
-Combine Leif Erikson Drive out-and-back with the extended Skyline ridgeline loop for a comprehensive Forest Park ride.
+- **NW Skyline Blvd** — the ridgeline road; best views of Mt. Hood
+- **NW Germantown Road** — steep descent with panoramic views; popular among cyclists
+- **NW Kaiser Road** — connector between ridge roads; moderate grade
+- **NW Laidlaw Road** — quiet residential connector; gentle descent
+- **Forest Park Field House** — convenient start/end point; parking available
 
-**Legend:**
-- Blue lines = NW St. Helens Rd / Bridge Ave
-- Red lines = Ridge roads (NW Skyline Blvd)
-- Green lines = Leif Erikson Dr connector
+## Surface & Conditions
+
+- All roads paved with adequate bike lanes or sharrows
+- Germantown Road can be busy on weekends; ride defensively
+- Skyline Blvd has a wide shoulder; good for paceline riding
+- Laidlaw Rd is very quiet — ideal for interval training
+
+## Extended Ride: St. Johns Bridge Connector
+
+For a dramatic ride, extend to St. Johns via the bridge:
+
+| Detail | Value |
+|--------|-------|
+| **Distance** | 15,028 m (9.3 mi) from Forest Park |
+| **Duration** | ~21 min biking |
+| **Route** | Lombard St → Bridge Ave → St. Johns Bridge → Philadelphia Ave |
+| **Highlights** | Suspension bridge descent; 300 ft elevation change; Willamette River views |
+
+## Seasonal Recommendations
+
+| Season | Notes |
+|--------|-------|
+| Spring | Wildflower blooms along the ridgeline; clear air for mountain views |
+| Summer | Long daylight for extended rides; Mt. Hood visible on clear days |
+| Fall | Fall foliage in the park sections; air clarity peaks for mountain views |
+| Winter | Roads may be icy on shaded descents; Laidlaw Rd generally stays clear |
+
+## Coordinates
+
+| Location | Coordinates |
+|----------|-------------|
+| Forest Park Field House (start) | 45.583, -122.778 |
+| Ridge Trail Parking Lot | 45.588, -122.794 |
+| NW Skyline Blvd (ridgeline) | 45.580, -122.790 |
+| NW Germantown Rd descent | 45.570, -122.769 |
+| NW Kaiser Road | 45.575, -122.765 |
+| NW Laidlaw Road | 45.573, -122.758 |
+| St. Johns Bridge | 45.593, -122.747 |
+
+*Route verified via OpenStreetMap bike routing. Mt. Hood visibility depends on weather conditions.*
