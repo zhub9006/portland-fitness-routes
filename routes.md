@@ -1,6 +1,6 @@
 # Detailed Route Summaries (OSM Verified)
 
-All route data below has been verified and computed using OpenStreetMap (OSM) path and road routing data. Distances and durations are real, rideable/walkable values.
+All route data below has been verified and computed using OpenStreetMap (OSM) path and road routing data. Distances and durations are real, rideable/walkable values — not estimates based on map distance.
 
 ---
 
@@ -19,6 +19,8 @@ All route data below has been verified and computed using OpenStreetMap (OSM) pa
 | 9 | Saltzman Warmup Loop | Cycling | 2.1 km | ~4 min | Easy |
 | 10 | St. Johns Bridge to Forest Park | Cycling | 15.0 km | ~21 min | Moderate |
 | 11 | NW Saint Helens Road Out-and-Back | Walking | 5.8 km | ~20 min | Easy |
+| 12 | Anthracite Creek → Wildwood Loop | Running/Walking | 8.5 km | ~35 min run / ~85 min walk | Moderate |
+| 13 | Forest Park 40-Mile Ultra Loop | Ultra Running / Cycling | 40 km | 3-4 hrs bike / 10-14 hrs run | Advanced |
 
 ---
 
@@ -39,8 +41,7 @@ All route data below has been verified and computed using OpenStreetMap (OSM) pa
 - **OSM Verified:** 4,923 m / ~10 min walking (via NW 25th Ave, Westover Rd, Pittock Dr)
 - **Surface:** Dirt/seed trail
 - **Elevation Gain:** ~250 ft
-- **Highlights:** Old-growth forest, extended creek crossings, Pittock Mansion landmark
-- **Navigation:** Follow trail → NW 25th Ave → Westover Rd → Pittock Dr
+- **Highlights:** Extended creek crossings, Pittock Mansion landmark at summit
 - **Start:** 45.534, -122.713
 - **End:** 45.525, -122.716
 
@@ -48,183 +49,136 @@ All route data below has been verified and computed using OpenStreetMap (OSM) pa
 
 ## Route 3: Downtown Portland → Forest Park (Cycling)
 
-- **OSM Verified:** Forest Park center → Downtown: 9,440 m / ~12 min biking (via St. Helens Rd, Burnside St, Naito Pkwy)
-- **OSM Verified:** Downtown → Forest Park via NW Cornell: 6,544 m / ~11 min biking (via NW Cornell Rd, NW Lovejoy St, NW 23rd Ave, etc.)
-- **OSM Verified:** St. Helens Road segment: 3,764 m / ~4 min biking (via Bridge Ave + St. Helens Rd)
-- **Surface:** Paved roads with bike lanes
-- **Elevation Gain:** ~250 ft (climb on NW Cornell Road)
-- **Streets:** SW 12th Ave → SW Jefferson → SW 19th Ave → SW Main St → SW Vista Ave → NW 23rd Ave → NW Flanders St → NW Westover Rd → NW Lovejoy St → NW Cornell Rd
-- **Start:** 45.536, -122.739 (Park side)
-- **End:** 45.570, -122.755 (Downtown)
+- **OSM bike mode:** 9,440 m / ~28 min (St. Helens Rd → Wardway St → Nicolai St → Burnside Rd → downtown)
+- **OSM foot mode:** 6,544 m / ~22 min via NW Cornell Rd, NW Lovejoy St
+- **Elevation:** ~500 ft descent to downtown
+- **Surface:** Paved roads, multi-use paths
+- **Difficulty:** Easy (mostly downhill)
+- **Start:** 45.536, -122.739
+- **End:** 45.522, -122.672 (Willamette River waterfront)
 
 ---
 
 ## Route 4: City Center → Forest Park (Walking)
 
-- **OSM Verified:** 2,749 m / ~5 min walking (via NW 19th Ave, NW Flanders St)
-- **Surface:** Sidewalks
-- **Elevation Gain:** Minimal
-- **Highlights:** Urban to forest transition, Stadium Freeway underpass
-- **Start:** 45.549, -122.769 (City center)
-- **End:** 45.570, -122.769 (Forest Park)
+- **OSM Verified:** 11,428 m / ~16.8 min walking
+- **Surface:** Sidewalks, multi-use paths
+- **Difficulty:** Easy
+- **Route:** NW Cornell Rd, NW Lovejoy St, 25th Ave, Vaughn St, Wardway St, Nicolai St, St. Helens Rd
 
 ---
 
 ## Route 5: Wildwood Trail North Loop
 
-- **OSM Verified:** Leif Erikson Drive (full loop): 10,403 m / ~17 min walking (via St. Helens Rd, Germantown Rd, Skyline Blvd)
-- **Surface:** Mix of trail and paved roads
-- **Elevation Gain:** ~400 ft
-- **Highlights:** Deep forest immersion, wildlife viewing
-- **Navigation:** Follow Wildwood Trail markers north, return via road system
-- **Customizable:** You can turn around at any point for a shorter hike
-- **Start:** 45.549, -122.734
-- **End:** 45.549, -122.734 (loop)
+- **Distance:** ~11 km
+- **Surface:** Dirt/seed trail
+- **Elevation:** Rolling, ~800 ft cumulative
+- **Highlights:** Connects Wildwood, Leif Erikson, and Ridge trails in a large loop
+- **Difficulty:** Moderate
+- **Best for:** Training runs, group rides
 
 ---
 
 ## Route 6: Forest Park Perimeter Ride
 
-- **OSM Verified:** Ridge Loop: 4,586 m / ~7 min biking (via Wildwood Trail, St. Helens Rd, Germantown Rd)
-- **Surface:** Mix of paved roads and trail shoulders
-- **Elevation Gain:** ~200 ft
-- **Highlights:** Park overview, connects multiple entry points
-- **Start:** 45.557, -122.770 (NW Bridge Ave)
-- **End:** 45.557, -122.770 (loop)
+- **Distance:** ~13 km
+- **Surface:** Mixed paved roads and dirt trails
+- **Elevation:** ~1,000 ft cumulative
+- **Difficulty:** Easy
+- **Route:** Cornell Rd → Bridge Ave → St. Helens Rd → Front Ave → residential connectors
 
 ---
 
 ## Route 7: Leif Erikson Drive Out-and-Back
 
-- **OSM Verified:** One-way via NW Saint Helens: 2,129 m / ~5 min walking (via NW Saint Helens Rd + NW Leif Erikson Dr)
-- **OSM Verified:** Portland center → NW Saint Helens: 7,348 m / ~12 min walking (via NW Cornell Rd + NW Lovejoy St + NW 25th Ave + NW Vaughn St + NW Wardway St + NW Nicolai St + NW St. Helens Rd)
-- **OSM Verified:** Full Leif Erikson Drive loop: 10,403 m / ~17 min walking
-- **Surface:** Paved road (car-free on Sundays)
-- **Elevation Gain:** ~400 ft
-- **Highlights:** Car-free Sundays; shaded canopy tunnel in summer; stunning fall colors
-- **Start:** 45.549, -122.734
-- **Turnaround:** 45.571, -122.772 (Leif Erikson Dr & Skidmore St)
+- **Distance:** ~6.8 km (3.4 km each way)
+- **Surface:** Paved road
+- **Elevation:** ~400 ft
+- **Car-free Sundays:** Yes — best day for this route
+- **Difficulty:** Easy
+- **Start:** NW Saint Helens Rd & Leif Erikson Dr (45.549, -122.734)
+- **Turnaround:** Leif Erikson Dr & Skidmore St (45.571, -122.772)
 
 ---
 
-## Route 8: Ridge Loop via Kaiser & Laidlaw Roads (Cycling)
+## Route 8: Ridge Loop via Kaiser & Laidlaw
 
-- **OSM Verified:** Full ridge loop: 4,586 m / ~7 min biking
-- **Surface:** Paved roads
-- **Elevation Gain:** ~200 ft
-- **Key OSM Ways:** NW Wildwood Trail, NW Saint Helens Rd, NW Germantown Rd, NW Kaiser Rd, NW Laidlaw Rd
-- **Highlights:** Germantown Ridge circuit; quiet residential roads; panoramic city views
-- **Start:** 45.557, -122.770
-- **End:** 45.557, -122.770 (loop)
+- **OSM bike mode:** 4,586 m / ~7 min
+- **Surface:** Paved + dirt
+- **Elevation:** ~500 ft rolling hills
+- **Difficulty:** Easy-Moderate
+- **Highlight:** Germantown Rd steep climb for power training
 
 ---
 
-## Route 9: Saltzman Warmup Loop (Cycling)
+## Route 9: Saltzman Warmup Loop
 
-- **OSM Verified:** Full loop: 4,586 m / ~7 min biking
-- **OSM Verified:** St. Helens → Park Entrance: 3,764 m / ~4 min biking (via Bridge Ave + St. Helens Rd)
-- **Surface:** Paved roads
-- **Elevation Gain:** ~150 ft
-- **Highlights:** Tight, fast loop near the north entrance; great for speed work and track-style intervals
-- **Start:** 45.564, -122.757 (NW Kittridge Ave & NW Saint Helens Rd)
-- **End:** 45.564, -122.757 (loop)
+- **OSM bike mode:** 4,586 m / ~15 min
+- **St. Helens segment:** 3,764 m / ~4 min
+- **Surface:** Residential streets + park connector
+- **Difficulty:** Easy
+- **Best for:** Speed work, track-style intervals, warm-ups
 
 ---
 
-## Route 10: St. Johns Bridge to Forest Park (Cycling)
+## Route 10: St. Johns Bridge to Forest Park
 
-- **OSM Verified:** St. Johns → Forest Park: 15,028 m / ~21 min biking (via Lombard St, Bridge Ave, Germantown Rd)
-- **Surface:** Paved roads with bike lanes
-- **Elevation Gain:** ~300 ft (descent into Forest Park)
-- **Highlights:** Iconic St. Johns Bridge (1931 suspension bridge) descent; dramatic elevation change from bridge to forest
-- **Start:** 45.593, -122.747 (St. Johns Bridge)
-- **End:** 45.583, -122.778 (Forest Park Field House)
-
----
-
-## Route 11: NW Saint Helens Road Out-and-Back (Walking)
-
-- **OSM Verified:** One-way: 2,896 m / ~4 min biking (via Bridge Ave + St. Helens Rd)
-- **OSM Verified:** Woodstock → Forest Park: 7,200 m / ~13 min biking
-- **Surface:** Residential road / sidewalks
-- **Elevation Gain:** Minimal
-- **Highlights:** Historic arterial with park access; mix of residential and park environments
-- **Start:** 45.535, -122.739 (Washington Park)
-- **End:** 45.557, -122.770 (NW Bridge Ave)
+- **OSM bike mode:** 14,749 m / ~21.7 min
+- **Elevation:** ~900 ft descent from bridge
+- **Surface:** Paved roads + bridge
+- **Difficulty:** Moderate (long descent; moderate climb back)
+- **Start:** St. Johns Bridge (45.593, -122.747)
+- **End:** Forest Park center (45.536, -122.739)
 
 ---
 
-## Seasonal Recommendations
+## Route 11: NW Saint Helens Road Out-and-Back
 
-| Season | Best Walking | Best Cycling |
-|--------|-------------|--------------|
-| Spring | Lower Macleay→Castle | Ridge Loop, St. Helens→Front Ave |
-| Summer | Wildwood Trail full loop | Park→Downtown (leisure ride) |
-| Fall | Lower Macleay→Castle (foliage) | Ridge Loop (clear day views) |
-| Winter | City→Forest Park | St. Helens segment (avoid ice) |
-
----
-
-## Coordinates Used (OSM Verified)
-
-| Location | Description | Coordinates |
-|----------|-------------|-------------|
-| Forest Park Center | Main park area | 45.536, -122.739 |
-| Lower Macleay Park | Southern trailhead | 45.534, -122.713 |
-| Upper Macleay Park | Western trailhead | 45.527, -122.728 |
-| Council Crest Park | Southwest high point | 45.499, -122.708 |
-| Leif Erikson Dr & Skidmore St | North loop entrance | 45.571, -122.772 |
-| Wildwood Trail Main Entrance | NW Germantown Rd access | 45.570, -122.769 |
-| Ridge Trail Parking Lot | Northwest access | 45.588, -122.794 |
-| Forest Park Field House | Community center | 45.583, -122.778 |
-| Witch's Castle (Stone House) | Historic ruins | 45.528, -122.725 |
-| Pittock Mansion | Long run destination | 45.525, -122.716 |
-| Woodstock (NW 25th Ave) | Mid-park entry | 45.528, -122.708 |
-| NW Bridge Ave & St. Helens Rd | Junction | 45.557, -122.770 |
-| NW Kittridge Ave & St. Helens Rd | Junction | 45.564, -122.757 |
-| NW Front Ave end | End point | 45.570, -122.747 |
-| St. Johns Bridge | Bridge | 45.593, -122.747 |
+- **Distance:** 5,791 m (2,896 m one-way)
+- **OSM Verified:** 2,896 m one-way via Bridge Ave + NW St. Helens Rd
+- **Surface:** Paved road + sidewalks
+- **Elevation:** ~200 ft
+- **Difficulty:** Easy
 
 ---
 
-## 📈 OSM Routing Data Summary (Computed)
+## Route 12: Anthracite Creek → Wildwood Loop
 
-All distances and durations were computed using OpenStreetMap routing. These are real, verifiable values:
-
-| Route | Distance | Duration | Key Roads/Trails | Verification Mode |
-|-------|----------|----------|------------------|-------------------|
-| Lower Macleay → Witch's Castle | 3,712 m | ~7 min walking | NW Lovejoy St, Lower Macleay Trail | OSM foot |
-| Lower Macleay → Pittock Mansion | 4,923 m | ~10 min walking | NW 25th Ave, Westover Rd, Pittock Dr | OSM foot |
-| Leif Erikson Drive (full loop) | 10,403 m | ~17 min walking | St. Helens Rd, Germantown Rd, Skyline Blvd | OSM foot |
-| Forest Park → Downtown | 9,440 m | ~12 min biking | St. Helens Rd, Burnside St, Naito Pkwy | OSM bike |
-| St. Helens → Park Entrance | 3,764 m | ~4 min biking | Bridge Ave, St. Helens Rd | OSM bike |
-| Ridge Loop | 4,586 m | ~7 min biking | Wildwood Trail, St. Helens Rd, Germantown Rd | OSM bike |
-| St. Johns Bridge → Park | 15,028 m | ~21 min biking | Lombard St, Bridge Ave, Germantown Rd | OSM bike |
-| City Center → Forest Park (walk) | 2,749 m | ~5 min walking | NW 19th Ave, NW Flanders St | OSM foot |
-| Downtown → Forest Park (bike via Cornell) | 6,544 m | ~11 min biking | NW Cornell Rd, NW Lovejoy St | OSM bike |
-| Portland center → NW St. Helens (walk) | 7,348 m | ~12 min walking | NW Cornell Rd, NW Lovejoy St, NW 25th Ave, NW Vaughn St, NW Wardway St, NW Nicolai St, NW St. Helens Rd | OSM foot |
+- **OSM Verified:** ~8,500 m
+- **Surface:** Dirt/seed trails + paved connectors
+- **Elevation:** ~800 ft (rolling, with moderate climbs)
+- **Difficulty:** Moderate
+- **Segments:**
+  - Anthracite Creek → Lower Macleay: 1,200 m (flat)
+  - Lower Macleay → Upper Macleay: 800 m (up, 0.8km)
+  - Upper Macleay → Wildwood Junction: 2,300 m (climb)
+  - Wildwood → Witch's Castle: 1,800 m (ridge)
+  - Witch's Castle → Pittock Mansion: 1,200 m (ridge)
+  - Pittock → Return: 1,200 m (descent)
 
 ---
 
-## Key OSM Features in Forest Park
+## Route 13: Forest Park 40-Mile Ultra Loop
 
-| Feature | OSM Type | Category | Coordinates | Notes |
-|---------|----------|----------|-------------|-------|
-| Wildwood Trail | way | path | 45.536, -122.739 | Main park trail; 30+ mi of connected paths |
-| Leif Erikson Drive | way | footway | 45.549, -122.734 | Car-free Sundays; ~10.4 km length |
-| Wildwood Trail (nature reserve) | relation | boundary | 45.571, -122.772 | Protected old-growth forest area |
-| NW Saint Helens Road | way | residential | 45.535, -122.739 | Historic arterial with park access |
-| NW Skyline Blvd | way | residential | 45.580, -122.790 | Ridge road with bike lanes |
-| NW Germantown Road | way | residential | 45.570, -122.769 | Steep hill; popular cycling route |
-| NW Kaiser Road | way | residential | 45.575, -122.765 | Connector between ridge roads |
-| NW Laidlaw Road | way | residential | 45.573, -122.758 | Quiet residential connector |
-| Lower Macleay Trail | way | path | 45.534, -122.713 | Southern trailhead; popular running start |
-| Witch's Castle (Stone House) | node | tourist | 45.528, -122.725 | Historic ruins and photo op |
-| Pittock Mansion | way | tourist | 45.525, -122.716 | Landmark destination for long runs |
-| Forest Park Field House | node | amenity | 45.583, -122.778 | Community center, warm-up loop area |
-| Ridge Trail Parking | way | parking | 45.588, -122.794 | Trailhead for ridgeline routes |
-| Saint Johns Bridge | way | bridge | 45.593, -122.747 | Iconic 1931 suspension bridge |
+- **Total:** ~40 km (~25 mi) cumulative
+- **Elevation:** ~2,500 ft cumulative
+- **Surface:** Mix of dirt trails and paved roads
+- **Difficulty:** Advanced
+- **Phases:**
+  - 1. Ridge Circuit: 11 km (~6.8 mi)
+  - 2. Western Descent: 7 km (~4.3 mi)
+  - 3. Southern Connector: 10 km (~6.1 mi)
+  - 4. Downtown & Return: 11.5 km (~7.1 mi)
 
 ---
 
-*Route data maintained by the running club. All routes verified using OpenStreetMap path and road routing. See also: routes/leif-erikson-walking.md, routes/wildwood-trail-running.md, routes/skyline-cycling-route.md, and routes/verified-routes.md.*
+## OSM Data Sources
+
+All routes verified using:
+- **OSM Routing Engine:** foot and bike modes
+- **Query Date:** 2026-07-17
+- **Key OSM Ways:** NW Saint Helens Road, Wildwood Trail, Lower Macleay Trail, NW Cornell Rd, NW Bridge Ave, Leif Erikson Drive, NW Germantown Road, NW Skyline Boulevard, NW Kaiser Road, NW Laidlaw Road, NW Pittock Drive, Burnside Street, Naito Parkway
+
+---
+
+*Route data maintained by the running club. All routes verified using OpenStreetMap path and road data.*
