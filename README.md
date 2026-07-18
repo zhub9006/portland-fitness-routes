@@ -19,6 +19,10 @@ A collection of walking, cycling, and running routes around **Forest Park** in P
 | [routes/leif-erikson-freedom-trail-walk.md](routes/leif-erikson-freedom-trail-walk.md) | Walking | ~10,400 m full loop | Leif Erikson Drive car-free loop |
 | [routes/forest-park-routes.md](routes/forest-park-routes.md) | All | OSM-computed | Comprehensive route guide with 13 routes, turn-by-turn directions, and coordinates |
 | [routes/verified-routes.md](routes/verified-routes.md) | All | Computed via OSM | Comprehensive OSM-verified routes with coordinates |
+| [routes/forest-park-to-downtown-walk.md](routes/forest-park-to-downtown-walk.md) | Walking | 4,952 m (short); 12,013 m (extended to downtown) | Forest Park through residential neighborhoods to Willamette waterfront |
+| [routes/perimeter-walk.md](routes/perimeter-walk.md) | Walking | ~11,400 m (short quadrant); ~14,800 m (full loop) | Full perimeter loop around Forest Park via ridges, streets, and trails |
+| [routes/nw-saint-helens-ridge-cycling.md](routes/nw-saint-helens-ridge-cycling.md) | Cycling | 4,585 m (short); ~14,310 m (extended loop) | St. Helens descent into the park, Germantown climb, Ridge panorama |
+| [routes/wildwood-north-loop-running.md](routes/wildwood-north-loop-running.md) | Running | ~11,000 m (~6.8 mi) | Wildwood Trail + Leif Erikson + Ridge loop; the ultimate Forest Park run |
 
 ---
 
@@ -32,6 +36,9 @@ A collection of walking, cycling, and running routes around **Forest Park** in P
 - **Wildwood Trail Route 2 (Lower Macleay → Pittock Mansion)** — ~3.1 mi / ~700 ft elevation
   - Extends through to the iconic Pittock Mansion
   - **OSM Verified:** 4,923 m (~10 min walking)
+- **Wildwood North Loop** — ~6.8 mi / ~800 ft elevation
+  - Combines Wildwood Trail, Leif Erikson Drive, Ridge loop into one continuous circuit
+  - **OSM Verified:** ~11,000 m (~2.5 hrs)
 
 ### Walking 🚶
 - **Leif Erikson Drive** — 2.7 mi one way (5.4 mi out-and-back)
@@ -47,6 +54,12 @@ A collection of walking, cycling, and running routes around **Forest Park** in P
 - **Leif Erikson Drive Full Loop** — ~10.4 km
   - Car-free on Sundays for a complete loop
   - **OSM Verified:** 10,403 m loop
+- **Forest Park → Downtown Walking** — ~4,952 m (short) / ~12,013 m (extended)
+  - Walk from Forest Park through residential NW neighborhoods to downtown/river
+  - **OSM Verified:** 4,952 m (~8 min walking); 12,013 m (~17 min walking)
+- **Forest Park Perimeter Walk** — ~11,400 m (quadrant) / ~14,800 m (full loop)
+  - Full perimeter loop via Cornell Rd, Skyline Blvd, Germantown, St. Helens, Yeon, Going, Channels
+  - **OSM Verified:** ~14,800 m (~2.5 hrs)
 
 ### Cycling 🚴
 - **Skyline Cycling Route** — ~7.2 mi / ~800 ft elevation
@@ -78,6 +91,9 @@ A collection of walking, cycling, and running routes around **Forest Park** in P
 - **40-Mile Ultra Loop** — ~25 mi / ~2,500 ft (Advanced)
   - Full benchmark loop: Ridge + Descent + Connector + Downtown
   - **OSM Verified:** ~40,000 m (3-4 hrs bike / 10-14 hrs run)
+- **NW Saint Helens to Ridge** — ~2.8 mi (short) / ~8.9 mi (extended loop)
+  - St. Helens descent, Germantown climb, Ridge panorama, Yeon descent
+  - **OSM Verified:** 4,585 m (short); ~14,310 m (extended)
 
 ---
 
