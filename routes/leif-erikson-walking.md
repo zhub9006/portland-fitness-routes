@@ -1,51 +1,51 @@
-# Leif Erikson Drive Walking Route
+# Leif Erikson Walk — Forest Park
 
-**Route Type:** Walking  
-**Distance:** 4,390 m one-way (~8,780 m round trip)  
-**Elevation:** ~300 ft  
-**Format:** Out-and-back
+## Route Overview
 
-## Overview
+| Detail | Value |
+|--------|-------|
+| **Type** | Walking/Jogging |
+| **Distance (One Way)** | 4,390 m (~2.7 mi) |
+| **Distance (Full Loop)** | ~10,400 m (~6.5 mi) |
+| **Elevation Gain** | ~400 ft |
+| **Difficulty** | Easy |
+| **Surface** | Paved road |
+| **Time** | ~60 min walking |
 
-Leif Erikson Drive is the signature car-free loop through Forest Park on Sundays. The road traces the western slope of the Tualatin Mountains, passing through dense old-growth forest with a remarkable tree canopy tunnel in summer.
+## Key Locations
 
-## Turn-by-Turn Directions
+| Location | Coordinates |
+|----------|-------------|
+| Leif Erikson Dr & Skidmore St (North Entrance) | 45.571, -122.772 |
+| Leif Erikson Dr & NW Cornell Rd (Midpoint) | 45.562, -122.775 |
+| Lower Wildwood Trail Entrance | 45.570, -122.769 |
+| Ridge Trail Parking | 45.588, -122.794 |
+
+## Turn-by-Turn Directions (Full Loop, ~10,400 m)
 
 1. Start at **Leif Erikson Dr & Skidmore St** (45.571, -122.772)
-2. Head south on **Leif Erikson Drive** through the tree canopy tunnel (1,600 m)
-3. Continue south through the deep forest, passing **Lower Macleay** area (2,400 m)
-4. Cross **NW Cornell Road** (3,100 m)
-5. Continue south past **Witch's Castle** trail junction (3,700 m)
-6. Continue to the southern terminus near Washington Park (4,390 m)
-
-## Key Coordinates
-
-| Point | Latitude | Longitude |
-|-------|----------|-----------|
-| Start | 45.571 | -122.772 |
-| Lower Macleay | 45.565 | -122.770 |
-| Witch's Castle Junction | 45.555 | -122.765 |
-| South End | 45.534 | -122.734 |
-
-## OSM Verified Data
-
-- One-way: 4,390 m
-- Round trip: ~8,780 m
-- Elevation: ~300 ft
-- Surface: Paved road
-- Walking time: ~55 min one-way
+2. Head south on **Leif Erikson Drive** through the forest canopy
+3. Pass the **Lower Wildwood Trail** entrance on your left (45.570, -122.769)
+4. Continue on **Leif Erikson Dr** — enjoy the shaded tunnel of fir trees
+5. Pass **NW Cornell Road** junction on your left (45.562, -122.775)
+6. Continue past the **Ridge Trail** parking area
+7. Descend gently toward the south entrance
+8. Turn around at **Leif Erikson Dr & Skidmore St** or continue the loop
 
 ## Highlights
 
-- Tree canopy tunnel — Dense Douglas fir and western red cedar overhead
-- Fall colors — Spectacular autumn foliage
-- Family-friendly — Paved, car-free on Sundays
-- Trail access — Multiple connecting trails to Wildwood and Lower Macleay
+- **Tree Canopy Tunnel** — In summer, the road is shaded by towering trees
+- **Fall Colors** — Stunning foliage in autumn
+- **Car-Free Sundays** — The road is closed to cars on Sundays, making it perfect for walking
+- **Family-Friendly** — Wide, paved, no steep sections
+- **Running/jogging** — Gentle gradient perfect for steady-state runs
 
-## Tips
+## OSM Verified
 
-- Sundays are car-free — best for walking
-- The canopy tunnel in summer means shade even on hot days
-- Spring wildflowers are excellent along the route
+- 4,390 m one-way via Leif Erikson Drive foot routing
+- ~10,400 m full loop
+- Routing computed using OpenStreetMap path data
 
-*Route verified using OpenStreetMap path and road data.*
+---
+
+*Car-free on Sundays — best day for this route. Bring layers; it can be 10-15°F cooler in the canopy.*
