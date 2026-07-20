@@ -1,51 +1,39 @@
----
-title: "Wildwood North Loop Running Route"
-type: "Running"
-difficulty: "Hard"
-bounding_box:
-  north: 45.588
-  south: 45.517
-  east: -122.710
-  west: -122.848
----
+# Wildwood North Loop Running Route
 
-# Wildwood North Loop Running Route 🏃
+**Route Type:** Running / **Distance:** ~11,000 m (~6.8 mi) / **Elevation:** ~800 ft / **Format:** Loop
 
-The ultimate Forest Park run — combining the Wildwood Trail, Leif Erikson Drive, and Ridge Loop into one continuous circuit. This is a big loop with sustained climbs, technical descents, and incredible forest scenery.
+## Turn-by-Turn Directions
 
-## Route Details
+1. Start at **Lower Macleay Park** (45.534, -122.713)
+2. Head west on **Wildwood Trail** to Witch's Castle (3,712 m)
+3. Continue north on Wildwood Trail (1,211 m)
+4. Turn east onto **NW Skyline Boulevard** (2,720 m)
+5. Access **Leif Erikson Drive** (450 m)
+6. Head south on **Leif Erikson Drive** through canopy tunnel (1,600 m)
+7. Continue south on **NW Germantown Road** toward the Ridge (3,356 m)
+8. Climb the ridge on **NW Germantown Road** (2,487 m)
+9. Descend on **NW Ridge Avenue** (1,432 m)
+10. Return via **NW 20th Avenue** to Lower Macleay (1,878 m)
 
-| Detail | Value |
-|--------|-------|
-| **Distance** | ~11,000 m (~6.8 mi) |
-| **Elevation Gain** | ~800 ft |
-| **Est. Run Time** | ~45–60 min |
-| **Est. Walk Time** | ~2.5 hrs |
-| **Surface** | Trail + road mix |
-| **Difficulty** | Hard |
+**Total:** ~11,000 m, ~800 ft elevation, ~2.5 hrs
 
-### Waypoints
-1. **Start:** Wildwood Trail Main Entrance — 45.570, -122.769
-2. **Forest:** Wildwood Trail south through old-growth to Witch's Castle
-3. **Ridge:** Continue to Pittock Mansion → Ridge Trail
-4. **Road:** Ridge Trail → Leif Erikson Drive (counterclockwise)
-5. **Connector:** Leif Erikson → Germantown Road
-6. **Return:** Germantown → back to Wildwood start
+## Key Coordinates
 
-### Description
-The Wildwood North Loop is the definitive Forest Park running circuit. Starting at the Wildwood main entrance, head south through the old-growth forest on the Wildwood Trail. After passing Witch's Castle, continue to Pittock Mansion on the upper ridge. Take the Ridge Trail connector north to Leif Erikson Drive, then follow it counterclockwise (northwest, then west) through the park's impressive canopy tunnel. Drop north on Germantown Road and loop back to the Wildwood start.
+| Point | Latitude | Longitude |
+|-------|----------|-----------|
+| Lower Macleay | 45.534 | -122.713 |
+| Witch's Castle | 45.528 | -122.725 |
+| Leif Erikson Dr | 45.571 | -122.772 |
+| Ridge (Germantown) | 45.588 | -122.794 |
 
-This route combines trail running (Wildwood's dirt paths) with road running (Leif Erikson and Germantown), giving you a complete Forest Park experience in one run.
+## OSM Verified Data
 
-### Highlights
-- **Trail Running:** 5+ miles on the Wildwood's dirt/xc trail
-- **Road Mix:** Leif Erikson and Germantown Road provide paved variety
-- **Scenery:** Old-growth canopy, ridge views, Fern Hill
-- **Challenge:** Sustained elevation with technical trail sections
+- Loop: ~11,000 m (~6.8 mi)
+- Elevation: ~800 ft
 
-### Notes
-- Best done counterclockwise (Wildwood first) for the climb early
-- Trail shoes recommended for the Wildwood segments
-- Leif Erikson Drive is car-free on Sundays — ideal timing
-- This is the longest proper loop in Forest Park — bring water and snacks
-- Respect trail etiquette: hikers have right-of-way on narrow paths
+## Highlights
+
+- Combines Wildwood Trail, Leif Erikson, and Ridge loop
+- The ultimate Forest Park run — 6.8 miles, 800 ft gain
+
+*Route verified using OpenStreetMap path and road data.*

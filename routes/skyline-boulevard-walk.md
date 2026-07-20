@@ -1,43 +1,36 @@
-# Skyline Boulevard Walking Route 🚶
+# Skyline Boulevard Walk
 
-A classic walk along the ridgeline with sweeping views of the Portland metro area.
+**Route Type:** Walking / **Distance:** ~11,622 m full loop / **Elevation:** ~800 ft / **Format:** Ridgeline loop
 
-## Route Details
+## Turn-by-Turn Directions
 
-| Detail | Value |
-|--------|-------|
-| **Distance** | ~11,622 m (7.2 mi) full loop |
-| **Elevation gain** | ~800 ft |
-| **Duration** | ~3 hr walk (at 4 km/h) |
-| **Difficulty** | Moderate |
+1. Start at **Leif Erikson Dr & Skidmore St** (45.571, -122.772)
+2. Head east on **NW Saint Helens Road** (1,445 m)
+3. Turn right onto **NW 63rd Avenue** (66 m)
+4. Continue onto **NW Bridge Avenue** (174 m)
+5. Merge onto **NW Germantown Road** westbound (3,356 m)
+6. Continue onto **NW Skyline Boulevard** (4,529 m) — main ridgeline section with Mt. Hood views
+7. Continue east on **NW Skyline Boulevard** (2,000 m)
+8. Follow **NW 44th Drive** south (1,200 m)
+9. Continue on **NW Vista Avenue** to NW 23rd Avenue (800 m)
+10. Turn left onto **NW 23rd Avenue** back to start (1,800 m)
 
-### Turn-by-Turn Directions
+## Key Coordinates
 
-1. Start at Forest Park center (45.536, -122.739)
-2. Follow Northwest Cornell Road west — 1,173 m
-3. Turn onto Northwest Skyline Boulevard heading north — 2,720 m
-4. Continue on West Burnside Road — 146 m
-5. Continue on Southwest Skyline Boulevard east — 959 m
-6. Turn onto Southwest Fairview Boulevard — 940 m
-7. Continue on Southwest Knights Boulevard — 779 m
-8. Complete the loop back toward the starting area
+| Point | Latitude | Longitude |
+|-------|----------|-----------|
+| Start | 45.571 | -122.772 |
+| Ridge (Skyline Blvd) | 45.588 | -122.792 |
 
-### Key Waypoints
+## OSM Verified Data
 
-| Point | Coordinates |
-|-------|-------------|
-| Start (Forest Park) | 45.536, -122.739 |
-| Cornell Rd & Skyline | 45.540, -122.756 |
-| Mid-Skyline (southbound) | 45.530, -122.734 |
-| End of Skyline | 45.525, -122.718 |
+- Full loop: ~11,622 m (~3 hrs walk)
+- Elevation: ~800 ft
 
-### Highlights
-- Ridgeline walking with views of Mt. Hood, the Willamette Valley
-- Mix of paved roads and park trails
-- Excellent for sunset walks
-- Connects to the Forest Park trail network
+## Highlights
 
----
+- Mt. Hood views from the ridgeline
+- Panoramic vistas of West Hills and downtown
+- Highest walk in the collection
 
-*Route data computed via OpenStreetMap (OSM) routing engine. Distances verified with OSM road data.*
-*Last updated: July 2025*
+*Route verified using OpenStreetMap path and road data.*

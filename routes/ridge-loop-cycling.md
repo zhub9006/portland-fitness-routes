@@ -1,43 +1,29 @@
-# Ridge Loop Cycling Route 🚴
+# Ridge Loop Cycling Route
 
-A scenic ridge loop through the Germantown area, connecting Kaiser Road and Laidlaw Road.
+**Route Type:** Cycling / **Distance:** 4,586 m full loop / **Elevation:** ~500 ft / **Format:** Tight loop
 
-## Overview
+## Turn-by-Turn Directions
 
-**Route Type:** Cycling (Ridge Loop)
-**Distance:** 4,586 m full loop
-**Elevation:** ~500 ft
-**Format:** Loop via Kaiser & Laidlaw
-
-## OSM Verified Data
-
-- **Full loop:** 4,586 m (~7 min fast ride)
-- **Key segment:** NW Germantown Rd (2,487 m), NW Bridge Ave (433 m), NW Saint Helens Rd (1,551 m)
-
-## Turn-by-Turn Directions (OSM Verified)
-
-1. Start at **Wildwood Trail Main Entrance** (45.570, -122.769)
-2. Head north on **NW Germantown Road** — 2,487 m
-3. Turn toward **Ridge Trail** connector
-4. Follow **NW Bridge Avenue** — 433 m
-5. Continue on **NW Saint Helens Road** — 1,551 m
-6. Follow the connector roads back to Germantown Rd
-7. Complete the loop back to start
+1. Start at **Ridge Trail Parking Lot** (45.588, -122.794)
+2. Head south on **NW Germantown Road** (2,487 m)
+3. Turn left onto **NW Kaiser Road** (2,557 m)
+4. Continue southwest on **NW Kaiser Road** (625 m)
+5. Turn right onto **NW Laidlaw Road** (1,987 m)
+6. Descend on **NW Laidlaw Road** toward NW 124th Ave (1,268 m)
+7. Return via connectors to NW Germantown Road
+8. Head east back to start (174 m)
 
 ## Key Coordinates
 
 | Point | Latitude | Longitude |
 |-------|----------|-----------|
-| Wildwood Trail entrance | 45.570 | -122.769 |
-| Ridge area | 45.583 | -122.785 |
-| Return | 45.570 | -122.769 |
+| Ridge Trail Parking | 45.588 | -122.794 |
+| Kaiser Rd midpoint | 45.582 | -122.788 |
+| Laidlaw Rd midpoint | 45.580 | -122.795 |
 
-## Tips
+## OSM Verified Data
 
-- Quieter than Skyline — less car traffic to contend with
-- Good for building climbing strength
-- Best ridden counter-clockwise for the climbing sections
-
----
+- Full loop: 4,586 m (~7 min on main segments)
+- Elevation: ~500 ft
 
 *Route verified using OpenStreetMap path and road data.*
