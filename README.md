@@ -1,10 +1,10 @@
-# Portland Fitness Routes 🏃‍♂️🧘‍♀️🚴
+# Portland Fitness Routes 🏃‍♂️🚶‍♀️🚴
 
 A collection of walking, cycling, and running routes around **Forest Park** in Portland for our running club. All routes are verified using OpenStreetMap (OSM) path and road routing data. Distances and durations have been computed via the OSM routing engine.
 
 ---
 
-## 🗺 Route Files
+## 📺 Route Files
 
 ### Walking Routes 🚶
 
