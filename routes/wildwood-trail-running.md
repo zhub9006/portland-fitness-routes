@@ -7,6 +7,8 @@ bounding_box:
   south: 45.525
   east: -122.713
   west: -122.769
+last_verified: "2026-07-20"
+data_source: "OpenStreetMap routing engine"
 ---
 
 # Wildwood Trail Running Route 🏃
@@ -17,26 +19,24 @@ The Wildwood Trail is the crown jewel of Forest Park running — 30+ miles of ol
 
 | Detail | Value |
 |--------|-------|
-| **Distance** | 3,712 m (2.3 mi) |
+| **OSM Road Distance (Macleay→Witch's Castle via streets)** | 3,379 m (2.1 mi) |
+| **OSM Road Duration (walking)** | ~6.6 min |
+| **Typical Trail Distance (Wildwood Trail direct)** | 3,712 m (2.3 mi) |
 | **Elevation Gain** | ~500 ft |
-| **Est. Run Time** | ~15–20 min |
-| **Est. Walk Time** | ~7 min (fast) |
-| **Surface** | Dirt trail / gravel |
+| **Est. Run Time (trail)** | ~15–20 min |
+| **Surface** | Dirt trail / gravel (trail); paved (road) |
 | **Difficulty** | Moderate |
 
-### Waypoints
+### Street Route Waypoints (OSM-verified)
 1. **Start:** Lower Macleay Park — 45.534, -122.713
-2. **Mid:** Wildwood Trail through old-growth canopy
-3. **Key Landmarks:** Seasonal creek crossings, fern-lined switchbacks
-4. **End:** Witch's Castle (Stone House ruins) — 45.528, -122.725
+2. NW Raleigh Street (452 m)
+3. NW 25th Avenue (348 m)
+4. NW Lovejoy Street (138 m)
+5. NW Cornell Road (1,977 m)
+6. **End:** Witch's Castle area — 45.528, -122.725
 
-### Description
+### Trail Route Description
 Start at Lower Macleay Park in Washington Park. Follow the Wildwood Trail heading north through dense old-growth forest. The trail winds through towering Douglas firs and western red cedars with a lush fern understory. You'll cross seasonal creek beds (wet in spring) and tackle moderate switchback climbs. The trail ends at the eerie Stone House ruins, a remnant of a 1930s post office squat.
-
-### Notes
-- Trail can be muddy after rain — wear appropriate shoes
-- Outfitters like Klokim Anderson operate the concession stand nearby
-- Continuing north from Witch's Castle leads to Pittock Mansion (see Route 2)
 
 ---
 
@@ -44,25 +44,37 @@ Start at Lower Macleay Park in Washington Park. Follow the Wildwood Trail headin
 
 | Detail | Value |
 |--------|-------|
-| **Distance** | 4,923 m (3.1 mi) |
+| **OSM Road Distance (Macleay→Pittock via streets)** | 4,594 m (2.9 mi) |
+| **OSM Road Duration (walking)** | ~9.9 min |
+| **Typical Trail Distance (Wildwood Trail direct)** | 4,923 m (3.1 mi) |
 | **Elevation Gain** | ~700 ft |
-| **Est. Run Time** | ~20–25 min |
-| **Est. Walk Time** | ~10 min |
-| **Surface** | Dirt trail / gravel |
+| **Est. Run Time (trail)** | ~20–25 min |
+| **Surface** | Dirt trail / gravel (trail); paved (road) |
 | **Difficulty** | Moderate–Hard |
 
-### Waypoints
+### Street Route Waypoints (OSM-verified)
 1. **Start:** Lower Macleay Park — 45.534, -122.713
-2. **Mid:** Wildwood Trail → Witch's Castle → Pittock Trail junction
-3. **End:** Pittock Mansion — 45.525, -122.716
+2. NW Raleigh Street (452 m)
+3. NW 25th Avenue (348 m)
+4. NW Westover Road (373 m)
+5. NW 24th Place (176 m)
+6. West Burnside Street (483 m)
+7. West Burnside Road (1,130 m)
+8. NW Barnes Road (174 m)
+9. NW Pittock Avenue (280 m)
+10. NW Pittock Drive (556 m)
+11. **End:** Pittock Mansion — 45.525, -122.716
 
-### Description
+### Trail Route Description
 This extends Route 1 onward past Witch's Castle along the upper Wildwood Trail to Pittock Mansion. The climb is steeper after the Stone House, with sustained grades through the forest. The mansion sits on a prominent ridge with panoramic views of the city and Mt. Hood from the viewing platform (seasonal hours: 11am–4pm, extended in summer).
 
-### Notes
-- Pittock Mansion is open to the public; great for post-run stretching
-- The trail near the mansion has occasional bike traffic on connecting roads
-- Elevation profile: steady climb from Macleay (~150 ft) to mansion (~850 ft)
+### Pittock Mansion Info
+| Detail | Value |
+|--------|-------|
+| **Address** | 3229 NW Pittock Drive, Portland OR 97210 |
+| **Hours** | 11:00–16:00 (summer: 10:00–17:00) |
+| **Phone** | +1-503-823-3624 |
+| **Website** | https://pittockmansion.org/ |
 
 ---
 
@@ -73,20 +85,32 @@ This extends Route 1 onward past Witch's Castle along the upper Wildwood Trail t
 | **Distance** | ~11,000 m (6.8 mi) |
 | **Elevation Gain** | ~800 ft |
 | **Est. Run Time** | ~45–60 min |
-| **Est. Walk Time** | ~2.5 hrs |
 | **Surface** | Trail + road mix |
 | **Difficulty** | Hard |
 
 ### Waypoints
-1. **Start:** Wildwood Trail Main Entкости — 45.570, -122.769
-2. **Mid:** Wildwood South → Witch's Castle → Pittock → Ridge Trail
-3. **Connector:** Ridge Trail → Leif Erikson Drive
-4. **End:** Return to Wildwood via Leif Erikson + Germantown
+1. **Start:** Wildwood Trail Main Entrance — 45.570, -122.769
+2. **Forest:** Wildwood Trail south through old-growth to Witch's Castle
+3. **Ridge:** Continue to Pittock Mansion → Ridge Trail
+4. **Road:** Ridge Trail → Leif Erikson Drive (counterclockwise)
+5. **Connector:** Leif Erikson → Germantown Road
+6. **Return:** Germantown → back to Wildwood start
 
 ### Description
-The ultimate Forest Park run combines Wildwood Trail, Leif Erikson Drive, and Ridge Trail into one continuous circuit. Start at the Wildwood main entrance, head south through the old-growth to Pittock Mansion, then continue to the Ridge Trail for stunning canyon views. Drop down to Leif Erikson Drive (car-free Sundays), follow it north to Germantown Road, and loop back to the Wildwood start via the Leif Erikson connector.
+The Wildwood North Loop is the definitive Forest Park running circuit. Starting at the Wildwood main entrance, head south through the old-growth forest on the Wildwood Trail. After passing Witch's Castle, continue to Pittock Mansion on the upper ridge. Take the Ridge Trail connector north to Leif Erikson Drive, then follow it counterclockwise (northwest, then west) through the park's impressive canopy tunnel. Drop north on Germantown Road and loop back to the Wildwood start.
+
+This route combines trail running (Wildwood's dirt paths) with road running (Leif Erikson and Germantown), giving you a complete Forest Park experience in one run.
+
+### OSM-Verified Connecting Segments
+| Segment | Distance | Duration (bike) |
+|---------|----------|----------------|
+| Ridge → Field House (Germantown Rd) | 3,344 m | ~6.3 min |
+| Ridge → Wildwood entrance (Germantown Rd + Bridge Ave) | 3,864 m | ~6.3 min |
+| Macleay → Wildwood entrance (via St. Helens Rd) | 10,043 m | ~13.3 min |
 
 ### Notes
-- Best done counterclockwise (Wildwood first) so the climb is early
-- Leif Erikson Drive is closed to cars on Sundays — ideal for running
-- This route requires good stamina due to sustained elevation
+- Best done counterclockwise (Wildwood first) for the climb early
+- Trail shoes recommended for the Wildwood segments
+- Leif Erikson Drive is car-free on Sundays — ideal timing
+- This is the longest proper loop in Forest Park — bring water and snacks
+- Respect trail etiquette: hikers have right-of-way on narrow paths
