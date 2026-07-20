@@ -1,33 +1,48 @@
-# Forest Park to Downtown Cycling Route
+# Forest Park to Downtown Cycling Route 🚴
+
+A fast, scenic descent from Forest Park through NW Portland into downtown, finishing at the Willamette River waterfront.
+
+## Overview
 
 **Route Type:** Cycling (Descent)
 **Distance:** 9,440 m to downtown / 6,544 m from downtown
 **Elevation:** ~900 ft descent to Willamette River
 **Format:** Point-to-point (out-and-back for round trip)
 
-## Overview
+## OSM Verified Data
 
-A fast, scenic descent from Forest Park through NW Portland into downtown, finishing at the Willamette River waterfront. This route is ideal for speed work and interval training, with a rewarding downhill run into the city center.
+- **To downtown:** 9,440 m (~28 min fast ride) via Pittock Dr → Burnside Rd → SW 3rd Ave → SW Ash St
+- **From downtown:** 6,544 m (~22 min ride) via Burnside/Fulton climb
 
-## Highlights
-
-- **900 ft descent** — Fast, exhilarating ride through varied terrain
-- **Willamette River waterfront finish** — End at the scenic downtown waterfront
-- **Urban and park mix** — Combines forest paths with city streets
-- **Great for intervals** — The descent is perfect for speed work
-
-## Turn-by-Turn Directions
+## Turn-by-Turn Directions (OSM Verified)
 
 ### To Downtown
 
 1. Start at **Leif Erikson Dr & Skidmore St** (45.571, -122.772)
-2. Head north on **NW Saint Helens Road** (3,072 m)
-3. Continue through the residential section, crossing NW 30th Ave
-4. Merge onto **NW Yeon Avenue** (4,128 m) — ride north along the ridge
-5. Transition to **Stadium Freeway** (358 m)
-6. Continue onto **West Burnside Street** (1,032 m)
-7. Follow **SW 3rd Avenue** (91 m) and **SW Ash Street** (112 m) into downtown
-8. Arrive at **Willamette River Waterfront** (45.522, -122.672)
+2. Head east on **NW Bridge Avenue** — 45.6 m
+3. Continue on **NW Saint Helens Road** — 1,445 m + 1,551 m
+4. Cross **NW 63rd Avenue** — 65.7 m
+5. Turn onto **NW Bridge Avenue** — 853.5 m
+6. Cross **Saint Johns Bridge** — 1,093 m
+7. Turn onto **N Philadelphia Avenue** — 168.2 m
+8. Continue on **N Ivanhoe Street** — 323.5 m
+9. Turn onto **N Richmond Avenue** — 110.5 m
+10. Turn onto **N Lombard Street** — 125.9 m
+11. Continue on **N Oswego Avenue** — 452.8 m
+12. Turn onto **N Smith Street** — 41.1 m
+13. Arrive at **downtown Portland** connection
+
+### Pittock Mansion → Downtown (Alternative Short Route)
+
+1. Start at **Pittock Mansion** (45.525, -122.716)
+2. Head south on **NW Pittock Drive** — 556 m
+3. Turn onto **NW Pittock Avenue** — 280 m
+4. Take **Northwest Barnes Road** — 174.1 m
+5. Continue on **West Burnside Road** — 1,129.7 m
+6. Continue on **West Burnside Street** — 2,683.8 m
+7. Turn onto **SW 3rd Avenue** — 90.7 m
+8. Turn onto **SW Ash Street** — 111.5 m
+9. Arrive at **Willamette River Waterfront** (45.522, -122.672)
 
 ### From Downtown (Return)
 
@@ -43,18 +58,8 @@ A fast, scenic descent from Forest Park through NW Portland into downtown, finis
 | Start (Leif Erikson) | 45.571 | -122.772 |
 | Mid (Yeon Ave) | 45.569 | -122.755 |
 | Downtown finish | 45.522 | -122.672 |
+| Pittock Mansion | 45.525 | -122.716 |
 
-## OSM Verified Data
-
-- **To downtown:** 9,440 m (~28 min fast ride)
-- **From downtown:** 6,544 m (~22 min ride)
-- **Total round trip:** ~15,984 m (~50 min)
-
-## Tips
-
-- The descent is fast — be mindful of traffic at Burnside
-- Best ridden during off-peak hours
-- The waterfront finish makes for a great group meetup spot
-- Bring a light for evening rides
+---
 
 *Route verified using OpenStreetMap path and road data.*

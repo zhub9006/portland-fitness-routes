@@ -1,9 +1,6 @@
-# Leif Erikson Drive Walking Route
+# Leif Erikson Drive Walking Route 🚶
 
-**Route Type:** Walking / Jogging / Rolling
-**Distance:** 4,390 m one-way (~10,400 m full loop)
-**Elevation:** ~200 ft total
-**Format:** Out-and-back or full loop
+A popular walking route along the car-free Leif Erikson Drive that circumnavigates the upper portion of Forest Park.
 
 ## Overview
 
@@ -16,15 +13,14 @@ Leif Erikson Drive is a car-free loop road that circumnavigates the upper portio
 - **Residential neighborhood views** — Scenic overlooks of NW Portland
 - **Wildlife sightings** — Deer, hawks, and various songbirds are common
 
-## Turn-by-Turn Directions
+## Turn-by-Turn Directions (OSM Verified)
 
 1. Start at **Leif Erikson Dr & Skidmore St** (45.571, -122.772)
-2. Head west on Leif Erikson Dr
-3. Continue through the tree canopy — enjoy the shaded walk
-4. Pass the **Forest Park Field House** (45.583, -122.778) on your right
-5. Continue north along the ridgeline
-6. Turn around at the northern terminus near **NW Skyline Blvd**
-7. Return south along the same path
+2. Head west on **Leif Erikson Drive** — 4,390 m one-way
+3. Pass the **Forest Park Field House** (45.583, -122.778) on your right
+4. Continue north along the ridgeline through the tree canopy
+5. Turn around at the northern terminus near **NW Skyline Blvd** (45.587, -122.792)
+6. Return south along the same path to **Leif Erikson Dr & Skidmore St**
 
 ## Key Coordinates
 
@@ -47,5 +43,7 @@ Leif Erikson Drive is a car-free loop road that circumnavigates the upper portio
 - Bring water — the shaded canopy can be deceptively warm
 - Dogs are welcome on leash
 - The road is paved and suitable for strollers and wheelchairs in sections
+
+---
 
 *Route verified using OpenStreetMap path and road data.*

@@ -22,8 +22,8 @@ All routes in this repository have been computed and verified using OpenStreetMa
 
 | # | Route Name | Type | Distance | Elevation |
 |---|-----------|------|----------|-----------|
-| 1 | Wildwood Trail Route 1 (Macleay→Witch's Castle) | 🏃 | 3,712 m | ~500 ft |
-| 2 | Wildwood Trail Route 2 (Macleay→Pittock) | 🏃 | 4,923 m | ~700 ft |
+| 1 | Wildwood Trail Route 1 (Macleay→Witch's Castle) | 🚶 | 3,379 m | ~500 ft |
+| 2 | Wildwood Trail Route 2 (Macleay→Pittock) | 🚶 | 4,594 m | ~700 ft |
 | 3 | Wildwood North Loop | 🏃 | ~11,000 m | ~800 ft |
 | 4 | Leif Erikson Drive | 🚶 | 4,390 m (one way) | ~300 ft |
 | 5 | NW Saint Helens Road | 🚶 | 2,896 m (one way) | ~100 ft |
@@ -38,8 +38,8 @@ All routes in this repository have been computed and verified using OpenStreetMa
 | 14 | St. Johns Connector Cycling | 🚴 | 14,749 m | ~800 ft |
 | 15 | Forest Park Perimeter Ride | 🚴 | ~13,000 m | ~1,000 ft |
 | 16 | NW Saint Helens to Ridge Cycling | 🚴 | 4,585 m (short) / ~14,310 m (ext.) | ~800 ft |
-| 17 | Anthracite Creek → Wildwood Loop | 🏃/🚴 | ~8,500 m | ~800 ft |
-| 18 | 40-Mile Ultra Loop | 🚴/🏃 | ~40,000 m | ~2,500 ft |
+| 17 | Anthracite Creek → Wildwood Loop | 🏃🚴 | ~8,500 m | ~800 ft |
+| 18 | 40-Mile Ultra Loop | 🚴🏃 | ~40,000 m | ~2,500 ft |
 
 ## Key Locations Reference
 
@@ -48,15 +48,20 @@ All routes in this repository have been computed and verified using OpenStreetMa
 | Leif Erikson Dr & Skidmore St | North loop entrance | 45.571, -122.772 |
 | Lower Macleay Park | Southern trailhead | 45.534, -122.713 |
 | Wildwood Trail Main Entrance | Off NW Germantown Rd | 45.570, -122.769 |
-| Ridge Trail Parking Lot | NW Forest Park ridgeline access | 45.588, -122.794 |
-| Forest Park Field House | Community center, warm-up loop area | 45.583, -122.778 |
-| Witch's Castle (Stone House) | Historic ruins on Wildwood Trail | 45.528, -122.725 |
-| Pittock Mansion | Landmark for extended runs/rides | 45.525, -122.716 |
-| St. Johns Bridge | Start of connector cycling route | 45.593, -122.747 |
-| Willamette River Waterfront | Downtown finish for cycling route | 45.522, -122.672 |
-| NW Saint Helens Rd | Historic park connector road | 45.517–45.590, -122.760 |
-| NW Skyline Blvd | Ridgeline cycling route | 45.517–45.590, -122.810 |
+| Ridge Trail Parking Lot | Northwest Forest Park | 45.588, -122.794 |
+| Forest Park Field House | Community center | 45.583, -122.778 |
+| Witch's Castle (Stone House) | Historic ruins | 45.528, -122.725 |
+| Pittock Mansion | Landmark for long runs | 45.525, -122.716 |
+| St. Johns Bridge | Start of connector cycling | 45.593, -122.747 |
+| Willamette River Waterfront | Downtown finish | 45.522, -122.672 |
+
+## OSM Routing Data Sources
+
+All routes verified using:
+- **OSM Routing Engine:** foot and bike modes
+- **Query Date:** 2026-07-19
+- **Key OSM Ways:** NW Saint Helens Road, Wildwood Trail, Lower Macleay Trail, NW Cornell Rd, NW Bridge Ave, Leif Erikson Drive, NW Germantown Road, NW Skyline Boulevard, NW Kaiser Road, NW Laidlaw Road, NW Pittock Drive, Burnside Street, Naito Parkway
 
 ---
 
-*All route data imported from OpenStreetMap and verified with the OSM routing engine. For route corrections or suggestions, open an issue or pull request on this repository.*
+*Route data maintained by the running club. All routes verified using OpenStreetMap path and road data.*

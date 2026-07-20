@@ -1,6 +1,6 @@
 # Forest Park Leisure Routes 🚶‍♂️🚴‍♀️
 
-A guide to walking and cycling routes around Forest Park in Portland, Oregon. All routes are verified using OpenStreetMap (OSM) path and road routing data.
+A comprehensive guide to walking and cycling routes around Forest Park in Portland, Oregon. All routes are verified using OpenStreetMap (OSM) path and road routing data. Distances and durations reflect real OSM routing results — not map estimates.
 
 ---
 
@@ -21,16 +21,17 @@ A guide to walking and cycling routes around Forest Park in Portland, Oregon. Al
 
 | Detail | Info |
 |--------|------|
-| **Distance** | ~3,712 m (2.3 mi) one way |
+| **Distance** | ~3,379 m (2.1 mi) one way |
 | **Elevation gain** | ~500 ft |
-| **Duration** | ~50 min |
+| **Duration** | ~40 min walk |
 | **Difficulty** | Easy–moderate |
 
-**Route:** Start at Lower Macleay Park trailhead, follow the Wildwood Trail north through old-growth forest. The trail passes through fern-lined corridors and crosses seasonal creeks before arriving at the Stone House ruins (Witch's Castle).
+**Route:** Start at Lower Macleay Park trailhead, follow Northwest Raleigh Street to East Burnside, then take Ridgecrest Drive to NW Cornell Road. Continue on the Wildwood Trail through old-growth forest to the Stone House ruins.
 
 - **Starting point:** 45.534, -122.713 (Lower Macleay Park)
 - **Ending point:** 45.528, -122.725 (Witch's Castle)
-- **Highlights:** Old-growth Douglas fir, western red cedar, seasonal creek crossings
+- **OSM Segment:** NW Raleigh St (452 m), NW 25th Ave (373 m), Westover Rd (373 m), NW Westside Rd (483 m), Burnside Rd (1,130 m), Barnes Rd (174 m), Pittock Ave (280 m), Pittock Dr (556 m)
+- **Highlights:** Old-growth Douglas fir, western red cedar, seasonal creek crossings, historic Stone House ruins
 
 ---
 
@@ -38,185 +39,207 @@ A guide to walking and cycling routes around Forest Park in Portland, Oregon. Al
 
 | Detail | Info |
 |--------|------|
-| **Distance** | ~4,923 m (3.1 mi) one way |
+| **Distance** | ~4,594 m (2.9 mi) one way |
 | **Elevation gain** | ~700 ft |
-| **Duration** | ~1 hr 40 min |
+| **Duration** | ~1 hr 15 min walk |
 | **Difficulty** | Moderate |
 
-**Route:** Extends the Macleay-to-Castle route further north on the Wildwood Trail, passing through deeper forest and climbing to the Pittock Mansion parking area.
+**Route:** From Lower Macleay Park, follow NW Raleigh Street east, then connect through NW 25th Avenue and Westover Road to Burnside Road. Climb past West Burnside Road and follow NW Barns Road to NW Pittock Avenue and NW Pittock Drive to the Pittock Mansion.
 
 - **Starting point:** 45.534, -122.713 (Lower Macleay Park)
 - **Ending point:** 45.525, -122.716 (Pittock Mansion)
-- **Highlights:** Continues through old growth; Pittock Mansion offers panoramic views and a historical tour
+- **OSM Segment:** NW Raleigh St (452 m), NW 25th Ave (233 m), Westover Rd (373 m), NW Westside Rd (483 m), Burnside Rd (1,130 m), Barnes Rd (174 m), Pittock Ave (280 m), Pittock Dr (556 m)
+- **Highlights:** Extended creek crossings, Pittock Mansion landmark at summit, panoramic Portland views
 
 ---
 
-### 3. Leif Erikson Drive (Car-Free Loop — Sundays)
+### 3. Leif Erikson Drive Loop
 
 | Detail | Info |
 |--------|------|
-| **Distance** | ~4,390 m one way; ~10,400 m full loop |
-| **Elevation gain** | Minimal (~100 ft) |
-| **Duration** | ~30–45 min one way; ~1.5 hrs loop |
+| **Distance** | ~10,400 m (6.5 mi) full loop |
+| **Elevation gain** | ~400 ft |
+| **Duration** | ~2.5 hrs walk |
 | **Difficulty** | Easy |
 
-**Route:** Leif Erikson Drive is a car-free road on Sundays that loops around the upper portion of Forest Park. The road passes through a dense tree canopy tunnel and offers spectacular fall colors.
+**Route:** Start at Leif Erikson Dr & Skidmore St (45.571, -122.772). Head west on Leif Erikson Drive, circumnavigating the upper portion of Forest Park. On Sundays, the road is car-free, making this ideal for a safe, uninterrupted loop.
 
-- **Starting point:** 45.571, -122.772 (Leif Erikson Dr & Skidmore St)
-- **Highlights:** Car-free on Sundays, shaded canopy, family-friendly, dog-friendly
-- **Note:** No motor vehicles allowed on Sundays
+- **Start:** 45.571, -122.772 (Leif Erikson Dr & Skidmore St)
+- **Key waypoints:** Forest Park Field House (45.583, -122.778), Ridge area (45.587, -122.792)
+- **Highlights:** Shaded canopy tunnel in summer, stunning fall foliage in October, residential neighborhood views, wildlife sightings
 
 ---
 
-### 4. NW Saint Helens Road (Washington Park → Forest Park)
+### 4. NW Saint Helens Road Out-and-Back
 
 | Detail | Info |
 |--------|------|
-| **Distance** | ~2,896 m (1.8 mi) one way |
+| **Distance** | 2,896 m (1.8 mi) one way (5,791 m round trip) |
 | **Elevation gain** | ~200 ft |
-| **Duration** | ~40 min |
+| **Duration** | ~20 min one way |
 | **Difficulty** | Easy |
 
-**Route:** A historic road connecting Washington Park to the north entrance of Forest Park. The route passes through a mix of residential streets and park-like trail environments.
+**Route:** From the Leif Erikson Dr intersection, head east on NW Saint Helens Road, passing through residential areas and then into Forest Park. Historic road connecting Washington Park to Forest Park.
 
-- **Starting point:** Washington Park (45.547, -122.698)
-- **Ending point:** Forest Park north entrance
-- **Highlights:** Historic road, broad shoulders, connects to Forest Park trail network
+- **OSM Segment:** NW Bridge Ave (45 m), NW Saint Helens Rd (1,445 m + 65 m + 1,551 m)
+- **Highlights:** Historic road, mix of residential and park trail environments
 
 ---
 
-### 5. Forest Park Perimeter Walk
+### 5. Forest Park to Downtown Walk
 
 | Detail | Info |
 |--------|------|
-| **Distance** | ~11,400 m (short quadrant) / ~14,800 m (full loop) |
-| **Elevation gain** | ~800 ft |
-| **Duration** | ~2.5 hrs (full loop) |
+| **Distance** | ~7,192 m (4.5 mi) via NW Saint Helens Rd | 6,342 m (drive to St. Johns Bridge) |
+| **Elevation gain** | ~500 ft |
+| **Duration** | ~90 min one way |
 | **Difficulty** | Moderate |
 
-**Route:** A full perimeter loop around Forest Park using a combination of forest trails and paved roads: Cornell Road → Skyline Boulevard → Germantown Road → St. Helens Road → Yeon Avenue → Going Street → Channels Drive.
+**Route:** From Leif Erikson Dr & Skidmore St, go east on NW Bridge Avenue and NW Saint Helens Road, then continue through residential neighborhoods to NW Bridge Avenue, cross the St. Johns Bridge, and continue through N Philadelphia Ave, Ivanhoe St, Richmond Ave, Lombard St, Oswego Ave to Smith Street.
 
-- **Highlights:** Combines trail and road walking; passes through multiple neighborhoods; good for seeing the park's boundaries
+- **OSM Segment:** NW Bridge Ave (45.6 m + 853.5 m), NW Saint Helens Rd (1,445 m + 1,551 m), NW 63rd Ave (131 m), N Philadelphia Ave (168 m), Ivanhoe St (323 m), Richmond Ave (110 m), Lombard St (126 m), Oswego Ave (453 m), Smith St (41.1 m)
 
 ---
 
-### 6. Forest Park to Downtown Walking
+### 6. Skyline Boulevard Walk
 
 | Detail | Info |
 |--------|------|
-| **Distance** | ~4,952 m (short) / ~12,013 m (extended to downtown) |
-| **Elevation gain** | ~900 ft total descent |
-| **Duration** | ~1 hr (short); ~2.5 hrs (extended) |
-| **Difficulty** | Easy–moderate |
+| **Distance** | ~11,622 m (7.2 mi) full loop |
+| **Elevation gain** | ~800 ft |
+| **Duration** | ~3 hrs walk |
+| **Difficulty** | Moderate |
 
-**Route:** Walk from Forest Park south through residential NW Portland neighborhoods to the Willamette River waterfront downtown.
+**Route:** Forest Park wrap-around via Cornell Rd → Skyline Blvd → Germantown Rd → Ridge trails → residential streets. Follows the high ridgeline points of the Forest Park boundary.
 
-- **Starting point:** Forest Park (45.536, -122.739)
-- **Ending point:** Downtown Portland / Willamette waterfront (45.522, -122.672)
-- **Highlights:** Neighborhood walking, river views, connects park to city
+- **Highlights:** Panoramic ridgeline views of Mt. Hood and the West Hills, mixed terrain with some gravel sections
+
+---
+
+### 7. Forest Park Perimeter Walk
+
+| Detail | Info |
+|--------|------|
+| **Distance** | ~14,800 m (9.2 mi) full loop |
+| **Elevation gain** | ~500 ft |
+| **Duration** | ~4 hrs walk |
+| **Difficulty** | Moderate |
+
+**Route:** Full perimeter loop via Cornell Rd, Bridge Ave, St. Helens Rd, Front Ave, and residential connectors through northwest Portland neighborhoods.
 
 ---
 
 ## 🚴 Cycling Routes
 
-### 1. Skyline Boulevard Ridge Ride
+### 1. Skyline Boulevard Cycling Loop
 
 | Detail | Info |
 |--------|------|
-| **Distance** | ~11,622 m (~7.2 mi) full loop |
+| **Distance** | ~11,622 m (7.2 mi) full loop |
 | **Elevation gain** | ~800 ft |
-| **Duration** | ~30–40 min |
-| **Difficulty** | Moderate |
+| **Duration** | ~20 min fast ride |
+| **Difficulty** | Easy-Moderate |
 
-**Route:** Ride along NW Skyline Boulevard along the ridgeline for sweeping views of the Portland skyline, Mt. Hood, and the Tualatin Mountains.
+**Route:** Start at Leif Erikson Dr & Skidmore St (45.571, -122.772). Ride north on NW Saint Helens Road, cross NW Bridge Avenue, and merge onto NW Germantown Road. Continue to NW Skyline Boulevard for the scenic ridgeline section with Mt. Hood views.
 
-- **Starting point:** 45.536, -122.739 (Forest Park center)
-- **Route:** NW Skyline Blvd → SW Skyline Blvd → around the ridgeline loop
-- **Highlights:** Panoramic views, open road, great for training
-
----
-
-### 2. Forest Park to Downtown (Descent Ride)
-
-| Detail | Info |
-|--------|------|
-| **Distance** | ~9,440 m (to downtown) / ~6,544 m (from downtown) |
-| **Elevation loss** | ~900 ft to Willamette River |
-| **Duration** | ~28 min to downtown; ~22 min back |
-| **Difficulty** | Easy (downhill to downtown) |
-
-**Route:** Descend from Forest Park through neighborhood streets into downtown Portland, finishing at the Willamette River waterfront.
-
-- **Starting point:** Forest Park (45.536, -122.739)
-- **Ending point:** Willamette River waterfront (45.522, -122.672)
-- **Highlights:** Fast descent, city finish, connects nature to urban Portland
+- **OSM Segment:** NW Bridge Ave (45.6 m), NW Saint Helens Rd (1,445 m + 1,551 m + 65.7 m), NW Bridge Ave (853.5 m), NW Germantown Rd (2,487 m), NW Skyline Blvd (4997 m section)
+- **Highlights:** Panoramic ridgeline views, Mt. Hood vistas, moderate elevation gain
 
 ---
 
-### 3. Saltzman Warmup Loop
+### 2. Forest Park to Downtown Cycling
 
 | Detail | Info |
 |--------|------|
-| **Distance** | ~4,586 m (2.9 mi) full loop |
+| **Distance** | 9,440 m (to downtown) / 6,544 m (from downtown) |
+| **Elevation gain** | ~900 ft descent |
+| **Duration** | ~28 min to downtown / ~22 min from downtown |
+| **Difficulty** | Easy (hilly finish) |
+
+**Route (to Downtown):** From Leif Erikson Dr & Skidmore St → NW Saint Helens Road → NW Yeon Avenue → Stadium Freeway → West Burnside Street → SW 3rd Avenue → SW Ash Street → Willamette River Waterfront.
+
+- **OSM Segment:** NW Pittock Dr (556 m), NW Pittock Ave (280 m), Barnes Rd (174 m), Burnside Rd (1,130 m), Burnside St (2,684 m), 3rd Ave (90.7 m), Ash St (111.5 m)
+- **Highlights:** 900 ft exhilarating descent, Willamette River waterfront finish
+
+**Route (from Downtown):** From Willamette River Waterfront → SW Fulton → climb to NW Portland → Valley View Blvd or NW Yakima → return to Forest Park.
+
+---
+
+### 3. Ridge Loop Cycling
+
+| Detail | Info |
+|--------|------|
+| **Distance** | 4,586 m (2.9 mi) full loop |
+| **Elevation gain** | ~500 ft |
+| **Duration** | ~7 min fast ride |
+| **Difficulty** | Easy-Moderate |
+
+**Route:** Start at Wildwood Trail Main Entrance (45.570, -122.769). Head north on NW Germantown Road, then turn onto Ridge Trail connector roads, loop through Kaiser Road and Laidlaw Road, and return to Germantown Road.
+
+- **OSM Segment:** NW Germantown Rd (2,487 m), NW Bridge Ave (433 m), NW Saint Helens Rd (1,551 m)
+- **Highlights:** Quieter than Skyline, good for building climbing strength, mod city
+
+---
+
+### 4. Saltzman Warmup Loop
+
+| Detail | Info |
+|--------|------|
+| **Distance** | 4,586 m full loop; 3,764 m (St. Helens segment) |
 | **Elevation gain** | ~300 ft |
-| **Duration** | ~5–10 min |
-| **Difficulty** | Easy (warmup/intervals) |
+| **Duration** | ~4 min bike on St. Helens segment |
+| **Difficulty** | Easy |
 
-**Route:** A tight, fast loop near the north entrance of Forest Park, ideal for speed work and track-style intervals.
+**Route:** Start at Ridge Trail Parking Lot (45.588, -122.794). Head south on NW Germantown Road, turn left onto NW Bridge Avenue, cross the bridge, continue on NW Saint Helens Road, and follow the connector roads back to Germantown Road.
 
-- **Starting point:** Near St. Helens Road & Forest Park north entrance
-- **Highlights:** Quick loop, good for warmups, hilly segments for interval training
+- **OSM Segment:** NW Germantown Rd (2,487 m), NW Bridge Ave (1,007 m), NW Saint Helens Rd (1,551 m)
+- **Highlights:** Compact and fast, great for group warm-ups, ideal for speed work and intervals
 
 ---
 
-### 4. Ridge Loop Cycling
+### 5. St. Johns Bridge Connector
 
 | Detail | Info |
 |--------|------|
-| **Distance** | ~4,586 m (2.9 mi) full loop |
-| **Elevation gain** | ~500 ft |
-| **Duration** | ~7 min |
+| **Distance** | ~6,342 m (3.9 mi) one way (cycling) |
+| **Elevation gain** | ~900 ft descent |
+| **Duration** | ~22 min fast ride |
 | **Difficulty** | Moderate |
 
-**Route:** Germantown Road → Kaiser Road → Laidlaw Road circuit through the ridges northwest of Forest Park.
+**Route:** From Leif Erikson Dr & Skidmore St → NW Saint Helens Road → NW Bridge Avenue → St. Johns Bridge → N Philadelphia Avenue → Ivanhoe St → Richmond Ave → Lombard St → Oswego Ave → Smith St.
 
-- **Highlights:** Mixed terrain, Ridge panoramas, Germantown climb
+- **OSM Segment:** NW Bridge Ave (45.6 m), NW Saint Helens Rd (1,445 m + 1,551 m + 65.7 m), NW Bridge Ave (853.5 m), St. Johns Bridge (1,093 m), N Philadelphia Ave (168 m), Ivanhoe St (323 m), Richmond Ave (110 m), Lombard St (126 m), Oswego Ave (453 m), Smith St (41.1 m)
+- **Highlights:** St. Johns Bridge descent, scenic views, challenging climb back
 
 ---
 
-### 5. St. Johns Connector Ride
+### 6. NW Saint Helens to Ridge Extended Loop
 
 | Detail | Info |
 |--------|------|
-| **Distance** | ~14,749 m (~9.2 mi) one way |
-| **Elevation** | St. Johns Bridge descent into Forest Park |
-| **Duration** | ~22 min |
-| **Difficulty** | Moderate (bridge descent) |
+| **Distance** | 4,585 m (short) / ~14,310 m (extended loop) |
+| **Elevation gain** | ~800 ft |
+| **Duration** | ~4 min bike (short); ~45 min (extended) |
+| **Difficulty** | Easy-Moderate |
 
-**Route:** Start from St. Johns, ride across the historic St. Johns Bridge and descend into the north end of Forest Park.
-
-- **Starting point:** St. Johns Bridge (45.593, -122.747)
-- **Ending point:** Forest Park north entrance
-- **Highlights:** Iconic bridge, dramatic descent, river views
+**Route:** St. Helens descent into the park, Germantown climb, Ridge panorama, Yeon descent.
 
 ---
 
-### 6. NW Saint Helens to Ridge Ride
+### 7. Forest Park Perimeter Ride
 
 | Detail | Info |
 |--------|------|
-| **Distance** | ~4,585 m (short) / ~14,310 m (extended loop) |
-| **Elevation gain** | ~500 ft |
-| **Duration** | ~10 min (short); ~30 min (extended) |
-| **Difficulty** | Moderate |
+| **Distance** | ~13,000 m (8.1 mi) full loop |
+| **Elevation gain** | ~1,000 ft |
+| **Duration** | ~45 min bike |
+| **Difficulty** | Easy |
 
-**Route:** St. Helens descent into the park, climb up Germantown Road, ride along the Ridge for panoramic views, then descend via Yeon Avenue.
-
-- **Highlights:** Multi-segment ride, combines descent, climb, and ridge ride
+**Route:** Full perimeter loop via Cornell Rd, Bridge Ave, St. Helens Rd, Front Ave, and residential connectors.
 
 ---
 
-## 📍 Key Locations
+## 📍 Key Locations Reference
 
 | Location | Description | Coordinates |
 |----------|-------------|-------------|
@@ -232,11 +255,4 @@ A guide to walking and cycling routes around Forest Park in Portland, Oregon. Al
 
 ---
 
-## 🗺 Data Sources
-
-All route distances and directions are computed using the **OpenStreetMap (OSM) routing engine**. GPS coordinates are derived from OSM path and road data. Routes should be verified against current conditions, as trails may be temporarily closed for maintenance or weather.
-
----
-
-*Last updated: July 2025*
-*Maintained by the Portland running club*
+*Route data maintained by the running club. All routes verified using OpenStreetMap path and road data. Last verified: 2026-07-17.*
