@@ -1,48 +1,29 @@
-# NW Saint Helens Road Walking Route
+# NW Saint Helens Road Walk
 
-**Route Type:** Walking
-**Distance:** 2,896 m one-way (~5,792 m round trip)
-**Elevation:** ~300 ft
-**Format:** Out-and-back
+**Route Type:** Walking  
+**Distance:** 2,896 m (1.8 mi) one-way  
+**Elevation Gain:** ~300 ft  
+**Duration:** ~40 min one-way  
 
 ## Overview
 
-NW Saint Helens Road connects Washington Park to Forest Park via a historic, tree-lined corridor. This route offers a mix of residential neighborhood streets and park-adjacent walking, providing a pleasant and shaded journey between the two green spaces.
-
-## Highlights
-
-- **Historic corridor** — A well-established walking route with deep roots in Portland's trail network
-- **Residential neighborhood charm** — Passes through quiet NW Portland streets
-- **Park-to-park connection** — Links Washington Park and Forest Park seamlessly
-- **Shaded sections** — Mature tree canopy along much of the route
+A historic walk along NW Saint Helens Road, connecting Washington Park to Forest Park on the city's historic park boulevard system. The road offers a mix of residential neighborhood and forest park surroundings, with moderate elevation and wonderful tree canopy.
 
 ## Turn-by-Turn Directions
 
-1. Start at **Leif Erikson Dr & Skidmore St** (45.571, -122.772)
-2. Head north on Leif Erikson Dr to NW Saint Helens Rd
-3. Turn right (east) onto **NW Saint Helens Road**
-4. Walk east along NW Saint Helens Road
-5. Continue through the residential section
-6. Arrive at **Washington Park** via NW 29th Ave connection
+1. Start at **NW Bridge Avenue** (45.577, -122.761) — near the St. Johns Bridge approach
+2. Follow **NW Saint Helens Road** south (2,896 m out-and-back: 5,792 m total)
+3. Pass the **Forest Park Field House** on the left
+4. Continue through residential-mixed forest area
+5. Turn around and retrace your steps back to the start
 
-## Key Coordinates
+## Key Waypoints
 
-| Point | Latitude | Longitude |
-|-------|----------|-----------|
-| Start | 45.571 | -122.772 |
-| Mid-route | 45.573 | -122.755 |
-| End (Washington Park) | 45.569 | -122.745 |
+| Waypoint | Coordinates | Description |
+|----------|-------------|-------------|
+| NW Bridge Avenue (start) | 45.577, -122.761 | Near St. Johns Bridge approach |
+| Forest Park Field House | 45.583, -122.778 | Turnaround point |
+| Mid-point on St. Helens Rd | 45.570, -122.770 | Residential/forest transition |
 
-## OSM Verified Data
-
-- **One-way distance:** 2,896 m
-- **Walking time:** ~36 min at moderate pace
-- **Round trip:** ~5,792 m (~72 min)
-
-## Tips
-
-- Good warm-up or cool-down route
-- Street lighting is adequate for evening walks
-- Connects to the broader Washington Park trail system
-
-*Route verified using OpenStreetMap path and road data.*
+---
+*Route verified via OpenStreetMap path data*

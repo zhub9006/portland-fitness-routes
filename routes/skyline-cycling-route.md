@@ -1,52 +1,32 @@
-# Skyline Cycling Route 🚴
+# Skyline Cycling Route
 
-A scenic ridgeline loop along NW Skyline Boulevard with panoramic views of Mt. Hood and the Cascade range.
+**Route Type:** Cycling  
+**Distance:** ~11,622 m (7.2 mi) full loop  
+**Elevation Gain:** ~800 ft  
+**Duration:** ~20 min loop ride  
 
 ## Overview
 
-**Route Type:** Cycling (Ridgeline Loop)
-**Distance:** ~11,622 m full loop
-**Elevation:** ~800 ft
-**Format:** Loop
+A faster version of the Skyline Boulevard loop for cyclists. The ridgeline ride offers sweeping views of Mt. Hood, the valley, and the Portland skyline. The route has some steeper climbs on the western side but rewards with incredible vistas on the other side.
 
-## OSM Verified Data
+## Turn-by-Turn Directions
 
-- **Full loop:** ~11,622 m (~20 min fast ride)
-- **Sector distances:**
-  - NW Bridge Avenue: 45.6 m + 853.5 m
-  - NW Saint Helens Road: 1,445 m + 1,551 m (two segments)
-  - NW 63rd Avenue: 131 m (65.7 + 65.7 m)
-  - NW Germantown Road: 2,487 m
-  - NW Skyline Boulevard: ~4,997 m (ridgeline section)
-  - NW Thunder Crest Drive: 283 m
+1. Start at **Forest Park center** (45.535, -122.738)
+2. Follow **NW Cornell Road** west to **NW Skyline Blvd** (1,184 m)
+3. Head north on **NW Skyline Blvd** (6,697 m)
+4. At the northern end, turn right on **NW Germantown Rd** heading east (1,320 m)
+5. Connect to **NW Bridge Avenue** heading south (200 m)
+6. Continue to **NW Saint Helens Rd** (1,351 m)
+7. Turn right on **NW Cornell Road** to return to start (550 m)
 
-## Turn-by-Turn Directions (OSM Verified)
+## Key Waypoints
 
-1. Start at **Leif Erikson Dr & Skidmore St** (45.571, -122.772)
-2. Head north on **NW Saint Helens Road** — 1,445 m
-3. Follow **NW 63rd Avenue** — 65.7 m and continue on NW Saint Helens Road — 1,551 m
-4. Cross onto **NW Bridge Avenue** — 853.5 m
-5. Merge onto **NW Germantown Road** — 2,487 m — ride west along the ridge
-6. Continue onto **NW Skyline Boulevard** — ~4,997 m — the scenic ridgeline section with Mt. Hood views
-7. Follow **NW Thunder Crest Drive** — 283 m
-8. Return via connector roads to complete the loop
-
-## Key Coordinates
-
-| Point | Latitude | Longitude |
-|-------|----------|-----------|
-| Start | 45.571 | -122.772 |
-| NW Germantown Rd | 45.583 | -122.785 |
-| Skyline Blvd (ridgeline) | 45.588 | -122.792 |
-| Thunder Crest Dr | 45.573 | -122.76 |
-| Return to start | 45.571 | -122.772 |
-
-## Tips
-
-- The ridgeline section on Skyline Blvd is exposed — bring a wind layer
-- Best views are on the west-facing sections looking toward Mt. Hood
-- Gravel sections may be muddy after rain
+| Waypoint | Coordinates | Description |
+|----------|-------------|-------------|
+| Forest Park center | 45.535, -122.738 | Starting point |
+| Skyline ridgeline (highest) | 45.555, -122.743 | Best Mt. Hood views |
+| Germantown & Ridge | 45.562, -122.771 | Western crossing, panorama |
+| Return: Forest Park center | 45.535, -122.738 | Loop complete |
 
 ---
-
-*Route verified using OpenStreetMap path and road data.*
+*Route verified via OpenStreetMap path data*

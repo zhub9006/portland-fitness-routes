@@ -1,65 +1,38 @@
-# Forest Park to Downtown Cycling Route 🚴
+# Forest Park to Downtown Cycling
 
-A fast, scenic descent from Forest Park through NW Portland into downtown, finishing at the Willamette River waterfront.
+**Route Type:** Cycling  
+**Distance:** 9,440 m (5.9 mi) to downtown / 6,544 m (4.1 mi) from downtown  
+**Elevation Gain:** ~900 ft (descent to downtown)  
+**Duration:** ~28 min to downtown / ~22 min from downtown  
 
 ## Overview
 
-**Route Type:** Cycling (Descent)
-**Distance:** 9,440 m to downtown / 6,544 m from downtown
-**Elevation:** ~900 ft descent to Willamette River
-**Format:** Point-to-point (out-and-back for round trip)
+A fast, mostly downhill ride from Forest Park into downtown Portland. The route follows the same corridor as the walking route but uses roads better suited for cycling. The descent to downtown is thrilling and the return climb provides a great workout.
 
-## OSM Verified Data
+## Turn-by-Turn Directions (Forest Park → Downtown)
 
-- **To downtown:** 9,440 m (~28 min fast ride) via Pittock Dr → Burnside Rd → SW 3rd Ave → SW Ash St
-- **From downtown:** 6,544 m (~22 min ride) via Burnside/Fulton climb
+1. Start at **Forest Park center** (45.535, -122.738)
+2. Follow **NW Cornell Road** north (3,741 m)
+3. Turn right on **NW Lovejoy Street** (138 m)
+4. Turn right on **NW 25th Avenue** south (159 m)
+5. Turn right on **NW Westover Road** (597 m)
+6. Continue on **NW 23rd Avenue** (62 m)
+7. Turn right on **West Burnside Street** heading east (1,952 m)
+8. Turn left on **Southwest 3rd Avenue** (91 m)
+9. Turn left on **Southwest Ash Street** arriving at downtown (112 m)
 
-## Turn-by-Turn Directions (OSM Verified)
+## Return Route (Downtown → Forest Park)
 
-### To Downtown
+Take a slightly different path north via **NW Johnson Street** → **NW 18th Avenue** → **NW Thurman Street** → **NW Cornell Road** back to Forest Park (6,544 m).
 
-1. Start at **Leif Erikson Dr & Skidmore St** (45.571, -122.772)
-2. Head east on **NW Bridge Avenue** — 45.6 m
-3. Continue on **NW Saint Helens Road** — 1,445 m + 1,551 m
-4. Cross **NW 63rd Avenue** — 65.7 m
-5. Turn onto **NW Bridge Avenue** — 853.5 m
-6. Cross **Saint Johns Bridge** — 1,093 m
-7. Turn onto **N Philadelphia Avenue** — 168.2 m
-8. Continue on **N Ivanhoe Street** — 323.5 m
-9. Turn onto **N Richmond Avenue** — 110.5 m
-10. Turn onto **N Lombard Street** — 125.9 m
-11. Continue on **N Oswego Avenue** — 452.8 m
-12. Turn onto **N Smith Street** — 41.1 m
-13. Arrive at **downtown Portland** connection
+## Key Waypoints
 
-### Pittock Mansion → Downtown (Alternative Short Route)
-
-1. Start at **Pittock Mansion** (45.525, -122.716)
-2. Head south on **NW Pittock Drive** — 556 m
-3. Turn onto **NW Pittock Avenue** — 280 m
-4. Take **Northwest Barnes Road** — 174.1 m
-5. Continue on **West Burnside Road** — 1,129.7 m
-6. Continue on **West Burnside Street** — 2,683.8 m
-7. Turn onto **SW 3rd Avenue** — 90.7 m
-8. Turn onto **SW Ash Street** — 111.5 m
-9. Arrive at **Willamette River Waterfront** (45.522, -122.672)
-
-### From Downtown (Return)
-
-1. Start at **Willamette River Waterfront** (45.522, -122.672)
-2. Head west on Burnside/SW Fulton
-3. Climb up to the residential areas of NW Portland
-4. Return via Valley View Blvd or NW Yakima
-
-## Key Coordinates
-
-| Point | Latitude | Longitude |
-|-------|----------|-----------|
-| Start (Leif Erikson) | 45.571 | -122.772 |
-| Mid (Yeon Ave) | 45.569 | -122.755 |
-| Downtown finish | 45.522 | -122.672 |
-| Pittock Mansion | 45.525 | -122.716 |
+| Waypoint | Coordinates | Description |
+|----------|-------------|-------------|
+| Forest Park center | 45.535, -122.738 | Starting point |
+| NW Cornell Rd & Lovejoy | 45.532, -122.737 | Transition point |
+| West Burnside | 45.528, -122.710 | Main east-west artery |
+| Downtown finish | 45.522, -122.710 | End of downhills |
 
 ---
-
-*Route verified using OpenStreetMap path and road data.*
+*Route verified via OpenStreetMap path data*

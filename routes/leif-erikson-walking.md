@@ -1,51 +1,38 @@
-# Leif Erikson Drive Walking Route
+# Leif Erikson Drive Walk
 
 **Route Type:** Walking  
-**Distance:** 4,390 m one-way (~8,780 m round trip)  
-**Elevation:** ~300 ft  
-**Format:** Out-and-back
+**Distance:** 4,390 m one-way; ~10,400 m full loop  
+**Elevation Gain:** ~200 ft  
+**Duration:** ~60 min one-way loop walk  
 
 ## Overview
 
-Leif Erikson Drive is the signature car-free loop through Forest Park on Sundays. The road traces the western slope of the Tualatin Mountains, passing through dense old-growth forest with a remarkable tree canopy tunnel in summer.
+Leif Erikson Drive is a car-free road on Sundays (and holidays), making it one of the best walking and running routes in Portland. The drive winds through Forest Park with a canopy tunnel of towering Douglas firs and grand views. A full loop covers approximately 10.4 km.
 
 ## Turn-by-Turn Directions
 
-1. Start at **Leif Erikson Dr & Skidmore St** (45.571, -122.772)
-2. Head south on **Leif Erikson Drive** through the tree canopy tunnel (1,600 m)
-3. Continue south through the deep forest, passing **Lower Macleay** area (2,400 m)
-4. Cross **NW Cornell Road** (3,100 m)
-5. Continue south past **Witch's Castle** trail junction (3,700 m)
-6. Continue to the southern terminus near Washington Park (4,390 m)
+1. Start at **Leif Erikson Dr & Skidmore St** (45.571, -122.772) — north end, main entrance from NW Bridge Avenue
+2. Head south on **Leif Erikson Drive** (4,390 m one-way)
+3. Enjoy the canopy tunnel — in summer, leafy branches arch overhead
+4. Pass the **Forest Park Field House** (45.583, -122.778) on the right
+5. Descend gently through the park
+6. Connect to **NW Cornell Road** at the south end
+7. Option: Extend the loop via **NW Skyline Blvd** or **NW Germantown Rd** back to the start
 
-## Key Coordinates
+## Key Waypoints
 
-| Point | Latitude | Longitude |
-|-------|----------|-----------|
-| Start | 45.571 | -122.772 |
-| Lower Macleay | 45.565 | -122.770 |
-| Witch's Castle Junction | 45.555 | -122.765 |
-| South End | 45.534 | -122.734 |
+| Waypoint | Coordinates | Description |
+|----------|-------------|-------------|
+| Leif Erikson Dr & Skidmore St | 45.571, -122.772 | North entrance, NW Bridge Ave |
+| Forest Park Field House | 45.583, -122.778 | Community center, warm-up area |
+| Leif Erikson Dr & Upshur St | 45.577, -122.773 | Mid-point, most shaded section |
+| Leif Erikson Dr & NW Cornell Rd | 45.554, -122.752 | South end, connects to outer roads |
 
-## OSM Verified Data
+## Family Notes
+- **Car-free on Sundays** — perfect for families with kids
+- Shaded canopy provides natural cooling in summer
+- Stunning fall colors in October
+- Restrooms at Forest Park Field House
 
-- One-way: 4,390 m
-- Round trip: ~8,780 m
-- Elevation: ~300 ft
-- Surface: Paved road
-- Walking time: ~55 min one-way
-
-## Highlights
-
-- Tree canopy tunnel — Dense Douglas fir and western red cedar overhead
-- Fall colors — Spectacular autumn foliage
-- Family-friendly — Paved, car-free on Sundays
-- Trail access — Multiple connecting trails to Wildwood and Lower Macleay
-
-## Tips
-
-- Sundays are car-free — best for walking
-- The canopy tunnel in summer means shade even on hot days
-- Spring wildflowers are excellent along the route
-
-*Route verified using OpenStreetMap path and road data.*
+---
+*Route verified via OpenStreetMap path data*

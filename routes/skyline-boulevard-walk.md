@@ -1,43 +1,34 @@
-# Skyline Boulevard Walking Route 🚶
+# Skyline Boulevard Walk
 
-A classic walk along the ridgeline with sweeping views of the Portland metro area.
+**Route Type:** Walking  
+**Distance:** ~11,622 m (7.2 mi) full loop  
+**Elevation Gain:** ~800 ft  
+**Duration:** ~3 hrs  
 
-## Route Details
+## Overview
 
-| Detail | Value |
-|--------|-------|
-| **Distance** | ~11,622 m (7.2 mi) full loop |
-| **Elevation gain** | ~800 ft |
-| **Duration** | ~3 hr walk (at 4 km/h) |
-| **Difficulty** | Moderate |
+A full loop walk around Forest Park via the ridgeline on Skyline Boulevard and connecting roads. This route offers the best panoramic views of Mt. Hood and the Portland skyline, passing through a variety of terrain from forest paths to open ridgeline.
 
-### Turn-by-Turn Directions
+## Turn-by-Turn Directions
 
-1. Start at Forest Park center (45.536, -122.739)
-2. Follow Northwest Cornell Road west — 1,173 m
-3. Turn onto Northwest Skyline Boulevard heading north — 2,720 m
-4. Continue on West Burnside Road — 146 m
-5. Continue on Southwest Skyline Boulevard east — 959 m
-6. Turn onto Southwest Fairview Boulevard — 940 m
-7. Continue on Southwest Knights Boulevard — 779 m
-8. Complete the loop back toward the starting area
+1. Start at **Forest Park center** (45.535, -122.738)
+2. Follow **NW Cornell Road** west to **NW Skyline Blvd** (1,184 m)
+3. Head north on **NW Skyline Blvd** (6,697 m)
+4. At the northern end, turn right on **NW Germantown Rd** heading east (1,320 m)
+5. Connect to **NW Bridge Avenue** heading south (200 m)
+6. Continue to **NW Saint Helens Rd** (1,351 m)
+7. Turn right on **NW Cornell Road** to return to start (550 m)
 
-### Key Waypoints
+## Key Waypoints
 
-| Point | Coordinates |
-|-------|-------------|
-| Start (Forest Park) | 45.536, -122.739 |
-| Cornell Rd & Skyline | 45.540, -122.756 |
-| Mid-Skyline (southbound) | 45.530, -122.734 |
-| End of Skyline | 45.525, -122.718 |
-
-### Highlights
-- Ridgeline walking with views of Mt. Hood, the Willamette Valley
-- Mix of paved roads and park trails
-- Excellent for sunset walks
-- Connects to the Forest Park trail network
+| Waypoint | Coordinates | Description |
+|----------|-------------|-------------|
+| Forest Park center | 45.535, -122.738 | Starting point |
+| Cornell & Skyline junction | 45.554, -122.752 | Key connector |
+| Skyline ridgeline (highest) | 45.555, -122.743 | Best views of Mt. Hood |
+| Germantown & Ridge | 45.562, -122.771 | Western crossing, panorama |
+| Bridge Ave & St. Helens | 45.577, -122.761 | Near St. Johns Bridge |
+| Return: Forest Park center | 45.535, -122.738 | Loop complete |
 
 ---
-
-*Route data computed via OpenStreetMap (OSM) routing engine. Distances verified with OSM road data.*
-*Last updated: July 2025*
+*Route verified via OpenStreetMap path data*

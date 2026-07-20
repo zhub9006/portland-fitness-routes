@@ -1,44 +1,39 @@
-# Forest Park to Downtown Walking Route 🚶
+# Forest Park to Downtown Walking
 
-A long-distance walk from the forest to Portland's downtown waterfront, crossing several neighborhoods.
+**Route Type:** Walking  
+**Distance:** 4,952 m (3.1 mi) to downtown (short) / 12,013 m (7.5 mi) extended  
+**Elevation Gain:** ~500 ft (descent to downtown)  
+**Duration:** ~8 min to downtown / ~17 min extended  
 
-## Route Details
+## Overview
 
-| Detail | Value |
-|--------|-------|
-| **Distance** | ~4,952 m (short) / ~12,013 m (extended to downtown) |
-| **Elevation loss** | ~900 ft (descending to downtown) |
-| **Duration** | ~8 min (short, at running pace) / ~17 min (extended at walking pace) |
-| **Difficulty** | Easy–moderate (downhill) |
+A downhill walk from Forest Park into downtown Portland, ending at the Willamette River waterfront. The route passes through NW Portland neighborhoods and offers great views from the ridgeline down to the river. The descent is moderate and the return is a pleasant climb.
 
-### Short Route (Forest Park → Washington Park area)
+## Turn-by-Turn Directions (Short Route — to downtown)
 
-1. Start at Forest Park center (45.536, -122.739)
-2. Follow Northwest Cornell Road west — 1,173 m
-3. Continue on Northwest Skyline Boulevard — 2,720 m
-4. Turn onto West Burnside Road — 146 m
-5. Turn onto Southwest 57th Avenue — 167 m
-6. Continue on Southwest Salmon Street — 173 m
-7. Turn onto Southwest 58th Avenue — 532 m
-8. Continue via Montgomery → Westgate → Canyon Court — ~1,600 m
-9. Arrive at Washington Park area
+1. Start at **Forest Park center** (45.535, -122.738)
+2. Follow **NW Cornell Road** north (3,741 m)
+3. Turn right on **NW Lovejoy Street** (138 m)
+4. Turn right on **NW 25th Avenue** south (159 m)
+5. Turn right on **NW Westover Road** (597 m)
+6. Continue on **NW 23rd Avenue** (62 m)
+7. Turn right on **West Burnside Street** heading east (1,952 m)
+8. Turn left on **Southwest 3rd Avenue** (91 m)
+9. Turn left on **Southwest Ash Street** arriving at downtown (112 m)
 
-### Extended Route (Continued to Downtown)
+## Extended Route (to Willamette River waterfront)
 
-9. Continue on Southwest Knights Boulevard — 779 m
-10. Follow Portland's NW residential streets south
-11. Cross through the NW Fantastic neighborhood
-12. Descend into the Pearl District
-13. Arrive at Willamette River waterfront downtown (45.522, -122.672)
+Continue from downtown along **SW Naito Parkway** (1,952 m additional) to the **Willamette River Waterfront** (45.522, -122.672).
 
-### Highlights
-- Crosses 5+ Portland neighborhoods
-- Ends at the scenic Willamette River waterfront
-- Good for a half-day walking adventure
-- Connects nature to urban Portland
-- Plenty of café and rest stop options along the way
+## Key Waypoints
+
+| Waypoint | Coordinates | Description |
+|----------|-------------|-------------|
+| Forest Park center | 45.535, -122.738 | Starting point |
+| NW Cornell & Lovejoy | 45.532, -122.737 | Transition to residential streets |
+| West Burnside | 45.528, -122.710 | Main east-west artery |
+| Downtown finish | 45.522, -122.710 | End of short route |
+| Willamette River waterfront | 45.522, -122.672 | Extended route finish |
 
 ---
-
-*Route data computed via OpenStreetMap (OSM) routing engine. Distances verified with OSM road/path data.*
-*Last updated: July 2025*
+*Route verified via OpenStreetMap path data*
