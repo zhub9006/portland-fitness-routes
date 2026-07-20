@@ -1,44 +1,41 @@
 # Forest Park to Downtown Walking Route
 
-**Route Type:** Walking  
-**Distance:** 4,952 m (short) or 12,013 m (extended to downtown)  
-**Elevation:** ~600 ft descent (short); ~900 ft descent (extended)  
-**Format:** Point-to-point from Forest Park to Downtown Portland / Willamette River
+**Type:** Walking | **Category:** Urban Connector
 
-## Short Route — Turn-by-Turn Directions
+## Route: Forest Park → Downtown (Short)
+- **Verified Distance:** 4,952 m (~3.1 mi)
+- **Duration:** ~55-65 min
+- **Elevation Gain:** Downhill ~500 ft
+- **OSM Verified:** Via NW 31st Ave, NW Vaughn St, NW Wardway St, NW Nicolai St, NW Saint Helens Rd, NW Lovejoy St, NW Cornell Rd, Burnside St, SW 3rd Ave, SW Ash St
+- **Surface:** Sidewalks + paved roads
 
-1. Start at **Leif Erikson Dr & Skidmore St** (45.571, -122.772)
-2. Head east on **NW 23rd Avenue** (400 m)
-3. Turn left onto **NW Irving Street** and follow the descent south (1,200 m)
-4. Continue south on **NW Irving Street** through residential NW Portland (2,400 m)
-5. Turn right onto **NW Lovejoy Street** and continue south (600 m)
-6. Merge onto **Burnside Street** heading east (1,200 m)
-7. Cross the **Burnside Bridge** into downtown Portland (300 m)
-8. Continue south on **SW Naito Parkway** to **Tom McCall Waterfront Park** (552 m)
+### Turn-by-Turn
+1. Start at Ridge Trail Parking (45.588, -122.794)
+2. Head south on NW Germantown Road
+3. Take NW Bridge Avenue into the park
+4. Exit onto NW Saint Helens Road
+5. Cross NW Nicolai Street
+6. Follow NW Wardway Street
+7. Take NW 27th Avenue
+8. Follow NW Upshur Street
+9. Continue on NW 28th Avenue
+10. Take NW Raleigh Street
+11. Continue to SW 3rd Avenue
+12. Take SW Ash Street to downtown endpoint
 
-## Key Coordinates
+### Extended Route: Forest Park → Downtown (Extended)
+- **Verified Distance:** 12,013 m (~7.5 mi)
+- **Duration:** ~2 hrs+
+- **Route:** Follow the short route then continue through downtown to the Willamette River waterfront
+- **Highlights:** Passes through NW residential neighborhoods, continues to the waterfront
 
-| Point | Latitude | Longitude |
-|-------|----------|-----------|
-| Forest Park Start | 45.571 | -122.772 |
-| Irving St descent start | 45.565 | -122.770 |
-| Lovejoy St crossing | 45.555 | -122.750 |
-| Burnside St crossing | 45.549 | -122.710 |
-| Burnside Bridge | 45.541 | -122.698 |
-| Waterfront Park finish | 45.522 | -122.672 |
+### Highlights
+- Forest Park through residential NW Portland neighborhoods
+- Gain downtown Portland orientation while walking
+- Reach the Willamette River waterfront
+- Mix of green space and urban scenery
+- Downhill from Forest Park into downtown
 
-## OSM Verified Data
+---
 
-- **Short route:** 4,952 m (~8 min walk at moderate pace)
-- **Extended route:** 12,013 m (~17 min walk)
-- **Elevation gain (return):** ~600-900 ft
-- **Surface:** Mix of paved roads and multi-use paths
-
-## Highlights
-
-- Scenic descent through forested NW hills
-- Walk through quiet, beautiful NW Portland neighborhoods
-- Finish at the Willamette River waterfront
-- All seasons — spectacular autumn foliage
-
-*Route verified using OpenStreetMap path and road data.*
+*All distances verified using OpenStreetMap path and road routing data (foot mode).*

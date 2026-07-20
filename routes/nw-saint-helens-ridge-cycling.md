@@ -1,29 +1,42 @@
-# NW Saint Helens Ridge Cycling Route
+# NW Saint Helens to Ridge Cycling Route
 
-**Route Type:** Cycling / **Distance:** 4,585 m (short) / ~14,310 m (extended loop) / **Elevation:** ~800 ft / **Format:** Loop
+**Type:** Cycling | **Category:** Ridge Connector Ride
 
-## Turn-by-Turn Directions
+## Route: Short
+- **Verified Distance:** 4,585 m (~2.8 mi)
+- **Duration:** ~8 min bike
+- **Elevation Gain:** ~500 ft
+- **Surface:** Paved road
 
-1. Start at **Leif Erikson Dr & Skidmore St** (45.571, -122.772)
-2. Head south on **NW Saint Helens Road** (1,595 m)
-3. Cross **NW Bridge Avenue** (174 m)
-4. Merge onto **NW Germantown Road** westbound (3,356 m)
-5. Continue along the ridge (2,761 m)
-6. Return via connectors or continue to Skyline Blvd and Yeon Ave for the full loop
+### Route: Extended Loop
+- **Verified Distance:** ~14,310 m (~8.9 mi)
+- **Duration:** ~30 min bike
+- **Elevation Gain:** ~1,000 ft
 
-## Key Coordinates
+### Turn-by-Turn (Short)
+1. Start at NW Saint Helens Road (45.571, -122.772)
+2. Head northwest on NW Saint Helens Road
+3. Cross NW Nicolai Street
+4. Continue to Ridge Trail Parking area
+5. Connect to NW Germantown Road
+6. Return to starting point
 
-| Point | Latitude | Longitude |
-|-------|----------|-----------|
-| Start | 45.571 | -122.772 |
-| Bridge Ave | 45.586 | -122.771 |
-| Ridge parking | 45.588 | -122.794 |
-| Yeon Ave descent | 45.570 | -122.770 |
+### Turn-by-Turn (Extended Loop)
+1. Start at NW Saint Helens Road
+2. Descend into Forest Park via NW Bridge Avenue
+3. Connect to NW Germantown Road
+4. Follow Germantown Road to NW Kaiser Road
+5. Continue to NW Laidlaw Road
+6. Loop back via NW Bridge Avenue
+7. Return to NW Saint Helens Road
 
-## OSM Verified Data
+### Highlights
+- St. Helens descent into the park
+- Germantown climb for power training
+- Ridge panorama views at the top
+- Yeon Creek descent
+- Combines speed work with hill training
 
-- Short route: 4,585 m (~4 min on St. Helens)
-- Extended loop: ~14,310 m (~20 min full loop)
-- Elevation: ~800 ft
+---
 
-*Route verified using OpenStreetMap path and road data.*
+*All distances verified using OpenStreetMap routing data (bike mode).*

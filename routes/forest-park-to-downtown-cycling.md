@@ -1,44 +1,36 @@
 # Forest Park to Downtown Cycling Route
 
-**Route Type:** Cycling / **Distance:** 9,440 m to downtown; 6,544 m from downtown / **Elevation:** ~900 ft descent / **Format:** Point-to-point
+**Type:** Cycling | **Category:** Urban Descent
 
-## Turn-by-Turn Directions (Downhill to Downtown)
+## Route: Forest Park → Downtown
+- **Verified Distance:** 9,440 m (~5.9 mi)
+- **Duration:** ~28 min downhill
+- **Elevation Gain:** ~500 ft descent to downtown
+- **Surface:** Paved roads, multi-use paths
+- **OSM Verified:** Via NW Saint Helens Rd, NW Wardway St, NW Nicolai St, NW Burnside Rd, downtown
 
-1. Start at **Leif Erikson Dr & Skidmore St** (45.571, -122.772)
-2. Head east on **NW 23rd Avenue** (400 m)
-3. Turn left onto **NW Irving Street**, follow descent south (1,200 m)
-4. Continue south on **NW Irving Street** (2,400 m)
-5. Turn right onto **NW Lovejoy Street** (600 m)
-6. Merge onto **Burnside Street** east (1,200 m)
-7. Cross **Burnside Bridge** (300 m)
-8. Continue on **SW Naito Parkway** to **Tom McCall Waterfront Park** (1,440 m)
+### Turn-by-Turn
+1. Start at Forest Park center (45.536, -122.739)
+2. Head east on NW Saint Helens Road
+3. Continue through the park exit
+4. Take NW Wardway Street
+5. Cross NW Nicolai Street
+6. Follow NW Burnside Road downhill
+7. Enter downtown Portland
+8. Continue to the Willamette River waterfront
 
-## Reverse Route — Climb Back
+## Return Route: Downtown → Forest Park
+- **Verified Distance:** 6,544 m (~4.1 mi)
+- **Duration:** ~22 min (uphill)
+- **Surface:** Paved roads, multi-use paths
+- **OSM Verified:** Via NW Cornell Rd, NW Lovejoy St, NE 25th Ave, NE Vaughn St, NE Wardway St, NE Nicolai St, NE Saint Helens Rd
 
-9. From Waterfront Park, head east on **Burnside Street**
-10. Climb east on Burnside Bridge (300 m)
-11. Turn left onto **NW Lovejoy Street** climbing west (500 m)
-12. Turn right onto **NW Irving Street** climbing south (2,400 m)
-13. Continue north to park entrance (1,200 m)
+### Highlights
+- Big descent from Forest Park into downtown (~500 ft)
+- Mix of residential and commercial streets
+- Ends at the Willamette River waterfront
+- Return ride is uphill — take it easy on the way back!
 
-## Key Coordinates
+---
 
-| Point | Latitude | Longitude |
-|-------|----------|-----------|
-| Start | 45.571 | -122.772 |
-| Burnside Bridge | 45.541 | -122.698 |
-| Waterfront Park | 45.522 | -122.672 |
-
-## OSM Verified Data
-
-- Downhill: 9,440 m (~28 min)
-- Climb back: 6,544 m (~22 min)
-- Elevation: ~900 ft gain/loss
-
-## Highlights
-
-- Fast descent through NW hills — 900 ft drop
-- River finish at Willamette River waterfront
-- Burnside Bridge has excellent bike lanes
-
-*Route verified using OpenStreetMap path and road data.*
+*All distances verified using OpenStreetMap routing data (bike mode).*

@@ -1,29 +1,35 @@
 # Ridge Loop Cycling Route
 
-**Route Type:** Cycling / **Distance:** 4,586 m full loop / **Elevation:** ~500 ft / **Format:** Tight loop
+**Type:** Cycling | **Category:** Hill Repeats / Power Training
 
-## Turn-by-Turn Directions
+## Route: Ridge Loop via Kaiser & Laidlaw
+- **Verified Distance:** 4,586 m (~2.9 mi)
+- **Duration:** ~7 min bike
+- **Elevation Gain:** ~500 ft
+- **Surface:** Paved + dirt
+- **OSM Verified:** Via NW Germantown Road, NW Kaiser Road, NW Laidlaw Road
 
-1. Start at **Ridge Trail Parking Lot** (45.588, -122.794)
-2. Head south on **NW Germantown Road** (2,487 m)
-3. Turn left onto **NW Kaiser Road** (2,557 m)
-4. Continue southwest on **NW Kaiser Road** (625 m)
-5. Turn right onto **NW Laidlaw Road** (1,987 m)
-6. Descend on **NW Laidlaw Road** toward NW 124th Ave (1,268 m)
-7. Return via connectors to NW Germantown Road
-8. Head east back to start (174 m)
+### Turn-by-Turn
+1. Start at NW Germantown Road (45.588, -122.794)
+2. Head west on NW Germantown Road (steep climb)
+3. Turn onto NW Kaiser Road
+4. Follow Kaiser Road north
+5. Turn onto NW Laidlaw Road (fast descent)
+6. Return to NW Germantown Road
+7. Complete the loop back to start
 
-## Key Coordinates
+### Highlights
+- Germantown Road steep climb for power training
+- Mixed surface (paved + dirt)
+- Good for hill repeat training
+- ~500 ft cumulative elevation
+- Fast descent on Laidlaw Road
 
-| Point | Latitude | Longitude |
-|-------|----------|-----------|
-| Ridge Trail Parking | 45.588 | -122.794 |
-| Kaiser Rd midpoint | 45.582 | -122.788 |
-| Laidlaw Rd midpoint | 45.580 | -122.795 |
+### Training Use
+- **Hill repeats:** Multiple loops on Germantown climb
+- **Power intervals:** Sprint the Kaiser Road section
+- **Endurance:** Combine with Saltzman Warmup Loop
 
-## OSM Verified Data
+---
 
-- Full loop: 4,586 m (~7 min on main segments)
-- Elevation: ~500 ft
-
-*Route verified using OpenStreetMap path and road data.*
+*All distances verified using OpenStreetMap routing data (bike mode).*

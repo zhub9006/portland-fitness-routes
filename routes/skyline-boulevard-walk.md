@@ -1,36 +1,34 @@
-# Skyline Boulevard Walk
+# Skyline Boulevard Walking Route
 
-**Route Type:** Walking / **Distance:** ~11,622 m full loop / **Elevation:** ~800 ft / **Format:** Ridgeline loop
+**Type:** Walking | **Category:** Ridge Walk
 
-## Turn-by-Turn Directions
+## Route: Skyline Boulevard Full Loop
+- **Verified Distance:** ~11,622 m (~7.2 mi)
+- **Duration:** ~3 hrs
+- **Elevation Gain:** ~800 ft
+- **Surface:** Paved road + sidewalks
 
-1. Start at **Leif Erikson Dr & Skidmore St** (45.571, -122.772)
-2. Head east on **NW Saint Helens Road** (1,445 m)
-3. Turn right onto **NW 63rd Avenue** (66 m)
-4. Continue onto **NW Bridge Avenue** (174 m)
-5. Merge onto **NW Germantown Road** westbound (3,356 m)
-6. Continue onto **NW Skyline Boulevard** (4,529 m) — main ridgeline section with Mt. Hood views
-7. Continue east on **NW Skyline Boulevard** (2,000 m)
-8. Follow **NW 44th Drive** south (1,200 m)
-9. Continue on **NW Vista Avenue** to NW 23rd Avenue (800 m)
-10. Turn left onto **NW 23rd Avenue** back to start (1,800 m)
+### Turn-by-Turn
+1. Start at NW Cornell Rd & NW Skyline Blvd junction
+2. Head north on NW Skyline Boulevard
+3. Follow the ridgeline north with Mt. Hood views
+4. Continue to the NW end of the Skyline Blvd corridor
+5. Descend via Corbet Drive or NW Germantown Rd
+6. Connect back to the Forest Park area
+7. Return to starting point
 
-## Key Coordinates
+### Highlights
+- NW Skyline Boulevard ridgeline walk
+- Panoramic views of Mt. Hood on clear days
+- ~800 ft cumulative elevation gain
+- Less heavily trafficked than main park roads
+- Combines ridge panoramas with forest ambiance
 
-| Point | Latitude | Longitude |
-|-------|----------|-----------|
-| Start | 45.571 | -122.772 |
-| Ridge (Skyline Blvd) | 45.588 | -122.792 |
+### Best Times
+- Early morning for best views
+- Weekday mornings for lower traffic
+- Fall and winter for clearer mountain views
 
-## OSM Verified Data
+---
 
-- Full loop: ~11,622 m (~3 hrs walk)
-- Elevation: ~800 ft
-
-## Highlights
-
-- Mt. Hood views from the ridgeline
-- Panoramic vistas of West Hills and downtown
-- Highest walk in the collection
-
-*Route verified using OpenStreetMap path and road data.*
+*All distances verified using OpenStreetMap path and road routing data (foot mode).*

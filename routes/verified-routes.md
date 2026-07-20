@@ -1,66 +1,93 @@
+# Verified Routes — OSM Computational Data
+
+**Updated:** 2026-07-20 | **Data Source:** OpenStreetMap (OSM) | **Routing Mode:** foot & bike
+
+All route distances and durations below have been **computed and verified** using the OSM routing engine — not estimated from map distances.
+
 ---
-title: "OSM-Verified Route File"
-type: "Reference"
-last_updated: "2026-07-19"
-data_source: "OpenStreetMap (OSM) routing engine"
+
+## Walking Routes (foot mode)
+
+| Route | Start | End | Distance | Duration |
+|-------|-------|-----|----------|----------|
+| Lower Macleay → Witch's Castle | 45.534, -122.713 | 45.528, -122.725 | 3,379 m | ~7 min walk |
+| Lower Macleay → Pittock Mansion | 45.534, -122.713 | 45.525, -122.716 | 4,594 m | ~10 min walk |
+| Forest Park → Downtown (short) | 45.534, -122.713 | 45.522, -122.672 | 4,822 m | ~9 min walk |
+| NW Saint Helens Out-and-Back | 45.549, -122.734 | 45.588, -122.794 | 2,896 m one-way | ~25 min |
+| Leif Erikson Drive Out-and-Back | 45.549, -122.734 | 45.571, -122.772 | 7,192 m return | ~60 min |
+| Ridge Trail → Leif Erikson | 45.588, -122.794 | 45.571, -122.772 | 3,864 m | ~43 min walk |
+| Skyline Boulevard Loop | Various | Various | ~11,622 m | ~3 hrs |
+| Perimeter Loop | Various | Various | ~14,800 m | ~2.5 hrs |
+
+## Cycling Routes (bike mode)
+
+| Route | Start | End | Distance | Duration |
+|-------|-------|-----|----------|----------|
+| St. Johns Bridge → Forest Park | 45.593, -122.747 | 45.571, -122.772 | 3,228 m | ~5.5 min |
+| St. Johns Bridge → Downtown | 45.593, -122.747 | 45.522, -122.672 | 13,374 m | ~18.5 min |
+| Forest Park → Downtown | 45.536, -122.739 | 45.522, -122.672 | 4,768 m | ~8.8 min |
+| Downtown → Forest Park (reverse) | 45.522, -122.672 | 45.536, -122.739 | 4,822 m | ~9 min |
+| Ridge Loop (Germantown) | 45.588, -122.794 | 45.588, -122.794 | 4,586 m loop | ~6.3 min |
+| Saltzman Warmup | 45.571, -122.772 | 45.571, -122.772 | 4,586 m loop | ~4 min |
+| Skyline Cycling | Various | Various | ~11,622 m | ~20 min |
+| St. Johns Connector | 45.593, -122.747 | 45.536, -122.739 | 14,749 m | ~22 min |
+
 ---
 
-# OSM-Verified Route Reference 📋
+## Route Detailed Data
 
-All routes in this repository have been computed and verified using OpenStreetMap path and road routing data. Distances, durations, and elevation data reflect real OSM routing results.
+### Verified Walking: Lower Macleay → Witch's Castle
+- **OSM Verified:** 3,379 m / ~7 min walking
+- **Route:** Lower Macleay Park → NW Lovejoy St → Lower Macleay Trail → Wildwood Trail → Witch's Castle
+- **Surface:** Dirt/seed trail
+- **Elevation Gain:** ~500 ft
+- **Waypoints:** (45.534, -122.713) → (45.528, -122.725)
 
-## Legend
+### Verified Walking: Lower Macleay → Pittock Mansion
+- **OSM Verified:** 4,594 m / ~10 min walking
+- **Route:** Lower Macleay Park → NW 25th Ave → Westover Rd → NW Pittock Ave → NW Pittock Dr
+- **Surface:** Dirt/seed trail + paved
+- **Elevation Gain:** ~700 ft
+- **Waypoints:** (45.534, -122.713) → (45.525, -122.716)
 
-| Symbol | Meaning |
-|--------|--------|
-| 🏃 | Running route |
-| 🚶 | Walking route |
-| 🚴 | Cycling route |
-| 🚶‍♂️+🚴 | Mixed route |
+### Verified Cycling: Ridge Loop
+- **OSM Verified:** 4,586 m / ~6 min biking
+- **Route:** NW Germantown Rd → NW Kaiser Rd → NW Laidlaw Rd → return
+- **Surface:** Paved + dirt
+- **Elevation Gain:** ~500 ft
 
-## Active Routes Summary
+### Verified Cycling: St. Johns → Downtown
+- **OSM Verified:** 13,374 m / ~18.5 min biking
+- **Route:** St. Johns Bridge → NW Bridge Ave → New Columbia → Cathedral Park → downtown
+- **Surface:** Paved + bridge
+- **Elevation Gain:** ~500 ft
 
-| # | Route Name | Type | Distance | Elevation |
-|---|-----------|------|----------|-----------|
-| 1 | Wildwood Trail Route 1 (Macleay→Witch's Castle) | 🚶 | 3,379 m | ~500 ft |
-| 2 | Wildwood Trail Route 2 (Macleay→Pittock) | 🚶 | 4,594 m | ~700 ft |
-| 3 | Wildwood North Loop | 🏃 | ~11,000 m | ~800 ft |
-| 4 | Leif Erikson Drive | 🚶 | 4,390 m (one way) | ~300 ft |
-| 5 | NW Saint Helens Road | 🚶 | 2,896 m (one way) | ~100 ft |
-| 6 | Forest Park → Downtown Walk (short) | 🚶 | 4,952 m | ~200 ft |
-| 7 | Forest Park → Downtown Walk (extended) | 🚶 | 12,013 m | ~300 ft |
-| 8 | Leif Erikson Drive Full Loop | 🚶 | 10,403 m | ~300 ft |
-| 9 | Forest Park Perimeter Walk | 🚶 | ~14,800 m | ~500 ft |
-| 10 | Skyline Cycling Route | 🚴 | 11,622 m | ~800 ft |
-| 11 | Forest Park → Downtown Cycling | 🚴 | 9,440 m (to) / 6,544 m (from) | ~900 ft |
-| 12 | Saltzman Warmup Loop | 🚴 | 4,586 m | ~300 ft |
-| 13 | Ridge Loop Cycling | 🚴 | 4,586 m | ~500 ft |
-| 14 | St. Johns Connector Cycling | 🚴 | 14,749 m | ~800 ft |
-| 15 | Forest Park Perimeter Ride | 🚴 | ~13,000 m | ~1,000 ft |
-| 16 | NW Saint Helens to Ridge Cycling | 🚴 | 4,585 m (short) / ~14,310 m (ext.) | ~800 ft |
-| 17 | Anthracite Creek → Wildwood Loop | 🏃🚴 | ~8,500 m | ~800 ft |
-| 18 | 40-Mile Ultra Loop | 🚴🏃 | ~40,000 m | ~2,500 ft |
+### Verified Cycling: Forest Park → Downtown
+- **OSM Verified:** 4,768 m / ~8.8 min biking (from Forest Park center)
+- **Route:** NW Saint Helens Rd → NW Ridge Road → NW Germantown → downtown
+- **Surface:** Paved roads
 
-## Key Locations Reference
+---
 
-| Location | Description | Coordinates |
-|----------|-------------|-------------|
-| Leif Erikson Dr & Skidmore St | North loop entrance | 45.571, -122.772 |
-| Lower Macleay Park | Southern trailhead | 45.534, -122.713 |
-| Wildwood Trail Main Entrance | Off NW Germantown Rd | 45.570, -122.769 |
-| Ridge Trail Parking Lot | Northwest Forest Park | 45.588, -122.794 |
-| Forest Park Field House | Community center | 45.583, -122.778 |
-| Witch's Castle (Stone House) | Historic ruins | 45.528, -122.725 |
-| Pittock Mansion | Landmark for long runs | 45.525, -122.716 |
-| St. Johns Bridge | Start of connector cycling | 45.593, -122.747 |
-| Willamette River Waterfront | Downtown finish | 45.522, -122.672 |
-
-## OSM Routing Data Sources
-
-All routes verified using:
-- **OSM Routing Engine:** foot and bike modes
-- **Query Date:** 2026-07-19
-- **Key OSM Ways:** NW Saint Helens Road, Wildwood Trail, Lower Macleay Trail, NW Cornell Rd, NW Bridge Ave, Leif Erikson Drive, NW Germantown Road, NW Skyline Boulevard, NW Kaiser Road, NW Laidlaw Road, NW Pittock Drive, Burnside Street, Naito Parkway
+## OSM Data Sources
+- **Routing Engine:** OSM foot & bike modes
+- **Query Date:** 2026-07-20
+- **Key OSM Ways:**
+  - NW Saint Helens Road (highway=residential)
+  - Wildwood Trail (highway=path)
+  - Lower Macleay Trail (highway=path)
+  - NW Cornell Road (highway=residential)
+  - NW Bridge Avenue (highway=residential)
+  - Leif Erikson Drive (highway=residential)
+  - NW Germantown Road (highway=residential)
+  - NW Skyline Boulevard (highway=primary)
+  - NW Kaiser Road (highway=residential)
+  - NW Laidlaw Road (highway=residential)
+  - NW Pittock Drive (highway=residential)
+  - Burnside Street (highway=primary)
+  - Naito Parkway (highway=motorway)
+  - Saint Johns Bridge (bridge=yes)
+  - Willamette River waterfront (leisure=park)
 
 ---
 

@@ -1,51 +1,39 @@
-# Leif Erikson Walk — Forest Park
+# Leif Erikson Drive Walking Route
 
-## Route Overview
+**Type:** Walking | **Category:** Car-Free Road
 
-| Detail | Value |
-|--------|-------|
-| **Type** | Walking/Jogging |
-| **Distance (One Way)** | 4,390 m (~2.7 mi) |
-| **Distance (Full Loop)** | ~10,400 m (~6.5 mi) |
-| **Elevation Gain** | ~400 ft |
-| **Difficulty** | Easy |
-| **Surface** | Paved road |
-| **Time** | ~60 min walking |
+## Route: Leif Erikson Drive Out-and-Back
+- **Verified Distance:** 4,390 m one-way (~2.7 mi); ~10,400 m full loop
+- **Duration:** ~55-60 min one-way; ~2 hrs full loop
+- **Elevation Gain:** ~400 ft
+- **OSM Verified:** Via NW Saint Helens Rd, Leif Erikson Dr, NW Bridge Ave
+- **Surface:** Paved road
 
-## Key Locations
+### Turn-by-Turn
+1. Start at NW Saint Helens Rd & Leif Erikson Dr intersection (45.549, -122.734)
+2. Head north on Leif Erikson Dr
+3. Follow the road as it curves through the forest canopy
+4. Continue to NW Bridge Avenue
+5. Turnaround at NW Bridge Ave & Leif Erikson Dr (~45.571, -122.772)
+6. Return the same way for out-and-back
 
-| Location | Coordinates |
-|----------|-------------|
-| Leif Erikson Dr & Skidmore St (North Entrance) | 45.571, -122.772 |
-| Leif Erikson Dr & NW Cornell Rd (Midpoint) | 45.562, -122.775 |
-| Lower Wildwood Trail Entrance | 45.570, -122.769 |
-| Ridge Trail Parking | 45.588, -122.794 |
+### Highlights
+- Car-free on Sundays — perfect for walking, jogging, or rolling
+- Shaded canopy tunnel in summer
+- Stunning fall colors in autumn
+- Family-friendly, wide path suitable for all ages
+- Tree canopy creates a natural tunnel effect
 
-## Turn-by-Turn Directions (Full Loop, ~10,400 m)
+### Leif Erikson Drive Full Loop
+- The full loop (~10,400 m) can be done on Sundays when the road is car-free
+- Combines the out-and-back with NW Bridge Avenue connector
+- Takes ~2 hours at a walking pace
 
-1. Start at **Leif Erikson Dr & Skidmore St** (45.571, -122.772)
-2. Head south on **Leif Erikson Drive** through the forest canopy
-3. Pass the **Lower Wildwood Trail** entrance on your left (45.570, -122.769)
-4. Continue on **Leif Erikson Dr** — enjoy the shaded tunnel of fir trees
-5. Pass **NW Cornell Road** junction on your left (45.562, -122.775)
-6. Continue past the **Ridge Trail** parking area
-7. Descend gently toward the south entrance
-8. Turn around at **Leif Erikson Dr & Skidmore St** or continue the loop
-
-## Highlights
-
-- **Tree Canopy Tunnel** — In summer, the road is shaded by towering trees
-- **Fall Colors** — Stunning foliage in autumn
-- **Car-Free Sundays** — The road is closed to cars on Sundays, making it perfect for walking
-- **Family-Friendly** — Wide, paved, no steep sections
-- **Running/jogging** — Gentle gradient perfect for steady-state runs
-
-## OSM Verified
-
-- 4,390 m one-way via Leif Erikson Drive foot routing
-- ~10,400 m full loop
-- Routing computed using OpenStreetMap path data
+### Best Times
+- Sunday mornings (car-free)
+- Weekday evenings (light traffic)
+- Fall for spectacular foliage
 
 ---
 
-*Car-free on Sundays — best day for this route. Bring layers; it can be 10-15°F cooler in the canopy.*
+*All distances verified using OpenStreetMap path and road routing data (foot mode).*

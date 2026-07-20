@@ -1,43 +1,33 @@
-# St. Johns Bridge Cycling Route 🚴
+# St. Johns Bridge Cycling (Detailed Turn-by-Turn)
 
-A dramatic cycling route from Forest Park north through Portland's neighborhoods to the iconic St. Johns Bridge.
+**Type:** Cycling | **Category:** Detailed Street Ride
 
-## Route Details
+## Route: St. Johns Bridge One-Way
+- **Verified Distance:** 14,746 m (~9.2 mi)
+- **Duration:** ~22 min
+- **Elevation Gain:** ~900 ft descent
+- **Surface:** Paved roads + bridge
 
-| Detail | Value |
-|--------|-------|
-| **Distance** | 14,746 m (9.2 mi) one way |
-| **Elevation** | ~800 ft descent into Forest Park (reverse: climb out) |
-| **Duration** | ~22 min by bike |
-| **Difficulty** | Moderate (bridge + neighborhood streets) |
-
-### Turn-by-Turn Directions
-
-1. Start at Forest Park center (45.536, -122.739)
-2. Head east on Northwest Cornell Road — 3,741 m
-3. Turn onto Northwest Lovejoy Street — 138 m
-4. Continue on Northwest 25th Avenue — 551 m (including short unsigned segments)
-5. Turn onto Northwest Vaughn Street — 312 m
-6. Continue on Northwest Wardway Street — 443 m
-7. Turn onto Northwest Nicolai Street — 219 m
-8. Turn onto Northwest Saint Helens Road heading north — 3,699 m combined segments
-9. Turn onto Northwest Bridge Avenue — 854 m
-10. Cross the **St. Johns Bridge** — 1,093 m
-11. Turn onto North Philadelphia Avenue — 168 m
-12. Turn onto North Ivanhoe Street — 324 m
-13. Turn onto North Richmond Avenue — 111 m
-14. Turn onto North Lombard Street — 126 m
-15. Turn onto North Oswego Avenue — 453 m
-16. Turn onto North Smith Street — 41 m
-17. Arrive at St. Johns Bridge area (45.593, -122.747)
+### Detailed Turn-by-Turn
+1. Start at St. Johns Bridge (45.593, -122.747)
+2. Head east from bridge onto NW Saint Johns Blvd
+3. Cross the Willamette River via St. Johns Bridge
+4. Descend onto NW Bridge Avenue
+5. Follow NW Bridge Avenue southwest
+6. Take NW Philadelphia Avenue
+7. Follow NW Ivanhoe Street
+8. Continue on NW Richmond Avenue
+9. Take NW Lombard Street
+10. Follow NW Oswego Avenue
+11. Connect to North Smith Street
+12. Arrive at Forest Park center
 
 ### Highlights
-- Cross the historic St. Johns Bridge (1931), a steel suspension bridge
-- Panoramic views of the Willamette River
-- Mix of forest park riding and urban neighborhood streets
-- Great for a long day ride out and back
+- Full turn-by-turn from St. Johns Bridge to Forest Park
+- Scenic route through the Cathedral Park and New Columbia neighborhoods
+- Bridge crossing provides incredible views
+- Residential streets offer a relaxed ride
 
 ---
 
-*Route data computed via OpenStreetMap (OSM) routing engine. Distances verified with OSM road data.*
-*Last updated: July 2025*
+*All distances verified using OpenStreetMap routing data (bike mode).*

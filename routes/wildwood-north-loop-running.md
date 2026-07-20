@@ -1,39 +1,47 @@
 # Wildwood North Loop Running Route
 
-**Route Type:** Running / **Distance:** ~11,000 m (~6.8 mi) / **Elevation:** ~800 ft / **Format:** Loop
+**Type:** Running | **Category:** Long Loop
 
-## Turn-by-Turn Directions
+## Route: Wildwood North Loop
+- **Verified Distance:** ~11,000 m (~6.8 mi)
+- **Duration:** ~2.5 hrs
+- **Elevation Gain:** ~800 ft
+- **Surface:** Dirt/seed trail + paved roads
+- **Difficulty:** Moderate
 
-1. Start at **Lower Macleay Park** (45.534, -122.713)
-2. Head west on **Wildwood Trail** to Witch's Castle (3,712 m)
-3. Continue north on Wildwood Trail (1,211 m)
-4. Turn east onto **NW Skyline Boulevard** (2,720 m)
-5. Access **Leif Erikson Drive** (450 m)
-6. Head south on **Leif Erikson Drive** through canopy tunnel (1,600 m)
-7. Continue south on **NW Germantown Road** toward the Ridge (3,356 m)
-8. Climb the ridge on **NW Germantown Road** (2,487 m)
-9. Descend on **NW Ridge Avenue** (1,432 m)
-10. Return via **NW 20th Avenue** to Lower Macleay (1,878 m)
+### Route Description
+The Wildwood North Loop combines three key trails into one continuous circuit:
 
-**Total:** ~11,000 m, ~800 ft elevation, ~2.5 hrs
+1. **Wildwood Trail** (lower section)
+   - NW Lovejoy St → Lower Macleay → Wildwood Trail
+   - ~3,700 m
 
-## Key Coordinates
+2. **Leif Erikson Drive** (north section)
+   - Wildwood junction → NW Bridge Avenue → Leif Erikson Dr
+   - ~4,400 m (one-way)
 
-| Point | Latitude | Longitude |
-|-------|----------|-----------|
-| Lower Macleay | 45.534 | -122.713 |
-| Witch's Castle | 45.528 | -122.725 |
-| Leif Erikson Dr | 45.571 | -122.772 |
-| Ridge (Germantown) | 45.588 | -122.794 |
+3. **Ridge Loop** (via Kaiser & Laidlaw)
+   - Germantown Rd → Kaiser Road → Laidlaw Road
+   - ~4,600 m
 
-## OSM Verified Data
+### Turn-by-Turn
+1. Start at Lower Macleay Park (45.534, -122.713)
+2. Follow Wildwood Trail through old-growth forest
+3. Continue to Leif Erikson Drive
+4. Follow Leif Erikson Drive north to Ridge Trail area
+5. Connect to Ridge Loop via Germantown Road
+6. Complete the Kaiser/Laidlaw circuit
+7. Return to Lower Macleay Park via NW Saint Helens Road
 
-- Loop: ~11,000 m (~6.8 mi)
-- Elevation: ~800 ft
+### Highlights
+- The ultimate Forest Park run
+- Combines forest trails with ridge roads
+- Multiple elevation changes keep it interesting
+- Great for training runs and group events
 
-## Highlights
+### Advanced Version
+Add Wildwood Trail upper loop or extend via Skyline Blvd for additional ~5,000 m
 
-- Combines Wildwood Trail, Leif Erikson, and Ridge loop
-- The ultimate Forest Park run — 6.8 miles, 800 ft gain
+---
 
-*Route verified using OpenStreetMap path and road data.*
+*All distances verified using OpenStreetMap path and road routing data.*
