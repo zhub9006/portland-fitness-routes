@@ -1,49 +1,47 @@
-# Saltzman Warmup Loop
-
-**Type:** Cycling
-**OSM Verified Distance:** 4,586 m (full loop); 3,764 m (St. Helens segment)
-**Estimated Duration:** ~15 min cycling (18 km/h) / ~4 min bike on St. Helens
-**Elevation Gain:** ~250 ft
-**Difficulty:** Easy
-
+---
+title: "Saltzman Warmup Loop"
+type: "Cycling"
+difficulty: "Beginner–Moderate"
+bounding_box:
+  north: 45.587
+  south: 45.578
+  east: -122.768
+  west: -122.785
 ---
 
-## Route Overview
+# Saltzman Warmup Loop 🚴
 
-A tight, fast cycling loop near the north entrance of Forest Park. Perfect for speed work, track-style intervals, and warm-ups before a training ride or run. This loop alternates between paved residential streets and a short segment of Forest Park's Saltzman trail system.
+A tight, fast loop near the north entrance of Forest Park — perfect for warming up before a ride, doing speed intervals, or getting in quick training miles.
 
-## Turn-by-Turn Directions (OSM Verified)
+## Route Details
 
-1. **Start:** NW Saint Helens Road at Saltzman area (45.535, -122.772)
-2. Head east on **NW Saint Helens Road** (approx. 3,072 m)
-3. Turn right onto **NW Bridge Avenue** (approx. 370 m)
-4. Turn left onto **NW 25th Avenue** (approx. 126 m)
-5. Right onto **NW Vaughn Street** (approx. 312 m)
-6. Left onto **NW Wardway Street** (approx. 443 m)
-7. Right onto **NW Nicolai Street** (approx. 219 m)
-8. South to **NW Saint Helens Road** (approx. 544 m)
-9. **Arrive:** Back at Saltzman start
+| Detail | Value |
+|--------|-------|
+| **Full Loop Distance** | 4,586 m (2.85 mi) |
+| **St. Helens Segment** | 3,764 m (2.34 mi) |
+| **Elevation Gain** | ~300 ft |
+| **Est. Cycling Time** | ~4 min (full loop) \| ~3 min (St. Helens segment) |
+| **Surface** | Paved road |
+| **Difficulty** | Beginner–Moderate |
 
-## Key Landmarks
+### Waypoints
+1. **Start:** Forest Park Field House — 45.583, -122.778
+2. **Up:** Saltzman Road heading northeast
+3. **Key Landmarks:** St. Helens Road connector
+4. **Loop Back:** Via Field House back to start
 
-| Waypoint | Coordinates | Notes |
-|----------|-------------|-------|
-| Saltzman start (St. Helens & Bridge Ave) | 45.535, -122.772 | Good parking area |
-| NW Vaughn Street | 45.530, -122.761 | Quiet residential |
-| NW Wardway Street | 45.529, -122.742 | Connector between Quinn and Nicolai |
-| NW Nicolai Street | 45.528, -122.737 | West end of the loop |
+### Description
+This compact loop starts at the Forest Park Field House near the north entrance. Ride northeast on Saltzman Road, connecting to St. Helens Road (the historic road linking Washington Park through the park). The route is short enough to repeat multiple times for interval training.
 
-## OSM Routing Data (COMPUTED)
+The St. Helens Road segment is particularly scenic — it follows the edge of the park with views into the forested hillside. The road is wide and smooth, ideal for warm-up laps or time trials.
 
-- **OSM bike mode:** 4,586 m full loop / ~76.s
-- **OSM bike mode (St. Helens segment):** 3,764 m (Bridge Ave + St. Helens Rd) / ~385 s
-- **Key OSM ways:** NW Saint Helens Road, NW Bridge Avenue, NW 25th Avenue, NW Vaughn Street, NW Wardway Street, NW Nicolai Street
+### Highlights
+- **Quick Access:** Starts right at the Field House — no need to drive deep into the park
+- **Interval Training:** Short loop enables structured work/rest intervals
+- **Scenic St. Helens Segment:** Follows the park boundary with forest views
+- **Low Traffic:** Quiet morning experience
 
-## Tips
-
-- The loop is tight and fast — great for cadence work
-- Low traffic on all roads; ideal for cycling groups
-- Mark your start/finish with a GPS watch for interval training
-- Flat enough for three 1-mile repeats with full recovery
-- Warm morning rides are great; afternoon can be windy on NW Saint Helens
-- Watch for pedestrians on NW Vaughn — it's a residential street with kids
+### Notes
+- Best as a warm-up before longer rides on the Ridge Loop or Skyline route
+- The Field House has bike parking and restrooms
+- Flat enough for beginner cyclists

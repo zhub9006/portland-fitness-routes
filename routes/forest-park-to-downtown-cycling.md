@@ -1,54 +1,59 @@
-# Forest Park to Downtown Portland Cycling Route
+---
+title: "Forest Park to Downtown Cycling Route"
+type: "Cycling"
+difficulty: "Moderate"
+bounding_box:
+  north: 45.593
+  south: 45.522
+  east: -122.672
+  west: -122.747
+---
 
-**Type:** Cycling
-**OSM Verified Distance:** 9,440 m
-**Estimated Duration:** ~28 min cycling (18 km/h)
-**Elevation Gain:** ~500 ft descent
-**Difficulty:** Easy (mostly downhill)
+# Forest Park to Downtown Cycling Route 🚴
+
+A thrilling ride from the forested ridgeline of Forest Park all the way down to the Willamette River waterfront in downtown Portland. The descent drops roughly 900 ft from the park to the river — a true Portland cycling experience.
+
+## Outbound (Park → Downtown)
+
+| Detail | Value |
+|--------|-------|
+| **Distance** | 9,440 m (5.9 mi) |
+| **Elevation Loss** | ~900 ft |
+| **Est. Time** | ~28 min |
+| **Surface** | Paved road |
+| **Difficulty** | Moderate |
+
+### Waypoints
+1. **Start:** Ridge Trail Parking Lot — 45.588, -122.794
+2. **Descent:** NW Skyline Blvd → Ridge Ave → NW Thurman St
+3. **Key Landmarks:** St. Johns Bridge (45.593, -122.747)
+4. **Mid:** Downtown Portland approach
+5. **End:** Willamette River Waterfront — 45.522, -122.672
 
 ---
 
-## Route Overview
+## Return (Downtown → Park)
 
-A scenic descent from Forest Park into downtown Portland and ending at the Willamette River waterfront. This route drops significantly in elevation, making it a satisfying ride with city-scape views emerging as you descend.
+| Detail | Value |
+|--------|-------|
+| **Distance** | 6,544 m (4.1 mi) |
+| **Elevation Gain** | ~500 ft |
+| **Est. Time** | ~22 min |
+| **Surface** | Paved road |
+| **Difficulty** | Moderate (climb) |
 
-## Turn-by-Turn Directions (OSM Verified)
+### Description
+The outbound route drops from the Forest Park ridgeline through a series of well-paved roads, steeply descending toward the Willamette River. You'll pass under the iconic St. Johns Bridge and through the industrial/warehouse district of NW Portland before reaching the river waterfront.
 
-1. **Start:** Forest Park center (45.536, -122.739)
-2. South on **NW Saint Helens Road** (~2,446 m)
-3. Continue on **NW Wardway Street** (~443 m)
-4. Right onto **NW Nicolai Street** (~219 m)
-5. Continue south on **NW Nicolai Street** into downtown
-6. Right onto **West Burnside Street** (~483 m)
-7. Left onto **NW Barnes Road** (~174 m)
-8. Continue onto **NW Pittock Avenue** (~280 m)
-9. Right onto **NW Pittock Drive** (~455 m)
-10. Left onto **West Burnside Road** (~1,130 m)
-11. Continue via **Burnside Street** into downtown
-12. Take **Naito Parkway** toward the river
-13. **Arrive:** Willamette River waterfront (downtown Portland)
+The return climb is shorter but steeper — ride at your own pace. The final stretch back up to the park from NW Thurman Street is a solid 500-ft climb.
 
-## Key Landmarks
+### Highlights
+- **St. Johns Bridge:** An engineering landmark — 2,067 ft long, 400 ft above the river
+- **Willamette River:** Finish at the waterfront with views of the Steel Bridge and Marquam Bridge
+- **Elevation:** One of the best 'down and back' training routes in Portland
+- **Traffic:** Moderate on weekdays, heavier on downtown streets
 
-| Waypoint | Coordinates | Notes |
-|----------|-------------|-------|
-| Forest Park center | 45.536, -122.739 | Starting point |
-| NW Wardway & NW Nicolai | 45.529, -122.742 | Transition points |
-| West Burnside Road | 45.528, -122.708 | First major downhill stretch |
-| Burnside Street downtown | 45.523, -122.686 | City streets |
-| Willamette River waterfront | 45.522, -122.672 | End point; Tom McCall Waterfront Park |
-
-## OSM Routing Data (COMPUTED)
-
-- **OSM bike mode:** 9,440 m from Forest Park center → Downtown
-- **Downtown → Forest Park (reverse):** 6,544 m via NW Cornell Rd, NW Lovejoy St
-- **St. Helens → Park Entrance:** 3,764 m / ~4 min bike (Bridge Ave + St. Helens Rd)
-- **Key OSM ways:** NW Saint Helens Road, NW Wardway Street, NW Nicolai Street, West Burnside Road, Burnside Street, Naito Parkway
-
-## Tips
-
-- This route is downhill the whole way — bring brakes!
-- The Burnside Road/West Burnside Road stretch has moderate traffic; stay alert
-- Ends at the waterfront — reward yourself with a coffee at one of the Waterfront Park cafes
-- The reverse ride (downtown up to Forest Park) is the big climb (~6,544 m)
-- Evening rides are especially nice as the city lights come on during the descent
+### Notes
+- Wear a helmet — this is a road cycling route with some heavy traffic zones
+- Best done in the morning (cooler, less traffic)
+- The downtown finish is near Tom McCall Waterfront Park — great for a post-ride stretch

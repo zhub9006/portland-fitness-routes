@@ -1,111 +1,49 @@
-# NW Skyline Boulevard Cycling Route 🚴
-
-**Route Type:** Road Cycling | **Difficulty:** Moderate | **Distance:** ~11.6 km
-
+---
+title: "Skyline Cycling Route"
+type: "Cycling"
+difficulty: "Moderate–Hard"
+bounding_box:
+  north: 45.590
+  south: 45.517
+  east: -122.710
+  west: -122.848
 ---
 
-## Route Overview
+# Skyline Cycling Route 🚴
 
-The NW Skyline Boulevard route is a spectacular ridgeline ride offering panoramic views of the Portland skyline, Mt. Hood, and the Cascades. This is the crown jewel of Forest Park cycling.
+Ride the ridgeline along NW Skyline Boulevard for sweeping panoramic views of Portland, the Willamette River, and Mt. Hood. This is the signature cycling route around Forest Park — fast descents, sustained climbs, and big scenery.
 
-| Metric | Value |
+## Full Loop Details
+
+| Detail | Value |
 |--------|-------|
-| Distance | ~11,622 m (~7.2 mi) |
-| Duration | ~20 min at cycling pace |
-| Elevation Gain | ~800 ft |
-| Mode | Bike |
-| Surface | Paved road, car-free on Sundays |
-| Difficulty | Moderate (rolling hills) |
+| **Distance** | ~11,622 m (7.2 mi) |
+| **Elevation Gain** | ~800 ft |
+| **Est. Cycling Time** | ~20 min (advanced) / ~45 min (recreational) |
+| **Surface** | Paved road |
+| **Difficulty** | Moderate–Hard |
 
----
+### Waypoints
+1. **Start:** Cornell Rd & NW Skyline Blvd — 45.530, -122.748
+2. **Climb:** Upskyline Blvd past the ridgeline
+3. **Key Viewpoint:** Panoramic OSW views of Portland skyline and Mt. Hood
+4. **Descent:** NW Skyline Blvd heading west
+5. **Connector:** Ridge Ave down to Forest Park roads
+6. **Return:** Via Germantown Rd + Leif Erikson Dr back to start
 
-## Turn-by-Turn Directions
+### Description
+Start at the intersection of NW Cornell Road and NW Skyline Boulevard on the southern end of the park. Climb northwest along the ridgeline of Skyline Boulevard. The road offers unobstructed panoramic views to the west and south — on clear days, you can see the entire Portland skyline, the Willamette River, and the snow-capped peak of Mt. Hood in the distance.
 
-### Segment 1: Lower Macleay Park → NW Skyline Boulevard
-- **Distance:** 567 m
-- **Road:** North West Royal Boulevard → North West Thompson Road
-- **Notes:** Gentle climb from Lower Macleay to the ridgeline
+After cresting the ridge, descend on the western section. The descent is fast but the road is well-maintained with good sight lines. Use the Ridge Avenue connector to drop back down into the Forest Park road network and complete the loop via Germantown Road and Leif Erikson Drive.
 
-### Segment 2: NW Skyline Boulevard (Ridgeline)
-- **Distance:** 3,763 m
-- **Road:** North West Skyline Boulevard
-- **Notes:** Follow the ridgeline with forest on both sides; spectacular views
-- **Key Turn:** NW Skyline Blvd → NW Germantown Road at the Forest Park boundary
+### Highlights
+- **Panoramic Views:** Unmatched city/Mt. Hood vistas from the ridgeline
+- **Fast Descents:** Handling practice on the western hill drops
+- **Traffic:** Light on Skyline Blvd (busy Cornell Rd at the south end)
+- **Scenery:** Douglas fir corridor, wildflower meadows in spring
 
-### Segment 3: NW Germantown → Kaiser Road
-- **Distance:** 870 m
-- **Road:** Northwest Germantown Road → Kaiser Road/Laidlaw Road
-- **Notes:** Descent along Germantown, drop to the north side of the ridge
-
-### Segment 4: Ridge Loop (Kaiser → Laidlaw → Skyline)
-- **Distance:** 6,000 m
-- **Road:** Kaiser Road → Laidlaw Road → Skyline Boulevard
-- **Notes:** Connects back to the main Skyline route for a full loop; U-shaped circuit
-
-### Segment 5: Return to Lower Macleay
-- **Distance:** 690 m
-- **Road:** Northwest Thompson Road
-- **Notes:** Descent back to Lower Macleay Park
-
----
-
-## Full Loop Directions
-1. Start at **Lower Macleay Park** (45.528, -122.746)
-2. Climb **North West Royal Boulevard** → **North West Skyline Boulevard** (380 m)
-3. Follow **NW Skyline Boulevard** west along the ridgeline (3.8 km)
-4. Continue to **NW Germantown Road** intersection (45.542, -122.753)
-5. Turn left onto **Germantown**, then right onto **Kaiser Road** (870 m)
-6. Follow **Laidlaw Road** south, then back up to **Skyline Blvd** (6 km)
-7. Return via **NW Thompson Road** to Lower Macleay (690 m)
-
----
-
-## Elevation Profile
-
-```
-Lower Macleay ────╮
-                   │  Rise 300ft
-                   ├───── NW Skyline Blvd (Ridge)
-                   │  Flat ~1mi
-NW Germantown ─────╯  Drop 200ft
-                   │
-Kaiser/Laidlaw ────╮  Rise 300ft
-                   ├───── Ridge Loop
-                   │
-Lower Macleay ─────╯  Descent back
-```
-
----
-
-## Key Landmarks
-- 🏔️ **Meshew Meadow** - Open meadow with valley views at mile 1.5
-- 🌲 **Forest Park boundary** - Dense old-growth forest on both sides
-- 📸 **Viewpoint near NW Skyline & Thompson** - Best photo spot for city panorama
-- 🏃 **Runners/Joggers** - Expect more foot traffic on Leif Erikson Drive (Sunday closures)
-
----
-
-## Seasonal & Weather Notes
-
-| Season | Conditions | Tips |
-|--------|------------|------|
-| 🌸 Spring | Cool, breezy; wildflowers | Great for fast group rides |
-| ☀️ Summer | Hot on ridge; cool in forest | Bring 2L water minimum |
-| 🍂 Fall | Cool temps; sharp leaves | Best for photography rides |
-| ❄️ Winter | Possible ice; shorter days | Wear brights; verify road conditions |
-| 🌧️ Rain | Slippery descents | Low tire pressure; disc brakes recommended |
-
----
-
-## Training Use
-- 🚴 **Endurance ride:** Full loop at steady 14-16 mph
-- 🏋️ ** Climbing intervals:** Repeated Lower Macleay → Skyline climbs (5x)
-- 🎯 **Threshold work:** Hold 85% max heart rate on the ridge section
-- 📈 **Progressive:** Easy start, build to threshold on ridge, spin down the return
-
-### Key Coordinates
-- **Start/Lower Macleay:** 45.528, -122.746
-- **Ridge High Point:** 45.542, -122.753 (NW Skyline & Thompson)
-- **Germantown Junction:** 45.542, -122.753
-- **Kaiser/Laidlaw:** 45.555, -122.765
-- **Wildwood Trailhead:** 45.570, -122.769
+### Notes
+- Use caution on descents — blind corners on the western ridge
+- Best timing: weekday mornings or Sunday afternoons
+- Bring a camera — the viewpoints are spectacular
+- This route also doubles as a running route for experienced road runners
