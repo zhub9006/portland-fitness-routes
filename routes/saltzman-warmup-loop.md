@@ -1,47 +1,48 @@
----
-title: "Saltzman Warmup Loop"
-type: "Cycling"
-difficulty: "Beginner–Moderate"
-bounding_box:
-  north: 45.587
-  south: 45.578
-  east: -122.768
-  west: -122.785
----
+# Saltzman Warmup Loop
 
-# Saltzman Warmup Loop 🚴
+**Route Type:** Cycling (Warm-up / Speed Work)
+**Distance:** 4,586 m full loop; 3,764 m (St. Helens segment)
+**Elevation:** ~300 ft
+**Format:** Tight, fast loop
 
-A tight, fast loop near the north entrance of Forest Park — perfect for warming up before a ride, doing speed intervals, or getting in quick training miles.
+## Overview
 
-## Route Details
+A compact, fast loop near the north entrance of Forest Park, ideal for speed work and track-style intervals. The loop incorporates the Saltzman corridor and St. Helens Road section, providing a quick setup with minimal warm-up time needed.
 
-| Detail | Value |
-|--------|-------|
-| **Full Loop Distance** | 4,586 m (2.85 mi) |
-| **St. Helens Segment** | 3,764 m (2.34 mi) |
-| **Elevation Gain** | ~300 ft |
-| **Est. Cycling Time** | ~4 min (full loop) \| ~3 min (St. Helens segment) |
-| **Surface** | Paved road |
-| **Difficulty** | Beginner–Moderate |
+## Highlights
 
-### Waypoints
-1. **Start:** Forest Park Field House — 45.583, -122.778
-2. **Up:** Saltzman Road heading northeast
-3. **Key Landmarks:** St. Helens Road connector
-4. **Loop Back:** Via Field House back to start
+- **Quick setup** — Near the north entrance, minimal driving to reach the start
+- **Fast corners** — Tight turns that simulate track intervals
+- **Elevation variety** — ~300 ft of undulation for effective training
+- **Year-round** — Sheltered sections make this viable in all weather
 
-### Description
-This compact loop starts at the Forest Park Field House near the north entrance. Ride northeast on Saltzman Road, connecting to St. Helens Road (the historic road linking Washington Park through the park). The route is short enough to repeat multiple times for interval training.
+## Turn-by-Turn Directions
 
-The St. Helens Road segment is particularly scenic — it follows the edge of the park with views into the forested hillside. The road is wide and smooth, ideal for warm-up laps or time trials.
+1. Start at **Ridge Trail Parking Lot** (45.588, -122.794)
+2. Head south on **NW Germantown Road** (2,487 m)
+3. Turn left onto **NW Bridge Avenue** (433 m)
+4. Cross the bridge and continue on **NW Saint Helens Road** (1,551 m)
+5. Follow the connector roads back to Germantown Rd
+6. Complete the loop
 
-### Highlights
-- **Quick Access:** Starts right at the Field House — no need to drive deep into the park
-- **Interval Training:** Short loop enables structured work/rest intervals
-- **Scenic St. Helens Segment:** Follows the park boundary with forest views
-- **Low Traffic:** Quiet morning experience
+## Key Coordinates
 
-### Notes
-- Best as a warm-up before longer rides on the Ridge Loop or Skyline route
-- The Field House has bike parking and restrooms
-- Flat enough for beginner cyclists
+| Point | Latitude | Longitude |
+|-------|----------|-----------|
+| Ridge Trail Parking | 45.588 | -122.794 |
+| NW Germantown/Ridge turn | 45.587 | -122.785 |
+| St. Helens segment | 45.579 | -122.775 |
+| Return to parking | 45.588 | -122.794 |
+
+## OSM Verified Data
+
+- **Full loop:** 4,586 m (~4 min on St. Helens segment)
+- **St. Helens segment only:** 3,764 m
+
+## Tips
+
+- Great first stop before heading out on longer rides
+- Ideal for group warm-ups before runs
+- The tight loop can be crowded — best for solo speed work or small groups
+
+*Route verified using OpenStreetMap path and road data.*

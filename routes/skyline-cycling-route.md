@@ -1,49 +1,53 @@
----
-title: "Skyline Cycling Route"
-type: "Cycling"
-difficulty: "Moderate–Hard"
-bounding_box:
-  north: 45.590
-  south: 45.517
-  east: -122.710
-  west: -122.848
----
+# Skyline Cycling Route
 
-# Skyline Cycling Route 🚴
+**Route Type:** Cycling (Ridgeline Loop)
+**Distance:** ~11,622 m full loop
+**Elevation:** ~800 ft
+**Format:** Loop
 
-Ride the ridgeline along NW Skyline Boulevard for sweeping panoramic views of Portland, the Willamette River, and Mt. Hood. This is the signature cycling route around Forest Park — fast descents, sustained climbs, and big scenery.
+## Overview
 
-## Full Loop Details
+A scenic ridgeline loop along NW Skyline Boulevard with panoramic views of Mt. Hood and the Cascade range. This route follows the high points of the Forest Park boundary, offering some of the best views in the Portland area.
 
-| Detail | Value |
-|--------|-------|
-| **Distance** | ~11,622 m (7.2 mi) |
-| **Elevation Gain** | ~800 ft |
-| **Est. Cycling Time** | ~20 min (advanced) / ~45 min (recreational) |
-| **Surface** | Paved road |
-| **Difficulty** | Moderate–Hard |
+## Highlights
 
-### Waypoints
-1. **Start:** Cornell Rd & NW Skyline Blvd — 45.530, -122.748
-2. **Climb:** Upskyline Blvd past the ridgeline
-3. **Key Viewpoint:** Panoramic OSW views of Portland skyline and Mt. Hood
-4. **Descent:** NW Skyline Blvd heading west
-5. **Connector:** Ridge Ave down to Forest Park roads
-6. **Return:** Via Germantown Rd + Leif Erikson Dr back to start
+- **Panoramic ridgeline views** — Expansive vistas of Mt. Hood and the West Hills
+- **Moderate elevation** — ~800 ft of climbing spread across the loop
+- **Mixed terrain** — Combines paved roads with some gravel sections
+- **Year-round riding** — The elevation and exposure make this suitable for all seasons
 
-### Description
-Start at the intersection of NW Cornell Road and NW Skyline Boulevard on the southern end of the park. Climb northwest along the ridgeline of Skyline Boulevard. The road offers unobstructed panoramic views to the west and south — on clear days, you can see the entire Portland skyline, the Willamette River, and the snow-capped peak of Mt. Hood in the distance.
+## Turn-by-Turn Directions
 
-After cresting the ridge, descend on the western section. The descent is fast but the road is well-maintained with good sight lines. Use the Ridge Avenue connector to drop back down into the Forest Park road network and complete the loop via Germantown Road and Leif Erikson Drive.
+1. Start at **Leif Erikson Dr & Skidmore St** (45.571, -122.772)
+2. Head north on **NW Saint Helens Road** (1,445 m)
+3. Follow **NW 63rd Avenue** (66 m) and continue on NW Saint Helens Road
+4. Cross onto **NW Bridge Avenue** (174 m)
+5. Merge onto **NW Germantown Road** (3,356 m) — ride west along the ridge
+6. Continue onto **NW Skyline Boulevard** (4,529 m) — the scenic ridgeline section with Mt. Hood views
+7. Follow **NW Thunder Crest Drive** (283 m)
+8. Return via the connector roads to complete the loop
 
-### Highlights
-- **Panoramic Views:** Unmatched city/Mt. Hood vistas from the ridgeline
-- **Fast Descents:** Handling practice on the western hill drops
-- **Traffic:** Light on Skyline Blvd (busy Cornell Rd at the south end)
-- **Scenery:** Douglas fir corridor, wildflower meadows in spring
+## Key Coordinates
 
-### Notes
-- Use caution on descents — blind corners on the western ridge
-- Best timing: weekday mornings or Sunday afternoons
-- Bring a camera — the viewpoints are spectacular
-- This route also doubles as a running route for experienced road runners
+| Point | Latitude | Longitude |
+|-------|----------|-----------|
+| Start | 45.571 | -122.772 |
+| NW Germantown Rd | 45.583 | -122.785 |
+| Skyline Blvd (ridgeline) | 45.588 | -122.792 |
+| Thunder Crest Dr | 45.573 | -122.76 |
+| Return to start | 45.571 | -122.772 |
+
+## OSM Verified Data
+
+- **Full loop:** ~11,622 m
+- **Cycling time:** ~20 min fast ride
+- **Grade:** Moderate — no sustained steep climbs
+
+## Tips
+
+- The ridgeline section on Skyline Blvd is exposed — bring a wind layer
+- Best views are on the west-facing sections looking toward Mt. Hood
+- Gravel sections may be muddy after rain
+- Popular with road cyclists — be mindful of faster riders
+
+*Route verified using OpenStreetMap path and road data.*

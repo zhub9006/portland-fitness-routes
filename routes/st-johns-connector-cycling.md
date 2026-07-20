@@ -1,45 +1,53 @@
 # St. Johns Connector Cycling Route
 
-**Type:** Cycling  
-**Difficulty:** Moderate (long descent; moderate climb back)  
-**Best Season:** Year-round
+**Route Type:** Cycling (Connector/Descent)
+**Distance:** 14,749 m (St. Johns to Park)
+**Elevation:** Descent from St. Johns Bridge into Forest Park
+**Format:** Point-to-point
 
----
+## Overview
 
-## Route: St. Johns Bridge → Forest Park
+A dramatic descent from the St. Johns Bridge into Forest Park. This route offers one of the most exhilarating approaches to the park, starting from the historic St. Johns Bridge and following the gradient down through NW Portland neighborhoods into the forest.
 
-| Metric | Value |
-|--------|-------|
-| **Distance (St. Johns → Park)** | 14,749 m (~9.2 mi) |
-| **Duration** | ~21.7 min biking |
-| **Elevation** | ~900 ft descent from bridge |
-| **OSM Verified** | ✅ Bike routing via Lombard St, St. Johns Bridge, NW Bridge Ave, NW St. Helens Rd, NW Cornell Rd |
+## Highlights
 
-**Coordinates:**
-- St. Johns Bridge: 45.593, -122.747
-- Forest Park Center: 45.536, -122.739
+- **St. Johns Bridge descent** — A dramatic, fast descent from the bridge into the park
+- **Northwest Portland neighborhoods** — Pass through the vibrant St. Johns area
+- **Multiple terrain types** — Bridge, residential streets, and park access roads
+- **Great for progressive rides** — Build speed on the descent
 
-**Route Segments:**
-| Segment | Distance | Road |
-|---------|----------|------|
-| St. Johns Bridge → Lombard St | 110 m | St. Johns Bridge approach |
-| Lombard St → Bridge Ave | ~958 m | North Lombard St, NW Bridge Ave |
-| Bridge Ave → NW St. Helens Rd | ~3,263 m | NW Bridge Ave → NW St. Helens Rd |
-| NW St. Helens Rd → NW Nicolai St | 2,446 m | NW St. Helens Rd |
-| NW Nicolai St → NW Wardway St | 219 m | NW Nicolai St |
-| NW Wardway St → NW Vaughn St | 312 m | NW Vaughn St |
-| NW Vaughn St → NW 25th Ave | 312 m | NW Vaughn St |
-| NW 25th Ave → NW Cornell Rd | ~7,295 m | NW 25th Ave, NW Lovejoy St, NW Cornell Rd |
+## Turn-by-Turn Directions
 
-**Highlights:**
-- 🌉 Start on the St. Johns Bridge — iconic 1931 suspension bridge
-- 🏔️ Epic descent through the park — 900+ ft drop
-- 🌲 End through old-growth forest on Wildwood Trail
-- 📸 River and bridge views at the start
+1. Start at **St. Johns Bridge** south approach (45.593, -122.747)
+2. Cross the bridge heading south
+3. Navigate **North Philadelphia Avenue** (168 m)
+4. Continue on **North Ivanhoe Street** (324 m)
+5. Follow **Richmond Avenue** (111 m), **Lombard Street** (126 m)
+6. Continue on **Oswego Avenue** (453 m)
+7. Merge onto **NW Bridge Avenue** (854 m)
+8. Follow **NW Saint Helens Road** (1,445 + 1,551 m) into Forest Park
+9. Arrive at **Wildwood Trail Main Entrance** or **Leif Erikson Dr**
 
-**Running Club Tips:**
-- This is a long ride — pair with a warm-up at the Field House first
-- Reverse direction: climb from Forest Park to St. Johns for leg-breaking work
-- Group ride: everyone starts from St. Johns, converge at Forest Park
-- Safety: brake check before the descent — long run-in to the park
-- Add a Wildwood Trail loop at the bottom for a 15+ mi adventure
+## Key Coordinates
+
+| Point | Latitude | Longitude |
+|-------|----------|-----------|
+| St. Johns Bridge start | 45.593 | -122.747 |
+| Philadelphia Ave | 45.591 | -122.746 |
+| Ivanhoe St | 45.589 | -122.745 |
+| Bridge Ave junction | 45.583 | -122.775 |
+| Leif Erikson (end) | 45.571 | -122.772 |
+
+## OSM Verified Data
+
+- **St. Johns to Park:** 14,749 m (~22 min fast ride)
+- **Elevation gain from park:** ~900 ft climb back up
+
+## Tips
+
+- The descent is fast and can be steep — use caution on wet surfaces
+- Best ridden during off-peak hours for traffic-free descending
+- The bridge approach can be windy — bring a wind layer
+- Popular with cyclists — be mindful of faster riders on the bridge
+
+*Route verified using OpenStreetMap path and road data.*

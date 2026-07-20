@@ -1,51 +1,62 @@
----
-title: "NW Saint Helens Ridge Cycling Route"
-type: "Cycling"
-difficulty: "Moderate–Hard"
-bounding_box:
-  north: 45.593
-  south: 45.517
-  east: -122.710
-  west: -122.848
----
+# NW Saint Helens to Ridge Cycling Route
 
-# NW Saint Helens Ridge Cycling Route 🚴
+**Route Type:** Cycling (Ridge + Descent)
+**Distance:** 4,585 m (short); ~14,310 m (extended loop)
+**Elevation:** ~800 ft
+**Format:** Short version or extended loop
 
-A versatile route along the northern edge of Forest Park combining the historic NW Saint Helens Road with the ridgeline descent, Germantown climb, and panoramic Ridge views.
+## Overview
 
-## Route Variations
+A versatile route starting with a descent on St. Helens Road into Forest Park, climbing up through Germantown, and finishing with a Panorama of the Ridge. This is one of the best cycling routes in the park, combining descent, climb, and views into a single circuit.
 
-| Variation | Distance | Elevation |
-|-----------|----------|-----------|
-| **Short** (St. Helens descent) | 4,585 m (~2.8 mi) / ~1,000 ft desc | ~15 min |
-| **Extended Loop** | ~14,310 m (~8.9 mi) / ~800 ft | ~45 min |
+## Highlights
 
-### Short Route (St. Helens Descent)
-1. **Start:** Ridge Trail Parking Lot — 45.588, -122.794
-2. **Descent:** NW Saint Helens Road heading south
-3. **End:** Wildwood Trail Main Entrances — 45.570, -122.769
+- **St. Helens descent** — Fast, exhilarating descent from the ridge into the park
+- **Germantown climb** — Moderate climb back up to the residential streets
+- **Ridge panorama** — Scenic views from the highest points
+- **Yeon descent** — Optional extension with another fast descent
 
-### Extended Loop
-1. **Start:** Ridge Trail Parking Lot
-2. **Descent:** NW Saint Helens Road
-3. **Climb:** Germantown Road
-4. **Panorama:** Ridge Loop viewpoint
-5. **Descent:** Yeon Road to St. Helens
-6. **Return:** Via connector back to Ridge
+## Turn-by-Turn Directions
 
-### Description
-The short version drops from the Ridge Trail parking area down NW Saint Helens Road — a fast and scenic descent through old-growth forest. The road is less trafficked than Skyline Boulevard and offers a more immersive forest experience.
+### Short Version (4,585 m)
 
-The extended loop adds a climb on Germantown Road, a detour to the Ridge viewpoint for western panoramas, and a descent via Yeon Road back to the St. Helens corridor. This is the most complete park cycling loop.
+1. Start at **Ridge Trail Parking Lot** (45.588, -122.794)
+2. Head south on **NW Germantown Road** (2,487 m)
+3. Turn left onto **NW Bridge Avenue** (433 m)
+4. Follow **NW Saint Helens Road** north (1,665 m)
+5. Return to starting area
 
-### Highlights
-- **St. Helens Descent:** Fast, forest-shaded, with seasonal streams
-- **Germantown Climb:** Sustained gradient through old-growth canopy
-- **Ridge Viewpoint:** Western panoramas of Portland and the Coast Range
-- **Yeon Road:** Quiet residential connector back to the park
+### Extended Loop (~14,310 m)
 
-### Notes
-- Saint Helens Road surface is good but has some cobblestone sections
-- Best for cyclists comfortable with longer rides
-- Not ideal for beginners — the extended loop has sustained climbs
-- NW Saint Helens Road sees more traffic than the Ridge routes
+1. Start at **Leif Erikson Dr & Skidmore St** (45.571, -122.772)
+2. Head north on **NW Saint Helens Road** (1,445 m)
+3. Continue through **NW 63rd Avenue** (66 m) and further on Saint Helens Road
+4. Cross **NW Bridge Avenue** head south (174 m)
+5. Descend on **NW Germantown Road** (3,356 m)
+6. Continue on **NW Skyline Boulevard** (4,529 m)
+7. Follow **NW Thunder Crest Drive** (283 m)
+8. Return via connector roads around the ridge
+
+## Key Coordinates
+
+| Point | Latitude | Longitude |
+|-------|----------|-----------|
+| Ridge Trail Parking | 45.588 | -122.794 |
+| NW Germantown Rd | 45.587 | -122.785 |
+| Skyline Blvd | 45.588 | -122.792 |
+| Thunder Crest Dr | 45.573 | -122.76 |
+| Leif Erikson (start/end) | 45.571 | -122.772 |
+
+## OSM Verified Data
+
+- **Short:** 4,585 m
+- **Extended loop:** ~14,310 m
+- **Elevation:** ~800 ft
+
+## Tips
+
+- The short version is perfect for a quick warm-up before a run
+- The extended loop is great for building climbing endurance
+- Wind can be significant on the ridgeline sections — bring a layer
+
+*Route verified using OpenStreetMap path and road data.*

@@ -1,47 +1,46 @@
----
-title: "Ridge Loop Cycling Route"
-type: "Cycling"
-difficulty: "Moderate"
-bounding_box:
-  north: 45.590
-  south: 45.570
-  east: -122.768
-  west: -122.790
----
+# Ridge Loop Cycling Route
 
-# Ridge Loop Cycling Route 🚴
+**Route Type:** Cycling (Ridge Loop)
+**Distance:** 4,586 m full loop
+**Elevation:** ~500 ft
+**Format:** Loop via Kaiser & Laidlaw
 
-A technical yet rewarding circuit along Germantown Road, Kaiser Road, and Laidlaw Road on the western ridge of Forest Park. The loop features sustained climbs, fast descents, and great views.
+## Overview
 
-## Route Details
+A scenic ridge loop through the Germantown area, connecting Kaiser Road and Laidlaw Road. This loop covers the ridgeline terrain on the northwest side of Forest Park, offering a mix of climbing and descending with good views.
 
-| Detail | Value |
-|--------|-------|
-| **Full Loop Distance** | 4,586 m (2.85 mi) |
-| **Elevation Gain** | ~500 ft |
-| **Est. Cycling Time** | ~7 min (full loop) |
-| **Surface** | Paved road |
-| **Difficulty** | Moderate |
+## Highlights
 
-### Waypoints
-1. **Start:** Wildwood Trail Main Entrance — 45.570, -122.769
-2. **Climb:** Germantown Road heading west
-3. **Connector:** Kaiser Road (brief climb)
-4. **Descent:** Laidlaw Road heading south
-5. **Return:** Back to Wildwood entrance via connector roads
+- **Ridge riding** — Follows the high points of the Forest Park boundary
+- **Moderate elevation** — ~500 ft of climbing
+- **Quiet roads** — Less traffic than Skyline Boulevard
+- **Good for base building** — Steady elevation changes for endurance training
 
-### Description
-Start at the Wildwood Trail main entrance off NW Germantown Road. Head west on Germantown Road — this is the main climbing road on the park's western side with sustained gradients through the forest. At the top, connect briefly to Kaiser Road, then take the fast descent on Laidlaw Road south back toward the park entrance.
+## Turn-by-Turn Directions
 
-The descent on Laidlaw offers glimpses of the Tualatin Mountains to the west and the city skyline to the south. This loop can be combined with the Leif Erikson Drive section for a longer ride.
+1. Start at **Wildwood Trail Main Entrance** (45.570, -122.769)
+2. Head north on **NW Germantown Road** (2,487 m)
+3. Turn right toward **Ridge Trail** access
+4. Follow connector roads through the ridge area
+5. Complete the loop back to Germantown Rd
 
-### Highlights
-- **Sustained Climb:** Germantown Road is one of the best climb training roads in Portland
-- **Fast Descent:** Laidlaw Road offers a thrilling (but controlled) descent
-- **Tech Curves:** Two sharp bends in the descent require good handling
-- **Forest Views:** Dense canopy along the entire loop
+## Key Coordinates
 
-### Notes
-- Laidlaw Road descent — watch for blind corners
-- Best for cyclists with experience on paved descents
-- Combine with Leif Erikson Drive for a 7+ mi ride
+| Point | Latitude | Longitude |
+|-------|----------|-----------|
+| Wildwood Trail entrance | 45.570 | -122.769 |
+| Ridge area | 45.583 | -122.785 |
+| Return | 45.570 | -122.769 |
+
+## OSM Verified Data
+
+- **Full loop:** 4,586 m
+- **Cycling time:** ~7 min fast ride
+
+## Tips
+
+- Quieter than Skyline — less car traffic to contend with
+- Good for building climbing strength
+- Best ridden counter-clockwise for the climbing sections
+
+*Route verified using OpenStreetMap path and road data.*

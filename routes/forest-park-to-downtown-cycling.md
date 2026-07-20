@@ -1,59 +1,60 @@
----
-title: "Forest Park to Downtown Cycling Route"
-type: "Cycling"
-difficulty: "Moderate"
-bounding_box:
-  north: 45.593
-  south: 45.522
-  east: -122.672
-  west: -122.747
----
+# Forest Park to Downtown Cycling Route
 
-# Forest Park to Downtown Cycling Route 🚴
+**Route Type:** Cycling (Descent)
+**Distance:** 9,440 m to downtown / 6,544 m from downtown
+**Elevation:** ~900 ft descent to Willamette River
+**Format:** Point-to-point (out-and-back for round trip)
 
-A thrilling ride from the forested ridgeline of Forest Park all the way down to the Willamette River waterfront in downtown Portland. The descent drops roughly 900 ft from the park to the river — a true Portland cycling experience.
+## Overview
 
-## Outbound (Park → Downtown)
+A fast, scenic descent from Forest Park through NW Portland into downtown, finishing at the Willamette River waterfront. This route is ideal for speed work and interval training, with a rewarding downhill run into the city center.
 
-| Detail | Value |
-|--------|-------|
-| **Distance** | 9,440 m (5.9 mi) |
-| **Elevation Loss** | ~900 ft |
-| **Est. Time** | ~28 min |
-| **Surface** | Paved road |
-| **Difficulty** | Moderate |
+## Highlights
 
-### Waypoints
-1. **Start:** Ridge Trail Parking Lot — 45.588, -122.794
-2. **Descent:** NW Skyline Blvd → Ridge Ave → NW Thurman St
-3. **Key Landmarks:** St. Johns Bridge (45.593, -122.747)
-4. **Mid:** Downtown Portland approach
-5. **End:** Willamette River Waterfront — 45.522, -122.672
+- **900 ft descent** — Fast, exhilarating ride through varied terrain
+- **Willamette River waterfront finish** — End at the scenic downtown waterfront
+- **Urban and park mix** — Combines forest paths with city streets
+- **Great for intervals** — The descent is perfect for speed work
 
----
+## Turn-by-Turn Directions
 
-## Return (Downtown → Park)
+### To Downtown
 
-| Detail | Value |
-|--------|-------|
-| **Distance** | 6,544 m (4.1 mi) |
-| **Elevation Gain** | ~500 ft |
-| **Est. Time** | ~22 min |
-| **Surface** | Paved road |
-| **Difficulty** | Moderate (climb) |
+1. Start at **Leif Erikson Dr & Skidmore St** (45.571, -122.772)
+2. Head north on **NW Saint Helens Road** (3,072 m)
+3. Continue through the residential section, crossing NW 30th Ave
+4. Merge onto **NW Yeon Avenue** (4,128 m) — ride north along the ridge
+5. Transition to **Stadium Freeway** (358 m)
+6. Continue onto **West Burnside Street** (1,032 m)
+7. Follow **SW 3rd Avenue** (91 m) and **SW Ash Street** (112 m) into downtown
+8. Arrive at **Willamette River Waterfront** (45.522, -122.672)
 
-### Description
-The outbound route drops from the Forest Park ridgeline through a series of well-paved roads, steeply descending toward the Willamette River. You'll pass under the iconic St. Johns Bridge and through the industrial/warehouse district of NW Portland before reaching the river waterfront.
+### From Downtown (Return)
 
-The return climb is shorter but steeper — ride at your own pace. The final stretch back up to the park from NW Thurman Street is a solid 500-ft climb.
+1. Start at **Willamette River Waterfront** (45.522, -122.672)
+2. Head west on Burnside/SW Fulton
+3. Climb up to the residential areas of NW Portland
+4. Return via Valley View Blvd or NW Yakima
 
-### Highlights
-- **St. Johns Bridge:** An engineering landmark — 2,067 ft long, 400 ft above the river
-- **Willamette River:** Finish at the waterfront with views of the Steel Bridge and Marquam Bridge
-- **Elevation:** One of the best 'down and back' training routes in Portland
-- **Traffic:** Moderate on weekdays, heavier on downtown streets
+## Key Coordinates
 
-### Notes
-- Wear a helmet — this is a road cycling route with some heavy traffic zones
-- Best done in the morning (cooler, less traffic)
-- The downtown finish is near Tom McCall Waterfront Park — great for a post-ride stretch
+| Point | Latitude | Longitude |
+|-------|----------|-----------|
+| Start (Leif Erikson) | 45.571 | -122.772 |
+| Mid (Yeon Ave) | 45.569 | -122.755 |
+| Downtown finish | 45.522 | -122.672 |
+
+## OSM Verified Data
+
+- **To downtown:** 9,440 m (~28 min fast ride)
+- **From downtown:** 6,544 m (~22 min ride)
+- **Total round trip:** ~15,984 m (~50 min)
+
+## Tips
+
+- The descent is fast — be mindful of traffic at Burnside
+- Best ridden during off-peak hours
+- The waterfront finish makes for a great group meetup spot
+- Bring a light for evening rides
+
+*Route verified using OpenStreetMap path and road data.*
