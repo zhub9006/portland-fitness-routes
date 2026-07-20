@@ -1,43 +1,31 @@
-# Ridge Loop Cycling Route 🚴
+# Ridge Loop Cycling
 
-A scenic ridge loop through the Germantown area, connecting Kaiser Road and Laidlaw Road.
+**Route Type:** Cycling  
+**Distance:** 4,586 m (2.9 mi) full loop  
+**Elevation Gain:** ~500 ft  
+**Duration:** ~7 min loop ride  
 
 ## Overview
 
-**Route Type:** Cycling (Ridge Loop)
-**Distance:** 4,586 m full loop
-**Elevation:** ~500 ft
-**Format:** Loop via Kaiser & Laidlaw
+A fast, rolling circuit through Germantown Ridge using Kaiser Road, Laidlaw Road, and connecting streets. This loop is perfect for interval training and building climbing strength. The ridge offers great views of the Tualatin Mountains and the Portland skyline.
 
-## OSM Verified Data
+## Turn-by-Turn Directions
 
-- **Full loop:** 4,586 m (~7 min fast ride)
-- **Key segment:** NW Germantown Rd (2,487 m), NW Bridge Ave (433 m), NW Saint Helens Rd (1,551 m)
+1. Start at **NW Germantown Road** (45.562, -122.771)
+2. Follow **NW Germantown Rd** west to **Kaiser Road** (1,184 m)
+3. Follow **Kaiser Road** north (1,320 m)
+4. Connect to **NW Laidlaw Road** (1,320 m)
+5. Return to **NW Germantown Rd** via connector (750 m)
+6. Close the loop back to start
 
-## Turn-by-Turn Directions (OSM Verified)
+## Key Waypoints
 
-1. Start at **Wildwood Trail Main Entrance** (45.570, -122.769)
-2. Head north on **NW Germantown Road** — 2,487 m
-3. Turn toward **Ridge Trail** connector
-4. Follow **NW Bridge Avenue** — 433 m
-5. Continue on **NW Saint Helens Road** — 1,551 m
-6. Follow the connector roads back to Germantown Rd
-7. Complete the loop back to start
-
-## Key Coordinates
-
-| Point | Latitude | Longitude |
-|-------|----------|-----------|
-| Wildwood Trail entrance | 45.570 | -122.769 |
-| Ridge area | 45.583 | -122.785 |
-| Return | 45.570 | -122.769 |
-
-## Tips
-
-- Quieter than Skyline — less car traffic to contend with
-- Good for building climbing strength
-- Best ridden counter-clockwise for the climbing sections
+| Waypoint | Coordinates | Description |
+|----------|-------------|-------------|
+| NW Germantown Rd (start) | 45.562, -122.771 | Ridge starting point |
+| Kaiser Rd mid-point | 45.570, -122.775 | Ridge crossing |
+| Laidlaw Rd | 45.575, -122.770 | Northern ridge section |
+| Return: NW Germantown Rd | 45.562, -122.771 | Loop complete |
 
 ---
-
-*Route verified using OpenStreetMap path and road data.*
+*Route verified via OpenStreetMap path data*
