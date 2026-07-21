@@ -1,34 +1,39 @@
-# NW Saint Helens Road Walking Route
+# NW Saint Helens Road Walk 🥾
 
-**Type:** Walking | **Category:** Historic Road / Park Connector
+**Route Type:** Walking  
+**Distance:** 2,896 m one-way  
+**Elevation Gain:** ~200 ft  
+**Estimated Duration:** 6–8 min walk (one-way)
 
-## Route: NW Saint Helens Road Out-and-Back
-- **Verified Distance:** 2,896 m one-way (~1.8 mi)
-- **Duration:** ~25-30 min one-way
-- **Elevation Gain:** ~200 ft
-- **OSM Verified:** Via NW Bridge Avenue, NW Saint Helens Road
-- **Surface:** Paved road + sidewalks
+## Overview
 
-### Turn-by-Turn
-1. Start at Washington Park / Lower Macleay area (45.549, -122.734)
-2. Head northwest on NW Saint Helens Road
-3. Cross NW Nicolai Street
-4. Continue on NW Saint Helens Road through residential area
-5. Enter Forest Park at Ridge Trail Parking area
-6. Turnaround at Ridge Trail Parking lot (45.588, -122.794)
-7. Return the same way
+NW Saint Helens Road is a historic connection between Washington Park and Forest Park. The road passes through a mix of residential and park trail environments, making it a pleasant walk with gradual elevation changes.
+
+## Route Details
+
+- **Start:** NW Saint Helens Rd at Washington Park (45.5495, -122.7339)
+- **End:** Forest Park / Wildwood Trail area
+- **Distance:** 2,896 m
+- **Difficulty:** Easy
+
+### Turn-by-Turn Directions
+1. Start at NW Saint Helens Rd near the Washington Park entrance
+2. Head northwest along Saint Helens Road
+3. Cross NW 23rd Place
+4. Continue along the road through residential areas
+5. Enter Forest Park as the road becomes more trail-like
+6. End at Wildwood Trail or return to Leif Erikson Dr
 
 ### Highlights
-- Historic road connecting Washington Park to Forest Park
-- Mix of residential and park trail environments
-- Well-maintained sidewalks
-- Moderate elevation gain
-- Gateway to Ridge Trail and Wildwood Trail
+- Historic road with tree-lined sections
+- Gradual elevation gain
+- Mix of urban and forest environments
+- Easy access from NW 23rd Avenue
 
-### Additional Options
-- Connect to Ridge Trail from the northern end for a longer walk
-- Extend via NW Germantown Road to Wildwood Trail junction
+## OSM Verification
+
+- **One-way segment:** 2,896 m (verified via OSM foot routing)
 
 ---
 
-*All distances verified using OpenStreetMap path and road routing data (foot mode).*
+*Data sourced from OpenStreetMap routing engine. Verify conditions before running the route.*

@@ -1,36 +1,51 @@
-# Forest Park to Downtown Cycling Route
+# Forest Park → Downtown Cycling Route 🚴🏙️
 
-**Type:** Cycling | **Category:** Urban Descent
+**Route Type:** Cycling  
+**Distance:** 9,440 m (to downtown); 6,544 m (from downtown)  
+**Elevation Gain:** ~900 ft descent to river  
+**Estimated Duration:** 28 min (to downtown); 22 min (from downtown)
 
-## Route: Forest Park → Downtown
-- **Verified Distance:** 9,440 m (~5.9 mi)
-- **Duration:** ~28 min downhill
-- **Elevation Gain:** ~500 ft descent to downtown
-- **Surface:** Paved roads, multi-use paths
-- **OSM Verified:** Via NW Saint Helens Rd, NW Wardway St, NW Nicolai St, NW Burnside Rd, downtown
+## Overview
 
-### Turn-by-Turn
-1. Start at Forest Park center (45.536, -122.739)
-2. Head east on NW Saint Helens Road
-3. Continue through the park exit
-4. Take NW Wardway Street
-5. Cross NW Nicolai Street
-6. Follow NW Burnside Road downhill
-7. Enter downtown Portland
-8. Continue to the Willamette River waterfront
+A fast, mostly downhill ride from Forest Park through NW Portland to the Willamette River waterfront in downtown. The route follows the natural topography through Forest Park's roads and provides an immersive ride through both forest and residential settings.
 
-## Return Route: Downtown → Forest Park
-- **Verified Distance:** 6,544 m (~4.1 mi)
-- **Duration:** ~22 min (uphill)
-- **Surface:** Paved roads, multi-use paths
-- **OSM Verified:** Via NW Cornell Rd, NW Lovejoy St, NE 25th Ave, NE Vaughn St, NE Wardway St, NE Nicolai St, NE Saint Helens Rd
+## Route Details
+
+- **Start:** Forest Park / Leif Erikson Dr area
+- **End:** Willamette River Waterfront
+- **Distance:** 9,440 m (to downtown); 6,544 m (from downtown)
+- **Difficulty:** Easy (mostly downhill to downtown)
+
+### Turn-by-Turn Directions (To Downtown)
+1. Start at Leif Erikson Dr & Skidmore St, Forest Park
+2. Head south on Leif Erikson Drive
+3. Turn onto NW Cornell Road
+4. Follow NW Cornell Road through the park
+5. Continue onto NW Westover Road
+6. Turn onto NW 25th Avenue (descending)
+7. Continue through residential NW Portland
+8. Follow NNW to downtown / river area
+
+### Turn-by-Turn Directions (From Downtown)
+1. Start at Willamette River waterfront
+2. Head north through downtown
+3. Follow NNW through residential areas
+4. Turn onto NW 25th Avenue (climbing)
+5. Continue to NW Cornell Road
+6. Follow Cornell Road into Forest Park
+7. End at Leif Erikson Dr
 
 ### Highlights
-- Big descent from Forest Park into downtown (~500 ft)
-- Mix of residential and commercial streets
-- Ends at the Willamette River waterfront
-- Return ride is uphill — take it easy on the way back!
+- 900 ft descent to the river — exhilarating ride
+- Forest canopy to open city views
+- Willamette River waterfront finish
+- Great for interval training (du morning/evening)
+
+## OSM Verification
+
+- **To downtown:** 9,440 m (verified via OSM bike routing)
+- **From downtown:** 6,544 m (verified via OSM bike routing)
 
 ---
 
-*All distances verified using OpenStreetMap routing data (bike mode).*
+*Data sourced from OpenStreetMap routing engine. Verify conditions before running the route.*

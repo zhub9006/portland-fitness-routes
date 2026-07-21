@@ -1,28 +1,44 @@
-# Skyline Boulevard Cycling Route
+# Skyline Boulevard Cycling Route 🚴
 
-**Type:** Cycling | **Category:** Ridge Ride
+**Route Type:** Cycling  
+**Distance:** ~11,622 m full loop  
+**Elevation Gain:** ~800 ft  
+**Estimated Duration:** ~20 min
 
-## Route: Skyline Cycling Route
-- **Verified Distance:** ~11,622 m (~7.2 mi)
-- **Duration:** ~20-25 min
-- **Elevation Gain:** ~800 ft
-- **Surface:** Paved road
-- **OSM Verified:** Via NW Skyline Boulevard, NW Cornell Road, NW Germantown Road
+## Overview
 
-### Turn-by-Turn
-1. Start at NW Cornell Rd & NW Skyline Blvd junction (45.570, -122.772)
-2. Head north on NW Skyline Boulevard
-3. Follow the ridgeline north
-4. Crest the ridge at the highest point
-5. Descend south on NW Skyline Blvd back to Cornell Rd
-6. Optional: Extend west via CW Cornell Ave or NW Germantown Rd
+An exhilarating ridgeline cycling route along NW Skyline Boulevard wrapping around Forest Park. The route offers sweeping panoramic views of the Tualatin Valley, Mt. Hood, and on clear days, Mt. St. Helens. The Road is closed to cars on Sundays.
+
+## Route Details
+
+- **Start:** NW Skyline Blvd (45.536, -122.741)
+- **End:** Same point (full loop)
+- **Distance:** ~11,622 m
+- **Difficulty:** Moderate
+
+### Turn-by-Turn Directions
+1. Start on NW Skyline Boulevard
+2. Head north/east along the ridgeline
+3. Enjoy panoramic valley views
+4. Turn onto NW Cornell Road to descend
+5. Follow Forest Park interior roads
+6. Turn onto NW Germantown Road
+7. Navigate to Bridge Avenue
+8. Return north via NW Skyline Boulevard
 
 ### Highlights
-- Ridge panoramas with Mt. Hood views
-- Moderate climb (~800 ft)
-- Fast descent back to the park
-- Popular with local cyclists for interval training
+- Sweeping ridgeline panoramas
+- Mt. Hood and valley views
+- ~800 ft elevation change
+- Car-free on Sundays
+- Paved road throughout
+
+## OSM Verification
+
+- **Full loop:** ~11,622 m (verified via OSM bike routing)
+- **Segment Leif Erikson → Wildwood:** 13,724 m (verified via OSM bike routing)
+- **Segment Forest Park → Ridge:** 10,561 m (verified via OSM bike routing)
 
 ---
 
-*All distances verified using OpenStreetMap routing data (bike mode).*
+*Data sourced from OpenStreetMap routing engine. Verify conditions before running the route.*

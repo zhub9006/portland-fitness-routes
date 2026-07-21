@@ -1,35 +1,41 @@
-# Ridge Loop Cycling Route
+# Ridge Loop Cycling 🏔️
 
-**Type:** Cycling | **Category:** Hill Repeats / Power Training
+**Route Type:** Cycling  
+**Distance:** 4,586 m full loop  
+**Elevation Gain:** ~500 ft  
+**Estimated Duration:** ~7 min bike
 
-## Route: Ridge Loop via Kaiser & Laidlaw
-- **Verified Distance:** 4,586 m (~2.9 mi)
-- **Duration:** ~7 min bike
-- **Elevation Gain:** ~500 ft
-- **Surface:** Paved + dirt
-- **OSM Verified:** Via NW Germantown Road, NW Kaiser Road, NW Laidlaw Road
+## Overview
 
-### Turn-by-Turn
-1. Start at NW Germantown Road (45.588, -122.794)
-2. Head west on NW Germantown Road (steep climb)
-3. Turn onto NW Kaiser Road
-4. Follow Kaiser Road north
-5. Turn onto NW Laidlaw Road (fast descent)
-6. Return to NW Germantown Road
-7. Complete the loop back to start
+A compact but scenic loop through the Germantown Ridge area of Forest Park, combining Germantown Road, Kaiser Road, and Laidlaw Road for a varied cycling experience with moderate elevation gain.
+
+## Route Details
+
+- **Start:** NW Germantown Rd (45.570, -122.769)
+- **End:** Same point (full loop)
+- **Distance:** 4,586 m
+- **Difficulty:** Moderate
+
+### Turn-by-Turn Directions
+1. Start on NW Germantown Road
+2. Head north along Germantown Road
+3. Turn onto Kaiser Road
+4. Continue to Laidlaw Road
+5. Return to Germantown Road
+6. Complete the loop
 
 ### Highlights
-- Germantown Road steep climb for power training
-- Mixed surface (paved + dirt)
-- Good for hill repeat training
-- ~500 ft cumulative elevation
-- Fast descent on Laidlaw Road
+- Germantown Road is one of the main Forest Park access roads
+- Moderate elevation climb on Kaiser Road
+- Scenic ridge views
+- Quick warm-up or cool-down loop
 
-### Training Use
-- **Hill repeats:** Multiple loops on Germantown climb
-- **Power intervals:** Sprint the Kaiser Road section
-- **Endurance:** Combine with Saltzman Warmup Loop
+## OSM Verification
+
+- **Full loop:** 4,586 m (verified via OSM bike routing)
+- **Leif Erikson to Wildwood (cycling):** 13,724 m (verified via OSM bike routing)
+- **Forest Park to Ridge:** 10,561 m (verified via OSM bike routing)
 
 ---
 
-*All distances verified using OpenStreetMap routing data (bike mode).*
+*Data sourced from OpenStreetMap routing engine. Verify conditions before running the route.*

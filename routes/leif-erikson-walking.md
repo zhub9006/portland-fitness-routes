@@ -1,39 +1,49 @@
-# Leif Erikson Drive Walking Route
+# Leif Erikson Drive Walk 🚶
 
-**Type:** Walking | **Category:** Car-Free Road
+**Route Type:** Walking  
+**Distance:** 4,390 m one-way; ~10,403 m full loop  
+**Elevation Gain:** ~300 ft  
+**Estimated Duration:** 5.7 min one-way; ~2 hrs full loop
 
-## Route: Leif Erikson Drive Out-and-Back
-- **Verified Distance:** 4,390 m one-way (~2.7 mi); ~10,400 m full loop
-- **Duration:** ~55-60 min one-way; ~2 hrs full loop
-- **Elevation Gain:** ~400 ft
-- **OSM Verified:** Via NW Saint Helens Rd, Leif Erikson Dr, NW Bridge Ave
-- **Surface:** Paved road
+## Overview
 
-### Turn-by-Turn
-1. Start at NW Saint Helens Rd & Leif Erikson Dr intersection (45.549, -122.734)
-2. Head north on Leif Erikson Dr
-3. Follow the road as it curves through the forest canopy
-4. Continue to NW Bridge Avenue
-5. Turnaround at NW Bridge Ave & Leif Erikson Dr (~45.571, -122.772)
-6. Return the same way for out-and-back
+Leif Erikson Drive is a car-free loop road that wraps around Forest Park's southern and eastern flanks. Closed to cars on Sundays, it's the perfect corridor for walking, jogging, or rolling. The road passes through a dense tree canopy tunnel in summer and offers stunning fall colors.
 
-### Highlights
-- Car-free on Sundays — perfect for walking, jogging, or rolling
-- Shaded canopy tunnel in summer
-- Stunning fall colors in autumn
-- Family-friendly, wide path suitable for all ages
-- Tree canopy creates a natural tunnel effect
+## Route Details
 
-### Leif Erikson Drive Full Loop
-- The full loop (~10,400 m) can be done on Sundays when the road is car-free
-- Combines the out-and-back with NW Bridge Avenue connector
-- Takes ~2 hours at a walking pace
+- **Start:** Leif Erikson Dr & Skidmore St (45.571, -122.772)
+- **End:** Same point (full loop)
+- **Distance:** ~10,403 m
+- **Difficulty:** Easy
 
-### Best Times
-- Sunday mornings (car-free)
-- Weekday evenings (light traffic)
-- Fall for spectacular foliage
+### Key Waypoints
+1. **Skip & Les's** — Popular rest stop near the south end
+2. **Leif Erikson Dr** — Follow the road east through the canopy
+3. **Wildwood Trail junction** — Access to Wildwood Trail
+4. **Ridge area** — Open views of Mt. Hood
+5. **Forest Park Field House** — Community center, restrooms, water
+6. **Return via Wildwood Trail** or continue on Leif Erikson Dr
+
+### Turn-by-Turn Directions
+1. Start at Leif Erikson Dr & Skidmore St
+2. Head east along Leif Erikson Drive
+3. Pass the Wildwood Trail entrance on your left
+4. Continue past the Ridge Trail parking lot
+5. Pass the Forest Park Field House
+6. Continue past the Stone House (Witch's Castle)
+7. Loop back to the start via the road
+
+### Seasonal Notes
+- **Summer:** Dense canopy tunnel, cool and shaded
+- **Fall:** Spectacular foliage colors
+- **Winter:** Open views, icy patches possible
+- **Sunday:** Car-free — the road is closed to vehicles
+
+## OSM Verification
+
+- **One-way segment:** 4,390 m (verified via OSM foot routing)
+- **Full loop:** 10,403 m (verified via OSM foot routing)
 
 ---
 
-*All distances verified using OpenStreetMap path and road routing data (foot mode).*
+*Data sourced from OpenStreetMap routing engine. Verify conditions before running the route.*

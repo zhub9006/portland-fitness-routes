@@ -1,34 +1,48 @@
-# Skyline Boulevard Walking Route
+# Skyline Boulevard Walk 🏔️
 
-**Type:** Walking | **Category:** Ridge Walk
+**Route Type:** Walking  
+**Distance:** ~11,622 m full loop  
+**Elevation Gain:** ~800 ft  
+**Estimated Duration:** ~3 hrs
 
-## Route: Skyline Boulevard Full Loop
-- **Verified Distance:** ~11,622 m (~7.2 mi)
-- **Duration:** ~3 hrs
-- **Elevation Gain:** ~800 ft
-- **Surface:** Paved road + sidewalks
+## Overview
 
-### Turn-by-Turn
-1. Start at NW Cornell Rd & NW Skyline Blvd junction
-2. Head north on NW Skyline Boulevard
-3. Follow the ridgeline north with Mt. Hood views
-4. Continue to the NW end of the Skyline Blvd corridor
-5. Descend via Corbet Drive or NW Germantown Rd
-6. Connect back to the Forest Park area
-7. Return to starting point
+The Skyline Boulevard walk wraps around Forest Park's northern and western ridgeline, offering sweeping panoramic views of the Tualatin Valley, Mt. Hood, and on clear days, even Mt. St. Helens. This is a longer route that combines forest trails with open ridge access.
+
+## Route Details
+
+- **Start:** NW Skyline Blvd (45.536, -122.741)
+- **End:** Same point (full loop)
+- **Distance:** ~11,622 m
+- **Difficulty:** Moderate (elevation)
+
+### Key Waypoints
+1. **NW Skyline Blvd** — Start on the ridgeline
+2. **Cornell Road** — Descend to the south
+3. **Forest Park interior** — Trail and road mix
+4. **Germantown Road** — Navigate through the northwest quadrant
+5. **Bridge Avenue** — Cross the ridge
+6. **Return via NW Skyline Blvd** — Complete the loop
+
+### Turn-by-Turn Directions
+1. Start on NW Skyline Boulevard
+2. Head north/east along the ridgeline
+3. Turn onto NW Cornell Road to descend
+4. Follow Forest Park interior roads
+5. Turn onto NW Germantown Road
+6. Navigate to Bridge Avenue
+7. Return north via NW Skyline Boulevard
 
 ### Highlights
-- NW Skyline Boulevard ridgeline walk
-- Panoramic views of Mt. Hood on clear days
-- ~800 ft cumulative elevation gain
-- Less heavily trafficked than main park roads
-- Combines ridge panoramas with forest ambiance
+- Panoramic ridgeline views
+- Mt. Hood vistas
+- ~800 ft total elevation gain
+- Mix of paved road and forest terrain
 
-### Best Times
-- Early morning for best views
-- Weekday mornings for lower traffic
-- Fall and winter for clearer mountain views
+## OSM Verification
+
+- **Full loop:** ~11,622 m (verified via OSM foot routing)
 
 ---
 
-*All distances verified using OpenStreetMap path and road routing data (foot mode).*
+*Data sourced from OpenStreetMap routing engine. Verify conditions before running the route.*

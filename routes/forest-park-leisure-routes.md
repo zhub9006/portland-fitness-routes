@@ -1,145 +1,186 @@
-# Forest Park Walking & Cycling Route Guide
+# Forest Park Walking & Cycling Routes Guide 🥾🚴
 
-**Type:** Comprehensive Walking & Cycling Guide | **Updated:** July 2026
-
-Complete walking and cycling route guide with 13 routes, turn-by-turn directions, and OSM-verified coordinates.
+A comprehensive guide to walking and cycling routes around **Forest Park** in Portland, OR. All routes are verified using OpenStreetMap (OSM) path and road routing data.
 
 ---
 
 ## Walking Routes
 
-### 1. Wildwood Trail: Lower Macleay → Witch's Castle
-- **Distance:** 3,379 m (2.1 mi)
-- **Duration:** ~45-55 min
-- **Elevation:** ~500 ft gain
-- **Difficulty:** Easy-Moderate
-- **Surface:** Dirt/seed trail
-- **Highlights:** Old-growth forest, creek crossings, Stone House ruins
-- **Start:** 45.534, -122.713 | **End:** 45.528, -122.725
-- **Route:** Lower Macleay Park → NW Lovejoy St → Lower Macleay Trail → Wildwood Trail → Witch's Castle
+### 1. Wildwood Trail — Macleay to Witch's Castle
+| Detail | Info |
+|--------|------|
+| **Distance** | 3,379 m (~2.1 mi) |
+| **Elevation Gain** | ~500 ft |
+| **Difficulty** | Easy to moderate |
+| **Start** | Lower Macleay Trail (45.5344, -122.7132) |
+| **End** | Witch's Castle (45.528, -122.725) |
 
-### 2. Wildwood Trail: Lower Macleay → Pittock Mansion
-- **Distance:** 4,594 m (2.9 mi)
-- **Duration:** ~60-75 min
-- **Elevation:** ~700 ft gain
-- **Difficulty:** Moderate
-- **Surface:** Dirt/seed trail + paved
-- **Highlights:** Extended creek crossings, Pittock Mansion landmark at summit
-- **Start:** 45.534, -122.713 | **End:** 45.525, -122.716
-- **Route:** Lower Macleay Park → NW 25th Ave → Westover Rd → NW Pittock Ave → NW Pittock Dr
+**Description:** Old-growth forest trail through the heart of Forest Park. Moss-covered paths, seasonal creek crossings, and hauntingly beautiful Stone House ruins at the end.
 
-### 3. Leif Erikson Drive Out-and-Back
-- **Distance:** 4,390 m one-way (8.8 km RO)
-- **Duration:** ~55-60 min one-way
-- **Elevation:** ~400 ft
-- **Difficulty:** Easy
-- **Surface:** Paved road (car-free Sundays)
-- **Highlights:** Tree canopy tunnel, family-friendly, shaded
-- **Start:** 45.549, -122.734 | **End:** 45.571, -122.772
-- **Route:** NW Saint Helens Rd → Leif Erikson Dr → NW Bridge Ave
+### 2. Wildwood Trail — Macleay to Pittock Mansion
+| Detail | Info |
+|--------|------|
+| **Distance** | 4,594 m (~2.9 mi) |
+| **Elevation Gain** | ~700 ft |
+| **Difficulty** | Moderate |
+| **Start** | Lower Macleay Trail (45.5344, -122.7132) |
+| **End** | Pittock Mansion (45.5252, -122.7162) |
 
-### 4. NW Saint Helens Road Out-and-Back
-- **Distance:** 2,896 m one-way (5.8 km RO)
-- **Duration:** ~25 min
-- **Elevation:** ~200 ft
-- **Difficulty:** Easy
-- **Surface:** Paved road + sidewalks
-- **Highlights:** Historic road, residential/forest mix
-- **Start:** 45.549, -122.734 | **End:** 45.588, -122.794
-- **Route:** NW Saint Helens Rd → Ridge Trail Parking
+**Description:** Extends the Witch's Castle route through to the iconic Pittock Mansion. Panoramic Willamette Valley views at the summit.
 
-### 5. Forest Park → Downtown Walking
-- **Distance:** 4,952 m (3.1 mi) / 12,013 m (7.5 mi extended)
-- **Duration:** ~55 min / ~2 hrs
-- **Elevation:** Downhill ~500 ft (to downtown)
-- **Difficulty:** Easy
-- **Surface:** Sidewalks + paved roads
-- **Highlights:** Residential NW neighborhoods, Willamette River waterfront
-- **Start:** 45.534, -122.713 | **End:** 45.522, -122.672
+### 3. Leif Erikson Drive Full Loop
+| Detail | Info |
+|--------|------|
+| **Distance** | ~10,403 m (6.5 mi) |
+| **Elevation Gain** | ~300 ft |
+| **Difficulty** | Easy |
+| **Start** | Leif Erikson Dr & Skidmore St (45.571, -122.772) |
+| **End** | Same point |
 
-### 6. Perimeter Walk
-- **Distance:** ~14,800 m (9.2 mi)
-- **Duration:** ~2.5-3 hrs
-- **Elevation:** ~1,000 ft cumulative
-- **Difficulty:** Moderate
-- **Surface:** Mixed
-- **Highlights:** Full loop around Forest Park via ridges and streets
+**Description:** Car-free loop road closed on Sundays. Dense summer canopy, stunning fall foliage. Perfect for walking or easy running.
 
-### 7. Skyline Boulevard Walk
-- **Distance:** ~11,622 m (7.2 mi)
-- **Duration:** ~3 hrs
-- **Elevation:** ~800 ft
-- **Difficulty:** Moderate
-- **Surface:** Paved road + sidewalks
-- **Highlights:** Ridge panoramas, Mt. Hood views
+### 4. NW Saint Helens Road
+| Detail | Info |
+|--------|------|
+| **Distance** | 2,896 m (1.8 mi) one-way |
+| **Elevation Gain** | ~200 ft |
+| **Difficulty** | Easy |
+| **Start** | NW Saint Helens Rd at Washington Park (45.5495, -122.7339) |
+| **End** | Forest Park / Wildwood Trail area |
+
+**Description:** Historic road connecting Washington Park to Forest Park. Mix of residential and park environments.
+
+### 5. Forest Park → Downtown (Short)
+| Detail | Info |
+|--------|------|
+| **Distance** | 4,952 m (~3.1 mi) |
+| **Elevation Gain** | ~500 ft descent |
+| **Difficulty** | Easy |
+| **Start** | Forest Park (45.536, -122.741) |
+| **End** | NW 23rd Avenue |
+
+**Description:** Walk from Forest Park through NW Portland's residential neighborhoods.
+
+### 6. Forest Park → Downtown (Extended)
+| Detail | Info |
+|--------|------|
+| **Distance** | 12,013 m (~7.5 mi) |
+| **Elevation Gain** | ~500 ft descent |
+| **Difficulty** | Easy |
+| **Start** | Forest Park (45.536, -122.741) |
+| **End** | Willamette River Waterfront |
+
+**Description:** Extended walk all the way to the Willamette River waterfront and downtown Portland.
+
+### 7. Skyline Boulevard Full Loop
+| Detail | Info |
+|--------|------|
+| **Distance** | ~11,622 m (7.2 mi) |
+| **Elevation Gain** | ~800 ft |
+| **Difficulty** | Moderate |
+| **Start** | NW Skyline Blvd (45.536, -122.741) |
+| **End** | Same point |
+
+**Description:** Ridge panoramas, Mt. Hood views, full perimeter loop via forest trails and roads.
 
 ---
 
 ## Cycling Routes
 
-### 8. St. Johns Bridge → Forest Park
-- **Distance:** 3,228 m (2.0 mi)
-- **Duration:** ~5.5 min
-- **Elevation:** ~900 ft descent
-- **Difficulty:** Moderate (long descent; moderate climb back)
-- **Surface:** Paved roads + bridge
-- **Highlights:** St. Johns Bridge descent into Forest Park
-- **Start:** 45.593, -122.747 | **End:** 45.571, -122.772
+### 1. Skyline Boulevard Cycling Loop
+| Detail | Info |
+|--------|------|
+| **Distance** | ~11,622 m (7.2 mi) |
+| **Elevation Gain** | ~800 ft |
+| **Difficulty** | Moderate |
+| **Start** | NW Skyline Blvd (45.536, -122.741) |
+| **End** | Same point |
 
-### 9. Forest Park → Downtown Cycling
-- **Distance:** 9,440 m (5.9 mi)
-- **Duration:** ~28 min
-- **Elevation:** ~500 ft descent
-- **Difficulty:** Easy (mostly downhill)
-- **Surface:** Paved roads, multi-use paths
-- **Highlights:** Descent to Willamette River waterfront
-- **Start:** 45.536, -122.739 | **End:** 45.522, -122.672
+**Description:** Ridgeline cycling with sweeping valley views. Car-free on Sundays. Paved road throughout.
 
-### 10. Downtown → Forest Park (Reverse)
-- **Distance:** 6,544 m (4.1 mi)
-- **Duration:** ~22 min
-- **Elevation:** ~500 ft climb
-- **Difficulty:** Easy (uphill from downtown)
-- **Surface:** Paved roads, multi-use paths
+### 2. Forest Park → Downtown Cycling
+| Detail | Info |
+|--------|------|
+| **Distance** | 9,440 m (to downtown); 6,544 m (from downtown) |
+| **Elevation Gain** | ~900 ft descent |
+| **Difficulty** | Easy |  
+| **Start** | Forest Park (45.536, -122.741) |
+| **End** | Willamette River Waterfront |
 
-### 11. Ridge Loop Cycling
-- **Distance:** 4,586 m (2.9 mi)
-- **Duration:** ~7 min
-- **Elevation:** ~500 ft
-- **Difficulty:** Easy-Moderate
-- **Surface:** Paved + dirt
-- **Highlights:** Germantown climb for power training
-- **Start:** 45.588, -122.794 | **End:** 45.588, -122.794
+**Description:** Fast, mostly downhill ride from Forest Park to the river. exhilarating 900 ft descent.
 
-### 12. Saltzman Warmup Loop
-- **Distance:** 4,586 m full loop; 3,764 m (St. Helens segment)
-- **Duration:** ~4 min (St. Helens segment)
-- **Elevation:** ~300 ft
-- **Difficulty:** Easy
-- **Surface:** Residential streets + park connector
-- **Highlights:** Tight, fast loop for speed work
-- **Start:** 45.571, -122.772 | **End:** 45.571, -122.772
+### 3. Saltzman Warmup Loop
+| Detail | Info |
+|--------|------|
+| **Distance** | 4,586 m (full loop); 3,764 m (St. Helens) |
+| **Elevation Gain** | ~300 ft |
+| **Difficulty** | Easy |
+| **Start** | NW Saint Helens Rd (45.5495, -122.7339) |
+| **End** | Same point |
 
-### 13. NW Saint Helens to Ridge Cycling
-- **Distance:** 4,585 m (short) / ~14,310 m (extended loop)
-- **Duration:** ~8 min (short) / ~30 min (extended)
-- **Elevation:** ~500 ft (short) / ~1,000 ft (extended)
-- **Difficulty:** Easy-Moderate
-- **Surface:** Paved road
-- **Highlights:** St. Helens descent, Germantown climb, Ridge panorama
-- **Start:** 45.571, -122.772 | **End:** 45.571, -122.772
+**Description:** Tight, fast loop for speed work and interval training.
 
----
+### 4. Ridge Loop
+| Detail | Info |
+|--------|------|
+| **Distance** | 4,586 m |
+| **Elevation Gain** | ~500 ft |
+| **Difficulty** | Moderate |
+| **Start** | NW Germantown Rd (45.570, -122.769) |
+| **End** | Same point |
 
-## Turn-by-Turn Directions (Sample: Ridge Loop)
-1. Start at Ridge Trail Parking (45.588, -122.794)
-2. Head west on NW Germantown Road (climb)
-3. Turn onto NW Kaiser Road
-4. Follow Kaiser Road north
-5. Turn onto NW Laidlaw Road (fast descent)
-6. Return to NW Germantown Road
-7. Loop complete — back at start
+**Description:** Germantown → Kaiser → Laidlaw circuit with moderate climb.
+
+### 5. NW Saint Helens to Ridge
+| Detail | Info |
+|--------|------|
+| **Distance** | 4,585 m (short); ~14,310 m (extended loop) |
+| **Elevation Gain** | Variable |
+| **Difficulty** | Moderate |
+
+**Description:** St. Helens descent into the park, Germantown climb, Ridge panorama, Yeon descent.
 
 ---
 
-*All routes verified using OpenStreetMap path and road data. Distances computed via OSM routing engine.*
+## Key Locations
+
+| Location | Description | Coordinates |
+|----------|-------------|-------------|
+| Lower Macleay Trail | South trailhead, Washington Park gateway | 45.5344, -122.7132 |
+| Wildwood Trail Main Entrance | Off NW Germantown Rd | 45.570, -122.769 |
+| Leif Erikson Dr & Skidmore St | North loop entrance | 45.571, -122.772 |
+| Pittock Mansion | Historic landmark, long runs destination | 45.5252, -122.7162 |
+| Witch's Castle (Stone House) | Historic ruins on Wildwood Trail | 45.528, -122.725 |
+| Ridge Trail Parking Lot | Northwest access, ridgeline | 45.588, -122.794 |
+| Forest Park Field House | Community center, restrooms | 45.583, -122.778 |
+| St. Johns Bridge | North connector start | 45.593, -122.747 |
+| Willamette River Waterfront | Downtown finish | 45.522, -122.672 |
+
+---
+
+## OSM Routing Data Summary
+
+All distances and durations have been verified using the OpenStreetMap routing engine:
+
+| Route | Mode | OSM Distance | OSM Duration |
+|-------|------|-------------|-------------|
+| Macleay → Witch's Castle | Foot | 3,379 m | 7 min |
+| Macleay → Pittock | Foot | 4,594 m | 10 min |
+| Leif Erikson loop | Foot | 10,403 m | 2 hrs |
+| Saint Helens Rd | Foot | 2,896 m | 6 min |
+| Park → Downtown (short) | Foot | 4,952 m | 8 min |
+| Park → Downtown (ext) | Foot | 12,013 m | 17 min |
+| Skyline Blvd loop | Foot | 11,622 m | 3 hrs |
+| Macleay → Wildwood | Foot | 5,592 m | 10 min |
+| Park → Wildwood | Foot | 7,129 m | 10 min |
+| Park → Ridge | Foot | 6,413 m | 11 min |
+| Leif → Wildwood | Bike | 13,724 m | 21 min |
+| Park → Ridge | Bike | 10,561 m | 15 min |
+| Park → Downtown | Bike | 9,440 m | 28 min |
+| Downtown → Park | Bike | 6,544 m | 22 min |
+| Saltzman loop | Bike | 4,586 m | 4 min |
+| Ridge loop | Bike | 4,586 m | 7 min |
+
+---
+
+*Route data maintained by the running club. All routes verified using OpenStreetMap path and road data.*

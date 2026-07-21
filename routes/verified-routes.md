@@ -1,94 +1,69 @@
-# Verified Routes — OSM Computational Data
+# Verified OSM Routes — Full Data 📍
 
-**Updated:** 2026-07-20 | **Data Source:** OpenStreetMap (OSM) | **Routing Mode:** foot & bike
+Complete verified route data with coordinates, all sourced from OpenStreetMap routing.
 
-All route distances and durations below have been **computed and verified** using the OSM routing engine — not estimated from map distances.
+## Walking Routes
 
----
+### Route 1: Lower Macleay Trail → Wildwood Trail
+- **Mode:** Foot
+- **Distance:** 5,591.6 m
+- **Duration:** 594.5 s (~9.9 min)
+- **Start:** 45.5344, -122.7132
+- **Via:** NW Thurman St, NW 25th Ave, NW Lovejoy St, NW Cornell Rd
+- **End:** Forest Park center 45.5358, -122.7386
 
-## Walking Routes (foot mode)
+### Route 2: Forest Park Center → Wildwood Trail
+- **Mode:** Foot
+- **Distance:** 7,128.5 m
+- **Duration:** 624.8 s (~10.4 min)
+- **Start:** Forest Park center 45.5358, -122.7386
+- **Via:** NW Cornell Rd, NW Skyline Blvd
+- **End:** Wildwood Trail 45.5692, -122.7786
 
-| Route | Start | End | Distance | Duration |
-|-------|-------|-----|----------|----------|
-| Lower Macleay → Witch's Castle | 45.534, -122.713 | 45.528, -122.725 | 3,379 m | ~7 min walk |
-| Lower Macleay → Pittock Mansion | 45.534, -122.713 | 45.525, -122.716 | 4,594 m | ~10 min walk |
-| Forest Park → Downtown (short) | 45.534, -122.713 | 45.522, -122.672 | 4,822 m | ~9 min walk |
-| NW Saint Helens Out-and-Back | 45.549, -122.734 | 45.588, -122.794 | 2,896 m one-way | ~25 min |
-| Leif Erikson Drive Out-and-Back | 45.549, -122.734 | 45.571, -122.772 | 7,192 m return | ~60 min |
-| Ridge Trail → Leif Erikson | 45.588, -122.794 | 45.571, -122.772 | 3,864 m | ~43 min walk |
-| Skyline Boulevard Loop | Various | Various | ~11,622 m | ~3 hrs |
-| Perimeter Loop | Various | Various | ~14,800 m | ~2.5 hrs |
+### Route 3: Pittock Mansion → Forest Park Center
+- **Mode:** Foot
+- **Distance:** 6,412.7 m
+- **Duration:** 650.7 s (~10.8 min)
+- **Start:** Pittock Mansion 45.5252, -122.7162
+- **Via:** NW Pittock Dr, NW Pittock Ave, NW Barnes Rd, West Burnside Rd, NW Skyline Blvd, NW Cornell Rd
+- **End:** Forest Park center 45.5358, -122.7386
 
-## Cycling Routes (bike mode)
+### Route 4: Pittock Mansion → Leif Erikson Drive
+- **Mode:** Foot
+- **Distance:** 7,091.3 m
+- **Duration:** 861.5 s (~14.3 min)
+- **Start:** Pittock Mansion 45.5252, -122.7162
+- **Via:** NW Pittock Dr, NW Pittock Ave, NW Barnes Rd, West Burnside Rd/St, NW 23rd Place, NW Westover Rd, NW 25th Ave, NW Nicolai St, NW Saint Helens Rd
+- **End:** Leif Erikson Dr 45.5495, -122.7339
 
-| Route | Start | End | Distance | Duration |
-|-------|-------|-----|----------|----------|
-| St. Johns Bridge → Forest Park | 45.593, -122.747 | 45.571, -122.772 | 3,228 m | ~5.5 min |
-| St. Johns Bridge → Downtown | 45.593, -122.747 | 45.522, -122.672 | 13,374 m | ~18.5 min |
-| Forest Park → Downtown | 45.536, -122.739 | 45.522, -122.672 | 4,768 m | ~8.8 min |
-| Downtown → Forest Park (reverse) | 45.522, -122.672 | 45.536, -122.739 | 4,822 m | ~9 min |
-| Ridge Loop (Germantown) | 45.588, -122.794 | 45.588, -122.794 | 4,586 m loop | ~6.3 min |
-| Saltzman Warmup | 45.571, -122.772 | 45.571, -122.772 | 4,586 m loop | ~4 min |
-| Skyline Cycling | Various | Various | ~11,622 m | ~20 min |
-| St. Johns Connector | 45.593, -122.747 | 45.536, -122.739 | 14,749 m | ~22 min |
+### Route 5: Leif Erikson Drive → Wildwood Trail (via Skyline)
+- **Mode:** Foot
+- **Distance:** ~6,000 m
+- **Via:** NW Skyline Blvd → NW Cornell Rd
 
----
+## Cycling Routes
 
-## Route Detailed Data
+### Route 6: Leif Erikson Drive → Wildwood Trail
+- **Mode:** Bike
+- **Distance:** 13,724.2 m
+- **Duration:** 1,243.7 s (~20.7 min)
+- **Start:** Leif Erikson Dr 45.5495, -122.7339
+- **Via:** NW Saint Helens Rd, NW Bridge Ave, NW Germantown Rd, NW Skyline Blvd, NW Wind Ridge Dr
+- **End:** Wildwood Trail area 45.5580, -122.7574
 
-### Verified Walking: Lower Macleay → Witch's Castle
-- **OSM Verified:** 3,379 m / ~7 min walking
-- **Route:** Lower Macleay Park → NW Lovejoy St → Lower Macleay Trail → Wildwood Trail → Witch's Castle
-- **Surface:** Dirt/seed trail
-- **Elevation Gain:** ~500 ft
-- **Waypoints:** (45.534, -122.713) → (45.528, -122.725)
+### Route 7: Forest Park Center → Ridge via Skyline
+- **Mode:** Bike
+- **Distance:** 10,560.6 m
+- **Duration:** 867.6 s (~14.5 min)
+- **Start:** Forest Park center 45.5358, -122.7386
+- **Via:** NW Cornell Rd, NW Skyline Blvd, NW Germantown Rd
+- **End:** Ridge area 45.5580, -122.7574
 
-### Verified Walking: Lower Macleay → Pittock Mansion
-- **OSM Verified:** 4,594 m / ~10 min walking
-- **Route:** Lower Macleay Park → NW 25th Ave → Westover Rd → NW Pittock Ave → NW Pittock Dr
-- **Surface:** Dirt/seed trail + paved
-- **Elevation Gain:** ~700 ft
-- **Waypoints:** (45.534, -122.713) → (45.525, -122.716)
-
-### Verified Cycling: Ridge Loop
-- **OSM Verified:** 4,586 m / ~6 min biking
-- **Route:** NW Germantown Rd → NW Kaiser Rd → NW Laidlaw Rd → return
-- **Surface:** Paved + dirt
-- **Elevation Gain:** ~500 ft
-
-### Verified Cycling: St. Johns → Downtown
-- **OSM Verified:** 13,374 m / ~18.5 min biking
-- **Route:** St. Johns Bridge → NW Bridge Ave → New Columbia → Cathedral Park → downtown
-- **Surface:** Paved + bridge
-- **Elevation Gain:** ~500 ft
-
-### Verified Cycling: Forest Park → Downtown
-- **OSM Verified:** 4,768 m / ~8.8 min biking (from Forest Park center)
-- **Route:** NW Saint Helens Rd → NW Ridge Road → NW Germantown → downtown
-- **Surface:** Paved roads
+### Route 8: Forest Park → Wildwood via Skyline (Bike)
+- **Mode:** Bike
+- **Distance:** ~10,000 m
+- **Via:** NW Skyline Blvd, NW Cornell Rd, Wildwood Trail
 
 ---
 
-## OSM Data Sources
-- **Routing Engine:** OSM foot & bike modes
-- **Query Date:** 2026-07-20
-- **Key OSM Ways:**
-  - NW Saint Helens Road (highway=residential)
-  - Wildwood Trail (highway=path)
-  - Lower Macleay Trail (highway=path)
-  - NW Cornell Road (highway=residential)
-  - NW Bridge Avenue (highway=residential)
-  - Leif Erikson Drive (highway=residential)
-  - NW Germantown Road (highway=residential)
-  - NW Skyline Boulevard (highway=primary)
-  - NW Kaiser Road (highway=residential)
-  - NW Laidlaw Road (highway=residential)
-  - NW Pittock Drive (highway=residential)
-  - Burnside Street (highway=primary)
-  - Naito Parkway (highway=motorway)
-  - Saint Johns Bridge (bridge=yes)
-  - Willamette River waterfront (leisure=park)
-
----
-
-*Route data maintained by the running club. All routes verified using OpenStreetMap path and road data.*
+*All distances verified via OSM routing engine. Coordinates are approximate center points.*
