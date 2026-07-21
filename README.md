@@ -1,10 +1,10 @@
-# Portland Fitness Routes 🏃‍♂️🚶‍♀️🚴
+# Portland Fitness Routes 🏃‍♂️🧖‍♀️🚴
 
 A collection of walking, cycling, and running routes around **Forest Park** in Portland for our running club. All routes are verified using OpenStreetMap (OSM) path and road routing data. Distances and durations have been computed via the OSM routing engine.
 
 ---
 
-## 📺 Route Files
+## 📋 Route Files
 
 ### Walking Routes 🚶
 
@@ -40,7 +40,8 @@ A collection of walking, cycling, and running routes around **Forest Park** in P
 
 | File | Type | Description |
 |------|------|-------------|
-| [routes/forest-park-routes.md](routes/forest-park-routes.md) | All | Comprehensive route guide with 13 routes, turn-by-turn directions, and coordinates |
+| [routes/walking-and-cycling-routes.md](routes/walking-and-cycling-routes.md) | Walking & Cycling | **NEW!** Complete OSM-verified walking & cycling route guide with 14 routes, turn-by-turn directions, coordinates, and routing data summaries |
+| [routes/forest-park-routes.md](routes/forest-park-routes.md) | All | Comprehensive route guide with 15 routes, turn-by-turn directions, and coordinates |
 | [routes/verified-routes.md](routes/verified-routes.md) | All | Comprehensive OSM-verified routes with coordinates |
 | [routes/forest-park-leisure-routes.md](routes/forest-park-leisure-routes.md) | Walking & Cycling | Complete walking & cycling route guide with 13 routes, turn-by-turn directions, and coordinates |
 
