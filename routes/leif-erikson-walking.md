@@ -1,49 +1,93 @@
-# Leif Erikson Drive Walk 🚶
-
-**Route Type:** Walking  
-**Distance:** 4,390 m one-way; ~10,403 m full loop  
-**Elevation Gain:** ~300 ft  
-**Estimated Duration:** 5.7 min one-way; ~2 hrs full loop
+# Leif Erikson Drive Walking Route 🚶
 
 ## Overview
 
-Leif Erikson Drive is a car-free loop road that wraps around Forest Park's southern and eastern flanks. Closed to cars on Sundays, it's the perfect corridor for walking, jogging, or rolling. The road passes through a dense tree canopy tunnel in summer and offers stunning fall colors.
+Leif Erikson Drive is a car-free paved road that loops through the heart of Forest Park. On Sundays, the road is closed to vehicles, making it ideal for walking, jogging, or roller skating. The drive is shaded by a dense canopy of Douglas fir and bigleaf maple, creating a temperate microclimate even in summer.
 
-## Route Details
-
-- **Start:** Leif Erikson Dr & Skidmore St (45.571, -122.772)
-- **End:** Same point (full loop)
-- **Distance:** ~10,403 m
+- **OSM Verified:** 4,390 m one-way; ~10,400 m full loop
+- **Total Loop Distance:** ~10,400 m (~6.5 mi)
+- **One-Way Distance:** ~4,390 m (~2.7 mi)
+- **Elevation:** ~400 ft cumulative
 - **Difficulty:** Easy
-
-### Key Waypoints
-1. **Skip & Les's** — Popular rest stop near the south end
-2. **Leif Erikson Dr** — Follow the road east through the canopy
-3. **Wildwood Trail junction** — Access to Wildwood Trail
-4. **Ridge area** — Open views of Mt. Hood
-5. **Forest Park Field House** — Community center, restrooms, water
-6. **Return via Wildwood Trail** or continue on Leif Erikson Dr
-
-### Turn-by-Turn Directions
-1. Start at Leif Erikson Dr & Skidmore St
-2. Head east along Leif Erikson Drive
-3. Pass the Wildwood Trail entrance on your left
-4. Continue past the Ridge Trail parking lot
-5. Pass the Forest Park Field House
-6. Continue past the Stone House (Witch's Castle)
-7. Loop back to the start via the road
-
-### Seasonal Notes
-- **Summer:** Dense canopy tunnel, cool and shaded
-- **Fall:** Spectacular foliage colors
-- **Winter:** Open views, icy patches possible
-- **Sunday:** Car-free — the road is closed to vehicles
-
-## OSM Verification
-
-- **One-way segment:** 4,390 m (verified via OSM foot routing)
-- **Full loop:** 10,403 m (verified via OSM foot routing)
+- **Surface:** Paved road
+- **Car-Free Sundays:** Yes (check Portland Parks & Recreation for seasonal schedule)
 
 ---
 
-*Data sourced from OpenStreetMap routing engine. Verify conditions before running the route.*
+## Turn-by-Turn Directions (Full Loop, Clockwise)
+
+### Segment 1: NW Bridge Ave → NW Saint Helens Rd → NW Leif Erikson Dr (North)
+
+1. From the trailhead at NW Bridge Ave & NW Saint Helens Rd, head north on Bridge Ave
+2. Turn right onto NW Saint Helens Rd (3,263 m — 3.3 km)
+3. Continue on NW Saint Helens Rd as it climbs gently through the park
+4. Turn left onto NW Leif Erikson Dr to begin the loop
+
+### Segment 2: NW Leif Erikson Dr (West Side — Full Loop)
+
+5. Follow NW Leif Erikson Dr westward and then south along the ridgeline
+6. Enjoy panoramic views of the West Hills, Sauvie Island, and the Columbia River
+7. Pass through dense canopy tunnels of Douglas fir and maple
+8. Continue south on Leif Erikson Dr to the southern junction
+
+### Segment 3: Return via NW Saint Helens Rd (South Side)
+
+9. At the southern junction, turn right to return south on NW Saint Helens Rd
+10. Follow Saint Helens Rd back to the NW Bridge Ave trailhead
+
+---
+
+## Turn-by-Turn Directions (One-Way, Northbound)
+
+### From NW Bridge Ave to Leif Erikson Dr
+
+1. Start at **NW Bridge Ave & NW Saint Helens Rd**
+   - **Coordinates:** 45.576, -122.761
+2. Head north on NW Bridge Ave (46 m)
+3. Turn left onto NW Saint Helens Rd
+4. Follow NW Saint Helens Rd for 3,263 m (main northbound segment)
+5. Then follow NW Saint Helens Rd for another 847 m as it curves east
+
+### From NW Saint Helens Rd to Leif Erikson Dr
+
+6. Turn right onto NW Leif Erikson Dr
+7. Follow Leif Erikson Dr eastward and south through the canopy
+
+### End Point
+
+8. Arrive back at **NW Bridge Ave** area
+   - **Coordinates:** 45.576, -122.761
+
+---
+
+## Key Waypoints
+
+| Waypoint | Coordinates | Description |
+|----------|-------------|-------------|
+| NW Bridge Ave / NW Saint Helens Rd | 45.576, -122.761 | North loop entrance, popular starting point |
+| Leif Erikson Dr & Skidmore St | 45.571, -122.772 | Highest point on the loop, turnaround spot |
+| Wildwood Trail Junction | 45.571, -122.772 | Connects to Wildwood Trail system |
+| Leif Erikson Dr & Confusion Hill | 45.558, -122.757 | Scenic viewpoint |
+
+---
+
+## Seasonal Notes
+
+- **Spring:** Wildflowers bloom along the trail edges; watch for trillium and wood violets
+- **Summer:** Dense canopy keeps temperatures 10-15°F cooler than surrounding streets
+- **Fall:** Spectacular foliage — bigleaf maples turn brilliant gold
+- **Winter:** Rain is common; trails can be muddy and slippery
+
+---
+
+## Tips for Walkers
+
+- The full loop (~10.4 km) takes about 2-3 hours at a leisurely Walking pace
+- For a shorter walk, do the out-and-back to Skidmore St (~4.4 km total)
+- The road is paved but can be rough in spots — wear sturdy shoes
+- Bring water — there are no fountains on Leif Erikson Dr
+- On Sundays, expect cyclist and family traffic — pass politely
+
+---
+
+*Data verified using OpenStreetMap routing engine, foot mode. Query date: 2026-07-20.*
