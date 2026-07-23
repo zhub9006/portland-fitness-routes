@@ -1,72 +1,60 @@
-# NW Saint Helens to Ridge Cycling Route 🚴
+# NW Saint Helens to Ridge Cycling Route
 
-## Overview
+Descend St. Helens Road into Forest Park, climb Germantown Ridge, and enjoy panoramic views. The ultimate Forest Park cycling adventure.
 
-A versatile loop combining the scenic NW Saint Helens Road descent with a challenging climb up Germantown Ridge and a panoramic ridge loop. This route offers something for everyone — a fast descent, a solid climb, and incredible views.
+## Route Overview
 
-- **OSM Verified:** 4,585 m (short); ~14,310 m (extended loop)
-- **Short Distance:** 4,585 m (~2.9 mi)
-- **Extended Loop:** ~14,310 m (~8.9 mi)
-- **Elevation:** ~1,000 ft cumulative
-- **Difficulty:** Moderate
-- **Surface:** Paved roads + dirt trail segments
-
----
-
-## Turn-by-Turn Directions (Short Route)
-
-### Start: NW Saint Helens Rd at Leif Erikson Dr
-
-1. **Start:** NW Saint Helens Rd & NW Leif Erikson Dr
-   - **Coordinates:** 45.549, -122.734
-2. Head east on NW Saint Helens Rd — descend into the park
-3. Follow NW St. Helens Rd as it drops steeply
-4. Turn right onto NW Germantown Rd to begin the ascent
-5. Climb Germantown Rd through the ridge
-6. Turn right onto NW Kaiser Rd along the ridgeline
-7. Turn right onto NW Laidlaw Rd for the descent
-8. Return to NW Germantown Rd to complete the loop
+- **Type:** Cycling
+- **Total Distance:** 4,585 m (short); ~14,310 m (extended loop)
+- **Elevation Gain:** ~1,000 ft (extended loop)
+- **Difficulty:** Challenging
+- **Surface:** Road; mix of descent, climb, and ridge riding
 
 ---
 
-## Turn-by-Turn Directions (Extended Loop)
+## Route Description
 
-### Start: Forest Park Center
+This route combines the famous NW Saint Helens Road descent into Forest Park with the thrilling Germantown Ridge climb and panoramic ridge views. The short version is a quick 4.6 km loop; the extended version wraps through more of the park and neighborhood streets.
 
-1. **Start:** Forest Park center (45.536, -122.739)
-2. Head west on NW Cornell Rd
-3. Turn right onto NW Saint Helens Rd (descent)
-4. Follow St. Helens Rd through the park
-5. Cross NW Leif Erikson Dr
-6. Turn right onto NW Germantown Rd (climb)
-7. Follow Germantown Rd to the ridge
-8. Turn right onto NW Kaiser Rd (ridgeline)
-9. Turn right onto NW Laidlaw Rd (descent)
-10. Return to NW Germantown Rd
-11. Continue to NW Yeon Blvd for extended loop
-12. Follow Yeon Blvd back toward Forest Park
-13. Return via NW Cornell Rd to start
+### Short Version (4,585 m)
 
----
+1. **Start at NW Saint Helens Road** (45.576, -122.759)
+   - Descend on Saint Helens Road — fast and scenic!
 
-## Key Segments
+2. **Transition to cluster streets** (various)
+   - Manage the speed on the descent
 
-| Segment | Distance | Notes |
-|---------|----------|-------|
-| St. Helens Rd descent | ~3 km | Fast, flowing, mountain-biking style |
-| Germantown Rd climb | ~1.5 km | Steep, sustained — the heart of the route |
-| Kaiser Rd ridgeline | ~1 km | Scenic, moderate |
-| Laidlaw Rd descent | ~1 km | Fast descent |
-| Yeon Blvd extension | ~7 km | Extended loop adds distance and variety |
+3. **Climb Germantown Ridge**
+   - Rewarding climb with forest views
 
----
+4. **Ridge panorama** — continue the ridge circuit
+   - Mt. Hood views on clear days
 
-## Training Uses
+5. **Return via Yeon Avenue** (descent!)
+   - Fast descent back to start
 
-- **Hill repeats:** Use the Germantown climb for 4-6 repeats with 5-min recovery
-- **Endurance ride:** The extended loop (~14 km) makes an excellent training ride
-- **Descending practice:** Both the St. Helens and Laidlaw descents offer different terrain and grade
+### Extended Loop (~14,310 m)
+
+- Full NW Saint Helens Road descent
+- Extended Germantown Ridge climb
+- Additional loops through forest roads
+- Multiple ridge panorama stops
+- Full perimeter-style route
+
+### Key Highlights
+- 📉 Fast descent — St. Helens Road is legendary for speed
+- ⛰️ Rewarding climb — Germantown Ridge builds fitness
+- 🏔️ Ridge panoramas — Mt. Hood and Cascades views
+- 🔄 Loop format — start and end in the same spot
+- 🌲 Forest immersion — deep forest sections
 
 ---
 
-*Data verified using OpenStreetMap routing engine, bike mode. Query date: 2026-07-20.*
+## Route Data Summary
+
+| Segment | Distance | Duration (bike) | Coordinates |
+|---------|----------|-----------------|-------------|
+| Short | 4,585 m | ~7 min (driving) / ~12-15 min (cycling) | NW Saint Helens Rd & Ridge |
+| Extended | ~14,310 m | ~25 min (driving) / ~40-50 min (cycling) | Full loop around NW Forest Park |
+
+*Route data verified using OpenStreetMap path and road routing data.*

@@ -1,60 +1,50 @@
-# Ridge Loop Cycling Route 🏔️
+# Ridge Loop Cycling Route
 
-## Overview
+A tight Germantown Ridge loop via Kaiser Road and Laidlaw Road. Fast corners, great climbs, and scenic views.
 
-A compact, powerful loop through Germantown Ridge that combines a steep climb with a fast descent — perfect for building leg strength and improving bike handling skills.
+## Route Overview
 
-- **OSM Verified:** 4,586 m full loop
-- **Distance:** 4,586 m (~2.9 mi)
+- **Type:** Cycling
+- **Total Distance:** 4,586 m (full loop)
 - **Elevation Gain:** ~500 ft
-- **Difficulty:** Easy-Moderate
-- **Surface:** Paved + dirt
-- **Estimated Cycling Time:** ~7 min
+- **Difficulty:** Moderate to Challenging
+- **Surface:** Road; various inclines and curves
 
 ---
 
-## Turn-by-Turn Directions
+## Route Description
 
-### Start: NW Germantown Rd at NW Kaiser Rd
+The Ridge Loop combines Germantown Road, Kaiser Road, and Laidlaw Road into a compact but challenging circuit. This is a favorite among Forest Park cycling enthusiasts for its fast corners and rewarding climbs.
 
-1. **Start:** NW Germantown Rd & NW Kaiser Rd
-   - **Coordinates:** 45.588, -122.779
-2. Head west on NW Germantown Rd — this is the steep climbing segment
-3. Climb Germantown Rd through the ridge — a sustained, steep effort
-4. At the top, turn right onto NW Kaiser Rd
-5. Follow NW Kaiser Rd eastward along the ridgeline
-6. Turn right onto NW Laidlaw Rd for the descent
-7. Follow NW Laidlaw Rd downhill — a fast, flowing descent
-8. Return to NW Germantown Rd to complete the loop
+### Turn-by-Turn Directions
 
----
+1. **Start at Germantown Road near Forest Park** (45.570, -122.769)
 
-## Key Segments
+2. **Head west on Germantown Road** — climb through the forest
+   - ~500 ft gain over the loop
 
-| Segment | Distance | Notes |
-|---------|----------|-------|
-| Germantown Rd climb | ~1.5 km | Steep, sustained climb — 15-20% grade |
-| Kaiser Rd ridgeline | ~1 km | Moderate, scenic |
-| Laidlaw Rd descent | ~1 km | Fast descent — 8-10% grade |
-| Connector roads | ~500 m | Tight residential turnarounds |
+3. **Transition onto Kaiser Road**
+   - Good climb through the ridge
 
----
+4. **Follow Laidlaw Road**
+   - Scenic descent with forest views
 
-## Training Tips
+5. **Return to start** via connecting streets
+   - Complete the loop
 
-- **Power training:** The Germantown Rd climb is one of the steepest in Forest Park — perfect for seated climbs
-- **Descending skills:** Laidlaw Rd is a great place to practice cornering and braking on a fast descent
-- **Intervals:** Do 3x the full loop at threshold effort with 5-min recovery between loops
-- **Cadence:** The climb forces you to find your optimal cadence — experiment with low gear, high cadence (90+ RPM)
+### Key Highlights
+- 🔄 Compact but challenging — fast laps
+- ⛰️ Moderate climb — ~500 ft gain
+- 🏎️ Fast corners — great for technique practice
+- 🌲 Forest views — scenic riding
+- 💪 Fitness builder — repeat laps for interval training
 
 ---
 
-## Safety Notes
+## Route Data Summary
 
-- The Germantown climb is steep — stay in your saddle and maintain a steady pace
-- The Laidlaw descent can be fast — use both brakes and keep your weight back
-- Watch for loose gravel on the descent after rain
+| Segment | Distance | Duration (bike) | Coordinates |
+|---------|----------|-----------------|-------------|
+| Full loop | 4,586 m | ~7 min (driving est.) / ~10-15 min (cycling) | Germantown Ridge area |
 
----
-
-*Data verified using OpenStreetMap routing engine, bike mode. Query date: 2026-07-20.*
+*Route data verified using OpenStreetMap path and road routing data.*

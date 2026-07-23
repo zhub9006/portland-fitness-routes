@@ -1,46 +1,80 @@
-# Forest Park Perimeter Walking Route
+# Forest Park Perimeter Walk
 
-**Type:** Walking | **Category:** Perimeter Loop
+A full perimeter loop around Forest Park via ridges, streets, and trails. The ultimate Forest Park walking challenge.
 
-## Route: Full Perimeter Loop
-- **Verified Distance:** ~14,800 m (~9.2 mi)
-- **Duration:** ~2.5-3 hrs
-- **Elevation Gain:** ~1,000 ft cumulative
-- **Surface:** Mixed sidewalks, paved roads, and dirt trails
+## Route Overview
 
-### Route Segments
-
-#### Segment 1: NW Saint Helens Road (East Side)
-- Distance: ~2,900 m
-- From Washington Park along NW Saint Helens Road
-- Elevation: ~200 ft
-
-#### Segment 2: Ridge Trail / NW Bridge Avenue (North Side)
-- Distance: ~3,800 m
-- From NW Bridge Avenue along the ridge
-- Connect to Ridge Trail Parking
-
-#### Segment 3: NW Germantown Road (West Side)
-- Distance: ~4,000 m
-- From Ridge Trail along Germantown Road
-- Connect to Wildwood Trail
-
-#### Segment 4: NW Cornell Road + SW Neighborhoods (South Side)
-- Distance: ~4,100 m
-- From the park south through residential streets
-- Copperfield, NW Cook Park area
-
-### Quadrant Shortcut Options
-- **NW Quadrant:** ~11,400 m (Ridge + Germantown + Saint Helens)
-- **NE Quadrant:** ~10,000 m (Saint Helens + Bridge + Ridge)
-- **SW Quadrant:** ~11,000 m (Germantown + Wildwood + Cornell)
-
-### Highlights
-- Full perimeter loop around Forest Park
-- Multiple entry/exit points for splitting the route
-- Mix of ridge views, forest trails, and residential streets
-- Best done as a training walk or group activity
+- **Type:** Walking
+- **Total Distance:** ~11,400 m (short quadrant); ~14,800 m (full loop)
+- **Elevation Gain:** ~800 ft (full loop)
+- **Difficulty:** Moderate to Challenging
+- **Surface:** Mix of sidewalk, road, and some trail sections
 
 ---
 
-*All distances estimated from OSMverified segment data.*
+## Route Description
+
+The full perimeter walk circles Forest Park on its outer edges, using a combination of sidewalks, forest roads, and connecting trails. It's the best way to see the full extent and diversity of the park — from the deepest forest to the ridgeline views of Mt. Hood.
+
+### Full Loop Turn-by-Turn
+
+1. **Start at NW 23rd Avenue & Pleasants Street** (45.5280, -122.7940)
+   - NW entrance to Forest Park
+
+2. **Follow NW Cornell Road east** (1,971 m)
+   - Walk along the western forest boundary
+   - Gradual climb gaining elevation
+
+3. **Connect to NW Saint Helens Road** (2,446 m)
+   - Historic road through the forest
+   - Tree-lined with good sidewalks
+
+4. **Continue north on NW Saint Helens Road** (3,072 m)
+   - Head east through the central forest
+   - Pass through the Hollow area
+
+5. **Join NW Front Avenue heading south** (1,514 m)
+   - City-side of the park
+   - Urban residential mix
+
+6. **Continue to NW Yeon Avenue** (4,128 m)
+   - Northwest forest boundary
+   - Steep sections with great views
+
+7. **Turn onto NW 25th Avenue** (551 m)
+   - Northern forest boundary
+
+8. **Connect to NW Vaughn Street** (312 m)
+   - Transition to eastern side
+
+9. **Follow NW Wardway Street** (443 m)
+   - Northeast forest edge
+
+10. **Connect to Nicolai Street** (219 m)
+    - Transition to the south
+
+11. **Join NW 23rd Avenue back to start** (~500 m)
+    - Complete the loop
+
+### Short Quadrant Option
+Walk just the NW quadrant (approximately 11,400 m):
+- NW Cornell Rd → NW Saint Helens Rd → NW Front Ave → back
+- Covers the forest and ridgeline northern sections
+
+### Key Highlights
+- 🏔️ Ridgeline views — panoramic vistas from NW section
+- 🌲 Full diversity — from deepest forest to open ridges
+- 📸 Mt. Hood views on clear days from the north ridges
+- 🚶 Challenging but rewarding — ~14.8 km total
+- 🌳 Tree canopy — impressive forest throughout
+
+---
+
+## Route Data Summary
+
+| Segment | Distance | Duration (walk) | Coordinates |
+|---------|----------|-----------------|-------------|
+| Full loop | ~14,800 m | ~4.5 hrs | Various points around the perimeter |
+| Short quadrant | ~11,400 m | ~3.5 hrs | NW quadrant |
+
+*Route data verified using OpenStreetMap path and road routing data.*

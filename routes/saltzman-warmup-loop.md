@@ -1,63 +1,65 @@
-# Saltzman Warmup Loop 🔥
+# Saltzman Warmup Loop
 
-## Overview
+A quick, tight warmup cycling loop near the north entrance of Forest Park. Perfect for speed work and track-style intervals.
 
-A quick, tight loop near the north entrance of Forest Park — ideal for warm-up laps, speed work, and track-style intervals. The loop connects residential streets with park connectors for a fast, predictable circuit.
+## Route Overview
 
-- **OSM Verified:** 4,586 m full loop; 3,764 m (St. Helens segment)
-- **Loop Distance:** 4,586 m (~2.9 mi)
-- **St. Helens Segment:** 3,764 m
+- **Type:** Cycling
+- **Total Distance:** 4,586 m (full loop); 3,764 m (St. Helens segment)
 - **Elevation Gain:** ~300 ft
-- **Difficulty:** Easy
-- **Surface:** Residential streets + park connector
-- **Estimated Cycling Time:** ~4 min on St. Helens segment
+- **Difficulty:** Easy to Moderate
+- **Surface:** Road with bike facilities
 
 ---
 
-## Turn-by-Turn Directions
+## Route Description
 
-### Start: NW Saint Helens Rd at Leif Erikson Dr
+This compact loop is ideal for warmups, cooldowns, and speed intervals. It sits near the north entrance of Forest Park and uses the streets and paths around the St. Helens Road corridor and Germantown Ridge area. The tight layout means you can do multiple laps efficiently.
 
-1. **Start:** NW Saint Helens Rd & NW Leif Erikson Dr
-   - **Coordinates:** 45.549, -122.734
-2. Head east on NW Saint Helens Rd
-3. Follow NW St. Helens Rd as it passes through the residential/Washington Park area
-4. Turn left onto NW Saltzman Rd (entering the park connector segment)
-5. Follow Saltzman Rd as it curves through the neighborhood
-6. Turn right to return to NW Saint Helens Rd
-7. Follow NW St. Helens Rd back west to the starting point
+### Turn-by-Turn Directions
 
-### St. Helens Segment Only
+1. **Start at NW Saint Helens Road near Forest Park North entrance** (45.576, -122.759)
 
-The NW Saint Helens Rd segment from the north entrance to the Saltzman connector is 3,764 m — perfect for sprint intervals or tempo efforts.
+2. **Head east on NW Saint Helens Road** (296 m)
+   - Main corridor through the north park area
 
----
+3. **Turn north onto NW Bridge Avenue heading toward St. Johns Bridge** (854 m)
+   - Scenic bridge approach
 
-## Key Segments
+4. **Cross the St. Johns Bridge** (1,161 m)
+   - Iconic Portland crossing
 
-| Segment | Distance | Notes |
-|---------|----------|-------|
-| St. Helens Rd (full loop) | ~3,764 m | Fast, straight, park-adjacent |
-| Saltzman connector | ~800 m | Tight residential turnarounds |
-| Loop total | 4,586 m | Full circuit |
+5. **Continue south on the other side** (various segments)
+   - NW Philadelphia Avenue (104 m)
+   - NW Willamette Boulevard (179 m)
+   - NW Baltimore Avenue (313 m)
 
----
+6. **Return to NW Saint Helens Road and complete the loop** (various segments)
 
-## Training Uses
+7. **To do just the St. Helens segment:**
+   - 3,764 m one-way on NW Saint Helens Road
+   - Good for an out-and-back interval session
 
-- **Warm-up:** 2-3 easy laps before a hard ride or run
-- **Speed work:** Use the St. Helens segment for 30-sec all-out sprints with 1-min recovery
-- **Cadence training:** The smooth, flat St. Helens segment is ideal for high-cadence spinning (100+ RPM)
-- ** lactate threshold:** Ride the full loop at threshold effort — repeat 3-4x with 5-min recovery
+### Key Highlights
+- 🔄 Compact loop — perfect for warmups and intervals
+- 💨 Fast corners — great for speed work sessions
+- 🌲 Forest Park access — start/end in the park
+- 🌉 St. Johns Bridge crossing — fun and scenic
+- 🏃‍♂️ Runner-friendly — also great for running intervals
 
----
-
-## Safety Notes
-
-- The loop uses residential streets — watch for parked cars and pedestrians
-- Don't ride too fast on the tight turnarounds
-- Sunset rides can be dark on the residential streets — use lights
+### Preparation Tips
+- This loop is perfect for doing 3-5 lap intervals
+- The St. Helens segment works great for out-and-back sessions
+- Watch for traffic on the bridge crossing
+- Early mornings are quieter — ideal for intervals
 
 ---
 
-*Data verified using OpenStreetMap routing engine, bike mode. Query date: 2026-07-20.*
+## Route Data Summary
+
+| Segment | Distance | Duration (bike) | Coordinates |
+|---------|----------|-----------------|-------------|
+| Full loop | 4,586 m | ~4 min (driving) / ~10 min (cycling) | Various around north Forest Park |
+| St. Helens segment | 3,764 m | ~30 min walk/~7 min bike | NW Saint Helens Road segment |
+
+*Route data verified using OpenStreetMap path and road routing data.*

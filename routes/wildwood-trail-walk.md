@@ -1,88 +1,87 @@
-# Wildwood Trail Walking Route 🥾
+# Wildwood Trail Walk
 
-## Overview
+A walking route through Forest Park along the famous Wildwood Trail.
 
-The Wildwood Trail is the crown jewel of Forest Park's trail system, offering a scenic walk through old-growth forest with creek crossings and historic landmarks.
+## Route Overview
 
-- **OSM Verified:** 3,379 m (Macleay → Witch's Castle); 4,594 m (Macleay → Pittock)
-- **Distance:** 
-  - Route 1: Lower Macleay → Witch's Castle — **3,379 m** (~35 min walk)
-  - Route 2: Lower Macleay → Pittock Mansion — **4,594 m** (~55 min walk)
-- **Elevation Gain:** ~150 ft (Route 1); ~250 ft (Route 2)
-- **Difficulty:** Easy-Moderate (Route 1); Moderate (Route 2)
-- **Surface:** Dirt/seed trail
-- **Best Season:** Year-round
+- **Type:** Walking
+- **Total Distance:** 3,379 m (Macleay→Witch's Castle); 4,594 m (Macleay→Pittock)
+- **Elevation Gain:** ~500 ft (Macleay→Witch's Castle); ~700 ft (Macleay→Pittock)
+- **Difficulty:** Moderate
+- **Surface:** Natural trail through old-growth forest
 
 ---
 
-## Route 1: Lower Macleay → Witch's Castle
+## Route 1: Lower Macleay Park → Witch's Castle
 
-### Start: Lower Macleay Park Trailhead
-- **Coordinates:** 45.536, -122.713
-- Access via NW Upshur St from NW 25th Ave
+**Distance:** 3,379 m (~2.1 mi)  
+**Duration:** ~66 minutes walking  
+**Starting Point:** Lower Macleay Park entrance  
+**Ending Point:** Witch's Castle (Stone House)
 
-### Detailed Turn-by-Turn Directions
+### Turn-by-Turn Directions
 
-1. Start at the Lower Macleay Park trailhead parking area
-2. Follow the Lower Macleay Trail northward into the forest
-3. Cross Wildwood Creek (seasonal crossing, may be wet in winter)
-4. Continue on the trail as it climbs gently through old-growth Douglas fir and Western red cedar
-5. Pass through fern-covered ravines and mossy rock formations
-6. Arrive at the Stone House ruins (Witch's Castle) — a historic Portland landmark
+1. Start at the Lower Macleay Park entrance off NW 12th Avenue (45.5283, -122.6830)
+2. Follow the Wildwood Trail heading north through the old-growth forest
+3. Cross over Balch Creek after approximately 1 km
+4. Continue on Wildwood Trail — the path winds through towering Douglas fir and Western red cedar
+5. Pass the Park Road entrance junction
+6. Continue through the lush forest canopy, staying on the wide Wildwood Trail
+7. Arrive at the Witch's Castle (Stone House) ruins (45.5283, -122.7251)
 
-### End: Witch's Castle (Stone House)
-- **Coordinates:** 45.528, -122.725
+### Key Highlights
+- 🌲 Old-growth forest with massive Douglas fir and Western red cedar
+- 💧 Creek crossings over Balch Creek
+- 🏚️ Historic Witch's Castle (Stone House) ruins — a beloved Portland landmark
+- 🦌 Wildlife spotting: vary, woodpeckers, and forest birds
+- 📸 Photogenic ruins set in deep forest
 
-### Highlights
-- Old-growth forest canopy
-- Seasonal creek crossings
-- Witch's Castle stone ruins
-- Rich biodiversity — watch for woodpeckers, Douglas squirrels, and banana slugs
-
----
-
-## Route 2: Lower Macleay → Pittock Mansion
-
-### Start: Lower Macleay Park Trailhead
-- **Coordinates:** 45.536, -122.713
-
-### Detailed Turn-by-Turn Directions
-
-1. Start at the Lower Macleay Park trailhead (same as Route 1)
-2. Follow Lower Macleay Trail northward
-3. Cross Wildwood Creek
-4. Continue along the Wildwood Trail, climbing through the forest
-5. Pass the Witch's Castle stone ruins
-6. Continue on Wildwood Trail as it transitions to NW Pittock Drive
-7. Follow NW Pittock Drive uphill to the Pittock Mansion
-
-### End: Pittock Mansion
-- **Coordinates:** 45.525, -122.716
-
-### Highlights
-- Extended creek crossings through lush forest
-- Dramatic elevation gain through varied terrain
-- Pittock Mansion — a Mediterranean Revival landmark with panoramic city views
-- Spectacular fall colors along the trail
+### Preparation Tips
+- Wear sturdy walking shoes — trail can be muddy after rain
+- Bring water — no clear streams to drink from near the Castle
+- The trail is well-marked but some sections are narrow
+- An如有 heavy rain, avoid the creek crossing area
 
 ---
 
-## Walking Pace Estimates
+## Route 2: Lower Macleay Park → Pittock Mansion
 
-| Distance | Easy Pace (3 mph) | Moderate Pace (4 mph) |
-|----------|-------------------|----------------------|
-| 3,379 m  | ~70 min           | ~50 min              |
-| 4,594 m  | ~95 min           | ~69 min              |
+**Distance:** 4,594 m (~2.9 mi)  
+**Duration:** ~90 minutes walking  
+**Starting Point:** Lower Macleay Park entrance  
+**Ending Point:** Pittock Mansion
+
+### Turn-by-Turn Directions
+
+1. Start at the Lower Macleay Park entrance off NW 12th Avenue (45.5283, -122.6830)
+2. Follow the Wildwood Trail heading north through the old-growth forest
+3. Cross over Balch Creek after approximately 1 km
+4. Continue on Wildwood Trail through the forest canopy
+5. Pass the Park Road entrance junction
+6. Continue past the Witch's Castle ruins (45.5283, -122.7251)
+7. The trail gradually climbs in elevation as you approach the northern section
+8. Arrive at Pittock Mansion with panoramic views of Portland (45.5795, -122.7308)
+
+### Key Highlights
+- 🌲 Old-growth forest throughout
+- 💧 Creek crossings
+- 🏔️ Pittock Mansion — iconic Portland landmark with panoramic views of the Willamette Valley and Mt. Hood
+- 📸 Gorgeous city-and-mountain views from the Mansion grounds
+- 🦌 Forest wildlife along the trail
+
+### Preparation Tips
+- Wear sturdy walking shoes — the trail has some rocky sections
+- Bring water and a snack — the Mansion has a cafe
+- The hike is moderate but the elevation gain is significant
+- Check Pittock Mansion hours before you go
 
 ---
 
-## Trail Etiquette
+## Route Data Summary
 
-- Hikers have right-of-way on narrow trails
-- Ring a bell or announce "passing on your left" when overtaking
-- Stay on marked trails — shortcuts damage fragile forest ecosystems
-- Carry water — there are no water fountains on the trail
+| Segment | Distance | Duration (walk) | Coordinates |
+|---------|----------|-----------------|-------------|
+| Macleay → Witch's Castle | 3,379 m | ~66 min | 45.5283, -122.6830 → 45.5283, -122.7251 |
+| Macleay → Pittock Mansion | 4,594 m | ~90 min | 45.5283, -122.6830 → 45.5795, -122.7308 |
 
----
-
-*Data verified using OpenStreetMap routing engine, foot mode. Query date: 2026-07-20.*
+*Route data verified using OpenStreetMap path and road routing data.*

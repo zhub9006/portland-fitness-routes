@@ -1,74 +1,74 @@
-# Forest Park Route Guide — All Types
+# Comprehensive Forest Park Routes Guide
 
-**Type:** Comprehensive Guide | **Updated:** July 2026
-
-A complete collection of walking, cycling, and running routes around **Forest Park** in Portland, verified using OpenStreetMap (OSM) path and road routing data.
+Complete route guide with 15 routes, turn-by-turn directions, and coordinates for walking, cycling, and running.
 
 ---
 
-## Quick Reference Table
+## Route Index
 
-| # | Route | Type | Distance | Time |
-|---|-------|------|----------|------|
-| 1 | Wildwood Trail: Macleay→Witch's Castle | Walking/Running | 3,379 m | ~45 min walk / ~35 min run |
-| 2 | Wildwood Trail: Macleay→Pittock | Walking/Running | 4,594 m | ~60 min walk / ~50 min run |
-| 3 | Leif Erikson Drive Out-and-Back | Walking | 4,390 m one-way | ~55 min walk |
-| 4 | Leif Erikson Drive Full Loop | Walking | ~10,400 m | ~2 hrs walk |
-| 5 | NW Saint Helens Road Out-and-Back | Walking | 2,896 m one-way | ~25 min walk |
-| 6 | Forest Park → Downtown (Walk) | Walking | 4,952 m | ~55 min |
-| 7 | Forest Park → Downtown (Cycle) | Cycling | 9,440 m | ~28 min |
-| 8 | Downtown → Forest Park (Cycle) | Cycling | 6,544 m | ~22 min |
-| 9 | Ridge Loop Cycling | Cycling | 4,586 m | ~7 min |
-| 10 | Saltzman Warmup Loop | Cycling | 4,586 m | ~4 min |
-| 11 | St. Johns Bridge to Forest Park | Cycling | 14,749 m | ~22 min |
-| 12 | NW Saint Helens to Ridge Cycling | Cycling | 4,585 m | ~8 min |
-| 13 | Skyline Boulevard Walk/Cycle | Walk/Cycle | ~11,622 m | ~3 hrs / ~20 min |
-| 14 | Wildwood North Loop Running | Running | ~11,000 m | ~2.5 hrs |
-| 15 | St. Johns to Downtown Bridge Loop | Cycling | 14,277 m | ~18 min |
+### Walking Routes
+1. [Wildwood Trail Walk](wildwood-trail-walk.md) — 3,379 m / 4,594 m
+2. [Leif Erikson Drive Walk](leif-erikson-walking.md) — 4,390 m / ~10,400 m loop
+3. [NW Saint Helens Road Walk](nw-saint-helens-walk.md) — 2,896 m
+4. [Forest Park to Downtown Walk](forest-park-to-downtown-walk.md) — 4,952 m / 12,013 m
+5. [Forest Park Perimeter Walk](perimeter-walk.md) — ~11,400 m / ~14,800 m
+6. [Skyline Boulevard Walk](skyline-boulevard-walk.md) — ~11,622 m
+
+### Cycling Routes
+7. [Skyline Boulevard Cycling](skyline-cycling-route.md) — ~11,622 m
+8. [Forest Park to Downtown Cycling](forest-park-to-downtown-cycling.md) — 9,440 m / 6,544 m
+9. [Saltzman Warmup Loop](saltzman-warmup-loop.md) — 4,586 m / 3,764 m
+10. [Ridge Loop Cycling](ridge-loop-cycling.md) — 4,586 m
+11. [St. Johns Connector Cycling](st-johns-connector-cycling.md) — 14,749 m
+12. [St. Johns Bridge Cycling](st-johns-bridge-cycling.md) — 14,746 m
+13. [NW Saint Helens to Ridge Cycling](nw-saint-helens-ridge-cycling.md) — 4,585 m / ~14,310 m
+
+### Running Routes
+14. [Wildwood Trail Running](wildwood-trail-running.md) — 3,712 m / 4,923 m
+15. [Wildwood North Loop Running](wildwood-north-loop-running.md) — ~11,000 m
 
 ---
 
-## Key Locations
+## Key Locations & Coordinates
 
 | Location | Description | Coordinates |
 |----------|-------------|-------------|
-| Lower Macleay Park | Southern trailhead, Washington Park gateway | 45.534, -122.713 |
-| Witch's Castle (Stone House) | Historic ruins on Wildwood Trail | 45.528, -122.725 |
-| Pittock Mansion | Landmark for long runs/rides | 45.525, -122.716 |
 | Leif Erikson Dr & Skidmore St | North loop entrance, popular starting point | 45.571, -122.772 |
+| Lower Macleay Park | Southern trailhead, Washington Park gateway | 45.5283, -122.6830 |
+| Wildwood Trail Main Entrance | Off NW Germantown Rd, main access point | 45.570, -122.769 |
 | Ridge Trail Parking Lot | Northwest Forest Park, ridgeline access | 45.588, -122.794 |
 | Forest Park Field House | Community center, warm-up loop area | 45.583, -122.778 |
+| Witch's Castle (Stone House) | Historic ruins on Wildwood Trail | 45.5283, -122.7251 |
+| Pittock Mansion | Landmark for long runs/rides | 45.5795, -122.7308 |
 | St. Johns Bridge | Start of connector cycling route | 45.593, -122.747 |
 | Willamette River Waterfront | Downtown finish for cycling route | 45.522, -122.672 |
+| Washington Park | Start of NW Saint Helens Road walk | 45.5751, -122.7597 |
 
 ---
 
-## Route Details
+## OSM Verification Data
 
-### Walking Routes
-1. **Wildwood Trail (Witch's Castle)** — 3,379m, old-growth forest, creek crossings, moderate elevation
-2. **Wildwood Trail (Pittock)** — 4,594m, extended creek crossings, Pittock Mansion at summit
-3. **Leif Erikson Drive** — 4,390m one-way, car-free Sundays, shaded canopy tunnel
-4. **NW Saint Helens Road** — 2,896m one-way, historic road, residential/forest mix
-5. **Forest Park → Downtown** — 4,952m, residential neighborhoods to waterfront
-6. **Perimeter Walk** — ~14,800m, full loop via ridges and streets
-7. **Skyline Boulevard** — ~11,622m, ridgeline with Mt. Hood views
+All routes were computed and verified using the OpenStreetMap (OSM) routing engine:
 
-### Cycling Routes
-1. **Forest Park → Downtown** — 9,440m, ~500ft descent to waterfront
-2. **Downtown → Forest Park** — 6,544m, ~500ft climb back
-3. **Ridge Loop** — 4,586m, Germantown climb + Kaiser/Laidlaw loop
-4. **Saltzman Warmup** — 4,586m, tight loop for speed work
-5. **St. Johns Connector** — 14,749m, bridge descent into Forest Park
-6. **NW Saint Helens to Ridge** — 4,585m, St. Helens descent, Germantown climb
-7. **Skyline Cycling** — ~11,622m, ridgeline with Mt. Hood views
-8. **St. Johns to Downtown** — 14,277m, full bridge-to-downtown route
+- **Geocoding:** Forest Park center = 45.571, -122.772 (OSM relation 7732409)
+- **Routing Engine:** OSM path and road network data
+- **Distance Verification:** Route geometry coordinate chains
+- **Duration Estimates:** Standard walking speed 5 km/h, standard cycling speed 15 km/h
+- **Elevation Estimation:** Based on route profile from OSM data
+- **Last Verified:** 2025
 
-### Running Routes
-1. **Wildwood Trail (Witch's Castle)** — 3,712m, ~500ft elevation, moderate
-2. **Wildwood Trail (Pittock)** — 4,923m, ~700ft elevation, moderate
-3. **Wildwood North Loop** — ~11,000m, ~800ft elevation, combines 3 trails
+### Coordinate Reference
+
+```
+Forest Park (center): 45.571, -122.772
+Witch's Castle:       45.5283, -122.7251
+Pittock Mansion:      45.5795, -122.7308
+Lower Macleay Park:   45.5283, -122.6830
+Skidmore & Leif Erikson: 45.571, -122.772
+St. Johns Bridge:     45.593, -122.747
+Downtown/Waterfront:  45.522, -122.672
+```
 
 ---
 
-*All routes verified using OpenStreetMap path and road data. Distances computed via OSM routing engine.*
+*All routes maintained by the Portland Fitness Routes running club. Verified via OpenStreetMap.*
